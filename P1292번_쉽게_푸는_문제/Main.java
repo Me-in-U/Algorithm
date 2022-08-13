@@ -1,0 +1,30 @@
+package P1292번_쉽게_푸는_문제;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+class Main {
+  public static void main(String[] args) throws IOException {
+    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    
+    StringTokenizer st = new StringTokenizer(br.readLine());
+    int A = Integer.parseInt(st.nextToken());
+    int B = Integer.parseInt(st.nextToken());
+    int sum = 0, num = 1;
+    
+    for(int i = 1, count = 1; i <= B; i++){
+      if(i >= A)
+        sum += num;
+      
+      if(count == num){
+        count = 1;
+        num++;
+      }
+      else
+        count++;
+    }
+    System.out.println(sum);
+  }
+}
