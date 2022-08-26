@@ -17,10 +17,13 @@ class Main {
       System.out.print(sb.toString());
 	}
    public static int recur(int n) {
+      //1
       if(n == 1) 
          return 1;
+      //1 + 1, 2
       if(n == 2) 
          return 2;
+      //1 +1 +1, 1 + 2, 2 + 1, 3
       if(n == 3) 
          return 4;
       else
