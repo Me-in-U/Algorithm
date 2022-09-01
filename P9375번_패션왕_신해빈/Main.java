@@ -22,7 +22,7 @@ class Main {
       int T = Integer.parseInt(st.nextToken());
       for(int j = 0; j < T; j++){
         st = new StringTokenizer(br.readLine());
-        String clothes = st.nextToken();
+        st.nextToken();
         String category = st.nextToken();
         if (map.containsKey(category)) {
         		map.put(category, map.get(category) + 1);

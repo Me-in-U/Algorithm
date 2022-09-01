@@ -7,7 +7,7 @@ class Main {
     int T = sc.nextInt();
     for(int i = 0; i<T;i++){
       int H = sc.nextInt();
-      int W = sc.nextInt();
+      sc.nextInt();
       int N = sc.nextInt();
       int room_H;
       int room_W;
