@@ -5,10 +5,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Main {
-	public static void main(String[] args) throws IOException {
+  public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    
-    int num = Integer.parseInt(br.readLine());
+
+    br.readLine();
     String input = br.readLine();
 
     String Adrian = "ABC";
@@ -21,60 +21,57 @@ public class Main {
     int max = 0;
     int index = 0;
     for (int i = 0; i < input.length(); i++) {
-      if(Adrian.charAt(index) == input.charAt(i)){
+      if (Adrian.charAt(index) == input.charAt(i)) {
         a++;
       }
-      if(index == Adrian.length() - 1){
+      if (index == Adrian.length() - 1) {
         index = 0;
-      }
-      else{
+      } else {
         index++;
       }
     }
-    if(max < a){
+    if (max < a) {
       max = a;
     }
     index = 0;
     for (int i = 0; i < input.length(); i++) {
-      if(Bruno.charAt(index) == input.charAt(i)){
+      if (Bruno.charAt(index) == input.charAt(i)) {
         b++;
       }
-      if(index == Bruno.length() - 1){
+      if (index == Bruno.length() - 1) {
         index = 0;
-      }
-      else{
+      } else {
         index++;
       }
     }
-    if(max < b){
+    if (max < b) {
       max = b;
     }
     index = 0;
     for (int i = 0; i < input.length(); i++) {
-      if(Goran.charAt(index) == input.charAt(i)){
+      if (Goran.charAt(index) == input.charAt(i)) {
         c++;
       }
-      if(index == Goran.length() - 1){
+      if (index == Goran.length() - 1) {
         index = 0;
-      }
-      else{
+      } else {
         index++;
       }
     }
-    if(max < c){
+    if (max < c) {
       max = c;
     }
 
-    //출력
+    // 출력
     System.out.println(max);
-    if(a == max){
+    if (a == max) {
       System.out.println("Adrian");
     }
-    if(b == max){
+    if (b == max) {
       System.out.println("Bruno");
     }
-    if(c == max){
+    if (c == max) {
       System.out.println("Goran");
     }
-	}
+  }
 }
