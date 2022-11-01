@@ -14,6 +14,7 @@ public class Main {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     StringTokenizer st = null;
 
+    // 입력
     N = Integer.parseInt(br.readLine());
     arr = new int[N][N];
     result = new int[3];
@@ -23,38 +24,34 @@ public class Main {
         arr[i][j] = Integer.parseInt(st.nextToken());
       }
     }
-    if (N == 1) {
-      result[arr[0][0] + 1]++;
-    } else {
-      solve(0, 0, N);
-    }
+    // 계산
+    solve(0, 0, N);
+    // 출력
     System.out.println(result[0] + "\n" + result[1] + "\n" + result[2]);
   }
 
+  /*
+   * x, y, size를 받고 해당 구간이 모두 같은 수 인지 확인 => same_numbox_check(x, y, size, value)
+   * 모두 같은 수로 돼있으면 결과값 증가
+   * 하나라도 다를 경우 해당 구간을 x, y 모두 3등분 하여 재귀 반복
+   */
   public static void solve(int x, int y, int size) {
-    if (size == 1) {
-      for (int i = x; i < x + 3; i++) {
-        for (int j = y; j < y + 3; j++) {
-          result[arr[i][j] + 1]++;
-        }
-      }
+    int value = arr[x][y];
+    boolean same = same_numbox_check(x, y, size, value);
+    if (same) {
+      result[value + 1]++;
     } else {
-      int value = 0;
-      boolean same = false;
-      for (int i = x; i < N; i += size) {
-        for (int j = y; j < N; j += size) {
-          value = arr[i][j];
-          same = same_numbox_check(i, j, size, value);
-          if (!same) {
-            solve(i, j, size / 3);
-          } else {
-            result[value + 1]++;
-          }
+      for (int i = x; i < x + size; i += (size / 3)) {
+        for (int j = y; j < y + size; j += (size / 3)) {
+          solve(i, j, size / 3);
         }
       }
     }
   }
 
+  /*
+   * x ~ x + size, y ~ y + size 구간을 돌면서 value와 다른 값이 있으면 return false
+   */
   public static boolean same_numbox_check(int x, int y, int size, int value) {
     for (int i = x; i < x + size; i++) {
       for (int j = y; j < y + size; j++) {
