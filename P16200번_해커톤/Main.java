@@ -1,4 +1,4 @@
-package P2번문제;
+package P16200번_해커톤;
 
 import java.io.BufferedReader;
 import java.io.IOException;

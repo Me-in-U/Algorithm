@@ -1,4 +1,4 @@
-package P3003;
+package P3003_킹;
 
 import java.io.BufferedReader;
 import java.io.IOException;

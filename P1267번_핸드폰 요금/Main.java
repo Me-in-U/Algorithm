@@ -1,4 +1,4 @@
-package P3번문제;
+package P1267번;
 
 import java.io.BufferedReader;
 import java.io.IOException;

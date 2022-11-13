@@ -1,4 +1,4 @@
-package P5번문제;
+package P21394번_숫자_카드;
 
 import java.io.BufferedReader;
 import java.io.IOException;
