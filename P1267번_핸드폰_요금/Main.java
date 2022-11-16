@@ -1,4 +1,4 @@
-package P1267번;
+package P1267번_핸드폰_요금;
 
 import java.io.BufferedReader;
 import java.io.IOException;
