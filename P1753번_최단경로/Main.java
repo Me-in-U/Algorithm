@@ -26,12 +26,12 @@ public class Main {
     visited = new boolean[V + 1];
 
     // initialize weight
-    for (int i = 0; i < V; i++) {
-      for (int j = 0; j < E; j++) {
+    for (int i = 0; i <= V; i++) {
+      for (int j = 0; j <= V; j++) {
         if (i == j) {
           weight[i][j] = 0;
         } else {
-          weight[i][j] = -1;
+          weight[i][j] = 51;
         }
       }
     }
@@ -44,9 +44,33 @@ public class Main {
       weight[start][end] = Integer.parseInt(st.nextToken());
     }
 
+    for (int i = 0; i < V; i++) {
+      int nextV = 0;
+      int minW = 51;
+      for (int j = 1; j <= V; j++) {
+        if (!visited[j] && weight[startV][j] <= minW) {
+          nextV = j;
+          minW = weight[startV][j];
+        }
+      }
+      // System.out.println("최소 V = " + nextV + " | 가중치 = " + weight[startV][nextV]);
+      visited[nextV] = true;
+      dijkstra(nextV);
+    }
+    for (int i = 1; i <= V; i++) {
+      if (weight[startV][i] == 51) {
+        System.out.println("INF");
+      } else {
+        System.out.println(weight[startV][i]);
+      }
+    }
   }
 
-  public static void dijkstra() {
-
+  public static void dijkstra(int check) {
+    for (int i = 1; i <= V; i++) {
+      if (!visited[i] && weight[check][i] != 51) {
+        weight[startV][i] = Math.min(weight[startV][i], weight[startV][check] + weight[check][i]);
+      }
+    }
   }
 }
