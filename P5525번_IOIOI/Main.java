@@ -13,16 +13,19 @@ public class Main {
     int N = Integer.parseInt(br.readLine());
     int M = Integer.parseInt(br.readLine());
     char[] S = br.readLine().toCharArray();
-    StringBuilder sb = new StringBuilder();
-    sb.append("I");
-    for (int i = 0; i < N; i++) {
-      sb.append("OI");
-    }
-    String P = sb.toString();
 
-    for (int i = 0; i < M - (2 * N + 1); i++) {
+    for (int i = 0; i < M - 2; i++) {
       if (S[i] == 'I') {
-
+        if (S[i + 1] == 'O' && S[i + 2] == 'I') {
+          IOI++;
+          i++;
+          if (IOI == N) {
+            IOI--;
+            count++;
+          }
+        } else {
+          IOI = 0;
+        }
       }
     }
 
