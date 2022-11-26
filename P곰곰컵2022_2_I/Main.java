@@ -1,4 +1,4 @@
-package P8;
+package P곰곰컵2022_2_I;
 
 import java.io.BufferedReader;
 import java.io.IOException;
