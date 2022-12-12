@@ -1,4 +1,4 @@
-package P_A번_눈_치우기;
+package P26215번_눈_치우기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
