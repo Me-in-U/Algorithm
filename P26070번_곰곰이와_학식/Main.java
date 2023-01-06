@@ -1,4 +1,4 @@
-package P곰곰컵2022_2_C;
+package P26070번_곰곰이와_학식;
 
 import java.io.BufferedReader;
 import java.io.IOException;

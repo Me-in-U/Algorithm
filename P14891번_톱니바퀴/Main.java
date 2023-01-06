@@ -1,4 +1,4 @@
-package P143891번_톱니바퀴;
+package P14891번_톱니바퀴;
 
 import java.io.BufferedReader;
 import java.io.IOException;

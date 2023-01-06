@@ -1,4 +1,4 @@
-package P곰곰컵2022_2_B;
+package P26069번_붙임성_좋은_총총이;
 
 import java.io.BufferedReader;
 import java.io.IOException;
