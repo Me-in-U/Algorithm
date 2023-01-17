@@ -1,4 +1,4 @@
-package P27110번_특식_배부;
+package P26070번_곰곰이와_학식.P27110번_특식_배부;
 
 import java.io.BufferedReader;
 import java.io.IOException;
