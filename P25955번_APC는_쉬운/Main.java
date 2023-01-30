@@ -1,4 +1,4 @@
-package _2022아주대학교_A;
+package P25955번_APC는_쉬운;
 
 import java.io.BufferedReader;
 import java.io.IOException;
