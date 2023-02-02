@@ -1,4 +1,4 @@
-package P_A번;
+package P27294번_몇개고;
 
 import java.io.BufferedReader;
 import java.io.IOException;
