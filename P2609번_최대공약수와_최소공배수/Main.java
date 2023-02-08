@@ -4,14 +4,14 @@ import java.util.Scanner;
 
 class Main {
 	public static void main(String[] args) {
-		
+
 		Scanner sc = new Scanner(System.in);
 
 		int a = sc.nextInt();
 		int b = sc.nextInt();
-    sc.close();    
+		sc.close();
 		int d = gcd(a, b);
- 
+
 		System.out.println(d);
 		System.out.println(a * b / d);
 	}
@@ -19,7 +19,6 @@ class Main {
 	public static int gcd(int a, int b) {
 		while (b != 0) {
 			int r = a % b;
-
 			a = b;
 			b = r;
 		}
