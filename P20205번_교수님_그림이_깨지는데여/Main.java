@@ -24,6 +24,6 @@ public class Main {
         sb.append('\n');
       }
     }
-    System.out.print(sb.toString());
+    System.out.println(sb.toString());
   }
 }
