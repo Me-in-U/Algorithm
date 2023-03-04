@@ -1,4 +1,4 @@
-package P2748번_피보나치_2;
+package P2747번_피보나치;
 
 import java.io.BufferedReader;
 import java.io.IOException;
