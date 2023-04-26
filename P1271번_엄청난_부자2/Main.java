@@ -1,19 +1,17 @@
-package PG;
+package P1271번_엄청난_부자2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.math.BigInteger;
 
 public class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     String[] input = br.readLine().split(" ");
-    int N = Integer.parseInt(input[0]);
-    int K = Integer.parseInt(input[1]);
-    long result = 0;
-    for (int i = 1; i <= N; i++) {
-      result = (result * (int) Math.pow(10, (int) Math.log10(i) + 1) + i) % K;
-    }
-    System.out.println(result);
+    BigInteger n = new BigInteger(input[0]);
+    BigInteger m = new BigInteger(input[1]);
+    System.out.println(n.divide(m));
+    System.out.println(n.remainder(m));
   }
 }

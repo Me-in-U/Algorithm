@@ -1,4 +1,4 @@
-package PI;
+package P27967번_고추장_괄호_문자열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

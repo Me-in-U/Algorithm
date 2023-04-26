@@ -1,4 +1,4 @@
-package PF;
+package P27964번_콰트로치즈피자;
 
 import java.io.BufferedReader;
 import java.io.IOException;

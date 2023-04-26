@@ -1,4 +1,4 @@
-package PE;
+package P27963번_합금_주화;
 
 import java.io.BufferedReader;
 import java.io.IOException;

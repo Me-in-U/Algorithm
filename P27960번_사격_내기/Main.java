@@ -1,4 +1,4 @@
-package PB;
+package P27960번_사격_내기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

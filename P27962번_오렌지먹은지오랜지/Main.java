@@ -1,4 +1,4 @@
-package PD;
+package P27962번_오렌지먹은지오랜지;
 
 import java.io.BufferedReader;
 import java.io.IOException;

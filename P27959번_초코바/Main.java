@@ -1,4 +1,4 @@
-package PC;
+package P27959번_초코바;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,16 +7,13 @@ import java.io.InputStreamReader;
 public class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    long N = Long.parseLong(br.readLine());
-    long meow = 0;
-    long count = 0;
-    while (meow != N) {
-      meow = (long) Math.pow(2, count);
-      count++;
-      if (meow > N) {
-        break;
-      }
+    String[] input = br.readLine().split(" ");
+    int N = Integer.parseInt(input[0]);
+    int M = Integer.parseInt(input[1]);
+    if (100 * N >= M) {
+      System.out.println("Yes");
+    } else {
+      System.out.println("No");
     }
-    System.out.println(count);
   }
 }
