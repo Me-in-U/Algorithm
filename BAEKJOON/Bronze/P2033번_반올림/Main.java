@@ -1,5 +1,3 @@
-package P11005번_반올림;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
