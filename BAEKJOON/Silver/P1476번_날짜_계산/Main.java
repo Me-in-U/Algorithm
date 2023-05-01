@@ -1,4 +1,4 @@
-package p1476번_날짜_계산;
+package P1476번_날짜_계산;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -30,7 +30,7 @@ public class Main {
       if (M == 20)
         M = 1;
       year++;
-      //System.out.println(E + " " + S + " " + M + " - " + year);
+      // System.out.println(E + " " + S + " " + M + " - " + year);
     }
     System.out.println(year);
   }

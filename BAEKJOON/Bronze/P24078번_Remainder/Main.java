@@ -1,4 +1,4 @@
-package P24078_Remainder;
+package P24078번_Remainder;
 
 import java.io.BufferedReader;
 import java.io.IOException;

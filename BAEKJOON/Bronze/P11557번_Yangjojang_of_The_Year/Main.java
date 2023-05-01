@@ -1,4 +1,4 @@
-package P11557번_양조장;
+package P11557번_Yangjojang_of_The_Year;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P25955번_APC는_쉬운;
+package P25955번_APC는_쉬운_난이도_순일까_아닐까;
 
 import java.io.BufferedReader;
 import java.io.IOException;

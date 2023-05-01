@@ -1,9 +1,7 @@
 package P2393번_Rock;
 
-import java.io.IOException;
-
 public class Main {
-  public static void main(String[] args) throws IOException {
+  public static void main(String[] args) {
     StringBuilder sb = new StringBuilder();
     sb.append("  ___  ___  ___").append('\n');
     sb.append("  | |__| |__| |").append('\n');

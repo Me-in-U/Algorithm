@@ -1,4 +1,4 @@
-package P11365번_밀비급일;
+package P27219번_Робинзон_Крузо;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,14 +7,12 @@ import java.io.InputStreamReader;
 public class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    int n = Integer.parseInt(br.readLine());
     StringBuilder sb = new StringBuilder();
-    String line = "";
-    while (!(line = br.readLine()).equals("END")) {
-      for (int i = line.length() - 1; i >= 0; i--) {
-        sb.append(line.charAt(i));
-      }
-      sb.append('\n');
-    }
+    for (int i = 0; i < n / 5; i++)
+      sb.append('V');
+    for (int i = 0; i < n % 5; i++)
+      sb.append('I');
     System.out.print(sb.toString());
   }
 }

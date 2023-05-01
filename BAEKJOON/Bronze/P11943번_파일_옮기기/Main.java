@@ -1,4 +1,4 @@
-package P11943_파일_옮기기;
+package P11943번_파일_옮기기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,16 +1,17 @@
-package P13277번_큰수곱셈;
+package P26489번_Gum_Gum_for_Jay_Jay;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.math.BigInteger;
 
 public class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    String[] input = br.readLine().split(" ");
-    BigInteger big1 = new BigInteger(input[0]);
-    BigInteger big2 = new BigInteger(input[1]);
-    System.out.println(big1.multiply(big2));
+    int count = 0;
+    String a;
+    while ((a = br.readLine()) != null) {
+      count++;
+    }
+    System.out.println(count);
   }
 }

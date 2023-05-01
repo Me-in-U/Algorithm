@@ -1,4 +1,4 @@
-package P27903번_;
+package P27903번_인생;
 
 public class Main {
   public static void main(String[] args) {

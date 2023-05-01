@@ -1,4 +1,4 @@
-package P14928_큰_수_Big;
+package P14928번_큰_수_Big;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,10 +10,10 @@ class Main {
     String input = br.readLine();
     int divider = 20000303;
     int result = 0;
-    for(int i = 0; i < input.length(); i++){
+    for (int i = 0; i < input.length(); i++) {
       result = (result * 10 + (input.charAt(i) - '0')) % divider;
     }
-    
+
     System.out.println(result);
   }
 }

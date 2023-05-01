@@ -1,4 +1,4 @@
-package P2669번_직사각형;
+package P2669번_직사각형_네개의_합집합의_면적_구하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

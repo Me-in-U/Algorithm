@@ -10,45 +10,23 @@ public class Main {
     int N = Integer.parseInt(br.readLine());
     String str = br.readLine();
     boolean found = false;
-    char front = str.charAt(0);
-    char back = str.charAt(N - 1);
-    for (int length = 3; length < N; length++) {
-      for (int first = 0; N - first > 0; first++) {
-        if (str.charAt(first) == front && str.charAt(first + length) == back) {
-          String comp1 = str.substring(first, first + length + 1);
-          System.out.println(comp1);
-          for (int second = first + 1; N - second > 0; second++) {
-            if (str.charAt(second) == front && str.charAt(second + length) == back) {
-              String comp2 = str.substring(second, second + length + 1);
-              System.out.println(comp2);
-              int count = 0;
-              for (int i = 0; i < length; i++) {
-                if (comp1.charAt(i) != comp2.charAt(i)) {
-                  count++;
-                }
-                if (count == 1) {
-                  found = true;
-                  break;
-                }
-              }
-            }
-            if (found) {
-              break;
-            }
-          }
-        }
-        if (found) {
-          break;
+    for (int i = 1; i <= N; i++) {
+      String front = str.substring(0, i);
+      String back = str.substring(N - i, N);
+      int count = 0;
+      for (int j = 0; j < i; j++) {
+        if (front.charAt(j) != back.charAt(j)) {
+          count++;
         }
       }
-      if (found) {
+      if (count == 1) {
+        found = true;
         break;
       }
     }
-    if (found) {
+    if (found)
       System.out.println("YES");
-    } else {
+    else
       System.out.println("NO");
-    }
   }
 }

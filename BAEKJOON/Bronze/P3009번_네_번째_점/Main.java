@@ -1,4 +1,4 @@
-package P3009번_평행사변형;
+package P3009번_네_번째_점;
 
 import java.io.BufferedReader;
 import java.io.IOException;
