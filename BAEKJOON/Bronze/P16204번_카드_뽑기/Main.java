@@ -1,4 +1,4 @@
-package P14924번_폰_노이만과_파리;
+package P16204번_카드_뽑기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,6 +8,9 @@ public class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     String[] input = br.readLine().split(" ");
-    System.out.println(Integer.parseInt(input[2]) / (Integer.parseInt(input[0]) * 2) * Integer.parseInt(input[1]));
+    int N = Integer.parseInt(input[0]);
+    int M = Integer.parseInt(input[1]);
+    int K = Integer.parseInt(input[2]);
+    System.out.println((Math.min(M, K) + Math.min(N - M, N - K)));
   }
 }

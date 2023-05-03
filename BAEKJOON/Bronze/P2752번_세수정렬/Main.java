@@ -1,3 +1,4 @@
+package P2752번_세수정렬;
 
 import java.io.BufferedReader;
 import java.io.IOException;
