@@ -12,7 +12,6 @@ public class Main {
     StringTokenizer st = null;
     StringBuilder sb = new StringBuilder();
     HashSet<String> set = new HashSet<>();
-
     int T = Integer.parseInt(br.readLine());
     for (int i = 0; i < T; i++) {
       String recorded_sound = br.readLine();
