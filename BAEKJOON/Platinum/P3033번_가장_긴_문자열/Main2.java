@@ -6,8 +6,8 @@ import java.io.InputStreamReader;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Main {
-  static long MOD = 1000000009;
+public class Main2 {
+  static long MOD = 1000000007;
   static long[] P;
   static long[] H;
   static long[][] T;
@@ -32,8 +32,10 @@ public class Main {
     long low = 0;
     long high = length;
     while (low + 1 < high) {
+      // ! mid = (low + high) / 2
       long mid = (low + high) >>> 1;
-      if (check(mid, length, str)) {
+      System.out.println("low :" + low + ", mid :" + mid + ", high : " + high);
+      if (rabin(mid, length, str)) {
         low = mid;
       } else {
         high = mid;
@@ -42,7 +44,7 @@ public class Main {
     return low;
   }
 
-  static boolean check(long mid, long length, String str) {
+  static boolean rabin(long mid, long length, String str) {
     H[0] = H[1] = H[2] = 0;
     for (int k = 0; k < 3; k++) {
       for (int i = 0; i < mid; i++) {
