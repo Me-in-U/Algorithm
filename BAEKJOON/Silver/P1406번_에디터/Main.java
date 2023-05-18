@@ -3,47 +3,44 @@ package P1406번_에디터;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayDeque;
+import java.util.Deque;
 import java.util.Stack;
 
 class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     StringBuilder sb = new StringBuilder();
-    Stack<Character> L_stack = new Stack<>();
-    Stack<Character> R_stack = new Stack<>();
-
-    // 입력
+    Deque<Character> L = new ArrayDeque<>();
+    Deque<Character> R = new ArrayDeque<>();
+    // !입력
     String input = br.readLine();
     for (int i = 0; i < input.length(); i++) {
-      L_stack.push(input.charAt(i));
+      L.addLast(input.charAt(i));
     }
-
+    // !계산
     int M = Integer.parseInt(br.readLine());
     for (int i = 0; i < M; i++) {
-      String cmd = br.readLine();
-      if (cmd.charAt(0) == 'P') {
-        L_stack.push(cmd.charAt(2));
-      } else if (cmd.charAt(0) == 'L') {
-        if (!L_stack.empty()) {
-          R_stack.push(L_stack.pop());
-        }
-      } else if (cmd.charAt(0) == 'D') {
-        if (!R_stack.empty()) {
-          L_stack.push(R_stack.pop());
-        }
-      } else if (cmd.charAt(0) == 'B') {
-        if (!L_stack.empty()) {
-          L_stack.pop();
-        }
+      String cmdLine = br.readLine();
+      char c = cmdLine.charAt(0);
+      if (c == 'P') {
+        L.addLast(cmdLine.charAt(2));
+      } else if (c == 'L') {
+        if (!L.isEmpty())
+          R.addFirst(L.removeLast());
+      } else if (c == 'D') {
+        if (!R.isEmpty())
+          L.addLast(R.removeFirst());
+      } else if (c == 'B') {
+        if (!L.isEmpty())
+          L.removeLast();
       }
     }
-    // 출력
-    while (!L_stack.empty()) {
-      R_stack.push(L_stack.pop());
-    }
-    while (!R_stack.empty()) {
-      sb.append(R_stack.pop());
-    }
+    // !출력
+    while (!L.isEmpty())
+      sb.append(L.removeFirst());
+    while (!R.isEmpty())
+      sb.append(R.removeFirst());
     System.out.println(sb.toString());
   }
 }
