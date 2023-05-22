@@ -1,4 +1,4 @@
-package P1331번_나이트_투어;
+package BAEKJOON.Silver.P1331번_나이트_투어;
 
 import java.io.BufferedReader;
 import java.io.IOException;

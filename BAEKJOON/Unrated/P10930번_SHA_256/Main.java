@@ -1,4 +1,4 @@
-package P10930번_SHA_256;
+package BAEKJOON.Unrated.P10930번_SHA_256;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,18 +8,19 @@ import java.security.NoSuchAlgorithmException;
 import java.security.MessageDigest;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
-      BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-      
-      String str = br.readLine();
-      System.out.println(encryptSHA256(str));
-        
-    }
-    public static String encryptSHA256(String str){
-		String sha="";
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+		String str = br.readLine();
+		System.out.println(encryptSHA256(str));
+
+	}
+
+	public static String encryptSHA256(String str) {
+		String sha = "";
 
 		try {
-			MessageDigest sh= MessageDigest.getInstance("SHA-256");
+			MessageDigest sh = MessageDigest.getInstance("SHA-256");
 			sh.update(str.getBytes());
 			byte[] byteData = sh.digest();
 			StringBuilder sb = new StringBuilder();
@@ -27,11 +28,10 @@ public class Main {
 				sb.append(Integer.toString((byteDatum & 0xff) + 0x100, 16).substring(1));
 			}
 
-			sha=sb.toString();
-		}
-      catch (NoSuchAlgorithmException e) {
+			sha = sb.toString();
+		} catch (NoSuchAlgorithmException e) {
 			System.out.println("암호화 에러-NoSuchAlgorithmException");
-			sha=null;
+			sha = null;
 		}
 		return sha;
 	}

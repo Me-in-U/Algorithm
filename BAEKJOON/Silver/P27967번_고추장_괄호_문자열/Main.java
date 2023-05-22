@@ -1,4 +1,4 @@
-package P27967번_고추장_괄호_문자열;
+package BAEKJOON.Silver.P27967번_고추장_괄호_문자열;
 
 import java.io.BufferedReader;
 import java.io.IOException;
