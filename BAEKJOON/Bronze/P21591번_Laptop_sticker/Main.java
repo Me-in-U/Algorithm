@@ -1,4 +1,4 @@
-package P15474번_Pencils;
+package P21591번_Laptop_sticker;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,14 +9,12 @@ public class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     int[] input = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
-    int A = input[0] / input[1];
-    if (input[0] % input[1] != 0) {
-      A++;
+    input[0] -= 2;
+    input[1] -= 2;
+    if (input[0] >= input[2] && input[1] >= input[3]) {
+      System.out.println(1);
+    } else {
+      System.out.println(0);
     }
-    int B = input[0] / input[3];
-    if (input[0] % input[3] != 0) {
-      B++;
-    }
-    System.out.println(Math.min(input[2] * A, input[4] * B));
   }
 }

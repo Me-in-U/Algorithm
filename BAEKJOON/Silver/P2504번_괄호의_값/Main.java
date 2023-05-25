@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.P2504번_괄호의_값;
+package P2504번_괄호의_값;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,30 +9,31 @@ public class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     String input = br.readLine();
+    
     if (check(input)) {
-      Stack<Integer> add = new Stack<>();
-      add.add(0);
+      Stack<Integer> stk = new Stack<>();
+      stk.add(0);
       for (int i = 0; i < input.length(); i++) {
         char c1 = input.charAt(i);
         if (c1 == ')') {
-          add.push((add.pop() * 2) + add.pop());
+          stk.push((stk.pop() * 2) + stk.pop());
           continue;
         } else if (c1 == ']') {
-          add.push((add.pop() * 3) + add.pop());
+          stk.push((stk.pop() * 3) + stk.pop());
           continue;
         }
         char c2 = input.charAt(i + 1);
         if (c1 == '(' && c2 != ')' || c1 == '[' && c2 != ']') {
-          add.add(0);
+          stk.push(0);
         } else if (c1 == '(' && c2 == ')') {
-          add.add(add.pop() + 2);
+          stk.push(stk.pop() + 2);
           i++;
         } else if (c1 == '[' && c2 == ']') {
-          add.add(add.pop() + 3);
+          stk.push(stk.pop() + 3);
           i++;
         }
       }
-      System.out.println(add.pop());
+      System.out.println(stk.pop());
     } else {
       System.out.println(0);
     }
