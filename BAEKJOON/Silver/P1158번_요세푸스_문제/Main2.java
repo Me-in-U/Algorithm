@@ -3,26 +3,30 @@ package P1158번_요세푸스_문제;
 import java.io.IOException;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
+import java.util.Deque;
 import java.util.LinkedList;
 
-public class Main {
+public class Main2 {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    // !입력
     String[] input = br.readLine().split(" ");
     int N = Integer.parseInt(input[0]);
-    int K = Integer.parseInt(input[1]) - 1;
-    ArrayList<Integer> numList = new ArrayList<>();
+    int K = Integer.parseInt(input[1]);
+    Deque<Integer> q = new LinkedList<>();
     for (int i = 1; i <= N; i++)
-      numList.add(i);
-    int index = 0;
+      q.add(i);
+    // !계산
     StringBuilder sb = new StringBuilder();
     sb.append('<');
-    for (int i = 0; i < N - 1; i++) {
-      index = (index + K) % numList.size();
-      sb.append(numList.remove(index)).append(", ");
+    while (q.size() != 1) {
+      for (int i = 0; i < K - 1; i++) {
+        q.add(q.poll());
+      }
+      sb.append(q.poll()).append(',').append(' ');
     }
-    sb.append(numList.get(0)).append('>');
-    System.out.println(sb.toString());
+    sb.append(q.poll()).append('>');
+    // !출력
+    System.out.print(sb);
   }
 }
