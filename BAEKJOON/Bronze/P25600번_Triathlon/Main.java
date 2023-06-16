@@ -18,5 +18,6 @@ public class Main {
         max = Math.max(max, input[0] * (input[1] + input[2]));
     }
     System.out.println(max);
+    // say hello
   }
 }
