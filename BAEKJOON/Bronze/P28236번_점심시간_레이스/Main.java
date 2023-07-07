@@ -1,4 +1,4 @@
-package B번;
+package P28236번_점심시간_레이스;
 
 import java.io.BufferedReader;
 import java.io.IOException;

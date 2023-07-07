@@ -1,23 +1,26 @@
-package C번_원탁;
+package P28135번번_Since_1973;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 
 public class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     int N = Integer.parseInt(br.readLine());
-    int[] input = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
     int count = 0;
-    for (int i = 0; i < N - 1; i++) {
-      if (input[i] >= input[i + 1]) {
-        count++;
-      }
-    }
-    if (input[0] <= input[N - 1]) {
+    for (int i = 1; i <= N; i++) {
       count++;
+      if (i == N) {
+        break;
+      }
+      String num = String.valueOf(i);
+      for (int j = 0; j < num.length() - 1; j++) {
+        if (num.substring(j, j + 2).equals("50")) {
+          count++;
+          break;
+        }
+      }
     }
     System.out.println(count);
   }

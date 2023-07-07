@@ -1,4 +1,4 @@
-package A번;
+package P28235번_코드마스터_2023;
 
 import java.io.BufferedReader;
 import java.io.IOException;
