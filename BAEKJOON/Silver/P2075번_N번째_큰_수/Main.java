@@ -10,11 +10,12 @@ import java.util.PriorityQueue;
 
 public class Main {
   public static void main(String[] args) throws IOException {
+    // !입력
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     int N = Integer.parseInt(br.readLine());
     Deque<Integer>[] deque = new ArrayDeque[N];
     for (int i = 0; i < N; i++) {
-      deque[i] = new ArrayDeque<>();
+      deque[i] = new ArrayDeque<>(N);
     }
     for (int i = 0; i < N; i++) {
       int[] input = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
@@ -22,7 +23,8 @@ public class Main {
         deque[j].add(input[j]);
       }
     }
-    PriorityQueue<int[]> pq = new PriorityQueue<>((data1, data2) -> data2[0] - data1[0]);
+    // !계산
+    PriorityQueue<int[]> pq = new PriorityQueue<>(N, (data1, data2) -> data2[0] - data1[0]);
     for (int i = 0; i < N; i++) {
       pq.add(new int[] { deque[i].removeLast(), i });
     }
@@ -30,6 +32,7 @@ public class Main {
       int biggestNumIdx = pq.poll()[1];
       pq.add(new int[] { deque[biggestNumIdx].removeLast(), biggestNumIdx });
     }
+    // !출력
     System.out.println(pq.poll()[0]);
   }
 }
