@@ -5,27 +5,22 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 import java.util.HashSet;
+
 class Main {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		
-		StringTokenizer st = null;
-
-      st = new StringTokenizer(br.readLine());
+		HashSet<Integer> set = new HashSet<>();
+		StringTokenizer st = new StringTokenizer(br.readLine());
 		int A = Integer.parseInt(st.nextToken());
-      int B = Integer.parseInt(st.nextToken());
-      
-      HashSet<Integer> hashset = new HashSet<>();
-
-      st = new StringTokenizer(br.readLine());
-		for(int i = 0; i < A; i++){
-         hashset.add(Integer.parseInt(st.nextToken()));
+		int B = Integer.parseInt(st.nextToken());
+		st = new StringTokenizer(br.readLine());
+		for (int i = 0; i < A; i++) {
+			set.add(Integer.parseInt(st.nextToken()));
 		}
-      st = new StringTokenizer(br.readLine());
-		for(int i = 0; i < B; i++){
-         hashset.add(Integer.parseInt(st.nextToken()));
+		st = new StringTokenizer(br.readLine());
+		for (int i = 0; i < B; i++) {
+			set.add(Integer.parseInt(st.nextToken()));
 		}
-
-      System.out.println((hashset.size() - A) + (hashset.size() - B));
+		System.out.println((set.size() - A) + (set.size() - B));
 	}
 }
