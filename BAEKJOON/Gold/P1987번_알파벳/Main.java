@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.P1987번_알파벳;
+package P1987번_알파벳;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -14,6 +14,7 @@ public class Main {
   protected static int[] moveY = { -1, 1, 0, 0 };
 
   public static void main(String[] args) throws IOException {
+    // !입력
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     String[] input = br.readLine().split(" ");
     R = Integer.parseInt(input[0]);
@@ -23,7 +24,9 @@ public class Main {
     for (int i = 0; i < R; i++) {
       System.arraycopy(br.readLine().toCharArray(), 0, data[i], 0, C);
     }
+    // !dfs
     dfs(0, 0, 1);
+    // !출력
     System.out.println(max);
   }
 
