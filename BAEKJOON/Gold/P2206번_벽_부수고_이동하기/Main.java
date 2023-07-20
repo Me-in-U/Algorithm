@@ -7,10 +7,10 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class Main {
-  public static int[] moveX = { -1, 1, 0, 0 };
-  public static int[] moveY = { 0, 0, -1, 1 };
-  public static int N;
-  public static int M;
+  protected static int[] moveX = { -1, 1, 0, 0 };
+  protected static int[] moveY = { 0, 0, -1, 1 };
+  protected static int N;
+  protected static int M;
   protected static boolean[][] wall;
   protected static boolean[][][] visited;
 
@@ -19,6 +19,7 @@ public class Main {
     String[] NM = br.readLine().split(" ");
     N = Integer.parseInt(NM[0]);
     M = Integer.parseInt(NM[1]);
+    // ! 1X1 맵이면 이동할 곳 없음
     if (N == 1 && M == 1) {
       System.out.println("1");
     } else {
@@ -38,6 +39,7 @@ public class Main {
 
   public static int bfs() {
     Queue<int[]> q = new LinkedList<>();
+    // !{X, Y, isBreak, distance}
     q.add(new int[] { 0, 0, 0, 1 });
     visited[0][0][0] = true;
     visited[0][0][1] = true;
@@ -45,25 +47,29 @@ public class Main {
       int[] get = q.poll();
       int x = get[0];
       int y = get[1];
-      int time = get[3];
-      if (x == N - 1 && y == M - 1) {
-        return time;
-      }
       int isBreak = get[2];
+      int distance = get[3];
+      // !(N, M)좌표에 도착
+      if (x == N - 1 && y == M - 1) {
+        return distance;
+      }
       for (int j = 0; j < 4; j++) {
         int movedX = x + moveX[j];
         int movedY = y + moveY[j];
-        if (0 <= movedX && movedX < N && 0 <= movedY && movedY < M) {
+        if (0 <= movedX && 0 <= movedY && movedX < N && movedY < M) {
           if (!visited[movedX][movedY][isBreak]) {
+            // ! 부순적 없음 && 통로
             if (isBreak == 0 && !wall[movedX][movedY]) {
               visited[movedX][movedY][0] = true;
-              q.add(new int[] { movedX, movedY, 0, time + 1 });
-            } else if (isBreak == 0 && wall[movedX][movedY]) {
+              q.add(new int[] { movedX, movedY, 0, distance + 1 });
+            } // !부순적 없음 && 벽
+            else if (isBreak == 0 && wall[movedX][movedY]) {
               visited[movedX][movedY][0] = true;
-              q.add(new int[] { movedX, movedY, 1, time + 1 });
-            } else if (isBreak == 1 && !wall[movedX][movedY]) {
+              q.add(new int[] { movedX, movedY, 1, distance + 1 });
+            } // !벽 하나 부숨 && 통로
+            else if (isBreak == 1 && !wall[movedX][movedY]) {
               visited[movedX][movedY][1] = true;
-              q.add(new int[] { movedX, movedY, 1, time + 1 });
+              q.add(new int[] { movedX, movedY, 1, distance + 1 });
             }
           }
         }
