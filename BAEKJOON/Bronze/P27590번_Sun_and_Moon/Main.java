@@ -9,10 +9,20 @@ public class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     StringTokenizer st = new StringTokenizer(br.readLine());
-    int ds = Integer.parseInt(st.nextToken()); // how many years ago the sun was in the right position
-    int ys = Integer.parseInt(st.nextToken()); // how many years it takes for the sun to be back in that position
-    int dm = Integer.parseInt(st.nextToken()); // how many years ago the moon was in the right position
-    int ym = Integer.parseInt(st.nextToken()); // how many years it takes for the moon to be back in that position
-
+    int ds = Integer.parseInt(st.nextToken());
+    int ys = Integer.parseInt(st.nextToken());
+    st = new StringTokenizer(br.readLine());
+    int dm = Integer.parseInt(st.nextToken());
+    int ym = Integer.parseInt(st.nextToken());
+    int sun = ys - ds;
+    int moon = ym - dm;
+    while (sun != moon) {
+      if (sun < moon)
+        sun += ys;
+      else {
+        moon += ym;
+      }
+    }
+    System.out.println(sun);
   }
 }
