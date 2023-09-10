@@ -1,4 +1,4 @@
-package D메;
+package 메이플컵.D메;
 
 import java.io.BufferedReader;
 import java.io.IOException;

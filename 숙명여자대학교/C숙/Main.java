@@ -1,4 +1,4 @@
-package C숙;
+package 숙명여자대학교.C숙;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package B단;
+package 단대소프트고.B단;
 
 import java.io.BufferedReader;
 import java.io.IOException;
