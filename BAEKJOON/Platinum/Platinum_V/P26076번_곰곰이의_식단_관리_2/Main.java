@@ -9,15 +9,14 @@ import java.util.Queue;
 
 public class Main {
   // 하, 우, 상, 좌
-  static int[] dx = { 0, 1, 0, -1 };
-  static int[] dy = { 1, 0, -1, 0 };
+  public static int[] dx = { 0, 1, 0, -1 };
+  public static int[] dy = { 1, 0, -1, 0 };
 
-  static boolean[][] arr;
-  static boolean[][] visited;
+  public static boolean[][] arr;
+  public static boolean[][] visited;
 
-  static int M, N, days;
-  static int count_zero;
-  static boolean found;
+  public static int M, N, days;
+  public static boolean found;
 
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
