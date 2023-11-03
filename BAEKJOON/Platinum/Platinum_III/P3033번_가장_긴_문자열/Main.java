@@ -7,7 +7,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class Main {
-  static long MOD = 1000000009;
+  static long MOD = 1_000_000_009;
   static long[] P;
   static long[] H;
   static long[][] T;

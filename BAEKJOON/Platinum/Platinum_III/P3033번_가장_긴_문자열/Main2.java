@@ -6,69 +6,79 @@ import java.io.InputStreamReader;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Main2 {
-  static long MOD = 1000000007;
-  static long[] P;
-  static long[] H;
-  static long[][] T;
+public class Main {
+  static final long MOD = 1000000009;
+  static final long[] P = { 167, 277, 401 };
+  static long[][] T = new long[3][100001]; // 가정: 최대 길이 100000
+  static long[] H = new long[3];
 
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     long length = Long.parseLong(br.readLine());
     String str = br.readLine();
-    P = new long[] { 167, 277, 401 };
-    H = new long[3];
-    T = new long[3][(int) (length + 1)];
+    initializeT(length);
+    System.out.println(binarySearch(length, str));
+  }
+
+  static void initializeT(long length) {
     for (int j = 0; j < 3; j++) {
       T[j][0] = 1;
       for (int i = 1; i <= length; i++) {
         T[j][i] = (T[j][i - 1] * P[j]) % MOD;
       }
     }
-    System.out.println(binarySearch(length, str));
   }
 
   static long binarySearch(long length, String str) {
-    long low = 0;
-    long high = length;
+    long low = 0, high = length;
     while (low + 1 < high) {
-      // ! mid = (low + high) / 2
       long mid = (low + high) >>> 1;
-      System.out.println("low :" + low + ", mid :" + mid + ", high : " + high);
-      if (rabin(mid, length, str)) {
+      if (check(mid, str))
         low = mid;
-      } else {
+      else
         high = mid;
-      }
     }
     return low;
   }
 
-  static boolean rabin(long mid, long length, String str) {
-    H[0] = H[1] = H[2] = 0;
-    for (int k = 0; k < 3; k++) {
-      for (int i = 0; i < mid; i++) {
-        H[k] = (H[k] + (str.charAt(i) - 'a') * T[k][(int) (mid - 1 - i)]) % MOD;
-      }
-    }
-    // !Set 초기화
-    Set<Long>[] set = new HashSet[333];
-    for (int i = 0; i < set.length; i++) {
-      set[i] = new HashSet<>();
-    }
-    set[(int) (H[0] % 333)].add(H[2]);
-    for (int i = (int) mid; i < length; i++) {
-      for (int j = 0; j < 3; j++) {
-        H[j] = (H[j] - (str.charAt(i - (int) mid) - 'a') * T[j][(int) (mid - 1)] % MOD + MOD) % MOD;
-        H[j] = H[j] * P[j] % MOD;
-        H[j] = (H[j] + (str.charAt(i) - 'a')) % MOD;
-      }
-      if (set[(int) (H[0] % 333)].contains(H[2])) {
+  static boolean check(long mid, String str) {
+    Set<Long> set = new HashSet<>();
+    calculateInitialHashes(mid, str);
+    set.add(combineHashes());
+
+    for (int i = (int) mid; i < str.length(); i++) {
+      int removedIndex = i - (int) mid;
+      updateHash(removedIndex, str.charAt(removedIndex), mid - 1, -1);
+      updateHash(i, str.charAt(i), 0, 1);
+      long combinedHash = combineHashes();
+      if (set.contains(combinedHash))
         return true;
-      } else {
-        set[(int) (H[0] % 333)].add(H[2]);
-      }
+      set.add(combinedHash);
     }
     return false;
+  }
+
+  static void calculateInitialHashes(long mid, String str) {
+    resetHashes();
+    for (int i = 0; i < mid; i++) {
+      updateHash(i, str.charAt(i), mid - 1 - i, 1);
+    }
+  }
+
+  static void resetHashes() {
+    H[0] = H[1] = H[2] = 0;
+  }
+
+  static void updateHash(int index, char c, int exp, int sign) {
+    long value = (c - 'a') * T[exp] % MOD;
+    for (int k = 0; k < 3; k++) {
+      H[k] = (H[k] + sign * value * (sign == 1 ? 1 : P[k])) % MOD;
+      if (H[k] < 0)
+        H[k] += MOD;
+    }
+  }
+
+  static long combineHashes() {
+    return (H[0] << 32) | (H[1] << 16) | H[2];
   }
 }
