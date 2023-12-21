@@ -1,4 +1,20 @@
 {
   "java.debug.settings.onBuildFailureProceed": true,
-  "cSpell.words": ["bumin", "dongho", "FRULA", "hongjin", "Nalmeok", "UTUBER"]
+  "cSpell.words": ["bumin", "dongho", "FRULA", "hongjin", "Nalmeok", "UTUBER"],
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "jun3021306.iptime.org",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "tfProjrct",
+      "database": "tfproject",
+      "username": "termproject",
+      "password": "Minecraft/2580"
+    }
+  ]
 }
