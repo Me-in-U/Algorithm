@@ -1,6 +1,14 @@
 {
   "java.debug.settings.onBuildFailureProceed": true,
-  "cSpell.words": ["bumin", "dongho", "FRULA", "hongjin", "Nalmeok", "UTUBER"],
+  "cSpell.words": [
+    "bumin",
+    "dongho",
+    "FRULA",
+    "hongjin",
+    "jinju",
+    "Nalmeok",
+    "UTUBER"
+  ],
   "sqltools.connections": [
     {
       "mysqlOptions": {
