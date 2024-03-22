@@ -3,70 +3,76 @@ package Platinum_III.P3033번_가장_긴_문자열;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.HashSet;
-import java.util.Set;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Main {
-  static long MOD = 1_000_000_009;
-  static long[] P;
-  static long[] H;
-  static long[][] T;
+    static int MOD = 100_003;
+    static int BASE = 2;
+    public static String str;
+    static int[] power;
 
-  public static void main(String[] args) throws IOException {
-    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    long length = Long.parseLong(br.readLine());
-    String str = br.readLine();
-    P = new long[] { 167, 277, 401 };
-    H = new long[3];
-    T = new long[3][(int) (length + 1)];
-    for (int j = 0; j < 3; j++) {
-      T[j][0] = 1;
-      for (int i = 1; i <= length; i++) {
-        T[j][i] = (T[j][i - 1] * P[j]) % MOD;
-      }
-    }
-    System.out.println(binarySearch(length, str));
-  }
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int length = Integer.parseInt(br.readLine());
+        str = br.readLine();
+        power = new int[length + 1];
+        power[0] = 1;
+        for (int i = 1; i < length; i++) {
+            power[i] = power[i - 1] * 2 % MOD;
+        }
 
-  static long binarySearch(long length, String str) {
-    long low = 0;
-    long high = length;
-    while (low + 1 < high) {
-      long mid = (low + high) >>> 1;
-      if (check(mid, length, str)) {
-        low = mid;
-      } else {
-        high = mid;
-      }
-    }
-    return low;
-  }
+        int left = 1;
+        int right = length;
+        int maxLength = 0;
+        while (left <= right) {
+            int mid = (left + right) / 2;
+            if (check(mid, str)) {
+                maxLength = mid;
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
+        }
 
-  static boolean check(long mid, long length, String str) {
-    H[0] = H[1] = H[2] = 0;
-    for (int k = 0; k < 3; k++) {
-      for (int i = 0; i < mid; i++) {
-        H[k] = (H[k] + (str.charAt(i) - 'a') * T[k][(int) (mid - 1 - i)]) % MOD;
-      }
+        System.out.println(maxLength);
     }
-    // !Set 초기화
-    Set<Long>[] set = new HashSet[333];
-    for (int i = 0; i < set.length; i++) {
-      set[i] = new HashSet<>();
+
+    private static boolean check(int length, String str) {
+        List<Integer>[] table = new ArrayList[MOD];
+        for (int i = 0; i < MOD; i++)
+            table[i] = new ArrayList<>();
+
+        int hash = 0;
+        for (int i = 0; i < length; i++) {
+            hash = (hash * BASE + str.charAt(i)) % MOD;
+        }
+        table[hash].add(0);
+
+        for (int i = 1; i <= str.length() - length; i++) {
+            hash = (hash + MOD - (str.charAt(i - 1) * power[length - 1] % MOD)) % MOD; // 첫 문자 빼기, 음수 방지 + MOD
+            hash = ((hash * BASE) + str.charAt(i + length - 1)) % MOD; // 마지막 문자 더하기, hash에 BASE를 곱해서 오른쪽으로 이동
+
+            boolean isDuplicate = false;
+            for (int idx : table[hash]) {
+                if (compare(i, idx, length)) {
+                    isDuplicate = true;
+                    break;
+                }
+            }
+            if (isDuplicate)
+                return true;
+            table[hash].add(i);
+        }
+        return false;
     }
-    set[(int) (H[0] % 333)].add(H[2]);
-    for (int i = (int) mid; i < length; i++) {
-      for (int j = 0; j < 3; j++) {
-        H[j] = (H[j] - (str.charAt(i - (int) mid) - 'a') * T[j][(int) (mid - 1)] % MOD + MOD) % MOD;
-        H[j] = H[j] * P[j] % MOD;
-        H[j] = (H[j] + (str.charAt(i) - 'a')) % MOD;
-      }
-      if (set[(int) (H[0] % 333)].contains(H[2])) {
+
+    private static boolean compare(int start1, int start2, int length) {
+        for (int i = 0; i < length; i++) {
+            if (str.charAt(start1 + i) != str.charAt(start2 + i)) {
+                return false;
+            }
+        }
         return true;
-      } else {
-        set[(int) (H[0] % 333)].add(H[2]);
-      }
     }
-    return false;
-  }
 }
