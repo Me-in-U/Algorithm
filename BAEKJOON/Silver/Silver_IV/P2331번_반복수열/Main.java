@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = n ew StringTokenizer(br.readLine());
+        StringTokenizer st = new StringTokenizer(br.readLine());
         String A = st.nextToken();
         double P = Integer.parseInt(st.nextToken());
         int[] power = new int[10];
@@ -18,8 +18,8 @@ public class Main {
             power[i] = (int) Math.pow(i, P);
         }
         Set<Integer> set1 = new HashSet<>();
-        set1.add(Integer.parseInt(A)); 
-        while (true) {      
+        set1.add(Integer.parseInt(A));
+        while (true) {
             int nextNumber = 0;
             for (int i = 0; i < A.length(); i++) {
                 nextNumber += power[A.charAt(i) - '0'];
