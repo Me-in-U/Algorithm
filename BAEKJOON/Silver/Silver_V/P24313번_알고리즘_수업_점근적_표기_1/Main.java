@@ -13,15 +13,6 @@ public class Main {
         int a0 = Integer.parseInt(st.nextToken());
         int c = Integer.parseInt(br.readLine());
         int n0 = Integer.parseInt(br.readLine());
-        int n = 1;
-        boolean result = true;
-        while (n <= n0) {
-            if (a1 * n0 + a0 > c * n0) {
-                result = false;
-                break;
-            }
-            n++;
-        }
-        System.out.print(result ? 1 : 0);
+        System.out.print((((a1 * n0) + a0) <= (c * n0)) && (c >= a1) ? 1 : 0);
     }
 }
