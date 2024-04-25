@@ -11,4 +11,5 @@ public class Main {
         int[] abc = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
         System.out.println(abc[2] % 2 == 1 ? abc[0] ^ abc[1] : abc[0]);
     }
+
 }
