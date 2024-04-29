@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_I.P1933번_스카이라인;
+package Gold_I.P1933번_스카이라인;
 
 import java.io.BufferedReader;
 import java.io.IOException;
