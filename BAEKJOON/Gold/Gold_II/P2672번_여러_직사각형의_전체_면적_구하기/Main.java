@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Objects;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -27,6 +28,23 @@ public class Main {
             if (this.x == o.x)
                 return this.chk - o.chk;
             return this.x - o.x;
+        }
+
+        @Override
+        public boolean equals(Object obj) {
+            if (this == obj) {
+                return true;
+            }
+            if (obj == null || getClass() != obj.getClass()) {
+                return false;
+            }
+            RectangleEvent that = (RectangleEvent) obj;
+            return this.x == that.x && this.yUp == that.yUp && this.yDown == that.yDown && this.chk == that.chk;
+        }
+
+        @Override
+        public int hashCode() {
+            return Objects.hash(x, yUp, yDown, chk);
         }
     }
 
