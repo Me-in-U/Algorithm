@@ -1,4 +1,4 @@
-package BAEKJOON.Platinum.Platinum_V.P1328번_고등_빌딩;
+package Platinum_V.P1328번_고등_빌딩;
 
 import java.io.BufferedReader;
 import java.io.IOException;

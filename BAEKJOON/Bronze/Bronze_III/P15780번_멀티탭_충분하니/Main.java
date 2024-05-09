@@ -9,14 +9,14 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String[] input = br.readLine().split(" ");
         int N = Integer.parseInt(input[0]);
-        int K = Integer.parseInt(input[1]);
         int count = 0;
         String[] A = br.readLine().split(" ");
-        for (int i = 0; i < K; i++) {
-            int holeCount = Integer.parseInt(A[i]);
-            count += holeCount;
-            if (holeCount % 2 == 1)
-                count += 1;
+        for (String a : A) {
+            int aa = Integer.parseInt(a);
+            count += aa / 2;
+            if (aa % 2 == 1) {
+                count++;
+            }
         }
         System.out.println(count >= N ? "YES" : "NO");
     }
