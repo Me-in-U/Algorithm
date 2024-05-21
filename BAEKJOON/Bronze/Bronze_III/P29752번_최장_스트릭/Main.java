@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P30033번_Rust_Study;
+package BAEKJOON.Bronze.Bronze_III.P29752번_최장_스트릭;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,14 +9,18 @@ public class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     int N = Integer.parseInt(br.readLine());
-    int[] plan = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
-    int[] studied = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
-    int count = 0;
+    int[] input = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
+    int max = 0;
+    int temp = 0;
     for (int i = 0; i < N; i++) {
-      if (plan[i] <= studied[i]) {
-        count++;
+      if (input[i] == 0) {
+        max = Math.max(max, temp);
+        temp = 0;
+      } else {
+        temp++;
       }
     }
-    System.out.println(count);
+    max = Math.max(max, temp);
+    System.out.println(max);
   }
 }

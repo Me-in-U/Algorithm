@@ -1,19 +1,17 @@
-package BAEKJOON.Bronze.Bronze_IV.P30033번_Rust_Study;
+package BAEKJOON.Bronze.Bronze_IV.P30045번_ZOAC6;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 
 public class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     int N = Integer.parseInt(br.readLine());
-    int[] plan = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
-    int[] studied = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
     int count = 0;
     for (int i = 0; i < N; i++) {
-      if (plan[i] <= studied[i]) {
+      String line = br.readLine();
+      if (line.contains("01") || line.contains("OI")) {
         count++;
       }
     }
