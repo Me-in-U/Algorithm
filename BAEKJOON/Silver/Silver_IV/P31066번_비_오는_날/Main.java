@@ -1,4 +1,4 @@
-package A_1_비_오는_날;
+package BAEKJOON.Silver.Silver_IV.P31066번_비_오는_날;
 
 import java.io.BufferedReader;
 import java.io.IOException;
