@@ -26,7 +26,7 @@ public class Main {
         StringBuilder sb = new StringBuilder();
         N = Integer.parseInt(st.nextToken());
         M = Integer.parseInt(st.nextToken());
-        size = 2 * N + 1;
+        size = (N << 1) + 1;
         scc = new int[size];
         graph = new ArrayList[size];
         graphReversed = new ArrayList[size];
@@ -56,7 +56,7 @@ public class Main {
             addGraph(bulb3, bulb1);
         }
 
-        for (int i = 1; i <= 2 * N; i++)
+        for (int i = 1; i <= (N << 1); i++)
             if (!visited[i])
                 dfs(i);
 

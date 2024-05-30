@@ -1,4 +1,4 @@
-package 이_대회는_이제_제_겁니다;
+package BAEKJOON.Bronze.Bronze_IV.P31922번_이_대회는_이제_제_겁니다;
 
 import java.io.BufferedReader;
 import java.io.IOException;
