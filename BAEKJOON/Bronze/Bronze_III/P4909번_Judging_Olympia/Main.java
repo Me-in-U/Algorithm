@@ -1,10 +1,9 @@
 package BAEKJOON.Bronze.Bronze_III.P4909번_Judging_Olympia;
 
-import java.util.Scanner;
-import java.util.Arrays;
+import java.util.*;
 
-class Main {
-    public static void main(String[] args) {
+interface Main {
+    static void main(String[] g) {
         Scanner c = new Scanner(System.in);
         while (true) {
             int[] s = Arrays.stream(c.nextLine().split(" ")).mapToInt(Integer::parseInt).sorted().toArray();
