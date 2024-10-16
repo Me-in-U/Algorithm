@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_IV.P29753번_최소_성적;
+package P29753번_최소_성적;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_IV.P17404번_RGB거리_2;
+package P17404번_RGB거리_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

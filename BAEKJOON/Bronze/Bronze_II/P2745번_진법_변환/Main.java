@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P2745번_진법_변환;
+package P2745번_진법_변환;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.P28256번_초콜릿_보관함;
+package P28256번_초콜릿_보관함;
 
 import java.io.BufferedReader;
 import java.io.IOException;

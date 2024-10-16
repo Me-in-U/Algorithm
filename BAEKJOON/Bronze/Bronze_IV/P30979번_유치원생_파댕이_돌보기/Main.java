@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P30979번_유치원생_파댕이_돌보기;
+package P30979번_유치원생_파댕이_돌보기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

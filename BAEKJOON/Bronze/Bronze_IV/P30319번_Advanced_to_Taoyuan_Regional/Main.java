@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P30319번_Advanced_to_Taoyuan_Regional;
+package P30319번_Advanced_to_Taoyuan_Regional;
 
 import java.io.BufferedReader;
 import java.io.IOException;

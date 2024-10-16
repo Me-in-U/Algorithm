@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_I.P11278번_2_SAT_2;
+package P11278번_2_SAT_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

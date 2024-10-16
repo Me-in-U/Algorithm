@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P30868번_개표;
+package P30868번_개표;
 
 import java.io.BufferedReader;
 import java.io.IOException;

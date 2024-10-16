@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P31048번_Last_Factorial_Digit;
+package P31048번_Last_Factorial_Digit;
 
 import java.io.BufferedReader;
 import java.io.IOException;

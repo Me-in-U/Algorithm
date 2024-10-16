@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P15128번_Congruent_Numbers;
+package P15128번_Congruent_Numbers;
 
 import java.io.BufferedReader;
 import java.io.IOException;

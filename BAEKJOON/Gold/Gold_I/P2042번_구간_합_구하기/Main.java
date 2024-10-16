@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_I.P2042번_구간_합_구하기;
+package Gold_I.P2042번_구간_합_구하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

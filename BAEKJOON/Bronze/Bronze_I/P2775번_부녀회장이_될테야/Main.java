@@ -1,4 +1,4 @@
-package Bronze_I.P2775번_부녀회장이_될테야;
+package P2775번_부녀회장이_될테야;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ class Main {
     for (int a = 0; a < T; a++) {
       int k = sc.nextInt();
       int n = sc.nextInt();
-      int p[][] = new int[k + 1][n + 1];
+      int[][] p = new int[k + 1][n + 1];
       for (int b_1 = 0; b_1 <= k; b_1++) {
         p[b_1][0] = 1;
       }

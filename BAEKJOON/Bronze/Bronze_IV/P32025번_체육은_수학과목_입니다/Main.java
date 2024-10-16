@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P32025번_체육은_수학과목_입니다;
+package P32025번_체육은_수학과목_입니다;
 
 import java.io.BufferedReader;
 import java.io.IOException;

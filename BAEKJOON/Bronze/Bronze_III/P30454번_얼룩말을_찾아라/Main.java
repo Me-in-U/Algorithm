@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P30454번_얼룩말을_찾아라;
+package P30454번_얼룩말을_찾아라;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Gold_IV.P9019번_DSLR;
+package P9019번_DSLR;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -18,9 +18,10 @@ class Bfs_Object {
 }
 
 public class Main {
-  public static boolean[] visited;
-  public static int A, B;
-  public static StringBuilder result;
+  protected static boolean[] visited;
+  protected static int A;
+  protected static int B;
+  protected static StringBuilder result;
 
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P30700번_KOREA_문자열_만들기;
+package P30700번_KOREA_문자열_만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -11,7 +11,6 @@ public class Main {
         int sum = 0;
         int length = 0;
         String korea = "KOREA";
-        String input2 = "KEKRORKAKROEKREORKA";
         for (int i = 0; i < input.length(); i++) {
             if (input.charAt(i) == korea.charAt(length)) {
                 length++;

@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P17618번_신기한_수;
+package P17618번_신기한_수;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -16,7 +16,7 @@ public class Main {
                 sum += d % 10;
                 d /= 10;
             }
-            if(i%sum==0)
+            if (i % sum == 0)
                 count++;
         }
         System.out.println(count);

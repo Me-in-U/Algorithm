@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_IV.P14499번_주사위_굴리기;
+package P14499번_주사위_굴리기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

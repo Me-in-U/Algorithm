@@ -1,14 +1,14 @@
-package BAEKJOON.Silver.Silver_III.P30046번_HJS;
+package P30046번_HJS;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Main {
-  public static int N;
-  public static String P;
-  public static String Q;
-  public static String R;
+  protected static int N;
+  protected static String P;
+  protected static String Q;
+  protected static String R;
 
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

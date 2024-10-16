@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_IV.P29791번_에르다_노바와_오리진_스킬;
+package P29791번_에르다_노바와_오리진_스킬;
 
 import java.io.BufferedReader;
 import java.io.IOException;

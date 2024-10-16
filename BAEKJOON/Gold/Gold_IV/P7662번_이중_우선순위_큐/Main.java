@@ -1,4 +1,4 @@
-package Gold_IV.P7662번_이중_우선순위_큐;
+package P7662번_이중_우선순위_큐;
 
 import java.io.BufferedReader;
 import java.io.IOException;

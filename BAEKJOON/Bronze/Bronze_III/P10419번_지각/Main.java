@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P10419번_지각;
+package P10419번_지각;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

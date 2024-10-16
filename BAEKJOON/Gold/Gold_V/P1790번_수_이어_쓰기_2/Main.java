@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.P1790번_수_이어_쓰기_2;
+package P1790번_수_이어_쓰기_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

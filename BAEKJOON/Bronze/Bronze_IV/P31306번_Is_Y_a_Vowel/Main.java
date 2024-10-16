@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P31306번_Is_Y_a_Vowel;
+package P31306번_Is_Y_a_Vowel;
 
 import java.io.BufferedReader;
 import java.io.IOException;

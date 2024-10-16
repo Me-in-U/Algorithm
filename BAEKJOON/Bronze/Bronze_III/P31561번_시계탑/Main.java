@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P31561번_시계탑;
+package P31561번_시계탑;
 
 import java.io.BufferedReader;
 import java.io.IOException;

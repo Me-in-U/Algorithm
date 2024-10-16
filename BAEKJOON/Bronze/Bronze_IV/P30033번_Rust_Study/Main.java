@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P30033번_Rust_Study;
+package P30033번_Rust_Study;
 
 import java.io.BufferedReader;
 import java.io.IOException;

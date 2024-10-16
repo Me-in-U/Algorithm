@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P5063번_TGN;
+package P5063번_TGN;
 
 import java.io.BufferedReader;
 import java.io.IOException;

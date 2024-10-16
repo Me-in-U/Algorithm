@@ -1,4 +1,4 @@
-package Bronze_II.P11328번_Strfry;
+package P11328번_Strfry;
 
 import java.io.BufferedReader;
 import java.io.IOException;

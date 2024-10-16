@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P29683번_Рождественская_лотерея;
+package P29683번_Рождественская_лотерея;
 
 import java.io.BufferedReader;
 import java.io.IOException;

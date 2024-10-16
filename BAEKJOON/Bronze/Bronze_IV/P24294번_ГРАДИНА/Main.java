@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P24294번_ГРАДИНА;
+package P24294번_ГРАДИНА;
 
 import java.io.BufferedReader;
 import java.io.IOException;

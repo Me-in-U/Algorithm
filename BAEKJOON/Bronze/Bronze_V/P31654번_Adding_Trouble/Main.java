@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_V.P31654번_Adding_Trouble;
+package P31654번_Adding_Trouble;
 
 import java.io.BufferedReader;
 import java.io.IOException;

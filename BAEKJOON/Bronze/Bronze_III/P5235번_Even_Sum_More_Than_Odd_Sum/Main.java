@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P5235번_Even_Sum_More_Than_Odd_Sum;
+package P5235번_Even_Sum_More_Than_Odd_Sum;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P5988번_홀수일까_짝수일까;
+package P5988번_홀수일까_짝수일까;
 
 import java.io.BufferedReader;
 import java.io.IOException;

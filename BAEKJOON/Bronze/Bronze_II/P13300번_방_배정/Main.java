@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P13300번_방_배정;
+package P13300번_방_배정;
 
 import java.io.BufferedReader;
 import java.io.IOException;

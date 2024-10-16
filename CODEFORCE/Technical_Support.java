@@ -1,19 +1,16 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.StringTokenizer;
 
 public class Technical_Support {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		StringTokenizer st = null;
 		StringBuilder sb = new StringBuilder();
 		int T = Integer.parseInt(br.readLine());
 		for (int i = 0; i < T; i++) {
 			int n = Integer.parseInt(br.readLine());
 			String QA = br.readLine();
 			int Q = 0;
-			int A = 0;
 			for (int j = 0; j < n; j++) {
 				char c = QA.charAt(j);
 				if (c == 'Q')

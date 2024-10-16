@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P1550번_16진수;
+package P1550번_16진수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

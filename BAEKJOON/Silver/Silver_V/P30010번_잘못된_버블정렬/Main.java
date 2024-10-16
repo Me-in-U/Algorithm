@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_V.P30010번_잘못된_버블정렬;
+package P30010번_잘못된_버블정렬;
 
 import java.io.BufferedReader;
 import java.io.IOException;

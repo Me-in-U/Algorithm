@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P25828번_Corona_Virus_Testing;
+package P25828번_Corona_Virus_Testing;
 
 import java.io.BufferedReader;
 import java.io.IOException;

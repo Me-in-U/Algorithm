@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_I.P1834번_나머지와_몫이_같은_수;
+package P1834번_나머지와_몫이_같은_수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

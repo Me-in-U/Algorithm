@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P30802번_웰컴_키트;
+package P30802번_웰컴_키트;
 
 import java.io.BufferedReader;
 import java.io.IOException;

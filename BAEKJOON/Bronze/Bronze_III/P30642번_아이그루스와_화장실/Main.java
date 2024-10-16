@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P30642번_아이그루스와_화장실;
+package P30642번_아이그루스와_화장실;
 
 import java.io.BufferedReader;
 import java.io.IOException;

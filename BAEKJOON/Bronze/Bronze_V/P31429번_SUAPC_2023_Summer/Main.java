@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_V.P31429번_SUAPC_2023_Summer;
+package P31429번_SUAPC_2023_Summer;
 
 import java.io.BufferedReader;
 import java.io.IOException;

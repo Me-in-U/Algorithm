@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_III.P29813번_최애의_팀원;
+package P29813번_최애의_팀원;
 
 import java.io.BufferedReader;
 import java.io.IOException;

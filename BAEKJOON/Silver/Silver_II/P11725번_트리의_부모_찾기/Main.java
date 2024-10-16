@@ -12,6 +12,7 @@ public class Main {
   private static int N;
   // private static boolean[] visited;
 
+  @SuppressWarnings("unchecked")
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     StringBuilder sb = new StringBuilder();

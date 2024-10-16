@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P5691번_평균_중앙값_문제;
+package P5691번_평균_중앙값_문제;
 
 import java.io.BufferedReader;
 import java.io.IOException;

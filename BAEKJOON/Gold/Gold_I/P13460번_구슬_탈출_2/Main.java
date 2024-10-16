@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_I.P13460번_구슬_탈출_2;
+package Gold_I.P13460번_구슬_탈출_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.P27940번_가지_산사태;
+package P27940번_가지_산사태;
 
 import java.io.BufferedReader;
 import java.io.IOException;

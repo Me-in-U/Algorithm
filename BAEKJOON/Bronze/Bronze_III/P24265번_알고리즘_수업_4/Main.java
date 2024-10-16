@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P24265번_알고리즘_수업_4;
+package P24265번_알고리즘_수업_4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

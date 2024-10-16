@@ -1,4 +1,4 @@
-package Bronze_V.P18108번_1998년생인_내가_태국에서는_2541년생;
+package P18108번_1998년생인_내가_태국에서는_2541년생;
 
 import java.io.BufferedReader;
 import java.io.IOException;

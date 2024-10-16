@@ -1,4 +1,4 @@
-package Gold_V.P3020번_개똥벌레;
+package P3020번_개똥벌레;
 
 import java.io.BufferedReader;
 import java.io.IOException;

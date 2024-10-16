@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_V.P13023번_ABCDE;
+package P13023번_ABCDE;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -13,6 +13,7 @@ public class Main {
     protected static boolean[] visited;
     protected static boolean ABCDE;
 
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String[] input = br.readLine().split(" ");

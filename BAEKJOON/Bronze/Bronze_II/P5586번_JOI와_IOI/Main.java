@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P5586번_JOI와_IOI;
+package P5586번_JOI와_IOI;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P18330번_Petrol;
+package P18330번_Petrol;
 
 import java.io.BufferedReader;
 import java.io.IOException;

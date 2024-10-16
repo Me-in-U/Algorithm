@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P31669번_특별한_학교_탈출;
+package P31669번_특별한_학교_탈출;
 
 import java.io.BufferedReader;
 import java.io.IOException;

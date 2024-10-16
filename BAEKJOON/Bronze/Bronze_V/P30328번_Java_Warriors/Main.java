@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_V.P30328번_Java_Warriors;
+package P30328번_Java_Warriors;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_V.P29808번_너의_수능_점수가_궁금해;
+package P29808번_너의_수능_점수가_궁금해;
 
 import java.io.BufferedReader;
 import java.io.IOException;

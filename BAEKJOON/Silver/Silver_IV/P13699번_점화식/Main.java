@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_IV.P13699번_점화식;
+package P13699번_점화식;
 
 import java.io.BufferedReader;
 import java.io.IOException;

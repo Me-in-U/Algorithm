@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P27182번_Rain_Diary;
+package P27182번_Rain_Diary;
 
 import java.io.BufferedReader;
 import java.io.IOException;

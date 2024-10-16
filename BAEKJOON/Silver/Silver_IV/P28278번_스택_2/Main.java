@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_IV.P28278번_스택_2;
+package P28278번_스택_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P29722번_브실혜성;
+package P29722번_브실혜성;
 
 import java.io.BufferedReader;
 import java.io.IOException;

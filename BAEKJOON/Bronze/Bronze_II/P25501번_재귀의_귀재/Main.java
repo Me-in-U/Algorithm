@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P25501번_재귀의_귀재;
+package P25501번_재귀의_귀재;
 
 import java.io.BufferedReader;
 import java.io.IOException;

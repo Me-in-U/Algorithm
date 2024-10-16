@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P26532번_Acres;
+package P26532번_Acres;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P11795번_Donation_Packaging;
+package P11795번_Donation_Packaging;
 
 import java.io.BufferedReader;
 import java.io.IOException;

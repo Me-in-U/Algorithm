@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_V.P30030번_스위트콘_가격_구하기;
+package P30030번_스위트콘_가격_구하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P27855번_Cornhole;
+package P27855번_Cornhole;
 
 import java.io.BufferedReader;
 import java.io.IOException;

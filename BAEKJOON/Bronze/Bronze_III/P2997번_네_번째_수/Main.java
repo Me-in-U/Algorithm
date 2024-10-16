@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P2997번_네_번째_수;
+package P2997번_네_번째_수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

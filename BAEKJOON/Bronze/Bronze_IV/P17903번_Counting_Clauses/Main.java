@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P17903번_Counting_Clauses;
+package P17903번_Counting_Clauses;
 
 import java.io.BufferedReader;
 import java.io.IOException;

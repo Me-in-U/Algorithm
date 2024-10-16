@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_I.P29724번_사과상자에_들어있는_것은_무엇_현금;
+package P29724번_사과상자에_들어있는_것은_무엇_현금;
 
 import java.io.BufferedReader;
 import java.io.IOException;

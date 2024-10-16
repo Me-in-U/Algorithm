@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P27239번_Шахматная_доска;
+package P27239번_Шахматная_доска;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.P1715반_카드_정렬하기;
+package P1715반_카드_정렬하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

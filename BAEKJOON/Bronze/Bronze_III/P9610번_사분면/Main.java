@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P9610번_사분면;
+package P9610번_사분면;
 
 import java.io.BufferedReader;
 import java.io.IOException;

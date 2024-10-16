@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_IV.P5052번_전화번호_목록;
+package P5052번_전화번호_목록;
 
 import java.io.BufferedReader;
 import java.io.IOException;

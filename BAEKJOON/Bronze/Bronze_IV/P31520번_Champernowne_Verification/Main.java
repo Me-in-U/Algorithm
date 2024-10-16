@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P31520번_Champernowne_Verification;
+package P31520번_Champernowne_Verification;
 
 import java.io.BufferedReader;
 import java.io.IOException;

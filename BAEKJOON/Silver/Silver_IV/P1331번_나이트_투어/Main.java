@@ -1,13 +1,13 @@
-package BAEKJOON.Silver.P1331번_나이트_투어;
+package P1331번_나이트_투어;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Main {
-  public static int[] moveX = { 1, 1, -1, -1, -2, 2, -2, 2 };
-  public static int[] moveY = { -2, 2, -2, 2, 1, 1, -1, -1 };
-  public static String[][] table = {
+  protected static int[] moveX = { 1, 1, -1, -1, -2, 2, -2, 2 };
+  protected static int[] moveY = { -2, 2, -2, 2, 1, 1, -1, -1 };
+  protected static String[][] table = {
       { "A6", "B6", "C6", "D6", "E6", "F6" },
       { "A5", "B5", "C5", "D5", "E5", "F5" },
       { "A4", "B4", "C4", "D4", "E4", "F4" },
@@ -15,12 +15,12 @@ public class Main {
       { "A2", "B2", "C2", "D2", "E2", "F2" },
       { "A1", "B1", "C1", "D1", "E1", "F1" }
   };
-  public static int x = 0;
-  public static int y = 0;
-  public static String start;
-  public static String next;
-  public static boolean valid = true;
-  public static int[][] visited = new int[6][6];
+  protected static int x = 0;
+  protected static int y = 0;
+  protected static String start;
+  protected static String next;
+  protected static boolean valid = true;
+  protected static int[][] visited = new int[6][6];
 
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

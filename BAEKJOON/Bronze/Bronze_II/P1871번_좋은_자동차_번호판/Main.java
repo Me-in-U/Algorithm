@@ -1,4 +1,4 @@
-package Bronze_II.P1871번_좋은_자동차_번호판;
+package P1871번_좋은_자동차_번호판;
 
 import java.io.BufferedReader;
 import java.io.IOException;

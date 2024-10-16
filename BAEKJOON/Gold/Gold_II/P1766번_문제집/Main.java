@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_II.P1766번_문제집;
+package Gold_II.P1766번_문제집;
 
 import java.io.BufferedReader;
 import java.io.IOException;

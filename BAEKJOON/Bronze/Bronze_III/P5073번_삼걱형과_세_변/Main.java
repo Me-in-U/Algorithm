@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P5073번_삼걱형과_세_변;
+package P5073번_삼걱형과_세_변;
 
 import java.io.BufferedReader;
 import java.io.IOException;

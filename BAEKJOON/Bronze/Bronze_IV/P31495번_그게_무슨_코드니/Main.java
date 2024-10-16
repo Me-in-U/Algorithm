@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P31495번_그게_무슨_코드니;
+package P31495번_그게_무슨_코드니;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P12790번_Mini_Fantasy_War;
+package P12790번_Mini_Fantasy_War;
 
 import java.io.BufferedReader;
 import java.io.IOException;

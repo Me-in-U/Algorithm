@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P27262번_Лифт;
+package P27262번_Лифт;
 
 import java.io.BufferedReader;
 import java.io.IOException;

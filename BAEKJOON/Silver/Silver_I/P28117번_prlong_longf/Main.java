@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.P28117번_prlong_longf;
+package P28117번_prlong_longf;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,12 +6,12 @@ import java.io.InputStreamReader;
 import java.util.HashSet;
 
 public class Main {
-  public static HashSet<String> set;
+  protected static HashSet<String> set;
 
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     set = new HashSet<>();
-    int N = Integer.parseInt(br.readLine());
+    br.readLine();
     String str = br.readLine();
     find(str);
     System.out.println(set.size() + 1);

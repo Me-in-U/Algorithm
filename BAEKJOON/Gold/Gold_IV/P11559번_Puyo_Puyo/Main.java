@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_IV.P11559번_Puyo_Puyo;
+package P11559번_Puyo_Puyo;
 
 import java.io.BufferedReader;
 import java.io.IOException;

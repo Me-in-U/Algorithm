@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_I.P14696번_딱지놀이;
+package P14696번_딱지놀이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

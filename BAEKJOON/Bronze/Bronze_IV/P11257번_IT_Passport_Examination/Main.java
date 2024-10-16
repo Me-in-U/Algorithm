@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P11257번_IT_Passport_Examination;
+package P11257번_IT_Passport_Examination;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Silver_IV.P15624번_피보나치_수_7;
+package P15624번_피보나치_수_7;
 
 import java.io.BufferedReader;
 import java.io.IOException;

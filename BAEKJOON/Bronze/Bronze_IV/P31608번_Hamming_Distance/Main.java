@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P31608번_Hamming_Distance;
+package P31608번_Hamming_Distance;
 
 import java.io.BufferedReader;
 import java.io.IOException;

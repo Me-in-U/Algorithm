@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P30468번_호반우가_학교에_자각한_이유_1;
+package P30468번_호반우가_학교에_자각한_이유_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

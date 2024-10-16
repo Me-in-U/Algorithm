@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P28519번_Планеты_двух_измерений;
+package P28519번_Планеты_двух_измерений;
 
 import java.io.BufferedReader;
 import java.io.IOException;

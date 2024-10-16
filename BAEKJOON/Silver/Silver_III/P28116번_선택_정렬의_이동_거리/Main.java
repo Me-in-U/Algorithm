@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.P28116번_선택_정렬의_이동_거리;
+package P28116번_선택_정렬의_이동_거리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

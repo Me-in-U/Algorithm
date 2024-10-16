@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P6359번_만취한_상범;
+package P6359번_만취한_상범;
 
 import java.io.BufferedReader;
 import java.io.IOException;

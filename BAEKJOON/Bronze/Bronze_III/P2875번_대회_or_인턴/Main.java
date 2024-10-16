@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P2875번_대회_or_인턴;
+package P2875번_대회_or_인턴;
 
 import java.io.BufferedReader;
 import java.io.IOException;

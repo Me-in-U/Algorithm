@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P10214번_Baseball;
+package P10214번_Baseball;
 
 import java.io.BufferedReader;
 import java.io.IOException;

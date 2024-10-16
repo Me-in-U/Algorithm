@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_V.P30224번_Lucky7;
+package P30224번_Lucky7;
 
 import java.io.BufferedReader;
 import java.io.IOException;

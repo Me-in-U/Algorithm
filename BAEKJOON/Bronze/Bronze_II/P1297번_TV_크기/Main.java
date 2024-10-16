@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P1297번_TV_크기;
+package P1297번_TV_크기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

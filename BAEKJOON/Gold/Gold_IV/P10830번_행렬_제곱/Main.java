@@ -1,4 +1,4 @@
-package Gold_IV.P10830번_행렬_제곱;
+package P10830번_행렬_제곱;
 
 import java.io.BufferedReader;
 import java.io.IOException;

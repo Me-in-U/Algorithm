@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P14920번_3n;
+package P14920번_3n;
 
 import java.io.BufferedReader;
 import java.io.IOException;

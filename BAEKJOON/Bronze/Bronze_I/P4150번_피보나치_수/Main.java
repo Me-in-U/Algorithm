@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_I.P4150번_피보나치_수;
+package P4150번_피보나치_수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

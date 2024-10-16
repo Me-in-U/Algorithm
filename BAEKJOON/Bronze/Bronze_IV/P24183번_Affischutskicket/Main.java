@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P24183번_Affischutskicket;
+package P24183번_Affischutskicket;
 
 import java.io.BufferedReader;
 import java.io.IOException;

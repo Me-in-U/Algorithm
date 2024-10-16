@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P10102번_개표;
+package P10102번_개표;
 
 import java.io.BufferedReader;
 import java.io.IOException;

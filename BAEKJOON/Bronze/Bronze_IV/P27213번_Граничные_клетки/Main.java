@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P27213번_Граничные_клетки;
+package P27213번_Граничные_клетки;
 
 import java.io.BufferedReader;
 import java.io.IOException;

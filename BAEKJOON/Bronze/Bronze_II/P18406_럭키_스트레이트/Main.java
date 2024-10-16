@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P18406_럭키_스트레이트;
+package P18406_럭키_스트레이트;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Bronze_IV.P10480번_Oddities;
+package P10480번_Oddities;
 
 import java.io.BufferedReader;
 import java.io.IOException;

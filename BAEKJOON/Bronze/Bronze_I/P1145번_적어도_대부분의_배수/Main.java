@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_I.P1145번_적어도_대부분의_배수;
+package P1145번_적어도_대부분의_배수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

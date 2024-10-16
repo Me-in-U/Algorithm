@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_V.P15681번_트리와_쿼리;
+package P15681번_트리와_쿼리;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,6 +12,7 @@ public class Main {
     protected static int[] size;
     protected static int[] nodeParent;
 
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();

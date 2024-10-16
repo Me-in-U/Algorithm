@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P2783번_삼각_김밥;
+package P2783번_삼각_김밥;
 
 import java.io.BufferedReader;
 import java.io.IOException;

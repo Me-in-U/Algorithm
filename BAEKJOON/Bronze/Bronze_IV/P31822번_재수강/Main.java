@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P31822번_재수강;
+package P31822번_재수강;
 
 import java.io.BufferedReader;
 import java.io.IOException;

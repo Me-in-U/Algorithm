@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_V.P15688번_수_정렬하기_5;
+package P15688번_수_정렬하기_5;
 
 import java.io.BufferedReader;
 import java.io.IOException;

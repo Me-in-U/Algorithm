@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_III.P17175번_피보나치는_지겨웡;
+package P17175번_피보나치는_지겨웡;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P10093번_숫자;
+package P10093번_숫자;
 
 import java.io.BufferedReader;
 import java.io.IOException;

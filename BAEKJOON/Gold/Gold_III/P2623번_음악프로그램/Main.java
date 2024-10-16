@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_III.P2623번_음악프로그램;
+package P2623번_음악프로그램;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -11,6 +11,7 @@ public class Main {
     protected static int[] inDegree;
     protected static LinkedList<Integer>[] graph;
 
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());

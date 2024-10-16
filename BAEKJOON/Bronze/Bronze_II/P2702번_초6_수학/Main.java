@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P2702번_초6_수학;
+package P2702번_초6_수학;
 
 import java.io.BufferedReader;
 import java.io.IOException;

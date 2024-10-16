@@ -1,8 +1,7 @@
-package Silver_III.P2606번_바이러스;
+package P2606번_바이러스;
 
 import java.util.LinkedList;
 import java.util.Stack;
-import java.util.Iterator;
 import java.util.NoSuchElementException;
 
 import java.io.BufferedReader;

@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P11134번_쿠키애호가;
+package P11134번_쿠키애호가;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_V.P11256번_사탕;
+package P11256번_사탕;
 
 import java.io.BufferedReader;
 import java.io.IOException;

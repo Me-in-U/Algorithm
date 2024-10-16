@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_I.P23881번_알고리즘_수업_선택_정렬_1;
+package P23881번_알고리즘_수업_선택_정렬_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

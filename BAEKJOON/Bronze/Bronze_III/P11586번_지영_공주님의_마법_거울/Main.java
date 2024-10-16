@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P11586번_지영_공주님의_마법_거울;
+package P11586번_지영_공주님의_마법_거울;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Bronze_III.P10162번_전자레인지;
+package P10162번_전자레인지;
 
 import java.io.BufferedReader;
 import java.io.IOException;

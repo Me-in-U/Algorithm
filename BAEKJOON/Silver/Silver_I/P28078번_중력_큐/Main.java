@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.P28078번_중력_큐;
+package P28078번_중력_큐;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,9 +7,9 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 public class Main {
-  public static Deque<Character> queue = new ArrayDeque<>();
-  public static int rotateState = 0;
-  public static int countScreen = 0;
+  protected static Deque<Character> queue = new ArrayDeque<>();
+  protected static int rotateState = 0;
+  protected static int countScreen = 0;
 
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

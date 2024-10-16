@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P31280번_ФАКИР;
+package P31280번_ФАКИР;
 
 import java.io.BufferedReader;
 import java.io.IOException;

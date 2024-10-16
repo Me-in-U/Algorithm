@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P2857번_FBI;
+package P2857번_FBI;
 
 import java.io.BufferedReader;
 import java.io.IOException;

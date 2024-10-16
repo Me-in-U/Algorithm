@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_I.P14467번_소가_길을_건너간_이유_1;
+package P14467번_소가_길을_건너간_이유_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

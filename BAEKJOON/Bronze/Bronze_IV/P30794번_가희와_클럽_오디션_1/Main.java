@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P30794번_가희와_클럽_오디션_1;
+package P30794번_가희와_클럽_오디션_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

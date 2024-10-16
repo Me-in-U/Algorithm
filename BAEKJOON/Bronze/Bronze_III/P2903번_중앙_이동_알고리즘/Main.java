@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P2903번_중앙_이동_알고리즘;
+package P2903번_중앙_이동_알고리즘;
 
 import java.io.BufferedReader;
 import java.io.IOException;

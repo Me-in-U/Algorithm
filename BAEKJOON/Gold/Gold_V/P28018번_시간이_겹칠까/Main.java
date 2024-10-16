@@ -1,4 +1,4 @@
-package Gold_V.P28018번_시간이_겹칠까;
+package P28018번_시간이_겹칠까;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,8 @@ import java.util.Arrays;
 
 public class Main {
   static class Student implements Comparable<Student> {
-    int S, E;
+    int S;
+    int E;
 
     Student(int S, int E) {
       this.S = S;

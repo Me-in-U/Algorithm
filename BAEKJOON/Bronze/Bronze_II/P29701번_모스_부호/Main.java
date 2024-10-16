@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P29701번_모스_부호;
+package P29701번_모스_부호;
 
 import java.io.BufferedReader;
 import java.io.IOException;

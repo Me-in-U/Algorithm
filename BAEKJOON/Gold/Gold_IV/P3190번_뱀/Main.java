@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.P3190번_뱀;
+package P3190번_뱀;
 
 import java.io.BufferedReader;
 import java.io.IOException;

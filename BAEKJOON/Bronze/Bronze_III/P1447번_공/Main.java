@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P1447번_공;
+package P1447번_공;
 
 import java.io.BufferedReader;
 import java.io.IOException;

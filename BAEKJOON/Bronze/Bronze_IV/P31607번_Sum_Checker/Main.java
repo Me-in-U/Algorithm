@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P31607번_Sum_Checker;
+package P31607번_Sum_Checker;
 
 import java.io.BufferedReader;
 import java.io.IOException;

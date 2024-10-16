@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_I.P4927번_Casting_Out_Nines;
+package P4927번_Casting_Out_Nines;
 
 import java.io.BufferedReader;
 import java.io.IOException;

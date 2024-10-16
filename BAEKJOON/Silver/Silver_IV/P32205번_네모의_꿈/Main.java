@@ -1,3 +1,5 @@
+package P32205번_네모의_꿈;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

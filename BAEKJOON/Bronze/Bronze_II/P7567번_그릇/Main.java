@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P7567번_그릇;
+package P7567번_그릇;
 
 import java.io.BufferedReader;
 import java.io.IOException;

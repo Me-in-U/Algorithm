@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_V.P13909번_창문_닫기;
+package P13909번_창문_닫기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_V.P1717번_집합의_표현;
+package P1717번_집합의_표현;
 
 import java.io.BufferedReader;
 import java.io.IOException;

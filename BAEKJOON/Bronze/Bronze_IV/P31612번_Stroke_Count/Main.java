@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P31612번_Stroke_Count;
+package P31612번_Stroke_Count;
 
 import java.io.BufferedReader;
 import java.io.IOException;

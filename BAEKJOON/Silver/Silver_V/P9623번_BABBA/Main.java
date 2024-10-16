@@ -1,4 +1,4 @@
-package Silver_V.P9623번_BABBA;
+package P9623번_BABBA;
 
 import java.io.BufferedReader;
 import java.io.IOException;

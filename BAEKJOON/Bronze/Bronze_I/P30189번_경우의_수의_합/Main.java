@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_I.P30189번_경우의_수의_합;
+package P30189번_경우의_수의_합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_IV.P9507번_Generations_of_Tribbles;
+package P9507번_Generations_of_Tribbles;
 
 import java.io.BufferedReader;
 import java.io.IOException;

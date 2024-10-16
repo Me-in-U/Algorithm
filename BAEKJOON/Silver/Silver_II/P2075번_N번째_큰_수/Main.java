@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.P2075번_N번째_큰_수;
+package P2075번_N번째_큰_수;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,6 +9,7 @@ import java.util.Deque;
 import java.util.PriorityQueue;
 
 public class Main {
+  @SuppressWarnings("unchecked")
   public static void main(String[] args) throws IOException {
     // !입력
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

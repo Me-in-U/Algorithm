@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P28295번_체육은_코딩과목_입니다;
+package P28295번_체육은_코딩과목_입니다;
 
 import java.io.BufferedReader;
 import java.io.IOException;

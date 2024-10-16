@@ -1,4 +1,4 @@
-package Bronze_IV.P21631번_Checkers;
+package P21631번_Checkers;
 
 import java.io.BufferedReader;
 import java.io.IOException;

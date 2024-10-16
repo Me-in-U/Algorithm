@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P4504번_배수_찾기;
+package P4504번_배수_찾기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P26057번_Большой_удой;
+package P26057번_Большой_удой;
 
 import java.io.BufferedReader;
 import java.io.IOException;

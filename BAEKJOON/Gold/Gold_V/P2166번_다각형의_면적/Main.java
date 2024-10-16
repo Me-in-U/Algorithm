@@ -1,4 +1,4 @@
-package Gold_V.P2166번_다각형의_면적;
+package P2166번_다각형의_면적;
 
 import java.io.BufferedReader;
 import java.io.IOException;

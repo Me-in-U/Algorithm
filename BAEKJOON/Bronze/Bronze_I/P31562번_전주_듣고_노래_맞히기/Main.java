@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_I.P31562번_전주_듣고_노래_맞히기;
+package P31562번_전주_듣고_노래_맞히기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -52,7 +52,7 @@ public class Main {
         int M = Integer.parseInt(st.nextToken());
         for (int i = 0; i < N; i++) {
             st = new StringTokenizer(br.readLine());
-            int T = Integer.parseInt(st.nextToken());
+            st.nextToken();
             String name = st.nextToken();
             char c1 = st.nextToken().charAt(0);
             char c2 = st.nextToken().charAt(0);

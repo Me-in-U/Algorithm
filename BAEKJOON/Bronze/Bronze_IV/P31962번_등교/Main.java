@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P31962번_등교;
+package P31962번_등교;
 
 import java.io.BufferedReader;
 import java.io.IOException;

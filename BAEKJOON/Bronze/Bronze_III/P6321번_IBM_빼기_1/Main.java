@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P6321번_IBM_빼기_1;
+package P6321번_IBM_빼기_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

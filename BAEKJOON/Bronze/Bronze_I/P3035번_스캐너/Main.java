@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_I.P3035번_스캐너;
+package P3035번_스캐너;
 
 import java.io.BufferedReader;
 import java.io.IOException;

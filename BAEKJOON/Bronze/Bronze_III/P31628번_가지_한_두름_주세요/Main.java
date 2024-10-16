@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P31628번_가지_한_두름_주세요;
+package P31628번_가지_한_두름_주세요;
 
 import java.io.BufferedReader;
 import java.io.IOException;

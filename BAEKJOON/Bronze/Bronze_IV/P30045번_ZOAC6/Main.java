@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P30045번_ZOAC6;
+package P30045번_ZOAC6;
 
 import java.io.BufferedReader;
 import java.io.IOException;

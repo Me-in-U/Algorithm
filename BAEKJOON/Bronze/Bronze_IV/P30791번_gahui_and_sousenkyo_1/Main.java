@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P30791번_gahui_and_sousenkyo_1;
+package P30791번_gahui_and_sousenkyo_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

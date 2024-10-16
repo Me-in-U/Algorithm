@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P20336번_Haughty_Cuisine;
+package P20336번_Haughty_Cuisine;
 
 import java.io.BufferedReader;
 import java.io.IOException;

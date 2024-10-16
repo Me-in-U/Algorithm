@@ -1,4 +1,4 @@
-package Bronze_IV.P1264번_모음의_개수;
+package P1264번_모음의_개수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

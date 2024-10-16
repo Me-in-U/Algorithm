@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_V.P29699번_Welcome_to_SMUPC;
+package P29699번_Welcome_to_SMUPC;
 
 import java.io.BufferedReader;
 import java.io.IOException;

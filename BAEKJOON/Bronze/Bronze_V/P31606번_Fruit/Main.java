@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_V.P31606번_Fruit;
+package P31606번_Fruit;
 
 import java.io.BufferedReader;
 import java.io.IOException;

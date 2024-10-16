@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_IV.P1015번_수열_정렬;
+package P1015번_수열_정렬;
 
 import java.io.BufferedReader;
 import java.io.IOException;

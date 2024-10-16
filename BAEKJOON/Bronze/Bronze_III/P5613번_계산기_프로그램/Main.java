@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P5613번_계산기_프로그램;
+package P5613번_계산기_프로그램;
 
 import java.io.BufferedReader;
 import java.io.IOException;

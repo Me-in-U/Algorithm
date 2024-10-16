@@ -1,3 +1,5 @@
+package Platinum_II.P32238번_고장난_키보드;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -17,11 +19,7 @@ public class 고장난키보드 {
             once[i] = P / (P + Q);
             twice[i] = Q / (P + Q);
         }
-        String[] backspaceInput = br.readLine().split(" ");
-        double P_Backspace = Double.parseDouble(backspaceInput[0]);
-        double Q_Backspace = Double.parseDouble(backspaceInput[1]);
-        double onceBackspace = P_Backspace / (P_Backspace + Q_Backspace);
-        double twiceBackspace = Q_Backspace / (P_Backspace + Q_Backspace);
+        br.readLine();
         int N = Integer.parseInt(br.readLine());
         String target = br.readLine();
         dp = new double[N + 1];

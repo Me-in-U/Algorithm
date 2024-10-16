@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_II.P17387번_선분_교차_2;
+package Gold_II.P17387번_선분_교차_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

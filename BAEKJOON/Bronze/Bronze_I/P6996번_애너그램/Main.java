@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_I.P6996번_애너그램;
+package P6996번_애너그램;
 
 import java.io.BufferedReader;
 import java.io.IOException;

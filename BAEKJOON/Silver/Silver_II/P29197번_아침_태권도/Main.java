@@ -1,4 +1,4 @@
-package Silver_II.P29197번_아침_태권도;
+package P29197번_아침_태권도;
 
 import java.io.BufferedReader;
 import java.io.IOException;

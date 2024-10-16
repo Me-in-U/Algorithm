@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.P21736번_헌내기는_친구가_필요해;
+package P21736번_헌내기는_친구가_필요해;
 
 import java.io.BufferedReader;
 import java.io.IOException;

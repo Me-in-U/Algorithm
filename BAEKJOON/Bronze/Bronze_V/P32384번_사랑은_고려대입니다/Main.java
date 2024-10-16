@@ -1,4 +1,4 @@
-package Bronze_V.P32384번_사랑은_고려대입니다;
+package P32384번_사랑은_고려대입니다;
 
 import java.io.BufferedReader;
 import java.io.IOException;

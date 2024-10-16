@@ -1,4 +1,4 @@
-package Gold_IV.P17140번_이차원_배열과_연산;
+package P17140번_이차원_배열과_연산;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -55,7 +55,7 @@ public class Main {
 
     // R연산
     private static void calculateR(int num) {
-        // 각 숫자들이 몇 번 나왔는지 갯수를 구해서 map에 담았다가 priorityqueue로 옮겨 정렬 기준에 맞춰 정렬
+        // 각 숫자들이 몇 번 나왔는지 갯수를 구해서 map에 담았다가 PriorityQueue로 옮겨 정렬 기준에 맞춰 정렬
         PriorityQueue<Node> queue = new PriorityQueue<>();
         Map<Integer, Integer> map = new HashMap<>(); // <number, count>
 

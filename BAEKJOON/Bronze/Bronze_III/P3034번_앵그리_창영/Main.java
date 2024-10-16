@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P3034번_앵그리_창영;
+package P3034번_앵그리_창영;
 
 import java.io.BufferedReader;
 import java.io.IOException;

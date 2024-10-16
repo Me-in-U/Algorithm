@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P6825번_Body_Mass_Index;
+package P6825번_Body_Mass_Index;
 
 import java.io.BufferedReader;
 import java.io.IOException;

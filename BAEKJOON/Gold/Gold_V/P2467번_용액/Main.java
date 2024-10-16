@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_V.P2467번_용액;
+package P2467번_용액;
 
 import java.io.BufferedReader;
 import java.io.IOException;

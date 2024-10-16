@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.P28075번_스파이;
+package P28075번_스파이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

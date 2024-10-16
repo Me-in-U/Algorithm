@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_IV.P13549번_숨바꼭질_3;
+package P13549번_숨바꼭질_3;
 
 import java.io.BufferedReader;
 import java.io.IOException;

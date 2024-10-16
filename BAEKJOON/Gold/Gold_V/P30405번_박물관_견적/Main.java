@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_V.P30405번_박물관_견적;
+package P30405번_박물관_견적;
 
 import java.io.BufferedReader;
 import java.io.IOException;

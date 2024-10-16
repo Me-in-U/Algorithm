@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P20053번_최소_최대2;
+package P20053번_최소_최대2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P2863번_이게_분수;
+package P2863번_이게_분수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

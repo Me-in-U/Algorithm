@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_III.P7579번_앱;
+package P7579번_앱;
 
 import java.io.BufferedReader;
 import java.io.IOException;

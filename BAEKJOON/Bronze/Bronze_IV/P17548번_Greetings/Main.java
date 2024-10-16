@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P17548번_Greetings;
+package P17548번_Greetings;
 
 import java.io.BufferedReader;
 import java.io.IOException;

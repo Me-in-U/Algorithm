@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P6131번_완전_제곱수;
+package P6131번_완전_제곱수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

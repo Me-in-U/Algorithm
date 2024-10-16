@@ -1,4 +1,4 @@
-package Silver_V.P11004번_K번째_수;
+package P11004번_K번째_수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Silver_IV.P17219번_비밀번호_찾기;
+package P17219번_비밀번호_찾기;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

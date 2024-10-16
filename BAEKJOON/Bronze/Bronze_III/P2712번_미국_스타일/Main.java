@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P2712번_미국_스타일;
+package P2712번_미국_스타일;
 
 import java.io.BufferedReader;
 import java.io.IOException;

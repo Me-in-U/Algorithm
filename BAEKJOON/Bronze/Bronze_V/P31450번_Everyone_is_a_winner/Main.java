@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_V.P31450번_Everyone_is_a_winner;
+package P31450번_Everyone_is_a_winner;
 
 import java.io.BufferedReader;
 import java.io.IOException;

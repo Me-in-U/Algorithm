@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P29736번_브실이와_친구가_되고_싶어;
+package P29736번_브실이와_친구가_되고_싶어;
 
 import java.io.BufferedReader;
 import java.io.IOException;

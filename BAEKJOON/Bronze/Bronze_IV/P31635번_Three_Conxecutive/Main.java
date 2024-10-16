@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P31635번_Three_Conxecutive;
+package P31635번_Three_Conxecutive;
 
 import java.io.BufferedReader;
 import java.io.IOException;

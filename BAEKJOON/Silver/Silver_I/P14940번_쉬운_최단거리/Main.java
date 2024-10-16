@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.P14940번_쉬운_최단거리;
+package P14940번_쉬운_최단거리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

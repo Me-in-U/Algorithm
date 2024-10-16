@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_I.P2357번_최솟값과_최댓값;
+package Gold_I.P2357번_최솟값과_최댓값;
 
 import java.io.BufferedReader;
 import java.io.IOException;

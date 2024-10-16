@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P4690번_완전_세제곱;
+package P4690번_완전_세제곱;
 
 public class Main {
     public static void main(String[] args) {

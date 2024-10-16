@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_V.P30676번_이_별은_무슨_색일까;
+package P30676번_이_별은_무슨_색일까;
 
 import java.io.BufferedReader;
 import java.io.IOException;

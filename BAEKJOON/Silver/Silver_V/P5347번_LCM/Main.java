@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_V.P5347번_LCM;
+package P5347번_LCM;
 
 import java.io.BufferedReader;
 import java.io.IOException;

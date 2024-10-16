@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_I.P2804번_크로스워드_만들기;
+package P2804번_크로스워드_만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

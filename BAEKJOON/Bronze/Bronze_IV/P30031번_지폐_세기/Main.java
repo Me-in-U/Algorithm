@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P30031번_지폐_세기;
+package P30031번_지폐_세기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

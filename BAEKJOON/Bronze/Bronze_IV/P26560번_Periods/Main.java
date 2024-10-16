@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P26560번_Periods;
+package P26560번_Periods;
 
 import java.io.BufferedReader;
 import java.io.IOException;

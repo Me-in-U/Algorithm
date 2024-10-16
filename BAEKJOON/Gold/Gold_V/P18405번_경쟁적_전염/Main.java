@@ -13,7 +13,7 @@ public class Main {
   private static int[] dx = { -1, 1, 0, 0 };
   private static int[] dy = { 0, 0, -1, 1 };
 
-  private static int N, K, time;
+  private static int N, time;
   private static int S, X, Y;
 
   public static void main(String[] args) throws IOException {
@@ -22,7 +22,7 @@ public class Main {
 
     st = new StringTokenizer(br.readLine());
     N = Integer.parseInt(st.nextToken());
-    K = Integer.parseInt(st.nextToken());
+    st.nextToken();
 
     PriorityQueue<Point> pq = new PriorityQueue<>();
     arr = new int[N][N];

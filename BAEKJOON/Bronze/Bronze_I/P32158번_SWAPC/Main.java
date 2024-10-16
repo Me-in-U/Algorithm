@@ -1,3 +1,5 @@
+package P32158번_SWAPC;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P32215번_코드마스터_2024;
+package P32215번_코드마스터_2024;
 
 import java.io.BufferedReader;
 import java.io.IOException;

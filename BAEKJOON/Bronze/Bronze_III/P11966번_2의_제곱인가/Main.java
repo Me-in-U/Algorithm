@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P11966번_2의_제곱인가;
+package P11966번_2의_제곱인가;
 
 import java.io.BufferedReader;
 import java.io.IOException;

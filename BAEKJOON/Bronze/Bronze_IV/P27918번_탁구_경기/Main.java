@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P27918번_탁구_경기;
+package P27918번_탁구_경기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

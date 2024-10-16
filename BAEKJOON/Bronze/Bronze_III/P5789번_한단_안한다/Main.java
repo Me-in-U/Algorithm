@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P5789번_한단_안한다;
+package P5789번_한단_안한다;
 
 import java.io.BufferedReader;
 import java.io.IOException;

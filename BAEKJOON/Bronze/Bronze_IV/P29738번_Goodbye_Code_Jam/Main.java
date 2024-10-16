@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P29738번_Goodbye_Code_Jam;
+package P29738번_Goodbye_Code_Jam;
 
 import java.io.BufferedReader;
 import java.io.IOException;

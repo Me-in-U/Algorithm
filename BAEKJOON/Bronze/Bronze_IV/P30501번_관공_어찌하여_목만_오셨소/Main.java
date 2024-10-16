@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P30501번_관공_어찌하여_목만_오셨소;
+package P30501번_관공_어찌하여_목만_오셨소;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_IV.P1940번_주몽;
+package P1940번_주몽;
 
 import java.io.BufferedReader;
 import java.io.IOException;

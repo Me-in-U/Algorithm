@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P5223번_경기_결과;
+package P5223번_경기_결과;
 
 import java.io.BufferedReader;
 import java.io.IOException;

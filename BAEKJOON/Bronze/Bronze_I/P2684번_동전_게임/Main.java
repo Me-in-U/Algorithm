@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_I.P2684번_동전_게임;
+package P2684번_동전_게임;
 
 import java.io.BufferedReader;
 import java.io.IOException;

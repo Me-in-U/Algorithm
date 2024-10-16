@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P31615번_Digit;
+package P31615번_Digit;
 
 import java.io.BufferedReader;
 import java.io.IOException;

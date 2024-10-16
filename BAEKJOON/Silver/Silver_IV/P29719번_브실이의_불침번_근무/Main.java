@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_IV.P29719번_브실이의_불침번_근무;
+package P29719번_브실이의_불침번_근무;
 
 import java.io.BufferedReader;
 import java.io.IOException;

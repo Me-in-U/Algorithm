@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P31844번_창고지기;
+package P31844번_창고지기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

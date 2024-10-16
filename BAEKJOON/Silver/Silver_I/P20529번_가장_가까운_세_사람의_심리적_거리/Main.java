@@ -1,4 +1,4 @@
-package Silver_I.P20529번_가장_가까운_세_사람의_심리적_거리;
+package P20529번_가장_가까운_세_사람의_심리적_거리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

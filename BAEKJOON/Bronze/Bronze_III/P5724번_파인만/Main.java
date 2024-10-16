@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P5724번_파인만;
+package P5724번_파인만;
 
 import java.io.BufferedReader;
 import java.io.IOException;

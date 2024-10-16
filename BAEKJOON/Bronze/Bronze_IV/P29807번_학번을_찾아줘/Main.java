@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P29807번_학번을_찾아줘;
+package P29807번_학번을_찾아줘;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 public class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    int N = Integer.parseInt(br.readLine());
+    br.readLine();
     StringTokenizer st = new StringTokenizer(br.readLine());
     int language = st.hasMoreTokens() ? Integer.parseInt(st.nextToken()) : 0;
     int math = st.hasMoreTokens() ? Integer.parseInt(st.nextToken()) : 0;

@@ -69,6 +69,7 @@ public class Other_2 {
     }
   }
 
+  @SuppressWarnings("unchecked")
   private static void input() throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     StringTokenizer st = new StringTokenizer(br.readLine());

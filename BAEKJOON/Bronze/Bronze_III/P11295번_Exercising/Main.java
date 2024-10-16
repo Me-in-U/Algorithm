@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P11295번_Exercising;
+package P11295번_Exercising;
 
 import java.io.BufferedReader;
 import java.io.IOException;

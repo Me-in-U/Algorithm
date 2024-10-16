@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P9094번_수학적_호기심;
+package P9094번_수학적_호기심;
 
 import java.io.BufferedReader;
 import java.io.IOException;

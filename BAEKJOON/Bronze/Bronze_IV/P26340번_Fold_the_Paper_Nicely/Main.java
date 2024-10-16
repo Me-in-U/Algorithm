@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P26340번_Fold_the_Paper_Nicely;
+package P26340번_Fold_the_Paper_Nicely;
 
 import java.io.BufferedReader;
 import java.io.IOException;

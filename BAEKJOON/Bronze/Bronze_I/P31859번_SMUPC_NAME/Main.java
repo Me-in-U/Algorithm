@@ -1,4 +1,4 @@
-package 제4회_숙명여자대학교.P31859번_SMUPC_NAME;
+package P31859번_SMUPC_NAME;
 
 import java.io.BufferedReader;
 import java.io.IOException;

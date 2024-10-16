@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P2721번_삼각수의_합;
+package P2721번_삼각수의_합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

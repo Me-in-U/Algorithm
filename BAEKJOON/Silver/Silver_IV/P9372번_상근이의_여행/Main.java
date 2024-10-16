@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_IV.P9372번_상근이의_여행;
+package P9372번_상근이의_여행;
 
 import java.io.BufferedReader;
 import java.io.IOException;

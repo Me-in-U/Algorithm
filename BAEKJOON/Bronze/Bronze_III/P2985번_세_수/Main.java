@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P2985번_세_수;
+package P2985번_세_수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

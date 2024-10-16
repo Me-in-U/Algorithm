@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P20352번_Circus;
+package P20352번_Circus;
 
 import java.io.BufferedReader;
 import java.io.IOException;

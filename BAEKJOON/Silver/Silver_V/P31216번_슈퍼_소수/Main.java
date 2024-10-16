@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_V.P31216번_슈퍼_소수;
+package P31216번_슈퍼_소수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

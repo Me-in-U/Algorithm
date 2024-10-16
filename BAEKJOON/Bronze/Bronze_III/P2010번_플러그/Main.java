@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P2010번_플러그;
+package P2010번_플러그;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,6 +12,6 @@ public class Main {
     for (int i = 0; i < N; i++) {
       count += Integer.parseInt(br.readLine());
     }
-    System.out.println(count - N +1);
+    System.out.println(count - N + 1);
   }
 }

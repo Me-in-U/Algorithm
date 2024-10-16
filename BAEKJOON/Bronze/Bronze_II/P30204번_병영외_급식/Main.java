@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P30204번_병영외_급식;
+package P30204번_병영외_급식;
 
 import java.io.BufferedReader;
 import java.io.IOException;

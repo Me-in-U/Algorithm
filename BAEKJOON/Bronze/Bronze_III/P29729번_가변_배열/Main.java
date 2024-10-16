@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P29729번_가변_배열;
+package P29729번_가변_배열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P26772번_Poziome_serca;
+package P26772번_Poziome_serca;
 
 import java.io.BufferedReader;
 import java.io.IOException;

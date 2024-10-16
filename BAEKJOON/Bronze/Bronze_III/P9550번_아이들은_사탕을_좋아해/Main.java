@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P9550번_아이들은_사탕을_좋아해;
+package P9550번_아이들은_사탕을_좋아해;
 
 import java.io.BufferedReader;
 import java.io.IOException;

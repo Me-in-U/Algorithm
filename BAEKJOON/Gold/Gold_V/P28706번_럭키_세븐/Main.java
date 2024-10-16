@@ -1,4 +1,4 @@
-package Gold_V.P28706번_럭키_세븐;
+package P28706번_럭키_세븐;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Bronze_I.P14544번_Vote;
+package P14544번_Vote;
 
 import java.io.BufferedReader;
 import java.io.IOException;

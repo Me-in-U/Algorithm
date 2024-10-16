@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P14215번_세_막대;
+package P14215번_세_막대;
 
 import java.io.BufferedReader;
 import java.io.IOException;

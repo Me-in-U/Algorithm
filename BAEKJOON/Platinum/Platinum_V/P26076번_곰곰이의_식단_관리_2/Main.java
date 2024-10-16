@@ -1,4 +1,4 @@
-package Platinum_V.P26076번_곰곰이의_식단_관리_2;
+package P26076번_곰곰이의_식단_관리_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,14 +9,16 @@ import java.util.Queue;
 
 public class Main {
   // 하, 우, 상, 좌
-  public static int[] dx = { 0, 1, 0, -1 };
-  public static int[] dy = { 1, 0, -1, 0 };
+  protected static int[] dx = { 0, 1, 0, -1 };
+  protected static int[] dy = { 1, 0, -1, 0 };
 
-  public static boolean[][] arr;
-  public static boolean[][] visited;
+  protected static boolean[][] arr;
+  protected static boolean[][] visited;
 
-  public static int M, N, days;
-  public static boolean found;
+  protected static int M;
+  protected static int N;
+  protected static int days;
+  protected static boolean found;
 
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

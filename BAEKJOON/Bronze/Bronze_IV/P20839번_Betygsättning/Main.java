@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P20839번_Betygsättning;
+package P20839번_Betygsättning;
 
 import java.io.BufferedReader;
 import java.io.IOException;

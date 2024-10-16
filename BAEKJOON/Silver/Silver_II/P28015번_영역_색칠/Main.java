@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.P28015번_영역_색칠;
+package P28015번_영역_색칠;
 
 import java.io.BufferedReader;
 import java.io.IOException;

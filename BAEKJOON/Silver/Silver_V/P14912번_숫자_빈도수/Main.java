@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_V.P14912번_숫자_빈도수;
+package P14912번_숫자_빈도수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

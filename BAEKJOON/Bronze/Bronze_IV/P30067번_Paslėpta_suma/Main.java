@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P30067번_Paslėpta_suma;
+package P30067번_Paslėpta_suma;
 
 import java.io.BufferedReader;
 import java.io.IOException;

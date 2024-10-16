@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_I.P30455번_이제는_더_이상_물러날_곳이_없다;
+package P30455번_이제는_더_이상_물러날_곳이_없다;
 
 import java.io.BufferedReader;
 import java.io.IOException;

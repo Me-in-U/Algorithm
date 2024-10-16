@@ -1,4 +1,4 @@
-package Silver_V.P10867번_중복_빼고_정렬하기;
+package P10867번_중복_빼고_정렬하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

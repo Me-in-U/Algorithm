@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P31403번_ABC;
+package P31403번_ABC;
 
 import java.io.BufferedReader;
 import java.io.IOException;

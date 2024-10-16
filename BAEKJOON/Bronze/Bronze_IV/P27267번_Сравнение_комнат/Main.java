@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P27267번_Сравнение_комнат;
+package P27267번_Сравнение_комнат;
 
 import java.io.BufferedReader;
 import java.io.IOException;

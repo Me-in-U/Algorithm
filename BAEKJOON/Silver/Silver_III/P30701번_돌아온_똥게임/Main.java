@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_III.P30701번_돌아온_똥게임;
+package P30701번_돌아온_똥게임;
 
 import java.io.BufferedReader;
 import java.io.IOException;

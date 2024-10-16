@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P30017번_치즈버거_만들기;
+package P30017번_치즈버거_만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

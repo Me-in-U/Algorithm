@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P4562번_No_Brainer;
+package P4562번_No_Brainer;
 
 import java.io.BufferedReader;
 import java.io.IOException;

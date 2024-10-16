@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P30009번_포지션_제로;
+package P30009번_포지션_제로;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,7 +12,7 @@ public class Main {
     int N = Integer.parseInt(br.readLine());
     st = new StringTokenizer(br.readLine());
     int X = Integer.parseInt(st.nextToken());
-    int Y = Integer.parseInt(st.nextToken());
+    st.nextToken();
     int R = Integer.parseInt(st.nextToken());
     int minX = X - R;
     int maxX = X + R;

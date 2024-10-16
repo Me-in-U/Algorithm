@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P29823번_Pakirobot_Manhattanis;
+package P29823번_Pakirobot_Manhattanis;
 
 import java.io.BufferedReader;
 import java.io.IOException;

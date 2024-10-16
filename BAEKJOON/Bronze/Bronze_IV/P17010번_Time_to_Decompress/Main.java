@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P17010번_Time_to_Decompress;
+package P17010번_Time_to_Decompress;
 
 import java.io.BufferedReader;
 import java.io.IOException;

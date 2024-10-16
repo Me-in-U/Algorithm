@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_IV.P30404번_오리와_박수치는_춘배;
+package P30404번_오리와_박수치는_춘배;
 
 import java.io.BufferedReader;
 import java.io.IOException;

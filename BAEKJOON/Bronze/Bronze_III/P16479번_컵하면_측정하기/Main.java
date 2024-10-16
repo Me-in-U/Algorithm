@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P16479번_컵하면_측정하기;
+package P16479번_컵하면_측정하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

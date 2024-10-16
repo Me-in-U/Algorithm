@@ -1,3 +1,5 @@
+package P32209번_다음_달에_봐요;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

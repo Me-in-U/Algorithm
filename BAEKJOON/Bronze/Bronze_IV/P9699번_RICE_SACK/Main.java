@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P9699번_RICE_SACK;
+package P9699번_RICE_SACK;
 
 import java.io.BufferedReader;
 import java.io.IOException;

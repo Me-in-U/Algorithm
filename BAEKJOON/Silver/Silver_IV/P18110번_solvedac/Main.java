@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.P18110번_solvedac;
+package P18110번_solvedac;
 
 import java.io.BufferedReader;
 import java.io.IOException;

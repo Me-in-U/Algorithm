@@ -1,4 +1,4 @@
-package Gold_V.P14567번_선수과목_Prerequisite;
+package P14567번_선수과목_Prerequisite;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -15,6 +15,7 @@ public class Main {
     protected static int[] semester;
     protected static List<Integer>[] graph;
 
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String[] input = br.readLine().split(" ");

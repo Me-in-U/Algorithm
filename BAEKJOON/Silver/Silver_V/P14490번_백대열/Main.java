@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.Silver_V.P14490번_백대열;
+package P14490번_백대열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

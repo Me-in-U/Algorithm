@@ -3,7 +3,6 @@ package P9663번_NQueen;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.HashSet;
 
 public class Main {
   public static int N;

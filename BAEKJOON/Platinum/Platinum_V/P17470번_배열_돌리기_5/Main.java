@@ -1,4 +1,4 @@
-package Platinum_V.P17470번_배열_돌리기_5;
+package P17470번_배열_돌리기_5;
 
 import java.io.BufferedReader;
 import java.io.IOException;

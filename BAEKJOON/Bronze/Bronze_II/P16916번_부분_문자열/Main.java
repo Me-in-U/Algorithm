@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P16916번_부분_문자열;
+package P16916번_부분_문자열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

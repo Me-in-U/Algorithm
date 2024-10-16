@@ -17,7 +17,7 @@ public class Main {
     int N = Integer.parseInt(br.readLine());
     for (int i = 0; i < N; i++) {
       st = new StringTokenizer(br.readLine(), ".");
-      String name = st.nextToken();
+      st.nextToken();
       String ext = st.nextToken();
       if (map.containsKey(ext)) {
         map.put(ext, (map.get(ext) + 1));

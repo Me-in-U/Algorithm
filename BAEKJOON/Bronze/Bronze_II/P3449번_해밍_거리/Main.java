@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_II.P3449번_해밍_거리;
+package P3449번_해밍_거리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Bronze_V.P32326번_Conveyor_Belt_Sushi;
+package P32326번_Conveyor_Belt_Sushi;
 
 import java.io.BufferedReader;
 import java.io.IOException;

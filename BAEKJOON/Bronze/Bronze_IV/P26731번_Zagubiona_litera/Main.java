@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P26731번_Zagubiona_litera;
+package P26731번_Zagubiona_litera;
 
 import java.io.BufferedReader;
 import java.io.IOException;

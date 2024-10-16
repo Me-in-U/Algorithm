@@ -1,4 +1,4 @@
-package Gold_IV.P2448번_별찍기_11;
+package P2448번_별찍기_11;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P10409번_서버;
+package P10409번_서버;
 
 import java.io.BufferedReader;
 import java.io.IOException;

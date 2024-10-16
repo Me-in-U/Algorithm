@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_I.P2263번_트리의_순회;
+package Gold_I.P2263번_트리의_순회;
 
 import java.io.BufferedReader;
 import java.io.IOException;

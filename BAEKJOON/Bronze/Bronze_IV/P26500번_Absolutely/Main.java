@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.P26500번_Absolutely;
+package P26500번_Absolutely;
 
 import java.io.BufferedReader;
 import java.io.IOException;

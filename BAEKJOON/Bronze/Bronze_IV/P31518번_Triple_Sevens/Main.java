@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_IV.P31518번_Triple_Sevens;
+package P31518번_Triple_Sevens;
 
 import java.io.BufferedReader;
 import java.io.IOException;

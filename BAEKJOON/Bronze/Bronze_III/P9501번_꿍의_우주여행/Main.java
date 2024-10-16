@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P9501번_꿍의_우주여행;
+package P9501번_꿍의_우주여행;
 
 import java.io.BufferedReader;
 import java.io.IOException;

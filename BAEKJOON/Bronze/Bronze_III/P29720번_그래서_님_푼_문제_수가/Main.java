@@ -1,4 +1,4 @@
-package BAEKJOON.Bronze.Bronze_III.P29720번_그래서_님_푼_문제_수가;
+package P29720번_그래서_님_푼_문제_수가;
 
 import java.io.BufferedReader;
 import java.io.IOException;

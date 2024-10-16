@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_IV.P1504번_특정한_최단_경로;
+package P1504번_특정한_최단_경로;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -54,6 +54,7 @@ public class Main {
     }
   }
 
+  @SuppressWarnings("unchecked")
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     StringTokenizer st = new StringTokenizer(br.readLine());
