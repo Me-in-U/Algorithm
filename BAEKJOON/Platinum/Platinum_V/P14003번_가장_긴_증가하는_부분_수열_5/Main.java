@@ -1,4 +1,4 @@
-package BAEKJOON.Platinum.Platinum_V.P14003번_가장_긴_증가하는_부분_수열_5;
+package P14003번_가장_긴_증가하는_부분_수열_5;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Gold_II.P1918번_후위_표기식;
+package P1918번_후위_표기식;
 
 import java.io.BufferedReader;
 import java.io.IOException;
