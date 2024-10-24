@@ -1,4 +1,4 @@
-package BAEKJOON.Gold.Gold_II.P7453번_합이_0인_네_정수;
+package P7453번_합이_0인_네_정수;
 
 import java.io.BufferedReader;
 import java.io.IOException;
