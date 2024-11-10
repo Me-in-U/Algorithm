@@ -1,4 +1,4 @@
-package BAEKJOON.Silver.P1343번_폴리오미노;
+package P1343번_폴리오미노;
 
 import java.io.BufferedReader;
 import java.io.IOException;
