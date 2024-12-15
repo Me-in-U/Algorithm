@@ -1,3 +1,5 @@
+import java.io.IOException;
+
 public class StringRepeatTest {
     public static void main(String[] args) {
         int N = 10000;
@@ -5,18 +7,18 @@ public class StringRepeatTest {
 
         // Test repeat()
         long startRepeat = System.nanoTime();
-        String resultRepeat = str.repeat(N);
+
         long endRepeat = System.nanoTime();
         System.out.println("String.repeat() Time: " + (endRepeat - startRepeat) + " ns");
+    }
 
-        // Test loop with StringBuilder
-        long startLoop = System.nanoTime();
+    public static char[] readString() throws IOException {
+        int c;
         StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < N; i++) {
-            sb.append(str);
-        }
-        String resultLoop = sb.toString();
-        long endLoop = System.nanoTime();
-        System.out.println("StringBuilder Loop Time: " + (endLoop - startLoop) + " ns");
+        while ((c = System.in.read()) != -1 && c != '\n' && c != '\r')
+            sb.append((char) c);
+        if (c == '\r')
+            System.in.read();
+        return sb.toString().toCharArray();
     }
 }
