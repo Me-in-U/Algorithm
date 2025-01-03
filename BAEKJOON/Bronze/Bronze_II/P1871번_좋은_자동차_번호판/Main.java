@@ -10,7 +10,6 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int input = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).count();
         StringBuilder sb = new StringBuilder();
         int N = Integer.parseInt(br.readLine());
         while (N-- > 0) {
