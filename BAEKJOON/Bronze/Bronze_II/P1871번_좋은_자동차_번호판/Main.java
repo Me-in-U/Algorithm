@@ -3,7 +3,6 @@ package P1871번_좋은_자동차_번호판;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 
 public class Main {
     protected static final int[] ts = { 676, 26, 1 };
