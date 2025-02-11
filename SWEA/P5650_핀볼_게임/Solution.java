@@ -1,9 +1,6 @@
 package SWEA.P5650_핀볼_게임;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
 
 public class Solution {
 
@@ -40,23 +37,19 @@ public class Solution {
         private static final int[] changeDirection = { 1, 0, 3, 2 };
 
         public static void main(String[] args) throws IOException {
-            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             StringBuilder sb = new StringBuilder();
-            StringTokenizer st = new StringTokenizer(br.readLine());
-            int T = Integer.parseInt(st.nextToken());
+            int T = readInt();
             for (int t = 1; t <= T; t++) {
                 maxScore = 0;
-                st = new StringTokenizer(br.readLine());
-                N = Integer.parseInt(st.nextToken());
+                N = readInt();
                 map = new int[N][N];
                 holes = new Hole[11];
-                for (int j = 6; j < 10; j++) {
-                    holes[j] = new Hole();
+                for (int h = 6; h <= 10; h++) {
+                    holes[h] = new Hole();
                 }
                 for (int x = 0; x < N; x++) {
-                    st = new StringTokenizer(br.readLine());
                     for (int y = 0; y < N; y++) {
-                        int blockNum = Integer.parseInt(st.nextToken());
+                        int blockNum = readInt();
                         map[x][y] = blockNum;
                         if (6 <= blockNum) {
                             holes[blockNum].setPos(x, y);
@@ -120,6 +113,24 @@ public class Solution {
                 return true;
             }
             return false;
+        }
+
+        public static int readInt() throws IOException {
+            int n = 0;
+            int c = System.in.read();
+            boolean isNegative = false;
+            while (c <= 32) {
+                c = System.in.read();
+            }
+            if (c == '-') {
+                isNegative = true;
+                c = System.in.read();
+            }
+            while ('0' <= c && c <= '9') {
+                n = (n * 10) + (c - '0');
+                c = System.in.read();
+            }
+            return isNegative ? -n : n;
         }
 
     }
