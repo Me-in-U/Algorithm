@@ -2,22 +2,22 @@ package P2018번_수들의_합_5;
 
 import java.io.IOException;
 
-public class Main {
+public class Main3 {
     public static void main(String[] args) throws IOException {
+        int start = 1;
+        int end = 1;
         int N = readInt();
-        while (N % 2 == 0) {
-            N /= 2;
-        }
-        int count = 0;
-        for (int i = 1; i * i <= N; i++) {
-            if (N % i == 0) {
+        int count = 1;
+        int sum = 1;
+        while (start < N) {
+            if (sum == N)
                 count++;
-                if (i * i != N) {
-                    count++;
-                }
+            if (sum > N || end == N)
+                sum -= start++;
+            else {
+                sum += ++end;
             }
         }
-
         System.out.print(count);
     }
 
