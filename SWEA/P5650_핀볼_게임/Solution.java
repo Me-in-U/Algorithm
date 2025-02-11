@@ -3,135 +3,178 @@ package SWEA.P5650_핀볼_게임;
 import java.io.IOException;
 
 public class Solution {
+    // 좌표 클래스
+    public static class Position {
+        int x;
+        int y;
 
-    public static class Hole {
-        int[] hole1;
-        int[] hole2;
+        Position(int x, int y) {
+            this.x = x;
+            this.y = y;
+        }
 
+        /**
+         * this 객체의 x, y를 @param position 위치로 변경
+         */
+        public void setPosition(Position position) {
+            this.x = position.x;
+            this.y = position.y;
+        }
+
+        /**
+         * @param direction 방향으로 이동
+         */
+        public void move(int direction) {
+            this.x += dx[direction];
+            this.y += dy[direction];
+        }
+    }
+
+    // 웜홀 클래스
+    public static class Wormhole {
+        Position wormhole1;
+        Position wormhole2;
+
+        /**
+         * wormhole1, wormhole2 중에 생성되지 않은
+         * Position에 @param x @param y 위치로 Position 객체 생성
+         */
         public void setPos(int x, int y) {
-            if (hole1 == null) {
-                hole1 = new int[] { x, y };
+            if (wormhole1 == null) {
+                wormhole1 = new Position(x, y);
             } else {
-                hole2 = new int[] { x, y };
+                wormhole2 = new Position(x, y);
             }
         }
 
-        public int[] getAnotherHole(int x, int y) {
-            if (hole1[0] == x && hole1[1] == y) {
-                return this.hole2;
-            }
-            return this.hole1;
+        /**
+         * @param position -> wormhole1, wormhole2 중 하나의 Position
+         * @return (wormhole1, wormhole2 중 @param position 과 다른 Position)
+         */
+        public Position getOppositeHole(Position position) {
+            return (wormhole1.x == position.x && wormhole1.y == position.y) ? this.wormhole2 : this.wormhole1;
         }
 
-        // 상(0),하(1),좌(2),우(3)
-        private static final int[] dx = { -1, 1, 0, 0 };
-        private static final int[] dy = { 0, 0, -1, 1 };
-        private static int N;
-        private static int score;
-        private static int maxScore;
-        private static int[][] map;
-        private static Hole[] holes;
-        private static int[][] afterCollide = { null,
-                { 1, 3, 0, 2 }, { 3, 0, 1, 2 }, { 2, 0, 3, 1 },
-                { 1, 2, 3, 0, }, { 1, 0, 3, 2 } };
-        private static final int[] changeDirection = { 1, 0, 3, 2 };
+        public void clear() {
+            wormhole1 = null;
+            wormhole2 = null;
+        }
+    }
 
-        public static void main(String[] args) throws IOException {
-            StringBuilder sb = new StringBuilder();
-            int T = readInt();
-            for (int t = 1; t <= T; t++) {
-                maxScore = 0;
-                N = readInt();
-                map = new int[N][N];
-                holes = new Hole[11];
-                for (int h = 6; h <= 10; h++) {
-                    holes[h] = new Hole();
-                }
-                for (int x = 0; x < N; x++) {
-                    for (int y = 0; y < N; y++) {
-                        int blockNum = readInt();
-                        map[x][y] = blockNum;
-                        if (6 <= blockNum) {
-                            holes[blockNum].setPos(x, y);
-                        }
+    private static final Wormhole[] wormholes = new Wormhole[11];
+    // 상(0),하(1),좌(2),우(3)
+    private static final int[] dx = { -1, 1, 0, 0 };
+    private static final int[] dy = { 0, 0, -1, 1 };
+    private static final int[][] map = new int[102][102];
+    // afterCollideBlock[블록 번호][현재 방향] -> 블럭과 충돌 후 변경될 방향
+    private static final int[][] afterCollideBlock = { null,
+            { 1, 3, 0, 2 },
+            { 3, 0, 1, 2 },
+            { 2, 0, 3, 1 },
+            { 1, 2, 3, 0 },
+            { 1, 0, 3, 2 }
+    };
+
+    public static void main(String[] args) throws IOException {
+        StringBuilder sb = new StringBuilder();
+        // 맵 일부 초기화
+        // 벽 대신 사각 블록(5번)으로 ┌ (좌, 상)
+        for (int i = 0; i < 102; i++) {
+            map[i][0] = 5;
+            map[0][i] = 5;
+        }
+        // 웜홀 초기화
+        for (int h = 6; h <= 10; h++) {
+            wormholes[h] = new Wormhole();
+        }
+        int T = readInt();
+        for (int t = 1; t <= T; t++) {
+            // 변수 초기화 및 맵 입력
+            int maxScore = 0;
+            int N = readInt();
+            for (int h = 6; h <= 10; h++) {
+                wormholes[h].clear();
+            }
+            for (int x = 1; x <= N; x++) {
+                for (int y = 1; y <= N; y++) {
+                    int blockNum = readInt();
+                    map[x][y] = blockNum;
+                    if (6 <= blockNum) {
+                        wormholes[blockNum].setPos(x, y);
                     }
                 }
-                for (int x = 0; x < N; x++) {
-                    for (int y = 0; y < N; y++) {
-                        int blockNum = map[x][y];
-                        if (blockNum == 0) {
-                            for (int dir = 0; dir < 4; dir++) {
-                                score = 0;
-                                start(x, y, dir);
-                                maxScore = Math.max(maxScore, score);
+            }
+            // 벽 대신 사각 블록(5번)으로 ┘(하, 우)
+            for (int i = 0; i <= N + 1; i++) {
+                map[i][N + 1] = 5;
+                map[N + 1][i] = 5;
+            }
+            // 빈공간에서 모든 방향으로 탐색하기
+            for (int x = 1; x <= N; x++) {
+                for (int y = 1; y <= N; y++) {
+                    int blockNum = map[x][y];
+                    if (blockNum == 0) {
+                        for (int dir = 0; dir < 4; dir++) {
+                            int score = search(x, y, dir);
+                            if (maxScore < score) {
+                                maxScore = score;
                             }
                         }
                     }
                 }
-                sb.append('#').append(t).append(' ').append(maxScore).append('\n');
             }
-            System.out.print(sb.toString());
+            // 스트링빌더
+            sb.append('#').append(t).append(' ').append(maxScore).append('\n');
         }
+        // 진짜 출력
+        System.out.print(sb.toString());
+    }
 
-        public static void start(int startX, int startY, int dir) {
-            int x = startX;
-            int y = startY;
-            while (true) {
-                int nextX = x + dx[dir];
-                int nextY = y + dy[dir];
-                if (isValid(nextX, nextY)) {
-                    int blockNum = map[nextX][nextY];
-                    if (blockNum == -1 ||
-                            (nextX == startX && nextY == startY)) {
-                        break;
-                    }
-                } else {
-                    dir = changeDirection[dir];
-                    score++;
-                    if (x == startX && y == startY) {
-                        break;
-                    }
-                    nextX = x;
-                    nextY = y;
-                }
-                int blockNum = map[nextX][nextY];
-                if (1 <= blockNum && blockNum <= 5) {
-                    dir = afterCollide[blockNum][dir];
-                    score++;
-                } else if (6 <= blockNum) {
-                    int[] anotherHole = holes[blockNum].getAnotherHole(nextX, nextY);
-                    nextX = anotherHole[0];
-                    nextY = anotherHole[1];
-                }
-                x = nextX;
-                y = nextY;
+    /**
+     * @param startX , @param startY 에서 시작해서 @param dir 방향으로 탐색 시작
+     * @return score 부딪힌 횟수
+     */
+    public static int search(int startX, int startY, int dir) {
+        int score = 0;
+        Position pos = new Position(startX, startY);
+        while (true) {
+            pos.move(dir);
+            int blockNumber = map[pos.x][pos.y];
+            // 블랙홀이거나 시작치로 돌아오면 끝
+            if ((blockNumber == -1) || (pos.x == startX && pos.y == startY)) {
+                break;
             }
+
+            // 블럭이면 그거에 맞게 방향 바꿈
+            if (1 <= blockNumber && blockNumber <= 5) {
+                dir = afterCollideBlock[blockNumber][dir];
+                score++;
+            }
+            // 웜홀이면 같은 번호 또 다른 웜홀로 이동
+            else if (6 <= blockNumber) {
+                Position oppositeHole = wormholes[blockNumber].getOppositeHole(pos);
+                pos.setPosition(oppositeHole);
+            } // blockNumber 0 무시
         }
+        return score;
+    }
 
-        public static boolean isValid(int x, int y) {
-            if (0 <= x && x < N && 0 <= y && y < N) {
-                return true;
-            }
-            return false;
+    // 정수 빨리 읽기
+    public static int readInt() throws IOException {
+        int n = 0;
+        int c = System.in.read();
+        boolean isNegative = false;
+        while (c <= 32) {
+            c = System.in.read();
         }
-
-        public static int readInt() throws IOException {
-            int n = 0;
-            int c = System.in.read();
-            boolean isNegative = false;
-            while (c <= 32) {
-                c = System.in.read();
-            }
-            if (c == '-') {
-                isNegative = true;
-                c = System.in.read();
-            }
-            while ('0' <= c && c <= '9') {
-                n = (n * 10) + (c - '0');
-                c = System.in.read();
-            }
-            return isNegative ? -n : n;
+        if (c == '-') {
+            isNegative = true;
+            c = System.in.read();
         }
-
+        while ('0' <= c && c <= '9') {
+            n = (n * 10) + (c - '0');
+            c = System.in.read();
+        }
+        return isNegative ? -n : n;
     }
 }
