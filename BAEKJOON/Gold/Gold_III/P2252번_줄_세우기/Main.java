@@ -1,54 +1,56 @@
 package P2252번_줄_세우기;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.StringTokenizer;
+import java.util.ArrayDeque;
+import java.util.ArrayList;
+import java.util.Deque;
+import java.util.List;
 
 public class Main {
-    protected static int[] inDegree;
-    protected static LinkedList<Integer>[] graph;
 
     @SuppressWarnings("unchecked")
     public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
-        int N = Integer.parseInt(st.nextToken());
-        int M = Integer.parseInt(st.nextToken());
-        inDegree = new int[N + 1];
-        graph = new LinkedList[N + 1];
+        int N = readInt();
+        int M = readInt();
+        int[] inDegree = new int[N + 1];
+        List<Integer>[] graph = new ArrayList[N + 1];
         for (int i = 0; i < N + 1; i++) {
-            graph[i] = new LinkedList<>();
+            graph[i] = new ArrayList<>();
         }
         for (int j = 0; j < M; j++) {
-            st = new StringTokenizer(br.readLine());
-            int A = Integer.parseInt(st.nextToken());
-            int B = Integer.parseInt(st.nextToken());
+            int A = readInt();
+            int B = readInt();
             graph[A].add(B);
             inDegree[B]++;
         }
-        System.out.println(topologySort(N));
-    }
 
-    public static String topologySort(int N) {
+        // !Topology Sort
         StringBuilder sb = new StringBuilder();
-        Queue<Integer> queue = new LinkedList<>();
+        Deque<Integer> queue = new ArrayDeque<>();
         for (int i = 1; i < N + 1; i++) {
             if (inDegree[i] == 0) {
-                queue.add(i);
+                queue.addLast(i);
             }
         }
         while (!queue.isEmpty()) {
-            int now = queue.poll();
+            int now = queue.pollFirst();
             sb.append(now).append(' ');
             for (int next : graph[now]) {
                 if (--inDegree[next] == 0) {
-                    queue.add(next);
+                    queue.addLast(next);
                 }
             }
         }
-        return sb.toString();
+        System.out.println(sb);
+    }
+
+    public static int readInt() throws IOException {
+        int c;
+        int n = System.in.read() & 15;
+        while ((c = System.in.read()) >= 48)
+            n = (n * 10) + (c & 15);
+        if (c == 13)
+            System.in.read();
+        return n;
     }
 }
