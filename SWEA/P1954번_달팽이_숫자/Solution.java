@@ -5,6 +5,8 @@ package SWEA.P1954번_달팽이_숫자;
  * 1954. 달팽이 숫자
  * @author KIM MINGYU jun3021303@gmail.com
  * @since 2025-02-19
+ * 메모리  - 24,832 kb
+ * 실행시간- 74 ms
  */
 
 import java.io.IOException;

@@ -5,6 +5,8 @@ package SWEA.P6808번_규영이와_인영이의_카드게임;
  * 6808. 규영이와 인영이의 카드게임
  * @author KIM MINGYU jun3021303@gmail.com
  * @since 2025-02-19
+ * 메모리  - 26,240 kb
+ * 실행시간- 1,342 ms
  */
 
 import java.io.IOException;

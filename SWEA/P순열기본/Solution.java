@@ -5,6 +5,8 @@ package SWEA.P순열기본;
  * 싸피 13기 부울경 4반 - 순열 (1)
  * @author KIM MINGYU jun3021303@gmail.com
  * @since 2025-02-19
+ * 메모리  - 23,936 kb
+ * 실행시간- 71 ms
  */
 import java.io.IOException;
 import java.util.Arrays;

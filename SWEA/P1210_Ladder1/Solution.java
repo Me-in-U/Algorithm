@@ -5,6 +5,8 @@ package SWEA.P1210_Ladder1;
  * 1210. [S/W 문제해결 기본] 2일차 - Ladder1
  * @author KIM MINGYU jun3021303@gmail.com
  * @since 2025-02-19
+ * 메모리  - 43,096 kb
+ * 실행시간- 196 ms
  */
 
 import java.io.BufferedReader;
