@@ -1,18 +1,28 @@
 package SWEA.P1954번_달팽이_숫자;
 
+/**
+ * SWEA
+ * 1954. 달팽이 숫자
+ * @author KIM MINGYU jun3021303@gmail.com
+ * @since 2025-02-19
+ */
+
 import java.io.IOException;
 
 public class Solution {
     public static void main(String[] args) throws IOException {
         StringBuilder sb = new StringBuilder();
+        // T번 반복(테스트 케이스 수)
         int T = readInt();
         for (int t = 1; t <= T; t++) {
+            // 변수 입력 및 초기화
             int N = readInt();
             int[][] arr = new int[N][N];
             int num = 1;
             int layer = -1;
             int maxNum = N * N;
 
+            // 바깥부터 안쪽으로 한 레이어씩 처리
             while (++layer < N / 2) {
                 int point = N - layer - 1;
                 // 상단 가로: 왼쪽 -> 오른쪽(point)

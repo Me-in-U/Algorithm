@@ -1,5 +1,12 @@
 package SWEA.P1210_Ladder1;
 
+/**
+ * SWEA
+ * 1210. [S/W 문제해결 기본] 2일차 - Ladder1
+ * @author KIM MINGYU jun3021303@gmail.com
+ * @since 2025-02-19
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -7,7 +14,9 @@ import java.util.Arrays;
 
 public class Solution {
     static class Solver {
+        // 사다리 배열 true : 통로가 있음, false : 통로가 없음
         private boolean[][] ladder;
+        // 현재 위치
         private int nowX;
         private int nowY;
 
@@ -17,30 +26,44 @@ public class Solution {
             this.nowY = nowY;
         }
 
+        /**
+         * @return nowY 최상단 도착시 y값(문제에서는 X값)
+         */
         public int solve() {
-            // 상단(0행)에 도달할 때까지 탐색
+            // 최상단(0행)에 도달할 때까지 탐색
             while (nowX > 0) {
+                // 왼쪽으로 움직일 수 있으면 끝까지 이동
                 if (canMoveLeft()) {
                     while (canMoveLeft()) {
                         nowY--;
                     }
                     nowX--;
-                } else if (canMoveRight()) {
+                } // 오른쪽으로 움직일 수 있으면 끝까지 이동
+                else if (canMoveRight()) {
                     while (canMoveRight()) {
                         nowY++;
                     }
                     nowX--;
-                } else {
+                } // 옆으로 못 움직이면 위로 한 칸 이동
+                else {
                     nowX--;
                 }
             }
             return nowY;
         }
 
+        /**
+         * @return if true, then 왼쪽으로 움직 일 수 있음
+         * @return if false, then 왼쪽으로 움직 일 수 없음
+         */
         private boolean canMoveLeft() {
             return (nowY - 1 >= 0 && ladder[nowX][nowY - 1]);
         }
 
+        /**
+         * @return if true, then 오른쪽으로 움직 일 수 있음
+         * @return if false, then 오른쪽으로 움직 일 수 없음
+         */
         private boolean canMoveRight() {
             return (nowY + 1 < SIZE && ladder[nowX][nowY + 1]);
         }
