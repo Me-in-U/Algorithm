@@ -21,7 +21,7 @@ public class Solution_5215_햄버거다이어트_김민규 {
         int T = readInt();
         for (int t = 1; t <= T; t++) {
             // 입력 및 초기화
-            N = readInt();// 재료의 수
+            N = readInt(); // 재료의 수
             L = readInt(); // 제한 칼로리
             maxScore = 0;
             ingredients = new int[N][2];
@@ -34,13 +34,13 @@ public class Solution_5215_햄버거다이어트_김민규 {
             findBestBurger(0, 0, 0);
 
             // 출력
-            sb.append("#").append(t).append(" ").append(maxScore).append("\n");
+            sb.append('#').append(t).append(' ').append(maxScore).append(' ').append('\n');
         }
         System.out.print(sb.toString());
     }
 
     /**
-     * 현재 재료를 선택하거나 선택하지 않거나 2경우에 대해서 백트랙킹
+     * 현재 재료를 선택하거나 선택하지 않거나 2경우에 대해서 탐색
      * 
      * @param depth       현재 재료 인덱스
      * @param scoreSum    현재 점수 합

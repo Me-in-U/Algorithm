@@ -1,12 +1,21 @@
 package P2563번_색종이;
 
+/**
+ * BAEKJOON ONLINE JUDGE
+ * 2563번 색종이 SILVER IV
+ * @author KIM MINGYU jun3021303@gmail.com
+ * @since 2025-02-22
+ * JAVA8 : 메모리 11428 KB, 시간 64ms
+ * JAVA11 : 메모리 14028 KB, 시간 100ms
+ */
+
 import java.io.IOException;
 
-public class Main {
+public class Main_2563_색종이_김민규 {
 	public static void main(String[] args) throws IOException {
 		boolean[][] dohwaji = new boolean[101][101];
 		int papers = readInt();
-		for (int i = 0; i < papers; i++) {
+		while (papers-- > 0) {
 			int x = readInt();
 			int y = readInt();
 			for (int xpos = x; xpos < x + 10; xpos++) {
