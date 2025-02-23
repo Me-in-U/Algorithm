@@ -6,6 +6,6 @@ interface Main {
         while (System.in.read() != 10)
             ;
         while ((c = System.in.read()) > 47)
-            System.out.print((char) c);
+            System.out.print(c & 15);
     }
 }
