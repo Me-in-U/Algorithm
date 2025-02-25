@@ -45,6 +45,7 @@ public class Main {
 
     public static boolean check(int length, String str) {
         // 해시값이 저장된 index의 위치를 저장할 리스트
+        @SuppressWarnings("unchecked")
         List<Integer>[] table = new ArrayList[MOD];
         for (int i = 0; i < MOD; i++)
             table[i] = new ArrayList<>();

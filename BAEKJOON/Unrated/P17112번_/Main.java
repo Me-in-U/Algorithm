@@ -5,9 +5,9 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        // ByteArrayOutputStream baos = new ByteArrayOutputStream();
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in, "windows-1252"));
-        int b;
+        // int b;
         StringBuilder sb = new StringBuilder();
         // while ((b = System.in.read()) != -1 && b != 13 && b != 10) {
         // baos.write(b);

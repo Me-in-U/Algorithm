@@ -11,10 +11,10 @@ public class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     StringTokenizer st = null;
+    @SuppressWarnings("rawtypes")
     HashSet<String> dance = new HashSet();
     dance.add("ChongChong");
 
-    boolean cc = false;
     int N = Integer.parseInt(br.readLine());
     for (int i = 0; i < N; i++) {
       st = new StringTokenizer(br.readLine());

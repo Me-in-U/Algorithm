@@ -20,7 +20,7 @@ public class Main {
     for (int i = 1; i <= M; i++) {
       st = new StringTokenizer(br.readLine());
       if (!collapsed) {
-        int ti = Integer.parseInt(st.nextToken());
+        Integer.parseInt(st.nextToken());
         int ri = Integer.parseInt(st.nextToken());
         K -= ri;
         if (K < 0) {

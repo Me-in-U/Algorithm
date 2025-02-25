@@ -11,5 +11,6 @@ interface Main {
                 if (w.length() > m.length())
                     m = w;
         System.out.print(m.toLowerCase());
+        s.close();
     }
 }

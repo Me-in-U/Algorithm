@@ -1,13 +1,13 @@
-package P9517번_아이_러브_크로아티아;
+package P33515번_노트북_세_대를_가지고_왔다;
 
 import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        // BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        System.out.print(new StringBuilder().append(Math.min(readInt(), readInt())));
     }
 
-    public static int readInt() throws IOException {
+    private static int readInt() throws IOException {
         int c;
         int n = System.in.read() & 15;
         while ((c = System.in.read()) >= 48)

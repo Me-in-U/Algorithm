@@ -7,11 +7,10 @@ import java.util.HashMap;
 import java.util.StringTokenizer;
 
 public class Main {
-  @SuppressWarnings("unchecked")
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     StringTokenizer st = null;
-    HashMap<Integer, Integer> map = new HashMap();
+    HashMap<Integer, Integer> map = new HashMap<>();
     int N = Integer.parseInt(br.readLine());
     int errorCount = 0;
     for (int i = 0; i < N; i++) {
