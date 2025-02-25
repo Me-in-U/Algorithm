@@ -44,6 +44,7 @@ public class Solution_3421_수제버거장인_김민규_객체 {
             sb.append('#').append(t).append(' ').append(validCount).append('\n');
         }
         System.out.print(sb.toString());
+
     }
 
     /**

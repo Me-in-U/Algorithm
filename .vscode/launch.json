@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayAccessBenchmark",
+            "request": "launch",
+            "mainClass": "ArrayAccessBenchmark",
+            "projectName": "Algorithm_6ffe8c34"
+        },
+        {
+            "type": "java",
+            "name": "Main_B_12891_DNA비밀번호_김민규",
+            "request": "launch",
+            "mainClass": "P12891번_DNA_비밀번호.Main_B_12891_DNA비밀번호_김민규",
+            "projectName": "Algorithm_6ffe8c34"
+        },
+        {
+            "type": "java",
+            "name": "MainNew",
+            "request": "launch",
+            "mainClass": "P12891번_DNA_비밀번호.MainNew",
+            "projectName": "Algorithm_6ffe8c34"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Algorithm_6ffe8c34"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "SWEA.P4008번_숫자_만들기.Solution",
+            "projectName": "Algorithm_6ffe8c34"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "SWEA.P1247번_최적_경로.Solution",
+            "projectName": "Algorithm_6ffe8c34"
+        },
+        {
+            "type": "java",
+            "name": "SolutionDP",
+            "request": "launch",
+            "mainClass": "SWEA.P1486_장훈이의_높은_선반.SolutionDP",
+            "projectName": "Algorithm_6ffe8c34"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "SWEA.P1486_장훈이의_높은_선반.Main",
+            "projectName": "Algorithm_6ffe8c34"
+        },
+        {
+            "type": "java",
+            "name": "NullTest",
+            "request": "launch",
+            "mainClass": "NullTest",
+            "projectName": "Algorithm_6ffe8c34"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "P25418번_정수_a를_k로_만들기.Main",
