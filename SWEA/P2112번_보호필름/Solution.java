@@ -5,8 +5,6 @@ import java.io.IOException;
 import java.util.Arrays;
 
 public class Solution {
-    public static int[] binary;
-    public static int[] binary_not;
     public static int D;
     public static int W;
     public static int K;
@@ -21,37 +19,40 @@ public class Solution {
             D = readInt();
             W = readInt();
             K = readInt();
-            binary = new int[W];
-            binary_not = new int[W];
+            int[] binary = new int[W];
+            int[] binary_not = new int[W];
             // TODO : 바이너리 입력 수정
             for (int shift = 0; shift < D; shift++)
                 for (int w = 0; w < W; w++)
-                    binary[w] += readInt() == 1 ? (1 << shift) : 0;
+                    binary[w] += (readInt() == 1) ? (1 << shift) : 0;
             System.out.println(Arrays.toString(binary));
             for (int w = 0; w < W; w++)
                 binary_not[w] = ~binary[w];
 
             // 풀기
-            if (performanceTest()) {
+            if (performanceTest(binary, binary_not)) {
                 System.out.println("성능검사 통과");
             } else {
                 // TODO: 약품 늘리고 temp binary만들고 |= 하고 성능테스트
                 // TODO: 조합
-            }
+                // 최대 K번 약품 주입가능
+                for (int k = 0; k < K; k++) {
 
+                }
+            }
         }
     }
 
-    private static boolean performanceTest() {
+    private static boolean performanceTest(int[] b1, int[] b2) {
         int initMask = (1 << K) - 1;
         for (int w = 0; w < W; w++) {
             boolean valid = false;
             for (int movingMask = initMask; movingMask < (1 << W); movingMask <<= 1) {
-                if ((binary[w] & movingMask) == movingMask) {
+                if ((b1[w] & movingMask) == movingMask) {
                     valid = true;
                     break;
                 }
-                if ((binary_not[w] & movingMask) == movingMask) {
+                if ((b2[w] & movingMask) == movingMask) {
                     valid = true;
                     break;
                 }
