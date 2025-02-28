@@ -4,12 +4,12 @@ package SWEA.P1861번_정사각형_방;
  * SW Expert Academy 1861번 정사각형 방 D4
  * 
  * @author KIM MINGYU jun3021303@gmail.com
- * @since 2025-02-26 JAVA8 : 메모리 28,032 KB, 시간 94ms
+ * @since 2025-02-27 JAVA8 : 메모리 28,032 KB, 시간 94ms
  */
 
 import java.io.IOException;
 
-public class Solution {
+public class Solution_1861_정사각형방_김민규 {
     private static int N;
     private static int[][] map;
     private static int[][] count;
@@ -20,6 +20,7 @@ public class Solution {
         StringBuilder sb = new StringBuilder();
         int T = readInt();
         for (int t = 1; t <= T; t++) {
+            // 입력 및 초기화
             N = readInt();
             map = new int[N][N];
             count = new int[N][N];
@@ -28,9 +29,11 @@ public class Solution {
                     map[x][y] = readInt();
             int minNumber = Integer.MAX_VALUE;
             int maxCount = Integer.MIN_VALUE;
+
+            // 모든 방 탐색
             for (int x = 0; x < N; x++) {
                 for (int y = 0; y < N; y++) {
-                    // 탐색하지 않았다면 recursion()
+                    // 탐색하지 않은 방이라면 recursion()
                     if (count[x][y] == 0) {
                         int count = recursion(x, y);
                         // 탐색할 수 있는 더 큰 방의 수를 찾으면

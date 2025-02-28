@@ -1,12 +1,18 @@
 package P15686번_치킨_배달;
 
+/**
+ * BAEKJOON ONLINE JUDGE 15686번 치킨 배달 골드 V
+ * 
+ * @author KIM MINGYU jun3021303@gmail.com
+ * @since 2025-02-27 JAVA8 : 메모리 16,456 KB, 시간 240ms
+ */
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Main_B_15686_치킨배달_김민규 {
     public static int N;
     public static int M;
     public static int[] toVisit;
@@ -40,6 +46,12 @@ public class Main {
         System.out.println(minDistance);
     }
 
+    /**
+     * dfs를 이용한 backtracking
+     * 
+     * @param start dfs를 시작할 index
+     * @param depth dfs depth
+     */
     public static void dfs(int start, int depth) {
         if (depth == M) {
             int distance = 0;
@@ -63,6 +75,13 @@ public class Main {
         }
     }
 
+    /**
+     * 장소 a 와 b 사이의 거리를 구하는 메소드
+     * 
+     * @param a 장소 a[] {x, y}
+     * @param b 장소 b[] {x, y}
+     * @return int: 거리값
+     */
     public static int getDistance(int[] a, int[] b) {
         return Math.abs(a[0] - b[0]) + Math.abs(a[1] - b[1]);
     }
