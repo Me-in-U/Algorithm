@@ -1,47 +1,52 @@
 package P16953번_AtoB;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.ArrayDeque;
+import java.util.Deque;
 
 public class Main {
+	private static class Data {
+		long num;
+		int count;
 
-  public static void main(String[] args) throws IOException {
-    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    String[] input = br.readLine().split(" ");
-    System.out.println(bfs(Integer.parseInt(input[0]), Integer.parseInt(input[1])));
-  }
+		public Data(long num, int count) {
+			this.num = num;
+			this.count = count;
+		}
+	}
 
-  public static int bfs(long A, long B) {
-    Queue<Long> queue = new LinkedList<>();
-    queue.add(A);
-    int count = 1;
-    boolean found = false;
-    int added_count = 0;
-    int queueSize = 1;
-    while (!queue.isEmpty()) {
-      long temp = queue.poll();
-      if (temp == B) {
-        found = true;
-        break;
-      }
-      long temp1 = temp * 2;
-      long temp2 = temp * 10 + 1;
-      if (temp1 <= B) {
-        queue.add(temp1);
-      }
-      if (temp2 <= B) {
-        queue.add(temp2);
-      }
-      added_count++;
-      if (added_count == queueSize) {
-        count++;
-        added_count = 0;
-        queueSize = queue.size();
-      }
-    }
-    return found ? count : -1;
-  }
+	public static void main(String[] args) throws IOException {
+		int A = readInt();
+		int B = readInt();
+		int result = bfs(A, B);
+		System.out.print(new StringBuilder().append(result));
+	}
+
+	public static int bfs(long A, long B) {
+		Deque<Data> queue = new ArrayDeque<>();
+		queue.addLast(new Data(A, 0));
+		while (!queue.isEmpty()) {
+			Data temp = queue.poll();
+			if (temp.num == B)
+				return temp.count + 1;
+			long op1 = temp.num << 1;
+			long op2 = temp.num * 10 + 1;
+			int nextCount = temp.count + 1;
+			if (op1 <= B)
+				queue.addLast(new Data(op1, nextCount));
+			if (op2 <= B)
+				queue.addLast(new Data(op2, nextCount));
+		}
+		return -1;
+	}
+
+	private static int readInt() throws IOException {
+		int c;
+		int n = System.in.read() & 15;
+		while ((c = System.in.read()) >= 48)
+			n = (n * 10) + (c & 15);
+		if (c == 13)
+			System.in.read();
+		return n;
+	}
 }

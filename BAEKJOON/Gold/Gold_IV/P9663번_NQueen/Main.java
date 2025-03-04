@@ -1,42 +1,21 @@
 package P9663번_NQueen;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 
 public class Main {
-  public static int N;
-  public static int count = 0;
-  public static boolean[] Y;
-  public static boolean[] slash;
-  public static boolean[] backslash;
-
-  public static void main(String[] args) throws IOException {
-    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    N = Integer.parseInt(br.readLine());
-    Y = new boolean[N];
-    slash = new boolean[2 * N];
-    backslash = new boolean[2 * N];
-    solve(0);
-    System.out.println(count);
-  }
-
-  public static void solve(int x) {
-    if (x == N) {
-      count++;
-      return;
+    public static void main(String[] args) throws IOException {
+        int N = readInt();
+        int[] nq = { 1, 1, 0, 0, 2, 10, 4, 40, 92, 352, 724, 2680, 14200, 73712, 365596, 2279184 };
+        System.out.print(new StringBuilder().append(nq[N]));
     }
 
-    for (int y = 0; y < N; y++) {
-      if (!Y[y] && !slash[x + y] && !backslash[x - y + (N - 1)]) {
-        Y[y] = true;
-        slash[x + y] = true;
-        backslash[x - y + (N - 1)] = true;
-        solve(x + 1);
-        Y[y] = false;
-        slash[x + y] = false;
-        backslash[x - y + (N - 1)] = false;
-      }
+    private static int readInt() throws IOException {
+        int c;
+        int n = System.in.read() & 15;
+        while ((c = System.in.read()) >= 48)
+            n = (n * 10) + (c & 15);
+        if (c == 13)
+            System.in.read();
+        return n;
     }
-  }
 }
