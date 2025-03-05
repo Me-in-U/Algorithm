@@ -29,7 +29,7 @@ public class Main {
             cur = cur.right;
         }
         int result = (N > 1) ? (2 * (N - 1) - rightLastNodeDepth) : 0;
-        System.out.print(new StringBuilder().append(result));
+        System.out.print(result);
     }
 
     private static int readInt() throws IOException {

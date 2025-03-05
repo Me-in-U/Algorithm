@@ -2,7 +2,7 @@ package P22856번_트리_순회;
 
 import java.io.IOException;
 
-public class Main {
+public class MainStack {
     private static class Node {
         Node left, right;
     }

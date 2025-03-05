@@ -8,7 +8,42 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
-			"mainClass": "P17404번_RGB거리_2.Main",
+			"mainClass": "P3109번_빵집.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "SWEA.P6109번_추억의_2048게임.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P2239번_스도쿠.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P10971번_외판원_순회_2.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P1987번_알파벳.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "PriorityQueueBenchmark",
+			"request": "launch",
+			"mainClass": "PriorityQueueBenchmark",
 			"projectName": "Algorithm_6ffe8c34"
 		},
 		{

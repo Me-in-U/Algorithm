@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class Main {
+public class Main_AtoB {
 	private static class Data {
 		long num;
 		int count;
