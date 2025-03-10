@@ -44,14 +44,11 @@ public class Main_B_10026_적록색약_김민규 {
                     BFS(x, y, arr[x][y]);
                     normalCount++;
                 }
-            }
-        }
-
-        // !적록색약 ON
-        for (int x = 0; x < N; x++)
-            for (int y = 0; y < N; y++)
+                // !적록색약 ON
                 if (arr[x][y] == 'G')
                     arr[x][y] = 'R';
+            }
+        }
 
         // 빨-초, 파 구역 BFS
         visited = new boolean[N][N];

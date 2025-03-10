@@ -6,6 +6,27 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "MainTreeSet",
+			"request": "launch",
+			"mainClass": "P11375번_열혈강호.MainTreeSet",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P11375번_열혈강호.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P9576번_책_나눠주기.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
 			"name": "Main",
 			"request": "launch",
 			"mainClass": "P3109번_빵집.Main",

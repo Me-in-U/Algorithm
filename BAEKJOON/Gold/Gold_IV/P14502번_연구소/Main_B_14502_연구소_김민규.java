@@ -63,19 +63,19 @@ public class Main_B_14502_연구소_김민규 {
         for (int i = 0; i < totalCells - 2; i++) {
             int x1 = (i / M) + 1;
             int y1 = (i % M) + 1;
-            if (lab[x1][y1] <= 0) {
+            if (lab[x1][y1] == 0) {
                 lab[x1][y1] = 1; // 첫 번째 벽 설치
                 // !두 번째 벽 위치 (i)(x2, y2)
                 for (int j = i + 1; j < totalCells - 1; j++) {
                     int x2 = (j / M) + 1;
                     int y2 = (j % M) + 1;
-                    if (lab[x2][y2] <= 0) {
+                    if (lab[x2][y2] == 0) {
                         lab[x2][y2] = 1;// 두 번째 벽 설치
                         // !세 번째 벽 위치 (k)(x3, y3)
                         for (int k = j + 1; k < totalCells; k++) {
                             int x3 = (k / M) + 1;
                             int y3 = (k % M) + 1;
-                            if (lab[x3][y3] <= 0) {
+                            if (lab[x3][y3] == 0) {
                                 lab[x3][y3] = 1; // 세 번째 벽 설치
                                 max = Math.max(max, spreadVirus()); // 바이러스 확산
                                 lab[x3][y3] = 0; // 세 번째 벽 원복

@@ -1,4 +1,4 @@
-package Platinum_IV;
+package P1305번_광고;
 
 import java.io.BufferedReader;
 import java.io.IOException;
