@@ -6,6 +6,62 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P16933번_벽_부수고_이동하기3.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P14442번_벽_부수고_이동하기2.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "MainDFS",
+			"request": "launch",
+			"mainClass": "P11376번_열혈강호2.MainDFS",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P10830번_행렬_제곱.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Solution_5215_햄버거다이어트_김민규",
+			"request": "launch",
+			"mainClass": "SWEA.P5215번_햄버거_다이어트.Solution_5215_햄버거다이어트_김민규",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P2206번_벽_부수고_이동하기.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P32978번_아_맞다_마늘.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P13171번_A.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
 			"name": "MainTreeSet",
 			"request": "launch",
 			"mainClass": "P11375번_열혈강호.MainTreeSet",

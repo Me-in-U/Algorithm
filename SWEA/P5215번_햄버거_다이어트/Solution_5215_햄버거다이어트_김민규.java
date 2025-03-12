@@ -1,11 +1,15 @@
 package SWEA.P5215번_햄버거_다이어트;
 
 /**
- * SW Expert Academy
- * 5215번 햄버거 다이어트 D3
+ * <h1>SW Expert Academy 번</h1>
+ * <h1>BAEKJOON 번</h1>
+ * <p>
+ * JAVA8 : 메모리 KB, 시간 ms <br>
+ * JAVA8 : 메모리 KB, 시간 ms
+ * </p>
+ * 
  * @author KIM MINGYU jun3021303@gmail.com
- * @since 2025-02-21
- * JAVA8 : 메모리 25,856 KB, 시간 153ms
+ * @since 2025--
  */
 
 import java.io.IOException;
