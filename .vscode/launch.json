@@ -8,6 +8,55 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "P16483번_접시_안의_원.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P4388번_받아올림.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P2547번_사탕_선생_고창영.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Bronze.Bronze_IV.P32941번_왜_맘대로_예약하냐고.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "MainDFS",
+			"request": "launch",
+			"mainClass": "P11377번_열혈강호_3.MainDFS",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P16946번_벽_부수고_이동하기_4.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "P16933번_벽_부수고_이동하기3.Main",
 			"projectName": "Algorithm_6ffe8c34"
 		},
