@@ -8,6 +8,20 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "P14939번_불_끄기.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P1014번_컨닝.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "P16483번_접시_안의_원.Main",
 			"projectName": "Algorithm_6ffe8c34"
 		},
