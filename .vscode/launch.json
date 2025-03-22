@@ -8,6 +8,34 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "P9517번_아이_러브_크로아티아.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P33612번_피갤컵.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P2991번_사나운_개.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P33571번_구멍.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "P14939번_불_끄기.Main",
 			"projectName": "Algorithm_6ffe8c34"
 		},
