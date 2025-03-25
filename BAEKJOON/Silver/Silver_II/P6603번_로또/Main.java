@@ -1,7 +1,6 @@
 package P6603번_로또;
 
 import java.io.IOException;
-import java.util.Arrays;
 
 public class Main {
     private static int K;
@@ -12,7 +11,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         while ((K = readInt()) != 0) {
             arr = new int[K];
-            Arrays.fill(visited, false);
+            visited = new boolean[K];
             for (int i = 0; i < K; i++)
                 arr[i] = readInt();
             DFS(0, 0);
@@ -40,8 +39,8 @@ public class Main {
         int n = System.in.read() & 15;
         while ((c = System.in.read()) >= 48)
             n = (n * 10) + (c & 15);
-        if (c == 13)
-            System.in.read();
+        // if (c == 13)
+        // System.in.read();
         return n;
     }
 }
