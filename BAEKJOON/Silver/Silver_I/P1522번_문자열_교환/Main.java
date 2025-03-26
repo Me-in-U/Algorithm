@@ -12,17 +12,18 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String input = br.readLine();
         int count_A = (int) input.chars().filter(c -> c == 'a').count();
-        System.out.println("count_A = " + count_A);
+        if (count_A == input.length()) {
+            System.out.println(0);
+            return;
+        }
         List<Character> list = new LinkedList<>();
         for (char c : input.toCharArray()) {
             list.add(c);
         }
         int current_A = 0;
-        System.out.println(list.toString());
         for (int i = 0; i < count_A; i++) {
-            System.out.print(list.get(i));
             if (list.get(i) == 'a') {
-                count_A++;
+                current_A++;
             }
         }
         int max_A_Count = 0;
@@ -36,6 +37,6 @@ public class Main {
             }
             list.add(list.remove(0));
         }
-        System.out.println(input.length() - max_A_Count);
+        System.out.println(count_A - max_A_Count);
     }
 }

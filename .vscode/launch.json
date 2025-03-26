@@ -8,6 +8,34 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "P1138번_한_줄로_서기.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Solution",
+			"request": "launch",
+			"mainClass": "SWEA.P1238번_Contact.Solution",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Solution",
+			"request": "launch",
+			"mainClass": "SWEA.P7465번_창용_마을_무리의_개수.Solution",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Solution",
+			"request": "launch",
+			"mainClass": "SWEA.P3289번_서로소_집합.Solution",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "P1522번_문자열_교환.Main",
 			"projectName": "Algorithm_6ffe8c34"
 		},
