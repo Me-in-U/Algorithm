@@ -1,63 +1,46 @@
 package P17112번_;
 
-import java.io.*;
-import java.util.Arrays;
+// 2nd-editorial 참고
+// https://github.com/ghudegy/2019/blob/master/2nd-editorial.md
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class Main {
-    public static void main(String[] args) throws Exception {
-        // ByteArrayOutputStream baos = new ByteArrayOutputStream();
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in, "windows-1252"));
-        // int b;
-        StringBuilder sb = new StringBuilder();
-        // while ((b = System.in.read()) != -1 && b != 13 && b != 10) {
-        // baos.write(b);
-        // sb.append(b).append(' ');
-        // }
-        // byte[] rawBytes = baos.toByteArray();
-        byte[] rawBytes = br.readLine().getBytes("windows-1252");
-        System.out.println(Arrays.toString(rawBytes));
-        System.out.println(sb.toString());
-        // 만약 터미널 입력이 없으면(예시 테스트용) 하드코딩된 sample 사용
-        if (rawBytes.length == 0) {
-            String sample = "ì˜ˆì œ ìž…ë ¥ë„ ì¸ì½”ë”©ë˜ì–´ ìžˆë‹¤. (ê·¸ëŸ° ì´ìœ ë¡œ ì˜ˆì œëŠ” ì±„ì ì„ í•˜ì§€ ì•ŠëŠ”ë‹¤.)";
-            rawBytes = sample.getBytes("windows-1252");
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String s = br.readLine();
+        char first = s.charAt(0);
+
+        // 1. 첫 글자가 한글이면 → UTF-8
+        // 한글 범위: AC00 ~ D7A3
+        if ('\uAC00' <= first && first <= '\uD7A3') {
+            System.out.print("UTF-8");
+            return;
         }
 
-        // 2. 후보 인코딩 5개
-        String[] candidates = { "EUC-KR", "IBM-Thai", "Shift_JIS", "UTF-8", "windows-1252" };
-
-        // 3. 각 후보 charset으로 원시 바이트를 해석한 후 UTF‑8 문자열로 재복구
-        String bestEnc = "";
-        int bestCount = -1;
-        for (String candidate : candidates) {
-            try {
-                // candidate charset으로 해석하여 문자열 생성 (이때 Unicode String으로 디코딩됨)
-                String decoded = new String(rawBytes, candidate);
-                System.out.println("decoded: " + decoded);
-                // 필요시, 이 문자열을 candidate 바이트로 재인코딩 후 다시 UTF-8 문자열로 생성 (실제 복구 효과)
-                byte[] utf8Bytes = decoded.getBytes(candidate);
-                String recovered = new String(utf8Bytes, "UTF-8");
-
-                // 복구 결과 출력
-                System.out.println("[" + candidate + "]: " + recovered);
-
-                // 한글 복원 정도 측정을 위해 한글 문자의 수 센다.
-                int count = 0;
-                for (int j = 0; j < recovered.length(); j++) {
-                    char c = recovered.charAt(j);
-                    if (c >= 0xAC00 && c <= 0xD7A3) { // 한글 유니코드 범위
-                        count++;
-                    }
-                }
-                if (count > bestCount) {
-                    bestCount = count;
-                    bestEnc = candidate;
-                }
-            } catch (Exception e) {
-                System.out.println("[" + candidate + "]: 디코딩 에러 발생");
-            }
+        // 2. 첫 글자가 태국어(Thai Unicode 0E00~0E7F)면 → IBM-Thai
+        // 태국어 범위: 0E00 ~ 0E7F
+        if ('\u0E00' <= first && first <= '\u0E7F') {
+            System.out.print("IBM-Thai");
+            return;
         }
-        // 최종 선택된 인코딩 출력
-        System.out.println("최종 선택 인코딩: " + bestEnc);
+
+        // 3. 첫 글자가 windows-1252 후보 (ê, ë, ì, í: U+00EA, U+00EB, U+00EC, U+00ED)이면
+        // windows-1252 후보: ê (00EA), ë (00EB), ì (00EC), í (00ED)
+        if (first == '\u00EA' || first == '\u00EB' || first == '\u00EC' || first == '\u00ED') {
+            System.out.print("windows-1252");
+            return;
+        }
+
+        // 4. 남은 경우: EUC-KR vs Shift_JIS
+        // Shift_JIS인 경우엔 반드시 반각 가타카나(Unicode: FF65~FF9F)가 등장함
+        // 반각 가타카나 범위: FF65 ~ FF9F
+        if (s.chars().anyMatch(c -> 0xFF65 <= c && c <= 0xFF9F)) {
+            System.out.print("Shift_JIS");
+        } else {
+            System.out.print("EUC-KR");
+        }
     }
 }
