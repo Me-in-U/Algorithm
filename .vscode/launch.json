@@ -6,6 +6,48 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "Solution",
+			"request": "launch",
+			"mainClass": "SWEA.P2383번_점심_식사_시간.Solution",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Solution",
+			"request": "launch",
+			"mainClass": "SWEA.P1251번_하나로.Solution",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "SWEA.P3124번_최소_스패닝_트리.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "SWEA.P1251번_하나로.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P1535번_안녕.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P10205번_헤라클레스와_히드라.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
 			"name": "Main",
 			"request": "launch",
 			"mainClass": "P1138번_한_줄로_서기.Main",

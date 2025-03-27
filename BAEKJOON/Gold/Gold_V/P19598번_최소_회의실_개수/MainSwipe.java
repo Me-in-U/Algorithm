@@ -32,7 +32,7 @@ public class MainSwipe {
         int count = 0;
         int time = -1;
         while (!times.isEmpty()) {
-            int nextTime = times.peek().time;
+            int nextTime = times.peek().moving;
             if (time == nextTime) {
                 count += times.poll().isStart ? 1 : -1;
                 max = Math.max(max, count);
