@@ -6,6 +6,20 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "TEST.A2.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "TEST.A1.하늘에서_떨어지는_N개의_별.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
 			"name": "Solution",
 			"request": "launch",
 			"mainClass": "SWEA.P2383번_점심_식사_시간.Solution",
@@ -129,6 +143,13 @@
 			"request": "launch",
 			"mainClass": "P25624번_SNUPTI.Main",
 			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P5692번_팩토리얼_진법.Main",
+			"projectName": "Algorithm_bbd0062a"
 		},
 		{
 			"type": "java",
