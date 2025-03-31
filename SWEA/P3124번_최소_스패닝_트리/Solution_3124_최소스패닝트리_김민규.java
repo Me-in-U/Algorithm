@@ -1,9 +1,19 @@
 package SWEA.P3124번_최소_스패닝_트리;
 
+/**
+ * <h1>SW Expert Academy 번</h1>
+ * <h1>BAEKJOON 번</h1>
+ * <p>
+ * JAVA 8 : 메모리 99,612 KB, 시간 2,103ms <br>
+ * </p>
+ * 
+ * @author KIM MINGYU jun3021303@gmail.com
+ * @since 2025-03-27
+ */
 import java.io.IOException;
 import java.util.Arrays;
 
-public class Main {
+public class Solution_3124_최소스패닝트리_김민규 {
     private static int V;
     private static int E;
     private static int[] parent;

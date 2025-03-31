@@ -1,14 +1,21 @@
 package SWEA.P2383번_점심_식사_시간;
 
-import java.io.BufferedReader;
+/**
+ * <h1>SW Expert Academy 2383번 점심 식사 시간</h1>
+ * <p>
+ * JAVA 8 : 메모리 32,620 KB, 시간 170ms <br>
+ * </p>
+ * 
+ * @author KIM MINGYU jun3021303@gmail.com
+ * @since 2025-03-27
+ */
+
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class Solution {
+public class Solution_2383_점심식사시간_김민규 {
     private static class Person implements Comparable<Person> {
         int x, y;
         int remainedStairs;

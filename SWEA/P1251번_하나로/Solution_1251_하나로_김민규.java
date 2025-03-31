@@ -1,9 +1,19 @@
 package SWEA.P1251번_하나로;
 
+/**
+ * <h1>SW Expert Academy 1251번 하나로</h1>
+ * <p>
+ * JAVA 8 : 메모리 78,124 KB, 시간 807ms <br>
+ * </p>
+ * 
+ * @author KIM MINGYU jun3021303@gmail.com
+ * @since 2025-03-27
+ */
+
 import java.io.IOException;
 import java.util.Arrays;
 
-public class Solution {
+public class Solution_1251_하나로_김민규 {
     private static int N;
     private static int[] parent;
     private static Edge[] edges;
