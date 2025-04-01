@@ -8,6 +8,76 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "P11091번_알파벳_전부_쓰기.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P10181번_Federation_Favorites.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P18141번_Are_They_All_Integers.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Solution_2105_디저트카페_김민규",
+			"request": "launch",
+			"mainClass": "SWEA.P2105번_디저트_카페.Solution_2105_디저트카페_김민규",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "SWEA.P2105번_디저트_카페.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Solution",
+			"request": "launch",
+			"mainClass": "SWEA.P2115번_벌꿀채취.Solution",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "SWEA.P2115번_벌꿀채취.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "P11145번_Is_it_a_Number.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Solution_1952_수영장_김민규DP",
+			"request": "launch",
+			"mainClass": "SWEA.P1852번_수영장.Solution_1952_수영장_김민규DP",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "SWEA.P1852번_수영장.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "P1976번_여행_가자.Main",
 			"projectName": "Algorithm_6ffe8c34"
 		},
