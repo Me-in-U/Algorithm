@@ -5,9 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Main {
-    protected static final String HURT = "Ouch! That hurts my ears.";
-    protected static final String BEAUTIFUL = "That music is beautiful.";
-    protected static final int[] beautifulIntervals = { 2, 4, 6 };
+    private static final String HURT = "Ouch! That hurts my ears.";
+    private static final String BEAUTIFUL = "That music is beautiful.";
+    private static final int[] beautifulIntervals = { 2, 4, 6 };
 
     public static void main(String[] args) throws IOException {
 
@@ -15,7 +15,7 @@ public class Main {
         StringBuilder sb = new StringBuilder();
         String notes = "";
         while ((notes = br.readLine()).charAt(0) != '#') {
-            sb.append(checkBeautifulMusic(notes) ? HURT : BEAUTIFUL).append('\n');
+            sb.append(checkBeautifulMusic(notes) ? BEAUTIFUL : HURT).append('\n');
         }
         System.out.print(sb.toString());
     }
