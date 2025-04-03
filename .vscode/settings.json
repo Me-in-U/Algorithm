@@ -142,10 +142,21 @@
 			"password": "Minecraft/2580"
 		}
 	],
-	"java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx4G -Xms100m -Xlog:disable",
+	"java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx8G -Xms100m -Xlog:disable",
 	"java.format.settings.url": ".vscode/java-formatter.xml",
 	"[java]": {
 		"editor.insertSpaces": true,
 		"editor.tabSize": 4
-	}
+	},
+	"java.project.sourcePaths": [
+		"BAEKJOON\\Bronze\\Bronze_I",
+		"BAEKJOON\\Bronze\\Bronze_II",
+		"BAEKJOON\\Bronze\\Bronze_III",
+		"BAEKJOON\\Bronze\\Bronze_IV",
+		"BAEKJOON\\Bronze\\Bronze_V",
+		"BAEKJOON\\Silver\\Silver_III",
+		"SWEA\\DP_연습",
+		"BAEKJOON\\Gold\\Gold_IV"
+	],
+	"java.project.referencedLibraries": []
 }
