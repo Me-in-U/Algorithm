@@ -1,4 +1,4 @@
-package SWEA.P1873번_상호의_배틀필드;
+package P1873번_상호의_배틀필드;
 
 /**
  * SW Expert Academy 1873번 상호의 배틀필드 D3
