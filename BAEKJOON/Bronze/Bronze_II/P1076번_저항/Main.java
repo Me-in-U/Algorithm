@@ -1,4 +1,4 @@
-package P1076번_저항;
+package BAEKJOON.Bronze.Bronze_II.P1076번_저항;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

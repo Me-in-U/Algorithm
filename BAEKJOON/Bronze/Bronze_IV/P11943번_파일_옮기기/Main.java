@@ -1,4 +1,4 @@
-package P11943번_파일_옮기기;
+package BAEKJOON.Bronze.Bronze_IV.P11943번_파일_옮기기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

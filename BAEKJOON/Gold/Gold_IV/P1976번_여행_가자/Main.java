@@ -1,4 +1,4 @@
-package P1976번_여행_가자;
+package BAEKJOON.Gold.Gold_IV.P1976번_여행_가자;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package P1057번_토너먼트;
+package BAEKJOON.Silver.Silver_IV.P1057번_토너먼트;
 
 import java.io.BufferedReader;
 import java.io.IOException;

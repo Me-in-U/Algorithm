@@ -1,4 +1,4 @@
-package P27389번_Metronome;
+package BAEKJOON.Bronze.Bronze_V.P27389번_Metronome;
 
 import java.io.BufferedReader;
 import java.io.IOException;

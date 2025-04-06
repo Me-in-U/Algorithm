@@ -1,4 +1,4 @@
-package P3278번_영화_평가;
+package BAEKJOON.Bronze.Bronze_I.P3278번_영화_평가;
 
 import java.io.BufferedReader;
 import java.io.IOException;

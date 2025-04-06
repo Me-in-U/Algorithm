@@ -1,4 +1,4 @@
-package P25757번_임스와_함께하는_미니게임;
+package BAEKJOON.Silver.Silver_V.P25757번_임스와_함께하는_미니게임;
 
 import java.io.BufferedReader;
 import java.io.IOException;

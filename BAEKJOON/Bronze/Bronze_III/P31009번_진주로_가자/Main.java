@@ -1,4 +1,4 @@
-package P31009번_진주로_가자;
+package BAEKJOON.Bronze.Bronze_III.P31009번_진주로_가자;
 
 import java.io.BufferedReader;
 import java.io.IOException;

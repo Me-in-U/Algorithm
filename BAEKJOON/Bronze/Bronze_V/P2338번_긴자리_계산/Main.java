@@ -1,4 +1,4 @@
-package P2338번_긴자리_계산;
+package BAEKJOON.Bronze.Bronze_V.P2338번_긴자리_계산;
 
 import java.io.BufferedReader;
 import java.io.IOException;

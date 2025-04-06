@@ -1,4 +1,4 @@
-package P31282번_ЛОВНО_КУЧЕ;
+package BAEKJOON.Bronze.Bronze_IV.P31282번_ЛОВНО_КУЧЕ;
 
 import java.io.BufferedReader;
 import java.io.IOException;

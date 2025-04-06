@@ -1,4 +1,4 @@
-package P2578번_빙고;
+package BAEKJOON.Silver.Silver_IV.P2578번_빙고;
 
 import java.io.BufferedReader;
 import java.io.IOException;

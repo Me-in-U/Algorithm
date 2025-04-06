@@ -1,4 +1,4 @@
-package P17471번_게리맨더링;
+package BAEKJOON.Gold.Gold_III.P17471번_게리맨더링;
 
 import java.io.IOException;
 import java.util.ArrayDeque;

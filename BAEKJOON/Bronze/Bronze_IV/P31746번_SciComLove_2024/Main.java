@@ -1,4 +1,4 @@
-package P31746번_SciComLove_2024;
+package BAEKJOON.Bronze.Bronze_IV.P31746번_SciComLove_2024;
 
 import java.io.BufferedReader;
 import java.io.IOException;

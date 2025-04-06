@@ -1,4 +1,4 @@
-package P11719번_그대로_출력하기_2;
+package BAEKJOON.Bronze.Bronze_III.P11719번_그대로_출력하기_2;
 
 import java.util.Scanner;
 

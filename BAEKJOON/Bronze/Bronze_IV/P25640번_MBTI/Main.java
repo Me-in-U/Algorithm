@@ -1,4 +1,4 @@
-package P25640번_MBTI;
+package BAEKJOON.Bronze.Bronze_IV.P25640번_MBTI;
 
 import java.io.BufferedReader;
 import java.io.IOException;

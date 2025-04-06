@@ -1,4 +1,4 @@
-package P6768번_Dont_pass_me_the_ball;
+package BAEKJOON.Bronze.Bronze_III.P6768번_Dont_pass_me_the_ball;
 
 import java.io.IOException;
 

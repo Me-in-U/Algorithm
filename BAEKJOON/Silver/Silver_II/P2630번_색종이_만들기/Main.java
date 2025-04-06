@@ -1,4 +1,4 @@
-package P2630번_색종이_만들기;
+package BAEKJOON.Silver.Silver_II.P2630번_색종이_만들기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

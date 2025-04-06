@@ -1,4 +1,4 @@
-package P3109번_빵집;
+package BAEKJOON.Gold.Gold_II.P3109번_빵집;
 
 /**
  * BAEKJOON 3109번 빵집

@@ -1,4 +1,4 @@
-package P1158번_요세푸스_문제;
+package BAEKJOON.Silver.Silver_IV.P1158번_요세푸스_문제;
 
 import java.io.IOException;
 import java.io.BufferedReader;

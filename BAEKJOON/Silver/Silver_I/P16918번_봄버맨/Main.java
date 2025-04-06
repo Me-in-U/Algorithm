@@ -1,4 +1,4 @@
-package P16918번_봄버맨;
+package BAEKJOON.Silver.Silver_I.P16918번_봄버맨;
 
 import java.io.BufferedReader;
 import java.io.IOException;

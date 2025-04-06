@@ -1,4 +1,4 @@
-package P13136번_Do_Not_Touch_Anything;
+package BAEKJOON.Bronze.Bronze_IV.P13136번_Do_Not_Touch_Anything;
 
 import java.io.BufferedReader;
 import java.io.IOException;

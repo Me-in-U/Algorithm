@@ -1,4 +1,4 @@
-package P20499번_다리우스;
+package BAEKJOON.Bronze.Bronze_IV.P20499번_다리우스;
 
 import java.io.BufferedReader;
 import java.io.IOException;

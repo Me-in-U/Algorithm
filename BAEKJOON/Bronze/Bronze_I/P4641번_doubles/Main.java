@@ -1,4 +1,4 @@
-package P4641번_doubles;
+package BAEKJOON.Bronze.Bronze_I.P4641번_doubles;
 
 import java.io.BufferedReader;
 import java.io.IOException;

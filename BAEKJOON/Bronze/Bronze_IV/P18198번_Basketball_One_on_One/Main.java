@@ -1,4 +1,4 @@
-package P18198번_Basketball_One_on_One;
+package BAEKJOON.Bronze.Bronze_IV.P18198번_Basketball_One_on_One;
 
 import java.io.BufferedReader;
 import java.io.IOException;

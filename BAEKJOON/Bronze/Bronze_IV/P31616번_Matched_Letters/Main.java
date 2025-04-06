@@ -1,4 +1,4 @@
-package P31616번_Matched_Letters;
+package BAEKJOON.Bronze.Bronze_IV.P31616번_Matched_Letters;
 
 import java.io.BufferedReader;
 import java.io.IOException;

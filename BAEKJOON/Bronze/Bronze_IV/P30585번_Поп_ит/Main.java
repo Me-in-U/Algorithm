@@ -1,4 +1,4 @@
-package P30585번_Поп_ит;
+package BAEKJOON.Bronze.Bronze_IV.P30585번_Поп_ит;
 
 import java.io.BufferedReader;
 import java.io.IOException;

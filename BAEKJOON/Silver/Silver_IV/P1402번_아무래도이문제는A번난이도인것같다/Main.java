@@ -1,4 +1,4 @@
-package P1402번_아무래도이문제는A번난이도인것같다;
+package BAEKJOON.Silver.Silver_IV.P1402번_아무래도이문제는A번난이도인것같다;
 
 import java.io.IOException;
 

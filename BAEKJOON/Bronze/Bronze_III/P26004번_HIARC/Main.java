@@ -1,4 +1,4 @@
-package P26004번_HIARC;
+package BAEKJOON.Bronze.Bronze_III.P26004번_HIARC;
 
 import java.io.BufferedReader;
 import java.io.IOException;

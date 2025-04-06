@@ -1,4 +1,4 @@
-package P23757번_아이들과_선물_상자;
+package BAEKJOON.Silver.Silver_II.P23757번_아이들과_선물_상자;
 
 import java.io.BufferedReader;
 import java.io.IOException;

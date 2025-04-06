@@ -1,4 +1,4 @@
-package P28702번_FizzBuzz;
+package BAEKJOON.Bronze.Bronze_I.P28702번_FizzBuzz;
 
 import java.io.BufferedReader;
 import java.io.IOException;

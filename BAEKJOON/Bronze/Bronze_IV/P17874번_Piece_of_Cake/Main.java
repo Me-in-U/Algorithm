@@ -1,4 +1,4 @@
-package P17874번_Piece_of_Cake;
+package BAEKJOON.Bronze.Bronze_IV.P17874번_Piece_of_Cake;
 
 import java.io.BufferedReader;
 import java.io.IOException;

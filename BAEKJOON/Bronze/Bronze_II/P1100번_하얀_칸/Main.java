@@ -1,4 +1,4 @@
-package P1100번_하얀_칸;
+package BAEKJOON.Bronze.Bronze_II.P1100번_하얀_칸;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P29863번_Arrnos_Sleep_Schedule;
+package BAEKJOON.Bronze.Bronze_V.P29863번_Arrnos_Sleep_Schedule;
 
 import java.io.BufferedReader;
 import java.io.IOException;

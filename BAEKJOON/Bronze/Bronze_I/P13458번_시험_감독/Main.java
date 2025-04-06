@@ -1,4 +1,4 @@
-package P13458번_시험_감독;
+package BAEKJOON.Bronze.Bronze_I.P13458번_시험_감독;
 
 import java.io.BufferedReader;
 import java.io.IOException;

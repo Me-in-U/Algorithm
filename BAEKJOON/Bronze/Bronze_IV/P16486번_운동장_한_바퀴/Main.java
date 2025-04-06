@@ -1,4 +1,4 @@
-package P16486번_운동장_한_바퀴;
+package BAEKJOON.Bronze.Bronze_IV.P16486번_운동장_한_바퀴;
 
 import java.io.BufferedReader;
 import java.io.IOException;

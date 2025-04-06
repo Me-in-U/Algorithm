@@ -1,4 +1,4 @@
-package P8760번_Schronisko;
+package BAEKJOON.Bronze.Bronze_IV.P8760번_Schronisko;
 
 import java.io.BufferedReader;
 import java.io.IOException;

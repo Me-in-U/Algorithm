@@ -1,4 +1,4 @@
-package P2150번_Strongly_Connected_Component;
+package BAEKJOON.Platinum.Platinum_V.P2150번_Strongly_Connected_Component;
 
 import java.io.BufferedReader;
 import java.io.IOException;

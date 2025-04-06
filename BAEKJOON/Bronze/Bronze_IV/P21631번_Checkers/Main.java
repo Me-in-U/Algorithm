@@ -1,4 +1,4 @@
-package P21631번_Checkers;
+package BAEKJOON.Bronze.Bronze_IV.P21631번_Checkers;
 
 import java.io.BufferedReader;
 import java.io.IOException;

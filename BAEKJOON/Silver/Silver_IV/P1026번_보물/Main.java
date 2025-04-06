@@ -1,4 +1,4 @@
-package P1026번_보물;
+package BAEKJOON.Silver.Silver_IV.P1026번_보물;
 
 import java.io.BufferedReader;
 import java.io.IOException;

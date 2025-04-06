@@ -1,4 +1,4 @@
-package P10170번_NFC_West_vs_North;
+package BAEKJOON.Bronze.Bronze_V.P10170번_NFC_West_vs_North;
 
 public class Main {
   public static void main(String[] args) {

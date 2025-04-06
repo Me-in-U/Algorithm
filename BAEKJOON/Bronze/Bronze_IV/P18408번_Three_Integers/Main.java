@@ -1,4 +1,4 @@
-package P18408번_Three_Integers;
+package BAEKJOON.Bronze.Bronze_IV.P18408번_Three_Integers;
 
 import java.io.BufferedReader;
 import java.io.IOException;

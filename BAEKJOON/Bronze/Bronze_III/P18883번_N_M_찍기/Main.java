@@ -1,4 +1,4 @@
-package P18883번_N_M_찍기;
+package BAEKJOON.Bronze.Bronze_III.P18883번_N_M_찍기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

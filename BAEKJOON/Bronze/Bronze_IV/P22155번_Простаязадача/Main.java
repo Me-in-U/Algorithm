@@ -1,4 +1,4 @@
-package P22155번_Простаязадача;
+package BAEKJOON.Bronze.Bronze_IV.P22155번_Простаязадача;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P4101번_크냐;
+package BAEKJOON.Bronze.Bronze_V.P4101번_크냐;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

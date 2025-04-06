@@ -1,4 +1,4 @@
-package P17202번_핸드폰_번호_궁합;
+package BAEKJOON.Bronze.Bronze_I.P17202번_핸드폰_번호_궁합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

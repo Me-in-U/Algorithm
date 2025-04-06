@@ -1,4 +1,4 @@
-package P2178번_미로_탐색;
+package BAEKJOON.Silver.Silver_I.P2178번_미로_탐색;
 
 /**
  * BAEKJOON 2178번 미로 탐색

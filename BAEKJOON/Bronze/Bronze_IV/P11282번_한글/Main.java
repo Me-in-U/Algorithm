@@ -1,4 +1,4 @@
-package P11282번_한글;
+package BAEKJOON.Bronze.Bronze_IV.P11282번_한글;
 
 import java.io.BufferedReader;
 import java.io.IOException;

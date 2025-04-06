@@ -1,4 +1,4 @@
-package P10818번_최소_최대;
+package BAEKJOON.Bronze.Bronze_III.P10818번_최소_최대;
 
 import java.util.Scanner;
     

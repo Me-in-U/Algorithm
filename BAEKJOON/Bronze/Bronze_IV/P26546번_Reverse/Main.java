@@ -1,4 +1,4 @@
-package P26546번_Reverse;
+package BAEKJOON.Bronze.Bronze_IV.P26546번_Reverse;
 
 import java.io.BufferedReader;
 import java.io.IOException;

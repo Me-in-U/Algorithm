@@ -1,4 +1,4 @@
-package P10815번_숫자_카드;
+package BAEKJOON.Silver.Silver_V.P10815번_숫자_카드;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P30206번_차량_배치;
+package BAEKJOON.Gold.Gold_IV.P30206번_차량_배치;
 
 import java.io.BufferedReader;
 import java.io.IOException;

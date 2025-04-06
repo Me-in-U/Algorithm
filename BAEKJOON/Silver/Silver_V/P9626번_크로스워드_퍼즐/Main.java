@@ -1,4 +1,4 @@
-package P9626번_크로스워드_퍼즐;
+package BAEKJOON.Silver.Silver_V.P9626번_크로스워드_퍼즐;
 
 import java.io.BufferedReader;
 import java.io.IOException;

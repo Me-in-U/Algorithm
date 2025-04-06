@@ -1,4 +1,4 @@
-package P5355번_화성_수학;
+package BAEKJOON.Bronze.Bronze_II.P5355번_화성_수학;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P15650번_N과_M_2;
+package BAEKJOON.Silver.Silver_III.P15650번_N과_M_2;
 
 /**
  * BAEKJOON ONLINE JUDGE

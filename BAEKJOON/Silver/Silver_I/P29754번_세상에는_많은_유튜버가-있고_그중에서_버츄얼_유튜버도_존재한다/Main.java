@@ -1,4 +1,4 @@
-package 국민중앙.D번;
+package BAEKJOON.Silver.Silver_I.P29754번_세상에는_많은_유튜버가-있고_그중에서_버츄얼_유튜버도_존재한다;
 
 import java.io.BufferedReader;
 import java.io.IOException;

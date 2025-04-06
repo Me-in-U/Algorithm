@@ -1,4 +1,4 @@
-package P17356번_욱_제;
+package BAEKJOON.Bronze.Bronze_IV.P17356번_욱_제;
 
 import java.io.BufferedReader;
 import java.io.IOException;

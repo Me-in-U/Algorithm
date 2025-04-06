@@ -1,4 +1,4 @@
-package P14647번_준오는_조류험오야;
+package BAEKJOON.Bronze.Bronze_I.P14647번_준오는_조류험오야;
 
 import java.io.BufferedReader;
 import java.io.IOException;

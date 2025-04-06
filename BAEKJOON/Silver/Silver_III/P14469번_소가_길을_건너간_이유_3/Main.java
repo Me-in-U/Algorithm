@@ -1,4 +1,4 @@
-package P14469번_소가_길을_건너간_이유_3;
+package BAEKJOON.Silver.Silver_III.P14469번_소가_길을_건너간_이유_3;
 
 import java.io.BufferedReader;
 import java.io.IOException;

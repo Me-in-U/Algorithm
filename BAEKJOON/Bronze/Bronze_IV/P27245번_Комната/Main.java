@@ -1,4 +1,4 @@
-package P27245번_Комната;
+package BAEKJOON.Bronze.Bronze_IV.P27245번_Комната;
 
 import java.io.BufferedReader;
 import java.io.IOException;

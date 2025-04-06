@@ -1,4 +1,4 @@
-package P30403번_무지개_만들기;
+package BAEKJOON.Bronze.Bronze_II.P30403번_무지개_만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P24078번_Remainder;
+package BAEKJOON.Bronze.Bronze_V.P24078번_Remainder;
 
 import java.io.BufferedReader;
 import java.io.IOException;

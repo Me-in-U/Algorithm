@@ -1,4 +1,4 @@
-package P32710번_구구단표;
+package BAEKJOON.Bronze.Bronze_IV.P32710번_구구단표;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package P1213번_팰린드롬_만들기;
+package BAEKJOON.Silver.Silver_III.P1213번_팰린드롬_만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P3036번_링;
+package BAEKJOON.Silver.Silver_IV.P3036번_링;
 
 import java.io.BufferedReader;
 import java.io.IOException;

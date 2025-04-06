@@ -1,4 +1,4 @@
-package P32458번_Just_Round_Down;
+package BAEKJOON.Bronze.Bronze_V.P32458번_Just_Round_Down;
 
 import java.io.BufferedReader;
 import java.io.IOException;

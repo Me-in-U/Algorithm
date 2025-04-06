@@ -1,4 +1,4 @@
-package P32902번_Chips;
+package BAEKJOON.Bronze.Bronze_IV.P32902번_Chips;
 
 import java.io.BufferedReader;
 import java.io.IOException;

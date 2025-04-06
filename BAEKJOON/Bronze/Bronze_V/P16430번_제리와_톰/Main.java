@@ -1,4 +1,4 @@
-package P16430번_제리와_톰;
+package BAEKJOON.Bronze.Bronze_V.P16430번_제리와_톰;
 
 import java.io.BufferedReader;
 import java.io.IOException;

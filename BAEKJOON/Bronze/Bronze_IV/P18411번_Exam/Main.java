@@ -1,4 +1,4 @@
-package P18411번_Exam;
+package BAEKJOON.Bronze.Bronze_IV.P18411번_Exam;
 
 import java.io.BufferedReader;
 import java.io.IOException;

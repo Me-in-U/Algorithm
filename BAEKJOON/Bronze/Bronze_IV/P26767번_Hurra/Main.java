@@ -1,4 +1,4 @@
-package P26767번_Hurra;
+package BAEKJOON.Bronze.Bronze_IV.P26767번_Hurra;
 
 import java.io.BufferedReader;
 import java.io.IOException;

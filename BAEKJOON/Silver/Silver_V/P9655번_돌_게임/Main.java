@@ -1,4 +1,4 @@
-package P9655번_돌_게임;
+package BAEKJOON.Silver.Silver_V.P9655번_돌_게임;
 
 import java.io.BufferedReader;
 import java.io.IOException;

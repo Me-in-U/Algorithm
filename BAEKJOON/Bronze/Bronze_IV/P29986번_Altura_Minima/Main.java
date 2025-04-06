@@ -1,4 +1,4 @@
-package P29986번_Altura_Minima;
+package BAEKJOON.Bronze.Bronze_IV.P29986번_Altura_Minima;
 
 import java.io.BufferedReader;
 import java.io.IOException;

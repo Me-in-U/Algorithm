@@ -1,4 +1,4 @@
-package P26307번_Correct;
+package BAEKJOON.Bronze.Bronze_V.P26307번_Correct;
 
 import java.io.BufferedReader;
 import java.io.IOException;

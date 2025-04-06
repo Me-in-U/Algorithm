@@ -1,4 +1,4 @@
-package P1065번_한수;
+package BAEKJOON.Silver.Silver_IV.P1065번_한수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

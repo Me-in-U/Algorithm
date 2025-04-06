@@ -1,4 +1,4 @@
-package P22856번_트리_순회;
+package BAEKJOON.Gold.Gold_IV.P22856번_트리_순회;
 
 import java.io.IOException;
 

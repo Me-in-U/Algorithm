@@ -1,4 +1,4 @@
-package P1764번_듣보잡;
+package BAEKJOON.Silver.Silver_IV.P1764번_듣보잡;
 
 import java.io.BufferedReader;
 import java.io.IOException;

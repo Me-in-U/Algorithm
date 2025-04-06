@@ -1,4 +1,4 @@
-package P2231번_분해합;
+package BAEKJOON.Bronze.Bronze_II.P2231번_분해합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

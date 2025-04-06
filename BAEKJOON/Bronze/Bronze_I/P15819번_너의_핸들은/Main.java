@@ -1,4 +1,4 @@
-package P15819번_너의_핸들은;
+package BAEKJOON.Bronze.Bronze_I.P15819번_너의_핸들은;
 
 import java.io.BufferedReader;
 import java.io.IOException;

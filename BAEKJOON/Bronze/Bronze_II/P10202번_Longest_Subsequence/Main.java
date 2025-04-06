@@ -1,4 +1,4 @@
-package P10202번_Longest_Subsequence;
+package BAEKJOON.Bronze.Bronze_II.P10202번_Longest_Subsequence;
 
 import java.io.BufferedReader;
 import java.io.IOException;

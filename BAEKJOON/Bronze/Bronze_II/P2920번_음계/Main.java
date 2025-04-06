@@ -1,4 +1,4 @@
-package P2920번_음계;
+package BAEKJOON.Bronze.Bronze_II.P2920번_음계;
 
 import java.util.Scanner;
 

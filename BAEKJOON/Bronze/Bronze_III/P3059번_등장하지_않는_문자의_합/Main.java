@@ -1,4 +1,4 @@
-package P3059번_등장하지_않는_문자의_합;
+package BAEKJOON.Bronze.Bronze_III.P3059번_등장하지_않는_문자의_합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

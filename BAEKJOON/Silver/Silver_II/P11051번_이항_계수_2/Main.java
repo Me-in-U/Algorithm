@@ -1,4 +1,4 @@
-package P11051번_이항_계수_2;
+package BAEKJOON.Silver.Silver_II.P11051번_이항_계수_2;
 
 import java.io.IOException;
 

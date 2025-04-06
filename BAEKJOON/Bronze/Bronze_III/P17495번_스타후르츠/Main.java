@@ -1,4 +1,4 @@
-package P17495번_스타후르츠;
+package BAEKJOON.Bronze.Bronze_III.P17495번_스타후르츠;
 
 import java.io.BufferedReader;
 import java.io.IOException;

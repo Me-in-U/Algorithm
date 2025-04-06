@@ -1,4 +1,4 @@
-package P3765번_Celebrity_jeopardy;
+package BAEKJOON.Bronze.Bronze_IV.P3765번_Celebrity_jeopardy;
 
 import java.io.BufferedReader;
 import java.io.IOException;

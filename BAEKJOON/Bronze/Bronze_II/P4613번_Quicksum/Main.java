@@ -1,4 +1,4 @@
-package P4613번_Quicksum;
+package BAEKJOON.Bronze.Bronze_II.P4613번_Quicksum;
 
 import java.io.BufferedReader;
 import java.io.IOException;

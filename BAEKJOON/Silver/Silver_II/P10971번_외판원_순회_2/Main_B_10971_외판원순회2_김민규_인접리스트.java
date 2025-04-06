@@ -1,4 +1,4 @@
-package P10971번_외판원_순회_2;
+package BAEKJOON.Silver.Silver_II.P10971번_외판원_순회_2;
 
 /**
  * BAEKJOON 10971번 외판원 순회 2

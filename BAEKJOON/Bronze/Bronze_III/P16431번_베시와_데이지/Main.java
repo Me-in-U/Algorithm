@@ -1,4 +1,4 @@
-package P16431번_베시와_데이지;
+package BAEKJOON.Bronze.Bronze_III.P16431번_베시와_데이지;
 
 import java.io.BufferedReader;
 import java.io.IOException;

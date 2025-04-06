@@ -1,4 +1,4 @@
-package P31821번_학식_사주기;
+package BAEKJOON.Bronze.Bronze_IV.P31821번_학식_사주기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

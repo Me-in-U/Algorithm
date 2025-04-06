@@ -1,4 +1,4 @@
-package P9935번_문자열_폭발;
+package BAEKJOON.Gold.Gold_IV.P9935번_문자열_폭발;
 
 import java.io.BufferedReader;
 import java.io.IOException;

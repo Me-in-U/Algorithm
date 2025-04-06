@@ -1,4 +1,4 @@
-package P4299번_AFC_윔블던;
+package BAEKJOON.Bronze.Bronze_IV.P4299번_AFC_윔블던;
 
 import java.io.BufferedReader;
 import java.io.IOException;

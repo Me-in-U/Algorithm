@@ -1,4 +1,4 @@
-package P14225번_부분수열의_합;
+package BAEKJOON.Silver.Silver_I.P14225번_부분수열의_합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

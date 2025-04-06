@@ -1,4 +1,4 @@
-package P14730번_謎紛芥索紀_Small;
+package BAEKJOON.Silver.Silver_V.P14730번_謎紛芥索紀_Small;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

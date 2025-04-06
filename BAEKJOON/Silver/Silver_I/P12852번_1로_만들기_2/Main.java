@@ -1,4 +1,4 @@
-package P12852번_1로_만들기_2;
+package BAEKJOON.Silver.Silver_I.P12852번_1로_만들기_2;
 
 import java.util.Scanner; 
 class Main {

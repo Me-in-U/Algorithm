@@ -1,4 +1,4 @@
-package P1992번_쿼드트리;
+package BAEKJOON.Silver.Silver_I.P1992번_쿼드트리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

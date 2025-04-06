@@ -1,4 +1,4 @@
-package P28113번_정보섬의_대중교통;
+package BAEKJOON.Bronze.Bronze_V.P28113번_정보섬의_대중교통;
 
 import java.io.BufferedReader;
 import java.io.IOException;

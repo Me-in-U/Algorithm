@@ -1,4 +1,4 @@
-package P25206번_너의_평점은;
+package BAEKJOON.Silver.Silver_V.P25206번_너의_평점은;
 
 import java.io.BufferedReader;
 import java.io.IOException;

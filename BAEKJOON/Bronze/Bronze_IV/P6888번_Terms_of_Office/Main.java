@@ -1,4 +1,4 @@
-package P6888번_Terms_of_Office;
+package BAEKJOON.Bronze.Bronze_IV.P6888번_Terms_of_Office;
 
 import java.io.BufferedReader;
 import java.io.IOException;

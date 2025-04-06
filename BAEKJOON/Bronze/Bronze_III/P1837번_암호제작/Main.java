@@ -1,4 +1,4 @@
-package P1837번_암호제작;
+package BAEKJOON.Bronze.Bronze_III.P1837번_암호제작;
 
 import java.io.IOException;
 import java.math.BigInteger;

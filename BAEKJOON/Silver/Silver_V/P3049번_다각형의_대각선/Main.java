@@ -1,4 +1,4 @@
-package P3049번_다각형의_대각선;
+package BAEKJOON.Silver.Silver_V.P3049번_다각형의_대각선;
 
 import java.io.BufferedReader;
 import java.io.IOException;

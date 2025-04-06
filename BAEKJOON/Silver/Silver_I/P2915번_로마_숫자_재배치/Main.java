@@ -1,4 +1,4 @@
-package P2915번_로마_숫자_재배치;
+package BAEKJOON.Silver.Silver_I.P2915번_로마_숫자_재배치;
 
 import java.io.BufferedReader;
 import java.io.IOException;

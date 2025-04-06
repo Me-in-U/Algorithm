@@ -1,4 +1,4 @@
-package P11441번_합_구하기;
+package BAEKJOON.Silver.Silver_III.P11441번_합_구하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

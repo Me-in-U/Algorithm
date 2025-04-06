@@ -1,4 +1,4 @@
-package P2393번_Rock;
+package BAEKJOON.Bronze.Bronze_V.P2393번_Rock;
 
 public class Main {
   public static void main(String[] args) {

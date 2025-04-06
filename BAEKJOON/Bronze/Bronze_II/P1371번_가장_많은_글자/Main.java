@@ -1,4 +1,4 @@
-package P1371번_가장_많은_글자;
+package BAEKJOON.Bronze.Bronze_II.P1371번_가장_많은_글자;
 
 import java.io.BufferedReader;
 import java.io.IOException;

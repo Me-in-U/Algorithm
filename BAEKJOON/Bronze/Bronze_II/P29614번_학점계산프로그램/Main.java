@@ -1,4 +1,4 @@
-package P29614번_학점계산프로그램;
+package BAEKJOON.Bronze.Bronze_II.P29614번_학점계산프로그램;
 
 import java.io.BufferedReader;
 import java.io.IOException;

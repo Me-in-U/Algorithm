@@ -1,4 +1,4 @@
-package P2577번_숫자의_개수;
+package BAEKJOON.Bronze.Bronze_II.P2577번_숫자의_개수;
 
 import java.util.Scanner;
     

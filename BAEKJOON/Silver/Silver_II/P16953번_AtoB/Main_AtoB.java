@@ -1,4 +1,4 @@
-package P16953번_AtoB;
+package BAEKJOON.Silver.Silver_II.P16953번_AtoB;
 
 import java.io.IOException;
 import java.util.ArrayDeque;

@@ -1,4 +1,4 @@
-package P10179번_쿠폰;
+package BAEKJOON.Bronze.Bronze_III.P10179번_쿠폰;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P11531번_ACM_대회_채점;
+package BAEKJOON.Bronze.Bronze_II.P11531번_ACM_대회_채점;
 
 import java.io.BufferedReader;
 import java.io.IOException;

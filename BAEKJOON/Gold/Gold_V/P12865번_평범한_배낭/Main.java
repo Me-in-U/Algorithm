@@ -1,4 +1,4 @@
-package P12865번_평범한_배낭;
+package BAEKJOON.Gold.Gold_V.P12865번_평범한_배낭;
 
 import java.io.BufferedReader;
 import java.io.IOException;

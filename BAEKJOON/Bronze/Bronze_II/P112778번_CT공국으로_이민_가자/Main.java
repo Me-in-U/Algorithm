@@ -1,4 +1,4 @@
-package P112778번_CT공국으로_이민_가자;
+package BAEKJOON.Bronze.Bronze_II.P112778번_CT공국으로_이민_가자;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P31656번_Sticky_Keys;
+package BAEKJOON.Bronze.Bronze_IV.P31656번_Sticky_Keys;
 
 import java.io.BufferedReader;
 import java.io.IOException;

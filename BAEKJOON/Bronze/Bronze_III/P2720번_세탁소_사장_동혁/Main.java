@@ -1,4 +1,4 @@
-package P2720번_세탁소_사장_동혁;
+package BAEKJOON.Bronze.Bronze_III.P2720번_세탁소_사장_동혁;
 
 import java.io.BufferedReader;
 import java.io.IOException;

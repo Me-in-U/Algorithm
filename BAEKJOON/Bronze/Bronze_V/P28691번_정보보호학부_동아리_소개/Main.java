@@ -1,4 +1,4 @@
-package P28691번_정보보호학부_동아리_소개;
+package BAEKJOON.Bronze.Bronze_V.P28691번_정보보호학부_동아리_소개;
 
 import java.io.BufferedReader;
 import java.io.IOException;

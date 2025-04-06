@@ -1,4 +1,4 @@
-package P11655번_ROT13;
+package BAEKJOON.Bronze.Bronze_I.P11655번_ROT13;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2991번_사나운_개;
+package BAEKJOON.Bronze.Bronze_III.P2991번_사나운_개;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package P18111번_마인크래프트;
+package BAEKJOON.Silver.Silver_II.P18111번_마인크래프트;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P4539번_반올림;
+package BAEKJOON.Bronze.Bronze_I.P4539번_반올림;
 
 import java.io.BufferedReader;
 import java.io.IOException;

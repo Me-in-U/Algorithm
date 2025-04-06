@@ -1,4 +1,4 @@
-package P11149번_Decode_the_Message;
+package BAEKJOON.Bronze.Bronze_II.P11149번_Decode_the_Message;
 
 import java.io.BufferedReader;
 import java.io.IOException;

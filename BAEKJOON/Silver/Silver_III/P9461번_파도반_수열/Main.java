@@ -1,4 +1,4 @@
-package P9461번_파도반_수열;
+package BAEKJOON.Silver.Silver_III.P9461번_파도반_수열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2010번_플러그;
+package BAEKJOON.Bronze.Bronze_III.P2010번_플러그;
 
 import java.io.BufferedReader;
 import java.io.IOException;

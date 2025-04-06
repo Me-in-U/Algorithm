@@ -1,4 +1,4 @@
-package P10990번_별_찍기_15;
+package BAEKJOON.Bronze.Bronze_III.P10990번_별_찍기_15;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P1956번_운동;
+package BAEKJOON.Gold.Gold_IV.P1956번_운동;
 
 import java.io.IOException;
 

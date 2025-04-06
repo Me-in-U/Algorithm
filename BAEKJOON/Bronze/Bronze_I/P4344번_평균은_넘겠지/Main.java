@@ -1,4 +1,4 @@
-package P4344번_평균은_넘겠지;
+package BAEKJOON.Bronze.Bronze_I.P4344번_평균은_넘겠지;
 
 import java.io.BufferedReader;
 import java.io.IOException;

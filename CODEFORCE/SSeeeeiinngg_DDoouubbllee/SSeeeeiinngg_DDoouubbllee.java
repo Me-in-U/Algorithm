@@ -1,4 +1,4 @@
-package SSeeeeiinngg_DDoouubbllee;
+package CODEFORCE.SSeeeeiinngg_DDoouubbllee;
 
 import java.io.BufferedReader;
 import java.io.IOException;

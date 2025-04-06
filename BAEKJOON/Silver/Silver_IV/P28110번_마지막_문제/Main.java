@@ -1,4 +1,4 @@
-package P28110번_마지막_문제;
+package BAEKJOON.Silver.Silver_IV.P28110번_마지막_문제;
 
 import java.io.BufferedReader;
 import java.io.IOException;

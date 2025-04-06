@@ -1,4 +1,4 @@
-package P14624번_전북대학교;
+package BAEKJOON.Bronze.Bronze_II.P14624번_전북대학교;
 
 import java.io.BufferedReader;
 import java.io.IOException;

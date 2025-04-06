@@ -1,4 +1,4 @@
-package P2292번_벌집;
+package BAEKJOON.Bronze.Bronze_II.P2292번_벌집;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

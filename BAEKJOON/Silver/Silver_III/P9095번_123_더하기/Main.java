@@ -1,4 +1,4 @@
-package P9095번_123_더하기;
+package BAEKJOON.Silver.Silver_III.P9095번_123_더하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

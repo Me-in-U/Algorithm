@@ -1,4 +1,4 @@
-package P30958번_서울사이버대학을_다니고;
+package BAEKJOON.Bronze.Bronze_III.P30958번_서울사이버대학을_다니고;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

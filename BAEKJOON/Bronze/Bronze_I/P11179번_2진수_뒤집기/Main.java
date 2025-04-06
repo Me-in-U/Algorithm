@@ -1,4 +1,4 @@
-package P11179번_2진수_뒤집기;
+package BAEKJOON.Bronze.Bronze_I.P11179번_2진수_뒤집기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P23825번_SASA_모형을_만들어보자;
+package BAEKJOON.Bronze.Bronze_IV.P23825번_SASA_모형을_만들어보자;
 
 import java.io.BufferedReader;
 import java.io.IOException;

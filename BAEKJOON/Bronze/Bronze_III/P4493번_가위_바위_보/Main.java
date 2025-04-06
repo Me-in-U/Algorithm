@@ -1,4 +1,4 @@
-package P4493번_가위_바위_보;
+package BAEKJOON.Bronze.Bronze_III.P4493번_가위_바위_보;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P13580번_Andando_no_tempo;
+package BAEKJOON.Bronze.Bronze_IV.P13580번_Andando_no_tempo;
 
 import java.io.BufferedReader;
 import java.io.IOException;

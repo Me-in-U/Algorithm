@@ -1,4 +1,4 @@
-package P10178번_할로윈의_사탕;
+package BAEKJOON.Bronze.Bronze_III.P10178번_할로윈의_사탕;
 
 import java.io.BufferedReader;
 import java.io.IOException;

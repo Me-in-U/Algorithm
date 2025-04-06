@@ -1,4 +1,4 @@
-package P13597번_Tri_du;
+package BAEKJOON.Bronze.Bronze_IV.P13597번_Tri_du;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P32929번_UOS_문자열;
+package BAEKJOON.Bronze.Bronze_V.P32929번_UOS_문자열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

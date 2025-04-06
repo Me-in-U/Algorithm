@@ -1,4 +1,4 @@
-package P15727번_조별과제를_하려는데_조장이_사라졌다;
+package BAEKJOON.Bronze.Bronze_V.P15727번_조별과제를_하려는데_조장이_사라졌다;
 
 import java.io.BufferedReader;
 import java.io.IOException;

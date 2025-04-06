@@ -1,4 +1,4 @@
-package P1748번_수_이어_쓰기;
+package BAEKJOON.Silver.Silver_IV.P1748번_수_이어_쓰기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

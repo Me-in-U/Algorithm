@@ -1,4 +1,4 @@
-package P10156번_과자;
+package BAEKJOON.Bronze.Bronze_IV.P10156번_과자;
 
 import java.io.BufferedReader;
 import java.io.IOException;

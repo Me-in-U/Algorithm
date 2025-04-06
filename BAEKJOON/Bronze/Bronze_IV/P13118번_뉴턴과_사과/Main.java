@@ -1,4 +1,4 @@
-package P13118번_뉴턴과_사과;
+package BAEKJOON.Bronze.Bronze_IV.P13118번_뉴턴과_사과;
 
 import java.io.BufferedReader;
 import java.io.IOException;

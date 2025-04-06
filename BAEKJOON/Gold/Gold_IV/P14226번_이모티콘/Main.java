@@ -1,4 +1,4 @@
-package P14226번_이모티콘;
+package BAEKJOON.Gold.Gold_IV.P14226번_이모티콘;
 
 import java.io.BufferedReader;
 import java.io.IOException;

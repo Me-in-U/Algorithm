@@ -1,4 +1,4 @@
-package P1094번_막대기;
+package BAEKJOON.Silver.Silver_V.P1094번_막대기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

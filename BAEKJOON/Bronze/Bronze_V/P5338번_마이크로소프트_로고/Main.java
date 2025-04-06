@@ -1,4 +1,4 @@
-package P5338번_마이크로소프트_로고;
+package BAEKJOON.Bronze.Bronze_V.P5338번_마이크로소프트_로고;
 
 class Main {
 	public static void main(String[] args){

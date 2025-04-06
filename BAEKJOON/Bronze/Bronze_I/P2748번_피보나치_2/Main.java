@@ -1,4 +1,4 @@
-package P2748번_피보나치_2;
+package BAEKJOON.Bronze.Bronze_I.P2748번_피보나치_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

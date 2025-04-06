@@ -1,4 +1,4 @@
-package P10707번_수도요금;
+package BAEKJOON.Bronze.Bronze_III.P10707번_수도요금;
 
 import java.io.BufferedReader;
 import java.io.IOException;

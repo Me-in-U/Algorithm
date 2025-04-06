@@ -1,4 +1,4 @@
-package P28224번_Final_Price;
+package BAEKJOON.Bronze.Bronze_IV.P28224번_Final_Price;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P29807번_학번을_찾아줘;
+package BAEKJOON.Bronze.Bronze_IV.P29807번_학번을_찾아줘;
 
 import java.io.BufferedReader;
 import java.io.IOException;

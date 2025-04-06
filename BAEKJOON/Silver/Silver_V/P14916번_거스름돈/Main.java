@@ -1,4 +1,4 @@
-package P14916번_거스름돈;
+package BAEKJOON.Silver.Silver_V.P14916번_거스름돈;
 
 import java.io.BufferedReader;
 import java.io.IOException;

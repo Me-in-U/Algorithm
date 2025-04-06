@@ -1,4 +1,4 @@
-package p10539번_수빈이와_수열;
+package BAEKJOON.Bronze.Bronze_II.p10539번_수빈이와_수열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

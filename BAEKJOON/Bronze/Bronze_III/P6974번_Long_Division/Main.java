@@ -1,4 +1,4 @@
-package P6974번_Long_Division;
+package BAEKJOON.Bronze.Bronze_III.P6974번_Long_Division;
 
 import java.io.BufferedReader;
 import java.io.IOException;

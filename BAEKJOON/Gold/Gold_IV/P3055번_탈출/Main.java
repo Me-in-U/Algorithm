@@ -1,4 +1,4 @@
-package P3055번_탈출;
+package BAEKJOON.Gold.Gold_IV.P3055번_탈출;
 
 import java.io.BufferedReader;
 import java.io.IOException;

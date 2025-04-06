@@ -1,4 +1,4 @@
-package P23841번_데칼코마니;
+package BAEKJOON.Bronze.Bronze_I.P23841번_데칼코마니;
 
 import java.io.BufferedReader;
 import java.io.IOException;

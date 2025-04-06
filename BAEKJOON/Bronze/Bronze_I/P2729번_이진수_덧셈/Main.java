@@ -1,4 +1,4 @@
-package P2729번_이진수_덧셈;
+package BAEKJOON.Bronze.Bronze_I.P2729번_이진수_덧셈;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P14568번_2017_연세대학교_프로그래밍경시대회;
+package BAEKJOON.Bronze.Bronze_III.P14568번_2017_연세대학교_프로그래밍경시대회;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P3733번_Shares;
+package BAEKJOON.Bronze.Bronze_V.P3733번_Shares;
 
 import java.io.BufferedReader;
 import java.io.IOException;

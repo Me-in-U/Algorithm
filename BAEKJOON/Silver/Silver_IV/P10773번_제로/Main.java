@@ -1,4 +1,4 @@
-package P10773번_제로;
+package BAEKJOON.Silver.Silver_IV.P10773번_제로;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

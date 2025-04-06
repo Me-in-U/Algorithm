@@ -1,4 +1,4 @@
-package P15633번_Fan_Death;
+package BAEKJOON.Bronze.Bronze_III.P15633번_Fan_Death;
 
 import java.io.BufferedReader;
 import java.io.IOException;

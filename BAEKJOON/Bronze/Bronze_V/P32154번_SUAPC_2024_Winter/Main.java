@@ -1,4 +1,4 @@
-package P32154번_SUAPC_2024_Winter;
+package BAEKJOON.Bronze.Bronze_V.P32154번_SUAPC_2024_Winter;
 
 import java.io.BufferedReader;
 import java.io.IOException;

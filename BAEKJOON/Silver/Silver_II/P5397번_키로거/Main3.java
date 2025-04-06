@@ -1,4 +1,4 @@
-package P5397번_키로거;
+package BAEKJOON.Silver.Silver_II.P5397번_키로거;
 
 import java.io.BufferedReader;
 import java.io.IOException;

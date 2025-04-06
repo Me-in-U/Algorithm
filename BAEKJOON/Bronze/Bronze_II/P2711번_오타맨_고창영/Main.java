@@ -1,4 +1,4 @@
-package P2711번_오타맨_고창영;
+package BAEKJOON.Bronze.Bronze_II.P2711번_오타맨_고창영;
 
 import java.io.BufferedReader;
 import java.io.IOException;

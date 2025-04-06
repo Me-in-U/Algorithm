@@ -1,4 +1,4 @@
-package P33163번_OIJ;
+package BAEKJOON.Bronze.Bronze_IV.P33163번_OIJ;
 
 import java.io.BufferedReader;
 import java.io.IOException;

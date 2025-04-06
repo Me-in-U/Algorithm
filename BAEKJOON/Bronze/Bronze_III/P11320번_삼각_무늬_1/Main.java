@@ -1,4 +1,4 @@
-package P11320번_삼각_무늬_1;
+package BAEKJOON.Bronze.Bronze_III.P11320번_삼각_무늬_1;
 
 import java.io.IOException;
 

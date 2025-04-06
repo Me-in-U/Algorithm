@@ -1,4 +1,4 @@
-package P11782번_배열_합치기;
+package BAEKJOON.Silver.Silver_V.P11782번_배열_합치기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

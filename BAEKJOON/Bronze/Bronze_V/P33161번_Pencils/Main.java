@@ -1,4 +1,4 @@
-package P33161번_Pencils;
+package BAEKJOON.Bronze.Bronze_V.P33161번_Pencils;
 
 import java.io.IOException;
 

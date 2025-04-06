@@ -1,4 +1,4 @@
-package P2884번_알람_시계;
+package BAEKJOON.Bronze.Bronze_III.P2884번_알람_시계;
 
 import java.util.Scanner;
     

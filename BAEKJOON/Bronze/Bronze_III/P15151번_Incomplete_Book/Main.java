@@ -1,4 +1,4 @@
-package P15151번_Incomplete_Book;
+package BAEKJOON.Bronze.Bronze_III.P15151번_Incomplete_Book;
 
 import java.io.IOException;
 

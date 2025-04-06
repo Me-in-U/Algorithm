@@ -1,4 +1,4 @@
-package P14442번_벽_부수고_이동하기2;
+package BAEKJOON.Gold.Gold_III.P14442번_벽_부수고_이동하기2;
 
 /**
  * <h1>BAEKJOON 14442번 벽 부수고 이동하기2 GOLD III</h1>

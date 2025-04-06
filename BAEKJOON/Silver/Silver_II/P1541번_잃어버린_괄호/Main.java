@@ -1,4 +1,4 @@
-package P1541번_잃어버린_괄호;
+package BAEKJOON.Silver.Silver_II.P1541번_잃어버린_괄호;
 
 import java.io.BufferedReader;
 import java.io.IOException;

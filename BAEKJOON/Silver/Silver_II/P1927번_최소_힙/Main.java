@@ -1,4 +1,4 @@
-package P1927번_최소_힙;
+package BAEKJOON.Silver.Silver_II.P1927번_최소_힙;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

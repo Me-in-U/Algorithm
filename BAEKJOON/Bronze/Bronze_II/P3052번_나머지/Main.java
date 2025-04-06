@@ -1,4 +1,4 @@
-package P3052번_나머지;
+package BAEKJOON.Bronze.Bronze_II.P3052번_나머지;
 
 import java.util.Scanner;
 class Main {

@@ -1,4 +1,4 @@
-package P1269번_대칭_차집합;
+package BAEKJOON.Silver.Silver_IV.P1269번_대칭_차집합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

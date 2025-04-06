@@ -1,4 +1,4 @@
-package P15489번_파스칼_삼각형;
+package BAEKJOON.Bronze.Bronze_IV.P15489번_파스칼_삼각형;
 
 import java.io.BufferedReader;
 import java.io.IOException;

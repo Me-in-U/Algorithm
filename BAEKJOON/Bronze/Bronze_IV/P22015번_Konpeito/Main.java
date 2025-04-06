@@ -1,4 +1,4 @@
-package P22015번_Konpeito;
+package BAEKJOON.Bronze.Bronze_IV.P22015번_Konpeito;
 
 import java.io.BufferedReader;
 import java.io.IOException;

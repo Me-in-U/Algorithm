@@ -1,4 +1,4 @@
-package P28125번_2023_아주머학교_프로그래딩_정시머힌;
+package BAEKJOON.Silver.Silver_IV.P28125번_2023_아주머학교_프로그래딩_정시머힌;
 
 import java.io.BufferedReader;
 import java.io.IOException;

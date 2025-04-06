@@ -1,4 +1,4 @@
-package P24309번_РАВЕНСТВО;
+package BAEKJOON.Bronze.Bronze_V.P24309번_РАВЕНСТВО;
 
 import java.io.BufferedReader;
 import java.io.IOException;

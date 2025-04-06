@@ -1,4 +1,4 @@
-package P9772번_Quadrants;
+package BAEKJOON.Bronze.Bronze_IV.P9772번_Quadrants;
 
 import java.io.BufferedReader;
 import java.io.IOException;

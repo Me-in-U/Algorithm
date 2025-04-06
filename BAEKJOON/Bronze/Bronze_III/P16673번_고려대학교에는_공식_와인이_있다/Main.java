@@ -1,4 +1,4 @@
-package P16673번_고려대학교에는_공식_와인이_있다;
+package BAEKJOON.Bronze.Bronze_III.P16673번_고려대학교에는_공식_와인이_있다;
 
 import java.io.BufferedReader;
 import java.io.IOException;

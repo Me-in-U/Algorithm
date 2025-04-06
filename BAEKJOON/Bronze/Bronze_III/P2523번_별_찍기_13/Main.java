@@ -1,4 +1,4 @@
-package P2523번_별_찍기_13;
+package BAEKJOON.Bronze.Bronze_III.P2523번_별_찍기_13;
 
 import java.io.BufferedReader;
 import java.io.IOException;

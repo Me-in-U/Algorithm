@@ -1,4 +1,4 @@
-package P11718번_그대로_출력하기;
+package BAEKJOON.Bronze.Bronze_V.P11718번_그대로_출력하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

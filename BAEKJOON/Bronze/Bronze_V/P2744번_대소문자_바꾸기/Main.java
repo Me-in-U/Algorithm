@@ -1,4 +1,4 @@
-package P2744번_대소문자_바꾸기;
+package BAEKJOON.Bronze.Bronze_V.P2744번_대소문자_바꾸기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

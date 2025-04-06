@@ -1,4 +1,4 @@
-package P15372번_A_simple_problem;
+package BAEKJOON.Bronze.Bronze_IV.P15372번_A_simple_problem;
 
 import java.io.BufferedReader;
 import java.io.IOException;

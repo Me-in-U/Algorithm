@@ -1,4 +1,4 @@
-package P13171번_A;
+package BAEKJOON.Silver.Silver_III.P13171번_A;
 
 /**
  * <h1>BAEKJOON 13171번 A SILVER III</h1>

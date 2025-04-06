@@ -1,4 +1,4 @@
-package P2623번_음악프로그램;
+package BAEKJOON.Gold.Gold_III.P2623번_음악프로그램;
 
 /**
  * <h1>BAEKJOON 2623번 음악프로그램 GOLD III</h1>

@@ -1,4 +1,4 @@
-package P14935번_FA;
+package BAEKJOON.Bronze.Bronze_IV.P14935번_FA;
 
 public class Main {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package P2526번_싸이클;
+package BAEKJOON.Bronze.Bronze_I.P2526번_싸이클;
 
 import java.io.BufferedReader;
 import java.io.IOException;

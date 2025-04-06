@@ -1,4 +1,4 @@
-package P3301번_타일_장식물;
+package BAEKJOON.Silver.Silver_V.P3301번_타일_장식물;
 
 import java.io.BufferedReader;
 import java.io.IOException;

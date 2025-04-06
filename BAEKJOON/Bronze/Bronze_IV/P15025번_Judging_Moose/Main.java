@@ -1,4 +1,4 @@
-package P15025번_Judging_Moose;
+package BAEKJOON.Bronze.Bronze_IV.P15025번_Judging_Moose;
 
 import java.io.BufferedReader;
 import java.io.IOException;

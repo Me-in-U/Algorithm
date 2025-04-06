@@ -1,4 +1,4 @@
-package P2133번_타일_채우기;
+package BAEKJOON.Gold.Gold_IV.P2133번_타일_채우기;
 
 import java.io.IOException;
 

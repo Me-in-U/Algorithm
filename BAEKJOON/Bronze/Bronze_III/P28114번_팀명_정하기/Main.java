@@ -1,4 +1,4 @@
-package P28114번_팀명_정하기;
+package BAEKJOON.Bronze.Bronze_III.P28114번_팀명_정하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

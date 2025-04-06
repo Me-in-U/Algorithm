@@ -1,4 +1,4 @@
-package P11091번_알파벳_전부_쓰기;
+package BAEKJOON.Bronze.Bronze_II.P11091번_알파벳_전부_쓰기;
 
 import java.io.IOException;
 

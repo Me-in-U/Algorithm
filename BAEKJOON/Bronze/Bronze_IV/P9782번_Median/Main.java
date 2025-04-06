@@ -1,4 +1,4 @@
-package P9782번_Median;
+package BAEKJOON.Bronze.Bronze_IV.P9782번_Median;
 
 import java.io.BufferedReader;
 import java.io.IOException;

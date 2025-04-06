@@ -1,4 +1,4 @@
-package P10998번_A곱하기B;
+package BAEKJOON.Bronze.Bronze_V.P10998번_A곱하기B;
 
 import java.util.Scanner;
     

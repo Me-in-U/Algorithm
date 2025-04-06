@@ -1,4 +1,4 @@
-package P19532번_수학은_비대면강의입니다;
+package BAEKJOON.Bronze.Bronze_II.P19532번_수학은_비대면강의입니다;
 
 import java.io.BufferedReader;
 import java.io.IOException;

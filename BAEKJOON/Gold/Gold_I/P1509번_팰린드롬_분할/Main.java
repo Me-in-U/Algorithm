@@ -1,4 +1,4 @@
-package Gold_I.P1509번_팰린드롬_분할;
+package BAEKJOON.Gold.Gold_I.P1509번_팰린드롬_분할;
 
 import java.io.BufferedReader;
 import java.io.IOException;

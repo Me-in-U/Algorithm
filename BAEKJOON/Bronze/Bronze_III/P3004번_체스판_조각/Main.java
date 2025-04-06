@@ -1,4 +1,4 @@
-package P3004번_체스판_조각;
+package BAEKJOON.Bronze.Bronze_III.P3004번_체스판_조각;
 
 import java.io.BufferedReader;
 import java.io.IOException;

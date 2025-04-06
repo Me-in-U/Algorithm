@@ -1,4 +1,4 @@
-package P14909번_양수_개수_세기;
+package BAEKJOON.Bronze.Bronze_III.P14909번_양수_개수_세기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

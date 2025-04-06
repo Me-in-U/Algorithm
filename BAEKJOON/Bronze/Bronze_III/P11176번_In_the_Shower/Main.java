@@ -1,4 +1,4 @@
-package P11176번_In_the_Shower;
+package BAEKJOON.Bronze.Bronze_III.P11176번_In_the_Shower;
 
 import java.io.IOException;
 

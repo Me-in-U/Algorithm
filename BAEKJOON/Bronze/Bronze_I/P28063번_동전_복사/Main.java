@@ -1,4 +1,4 @@
-package P28063번_동전_복사;
+package BAEKJOON.Bronze.Bronze_I.P28063번_동전_복사;
 
 import java.io.BufferedReader;
 import java.io.IOException;

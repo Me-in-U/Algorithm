@@ -1,4 +1,4 @@
-package P4732번_조옮김;
+package BAEKJOON.Bronze.Bronze_I.P4732번_조옮김;
 
 import java.io.BufferedReader;
 import java.io.IOException;

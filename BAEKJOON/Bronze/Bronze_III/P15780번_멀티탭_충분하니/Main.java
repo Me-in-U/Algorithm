@@ -1,4 +1,4 @@
-package P15780번_멀티탭_충분하니;
+package BAEKJOON.Bronze.Bronze_III.P15780번_멀티탭_충분하니;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P15989번_123더하기4;
+package BAEKJOON.Gold.Gold_V.P15989번_123더하기4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

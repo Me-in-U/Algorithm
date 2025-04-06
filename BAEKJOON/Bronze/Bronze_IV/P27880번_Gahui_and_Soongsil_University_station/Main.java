@@ -1,4 +1,4 @@
-package P27880번_Gahui_and_Soongsil_University_station;
+package BAEKJOON.Bronze.Bronze_IV.P27880번_Gahui_and_Soongsil_University_station;
 
 import java.io.BufferedReader;
 import java.io.IOException;

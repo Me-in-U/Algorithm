@@ -1,4 +1,4 @@
-package P10189번_Hook;
+package BAEKJOON.Bronze.Bronze_V.P10189번_Hook;
 
 public class Main {
   public static void main(String[] args) {

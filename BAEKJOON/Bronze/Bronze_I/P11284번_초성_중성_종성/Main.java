@@ -1,4 +1,4 @@
-package P11284번_초성_중성_종성;
+package BAEKJOON.Bronze.Bronze_I.P11284번_초성_중성_종성;
 
 import java.io.BufferedReader;
 import java.io.IOException;

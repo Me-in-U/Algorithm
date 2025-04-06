@@ -1,4 +1,4 @@
-package P19598번_최소_회의실_개수;
+package BAEKJOON.Gold.Gold_V.P19598번_최소_회의실_개수;
 
 import java.io.IOException;
 import java.util.PriorityQueue;
@@ -6,6 +6,7 @@ import java.util.PriorityQueue;
 public class MainSwipe {
     private static class Time implements Comparable<Time> {
         int time;
+        @SuppressWarnings("unused")
         boolean isStart;
 
         public Time(int time, boolean isStart) {
@@ -29,16 +30,14 @@ public class MainSwipe {
             times.add(new Time(end, false));
         }
         int max = 0;
-        int count = 0;
-        int time = -1;
         while (!times.isEmpty()) {
-            int nextTime = times.peek().moving;
-            if (time == nextTime) {
-                count += times.poll().isStart ? 1 : -1;
-                max = Math.max(max, count);
-            } else if (time < nextTime) {
-                time = nextTime;
-            }
+            // int nextTime = times.peek();
+            // if (time == nextTime) {
+            // count += times.poll().isStart ? 1 : -1;
+            // max = Math.max(max, count);
+            // } else if (time < nextTime) {
+            // time = nextTime;
+            // }
         }
         System.out.print(new StringBuilder().append(max));
     }

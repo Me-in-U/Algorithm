@@ -1,4 +1,4 @@
-package P17478번_재귀함수가_뭔가요;
+package BAEKJOON.Silver.Silver_V.P17478번_재귀함수가_뭔가요;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

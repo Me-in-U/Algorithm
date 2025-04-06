@@ -1,4 +1,4 @@
-package P5525번_IOIOI;
+package BAEKJOON.Silver.Silver_I.P5525번_IOIOI;
 
 import java.io.BufferedReader;
 import java.io.IOException;

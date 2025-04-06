@@ -1,4 +1,4 @@
-package P1769번_3의_배수;
+package BAEKJOON.Silver.Silver_V.P1769번_3의_배수;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package P2754번_학점계산;
+package BAEKJOON.Bronze.Bronze_V.P2754번_학점계산;
 
 import java.io.BufferedReader;
 import java.io.IOException;

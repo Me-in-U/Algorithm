@@ -1,4 +1,4 @@
-package P3613번_JAVA_C;
+package BAEKJOON.Silver.Silver_III.P3613번_JAVA_C;
 
 import java.io.BufferedReader;
 import java.io.IOException;

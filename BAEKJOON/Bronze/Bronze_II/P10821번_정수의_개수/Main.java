@@ -1,4 +1,4 @@
-package P10821번_정수의_개수;
+package BAEKJOON.Bronze.Bronze_II.P10821번_정수의_개수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

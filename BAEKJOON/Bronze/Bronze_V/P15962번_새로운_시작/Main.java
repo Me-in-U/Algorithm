@@ -1,4 +1,4 @@
-package P15962번_새로운_시작;
+package BAEKJOON.Bronze.Bronze_V.P15962번_새로운_시작;
 
 class Main {
   public static void main(String[] args) {

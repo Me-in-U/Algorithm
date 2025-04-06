@@ -1,4 +1,4 @@
-package P11195번_Peragrams;
+package BAEKJOON.Bronze.Bronze_II.P11195번_Peragrams;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P21553번_암호_만들기;
+package BAEKJOON.Bronze.Bronze_III.P21553번_암호_만들기;
 
 interface Main {
     static void main(String[] a) throws Exception {

@@ -1,4 +1,4 @@
-package P24723번_녹색거탑;
+package BAEKJOON.Bronze.Bronze_IV.P24723번_녹색거탑;
 
 import java.io.BufferedReader;
 import java.io.IOException;

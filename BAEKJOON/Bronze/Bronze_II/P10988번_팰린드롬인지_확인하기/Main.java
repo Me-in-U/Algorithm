@@ -1,4 +1,4 @@
-package P10988번_팰린드롬인지_확인하기;
+package BAEKJOON.Bronze.Bronze_II.P10988번_팰린드롬인지_확인하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

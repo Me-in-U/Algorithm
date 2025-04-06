@@ -1,4 +1,4 @@
-package P12833번_XORXORXOR;
+package BAEKJOON.Bronze.Bronze_I.P12833번_XORXORXOR;
 
 import java.io.BufferedReader;
 import java.io.IOException;

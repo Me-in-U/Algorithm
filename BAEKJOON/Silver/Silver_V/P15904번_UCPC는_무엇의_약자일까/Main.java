@@ -1,4 +1,4 @@
-package P15904번_UCPC는_무엇의_약자일까;
+package BAEKJOON.Silver.Silver_V.P15904번_UCPC는_무엇의_약자일까;
 
 import java.io.BufferedReader;
 import java.io.IOException;

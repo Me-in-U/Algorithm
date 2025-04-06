@@ -1,4 +1,4 @@
-package P14567번_선수과목_Prerequisite;
+package BAEKJOON.Gold.Gold_V.P14567번_선수과목_Prerequisite;
 
 import java.io.BufferedReader;
 import java.io.IOException;

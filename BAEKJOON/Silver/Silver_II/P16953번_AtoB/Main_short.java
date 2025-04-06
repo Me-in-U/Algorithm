@@ -1,4 +1,4 @@
-package P16953번_AtoB;
+package BAEKJOON.Silver.Silver_II.P16953번_AtoB;
 
 interface Main_short {
 	static void main(String[] a) throws Exception {

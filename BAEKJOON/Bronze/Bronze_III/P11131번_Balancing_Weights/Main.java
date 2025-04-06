@@ -1,4 +1,4 @@
-package P11131번_Balancing_Weights;
+package BAEKJOON.Bronze.Bronze_III.P11131번_Balancing_Weights;
 
 import java.io.IOException;
 

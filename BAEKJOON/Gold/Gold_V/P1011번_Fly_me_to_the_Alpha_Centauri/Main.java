@@ -1,4 +1,4 @@
-package P1011번_Fly_me_to_the_Alpha_Centauri;
+package BAEKJOON.Gold.Gold_V.P1011번_Fly_me_to_the_Alpha_Centauri;
 
 import java.io.BufferedReader;
 import java.io.IOException;

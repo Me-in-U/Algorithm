@@ -1,4 +1,4 @@
-package P1991번_트리_순회;
+package BAEKJOON.Silver.Silver_I.P1991번_트리_순회;
 
 import java.io.BufferedReader;
 import java.io.IOException;

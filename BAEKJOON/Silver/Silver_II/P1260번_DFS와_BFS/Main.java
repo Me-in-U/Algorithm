@@ -1,4 +1,4 @@
-package P1260번_DFS와_BFS;
+package BAEKJOON.Silver.Silver_II.P1260번_DFS와_BFS;
 
 import java.io.IOException;
 import java.util.ArrayDeque;

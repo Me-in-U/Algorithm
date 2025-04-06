@@ -1,4 +1,4 @@
-package P2476번_주사위_게임;
+package BAEKJOON.Bronze.Bronze_III.P2476번_주사위_게임;
 
 import java.io.BufferedReader;
 import java.io.IOException;

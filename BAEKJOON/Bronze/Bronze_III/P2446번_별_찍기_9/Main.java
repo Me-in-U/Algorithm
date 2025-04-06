@@ -1,4 +1,4 @@
-package P2446번_별_찍기_9;
+package BAEKJOON.Bronze.Bronze_III.P2446번_별_찍기_9;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P11054번_가장_긴_바이토닉_부분_수열;
+package BAEKJOON.Gold.Gold_IV.P11054번_가장_긴_바이토닉_부분_수열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P17626번_Four_Squares;
+package BAEKJOON.Silver.Silver_III.P17626번_Four_Squares;
 
 import java.io.BufferedReader;
 import java.io.IOException;

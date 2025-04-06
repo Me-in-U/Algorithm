@@ -1,4 +1,4 @@
-package P1476번_날짜_계산;
+package BAEKJOON.Silver.Silver_V.P1476번_날짜_계산;
 
 import java.io.BufferedReader;
 import java.io.IOException;

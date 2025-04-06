@@ -1,4 +1,4 @@
-package P31090번_2023은_무억이_특별할까;
+package BAEKJOON.Bronze.Bronze_IV.P31090번_2023은_무억이_특별할까;
 
 import java.io.BufferedReader;
 import java.io.IOException;

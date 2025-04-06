@@ -1,4 +1,4 @@
-package P17836번_공주님을_구해라;
+package BAEKJOON.Gold.Gold_V.P17836번_공주님을_구해라;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P11659번_구간_합_구하기_4;
+package BAEKJOON.Silver.Silver_III.P11659번_구간_합_구하기_4;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

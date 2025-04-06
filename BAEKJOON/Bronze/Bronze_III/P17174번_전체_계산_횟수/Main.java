@@ -1,4 +1,4 @@
-package P17174번_전체_계산_횟수;
+package BAEKJOON.Bronze.Bronze_III.P17174번_전체_계산_횟수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

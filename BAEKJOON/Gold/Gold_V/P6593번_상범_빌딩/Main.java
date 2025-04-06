@@ -1,4 +1,4 @@
-package P6593번_상범_빌딩;
+package BAEKJOON.Gold.Gold_V.P6593번_상범_빌딩;
 
 import java.io.BufferedReader;
 import java.io.IOException;

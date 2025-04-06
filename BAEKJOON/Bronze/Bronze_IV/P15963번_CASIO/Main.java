@@ -1,4 +1,4 @@
-package P15963번_CASIO;
+package BAEKJOON.Bronze.Bronze_IV.P15963번_CASIO;
 
 import java.io.BufferedReader;
 import java.io.IOException;

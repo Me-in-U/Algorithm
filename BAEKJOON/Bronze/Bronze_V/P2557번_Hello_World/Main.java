@@ -1,4 +1,4 @@
-package P2557번_Hello_World;
+package BAEKJOON.Bronze.Bronze_V.P2557번_Hello_World;
 
 class Main {
   public static void main(String[] args) {

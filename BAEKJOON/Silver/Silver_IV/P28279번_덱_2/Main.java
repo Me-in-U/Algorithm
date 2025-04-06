@@ -1,4 +1,4 @@
-package P28279번_덱_2;
+package BAEKJOON.Silver.Silver_IV.P28279번_덱_2;
 
 import java.io.IOException;
 import java.util.ArrayDeque;

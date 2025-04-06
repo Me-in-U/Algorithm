@@ -1,4 +1,4 @@
-package P2018번_수들의_합_5;
+package BAEKJOON.Silver.Silver_V.P2018번_수들의_합_5;
 
 import java.io.BufferedReader;
 import java.io.IOException;

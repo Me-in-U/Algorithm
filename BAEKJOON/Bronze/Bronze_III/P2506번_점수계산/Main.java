@@ -1,4 +1,4 @@
-package P2506번_점수계산;
+package BAEKJOON.Bronze.Bronze_III.P2506번_점수계산;
 
 import java.io.BufferedReader;
 import java.io.IOException;

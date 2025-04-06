@@ -1,4 +1,4 @@
-package P23803번_골뱅이_찍기_니은;
+package BAEKJOON.Bronze.Bronze_III.P23803번_골뱅이_찍기_니은;
 
 import java.io.BufferedReader;
 import java.io.IOException;

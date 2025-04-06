@@ -1,4 +1,4 @@
-package P17256번_달달함이_흘러넘쳐;
+package BAEKJOON.Bronze.Bronze_V.P17256번_달달함이_흘러넘쳐;
 
 import java.io.BufferedReader;
 import java.io.IOException;

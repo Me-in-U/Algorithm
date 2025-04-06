@@ -1,4 +1,4 @@
-package P24356번_ЧАСОВНИК;
+package BAEKJOON.Bronze.Bronze_IV.P24356번_ЧАСОВНИК;
 
 import java.io.BufferedReader;
 import java.io.IOException;

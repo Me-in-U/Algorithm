@@ -1,4 +1,4 @@
-package P1964번_오각형;
+package BAEKJOON.Bronze.Bronze_II.P1964번_오각형;
 
 import java.io.BufferedReader;
 import java.io.IOException;

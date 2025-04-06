@@ -1,4 +1,4 @@
-package P1356번_유진수;
+package BAEKJOON.Bronze.Bronze_I.P1356번_유진수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

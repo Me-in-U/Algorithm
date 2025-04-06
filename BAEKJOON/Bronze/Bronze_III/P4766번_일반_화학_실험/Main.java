@@ -1,4 +1,4 @@
-package P4766번_일반_화학_실험;
+package BAEKJOON.Bronze.Bronze_III.P4766번_일반_화학_실험;
 
 import java.io.BufferedReader;
 import java.io.IOException;

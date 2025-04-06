@@ -1,4 +1,4 @@
-package P1647번_도시_분할_계획;
+package BAEKJOON.Gold.Gold_IV.P1647번_도시_분할_계획;
 
 import java.io.IOException;
 import java.util.PriorityQueue;

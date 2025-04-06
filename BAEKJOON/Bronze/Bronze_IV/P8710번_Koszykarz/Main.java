@@ -1,4 +1,4 @@
-package P8710번_Koszykarz;
+package BAEKJOON.Bronze.Bronze_IV.P8710번_Koszykarz;
 
 import java.io.BufferedReader;
 import java.io.IOException;

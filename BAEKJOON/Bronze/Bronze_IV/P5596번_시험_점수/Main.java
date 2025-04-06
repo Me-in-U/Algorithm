@@ -1,4 +1,4 @@
-package P5596번_시험_점수;
+package BAEKJOON.Bronze.Bronze_IV.P5596번_시험_점수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2805번_나무_자르기;
+package BAEKJOON.Silver.Silver_II.P2805번_나무_자르기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

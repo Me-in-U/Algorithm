@@ -1,4 +1,4 @@
-package P16600번_contemporary_Art;
+package BAEKJOON.Bronze.Bronze_IV.P16600번_contemporary_Art;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P25314번_코딩은_체육과목_입니다;
+package BAEKJOON.Bronze.Bronze_V.P25314번_코딩은_체육과목_입니다;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P15181번_Beautiful_Music;
+package BAEKJOON.Bronze.Bronze_II.P15181번_Beautiful_Music;
 
 import java.io.BufferedReader;
 import java.io.IOException;

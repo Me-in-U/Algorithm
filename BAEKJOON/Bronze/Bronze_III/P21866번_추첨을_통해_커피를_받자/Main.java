@@ -1,4 +1,4 @@
-package P21866번_추첨을_통해_커피를_받자;
+package BAEKJOON.Bronze.Bronze_III.P21866번_추첨을_통해_커피를_받자;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

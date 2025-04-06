@@ -1,4 +1,4 @@
-package P2547번_사탕_선생_고창영;
+package BAEKJOON.Bronze.Bronze_III.P2547번_사탕_선생_고창영;
 
 import java.io.IOException;
 

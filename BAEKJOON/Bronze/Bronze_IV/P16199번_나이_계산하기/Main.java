@@ -1,4 +1,4 @@
-package P16199번_나이_계산하기;
+package BAEKJOON.Bronze.Bronze_IV.P16199번_나이_계산하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

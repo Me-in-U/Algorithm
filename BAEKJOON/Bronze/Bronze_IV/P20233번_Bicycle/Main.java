@@ -1,4 +1,4 @@
-package P20233번_Bicycle;
+package BAEKJOON.Bronze.Bronze_IV.P20233번_Bicycle;
 
 import java.io.BufferedReader;
 import java.io.IOException;

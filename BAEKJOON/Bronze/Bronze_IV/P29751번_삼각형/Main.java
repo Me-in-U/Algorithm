@@ -1,4 +1,4 @@
-package P29751번_삼각형;
+package BAEKJOON.Bronze.Bronze_IV.P29751번_삼각형;
 
 import java.io.BufferedReader;
 import java.io.IOException;

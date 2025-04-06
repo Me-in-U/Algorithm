@@ -1,4 +1,4 @@
-package P5218번_알파벳_거리;
+package BAEKJOON.Bronze.Bronze_II.P5218번_알파벳_거리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

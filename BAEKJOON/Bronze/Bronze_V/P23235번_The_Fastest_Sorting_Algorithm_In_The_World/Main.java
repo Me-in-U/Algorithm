@@ -1,4 +1,4 @@
-package P23235번_The_Fastest_Sorting_Algorithm_In_The_World;
+package BAEKJOON.Bronze.Bronze_V.P23235번_The_Fastest_Sorting_Algorithm_In_The_World;
 
 import java.io.BufferedReader;
 import java.io.IOException;

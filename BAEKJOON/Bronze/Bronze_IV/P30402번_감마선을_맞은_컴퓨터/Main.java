@@ -1,4 +1,4 @@
-package P30402번_감마선을_맞은_컴퓨터;
+package BAEKJOON.Bronze.Bronze_IV.P30402번_감마선을_맞은_컴퓨터;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2407번_조합;
+package BAEKJOON.Silver.Silver_III.P2407번_조합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

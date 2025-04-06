@@ -1,4 +1,4 @@
-package P9653번_스타워즈_로고;
+package BAEKJOON.Bronze.Bronze_V.P9653번_스타워즈_로고;
 
 public class Main {
   public static void main(String[] args) {

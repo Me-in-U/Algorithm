@@ -1,4 +1,4 @@
-package P12015번_가장_긴_증가하는_부분_수열_2;
+package BAEKJOON.Gold.Gold_II.P12015번_가장_긴_증가하는_부분_수열_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P21964_선린인터넷고등학교_교가;
+package BAEKJOON.Bronze.Bronze_IV.P21964_선린인터넷고등학교_교가;
 
 import java.io.BufferedReader;
 import java.io.IOException;

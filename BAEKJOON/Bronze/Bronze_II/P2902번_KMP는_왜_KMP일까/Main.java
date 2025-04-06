@@ -1,4 +1,4 @@
-package P2902번_KMP는_왜_KMP일까;
+package BAEKJOON.Bronze.Bronze_II.P2902번_KMP는_왜_KMP일까;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P27961번_고양이는_많을수록_좋다;
+package BAEKJOON.Bronze.Bronze_I.P27961번_고양이는_많을수록_좋다;
 
 import java.io.BufferedReader;
 import java.io.IOException;

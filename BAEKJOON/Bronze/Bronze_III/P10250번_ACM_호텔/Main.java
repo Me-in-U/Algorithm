@@ -1,4 +1,4 @@
-package P10250번_ACM_호텔;
+package BAEKJOON.Bronze.Bronze_III.P10250번_ACM_호텔;
 
 import java.util.Scanner;
 class Main {

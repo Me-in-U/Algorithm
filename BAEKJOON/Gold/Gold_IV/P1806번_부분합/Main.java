@@ -1,4 +1,4 @@
-package P1806번_부분합;
+package BAEKJOON.Gold.Gold_IV.P1806번_부분합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

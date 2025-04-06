@@ -1,4 +1,4 @@
-package P13277번_큰수곱셈;
+package BAEKJOON.Bronze.Bronze_V.P13277번_큰수곱셈;
 
 import java.io.BufferedReader;
 import java.io.IOException;

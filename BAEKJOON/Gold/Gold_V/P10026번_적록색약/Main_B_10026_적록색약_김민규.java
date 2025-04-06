@@ -1,4 +1,4 @@
-package P10026번_적록색약;
+package BAEKJOON.Gold.Gold_V.P10026번_적록색약;
 
 /**
  * <h1>BAEKJOON 10026번 적록색약</h1>

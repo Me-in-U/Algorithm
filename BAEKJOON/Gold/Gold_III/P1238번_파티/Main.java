@@ -1,4 +1,4 @@
-package P1238번_파티;
+package BAEKJOON.Gold.Gold_III.P1238번_파티;
 
 import java.io.BufferedReader;
 import java.io.IOException;

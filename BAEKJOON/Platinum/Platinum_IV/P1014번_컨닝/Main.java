@@ -1,4 +1,4 @@
-package P1014번_컨닝;
+package BAEKJOON.Platinum.Platinum_IV.P1014번_컨닝;
 
 import java.io.IOException;
 import java.util.ArrayList;

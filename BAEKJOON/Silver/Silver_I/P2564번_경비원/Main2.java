@@ -1,4 +1,4 @@
-package P2564번_경비원;
+package BAEKJOON.Silver.Silver_I.P2564번_경비원;
 
 import java.io.IOException;
 

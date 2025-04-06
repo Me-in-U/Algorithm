@@ -1,4 +1,4 @@
-package P29752번_최장_스트릭;
+package BAEKJOON.Bronze.Bronze_III.P29752번_최장_스트릭;
 
 import java.io.BufferedReader;
 import java.io.IOException;

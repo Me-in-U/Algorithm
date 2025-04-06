@@ -1,4 +1,4 @@
-package P2192번_인사성이_밝은_곰곰이;
+package BAEKJOON.Silver.Silver_IV.P2192번_인사성이_밝은_곰곰이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

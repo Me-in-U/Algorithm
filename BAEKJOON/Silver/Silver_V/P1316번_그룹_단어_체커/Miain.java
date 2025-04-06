@@ -1,4 +1,4 @@
-package P1316번_그룹_단어_체커;
+package BAEKJOON.Silver.Silver_V.P1316번_그룹_단어_체커;
 
 import java.io.BufferedReader;
 import java.io.IOException;

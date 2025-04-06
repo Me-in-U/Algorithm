@@ -1,4 +1,4 @@
-package P1987번_알파벳;
+package BAEKJOON.Gold.Gold_IV.P1987번_알파벳;
 
 import java.io.BufferedReader;
 import java.io.IOException;

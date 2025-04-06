@@ -1,4 +1,4 @@
-package P11047번_동전_0;
+package BAEKJOON.Silver.Silver_IV.P11047번_동전_0;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

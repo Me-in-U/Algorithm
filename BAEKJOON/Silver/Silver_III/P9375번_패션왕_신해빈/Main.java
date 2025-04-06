@@ -1,4 +1,4 @@
-package P9375번_패션왕_신해빈;
+package BAEKJOON.Silver.Silver_III.P9375번_패션왕_신해빈;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

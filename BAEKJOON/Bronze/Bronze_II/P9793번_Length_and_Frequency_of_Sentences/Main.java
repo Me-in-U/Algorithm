@@ -1,4 +1,4 @@
-package P9793번_Length_and_Frequency_of_Sentences;
+package BAEKJOON.Bronze.Bronze_II.P9793번_Length_and_Frequency_of_Sentences;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2667번_단지번호붙이기;
+package BAEKJOON.Silver.Silver_I.P2667번_단지번호붙이기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

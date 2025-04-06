@@ -1,4 +1,4 @@
-package P1110번_더하기_사이클;
+package BAEKJOON.Bronze.Bronze_I.P1110번_더하기_사이클;
 
 import java.io.BufferedReader;
 import java.io.IOException;

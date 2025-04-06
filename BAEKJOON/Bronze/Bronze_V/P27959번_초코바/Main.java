@@ -1,4 +1,4 @@
-package P27959번_초코바;
+package BAEKJOON.Bronze.Bronze_V.P27959번_초코바;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P32651번_인간은_무엇인가;
+package BAEKJOON.Bronze.Bronze_IV.P32651번_인간은_무엇인가;
 
 import java.io.BufferedReader;
 import java.io.IOException;

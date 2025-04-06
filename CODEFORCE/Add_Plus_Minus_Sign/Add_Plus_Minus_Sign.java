@@ -1,4 +1,4 @@
-package Add_Plus_Minus_Sign;
+package CODEFORCE.Add_Plus_Minus_Sign;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2798번_블랙잭;
+package BAEKJOON.Bronze.Bronze_II.P2798번_블랙잭;
 
 import java.io.IOException;
 

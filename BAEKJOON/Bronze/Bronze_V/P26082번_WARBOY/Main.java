@@ -1,4 +1,4 @@
-package P26082번_WARBOY;
+package BAEKJOON.Bronze.Bronze_V.P26082번_WARBOY;
 
 import java.io.BufferedReader;
 import java.io.IOException;

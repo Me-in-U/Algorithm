@@ -1,4 +1,4 @@
-package P19698번_헛간_청약;
+package BAEKJOON.Bronze.Bronze_IV.P19698번_헛간_청약;
 
 import java.io.BufferedReader;
 import java.io.IOException;

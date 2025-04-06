@@ -1,4 +1,4 @@
-package P10869번_사칙연산;
+package BAEKJOON.Bronze.Bronze_V.P10869번_사칙연산;
 
 import java.util.Scanner;
     

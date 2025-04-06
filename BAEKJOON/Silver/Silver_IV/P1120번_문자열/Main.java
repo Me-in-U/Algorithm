@@ -1,4 +1,4 @@
-package P1120번_문자열;
+package BAEKJOON.Silver.Silver_IV.P1120번_문자열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

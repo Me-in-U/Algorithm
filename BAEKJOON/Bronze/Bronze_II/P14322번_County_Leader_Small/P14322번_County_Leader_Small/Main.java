@@ -1,4 +1,4 @@
-package P14322번_County_Leader_Small;
+package BAEKJOON.Bronze.Bronze_II.P14322번_County_Leader_Small.P14322번_County_Leader_Small;
 
 import java.io.BufferedReader;
 import java.io.IOException;

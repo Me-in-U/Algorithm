@@ -1,4 +1,4 @@
-package P26350번_Good_Coin_Denomination;
+package BAEKJOON.Bronze.Bronze_IV.P26350번_Good_Coin_Denomination;
 
 import java.io.BufferedReader;
 import java.io.IOException;

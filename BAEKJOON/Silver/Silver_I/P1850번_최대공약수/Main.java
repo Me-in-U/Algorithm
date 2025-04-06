@@ -1,4 +1,4 @@
-package P1850번_최대공약수;
+package BAEKJOON.Silver.Silver_I.P1850번_최대공약수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

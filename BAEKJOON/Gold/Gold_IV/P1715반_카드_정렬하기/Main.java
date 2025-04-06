@@ -1,4 +1,4 @@
-package P1715반_카드_정렬하기;
+package BAEKJOON.Gold.Gold_IV.P1715반_카드_정렬하기;
 
 import java.io.IOException;
 import java.util.PriorityQueue;

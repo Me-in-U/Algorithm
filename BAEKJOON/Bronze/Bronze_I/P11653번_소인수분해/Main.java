@@ -1,4 +1,4 @@
-package P11653번_소인수분해;
+package BAEKJOON.Bronze.Bronze_I.P11653번_소인수분해;
 
 import java.io.BufferedReader;
 import java.io.IOException;

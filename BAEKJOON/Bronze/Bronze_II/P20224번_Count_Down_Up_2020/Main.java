@@ -1,4 +1,4 @@
-package P20224번_Count_Down_Up_2020;
+package BAEKJOON.Bronze.Bronze_II.P20224번_Count_Down_Up_2020;
 
 import java.io.BufferedReader;
 import java.io.IOException;

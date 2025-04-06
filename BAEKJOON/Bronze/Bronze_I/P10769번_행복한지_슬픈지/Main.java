@@ -1,4 +1,4 @@
-package P10769번_행복한지_슬픈지;
+package BAEKJOON.Bronze.Bronze_I.P10769번_행복한지_슬픈지;
 
 import java.io.BufferedReader;
 import java.io.IOException;

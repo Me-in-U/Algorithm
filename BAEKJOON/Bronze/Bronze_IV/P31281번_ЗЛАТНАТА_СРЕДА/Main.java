@@ -1,4 +1,4 @@
-package P31281번_ЗЛАТНАТА_СРЕДА;
+package BAEKJOON.Bronze.Bronze_IV.P31281번_ЗЛАТНАТА_СРЕДА;
 
 import java.io.BufferedReader;
 import java.io.IOException;

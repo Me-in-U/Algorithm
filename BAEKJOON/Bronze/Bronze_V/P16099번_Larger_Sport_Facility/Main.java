@@ -1,4 +1,4 @@
-package P16099번_Larger_Sport_Facility;
+package BAEKJOON.Bronze.Bronze_V.P16099번_Larger_Sport_Facility;
 
 import java.io.BufferedReader;
 import java.io.IOException;

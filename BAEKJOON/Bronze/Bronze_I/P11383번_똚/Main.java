@@ -1,4 +1,4 @@
-package P11383번_똚;
+package BAEKJOON.Bronze.Bronze_I.P11383번_똚;
 
 import java.io.BufferedReader;
 import java.io.IOException;

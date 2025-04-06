@@ -1,4 +1,4 @@
-package P7891번_Can_you_add_this;
+package BAEKJOON.Bronze.Bronze_V.P7891번_Can_you_add_this;
 
 import java.io.BufferedReader;
 import java.io.IOException;

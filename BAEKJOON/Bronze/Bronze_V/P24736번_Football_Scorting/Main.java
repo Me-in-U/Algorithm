@@ -1,4 +1,4 @@
-package P24736번_Football_Scorting;
+package BAEKJOON.Bronze.Bronze_V.P24736번_Football_Scorting;
 
 import java.io.BufferedReader;
 import java.io.IOException;

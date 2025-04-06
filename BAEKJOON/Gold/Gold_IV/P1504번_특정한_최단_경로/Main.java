@@ -1,4 +1,4 @@
-package P1504번_특정한_최단_경로;
+package BAEKJOON.Gold.Gold_IV.P1504번_특정한_최단_경로;
 
 import java.io.BufferedReader;
 import java.io.IOException;

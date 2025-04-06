@@ -1,4 +1,4 @@
-package P17413번_단어_뒤집기_2;
+package BAEKJOON.Silver.Silver_III.P17413번_단어_뒤집기_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

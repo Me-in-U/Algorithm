@@ -1,4 +1,4 @@
-package P26537번_Animal_Conference;
+package BAEKJOON.Bronze.Bronze_II.P26537번_Animal_Conference;
 
 import java.io.BufferedReader;
 import java.io.IOException;

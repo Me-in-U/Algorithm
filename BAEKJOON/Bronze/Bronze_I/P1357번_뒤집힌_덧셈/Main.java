@@ -1,4 +1,4 @@
-package P1357번_뒤집힌_덧셈;
+package BAEKJOON.Bronze.Bronze_I.P1357번_뒤집힌_덧셈;
 
 import java.io.BufferedReader;
 import java.io.IOException;

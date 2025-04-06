@@ -1,4 +1,4 @@
-package P32752번_수열이에요;
+package BAEKJOON.Silver.Silver_V.P32752번_수열이에요;
 
 import java.io.BufferedReader;
 import java.io.IOException;

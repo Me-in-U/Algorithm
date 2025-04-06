@@ -1,4 +1,4 @@
-package P31867번_홀짝홀짝;
+package BAEKJOON.Silver.Silver_IV.P31867번_홀짝홀짝;
 
 import java.io.BufferedReader;
 import java.io.IOException;

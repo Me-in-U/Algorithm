@@ -1,4 +1,4 @@
-package p6841번_I_Speak_TXTMSG;
+package BAEKJOON.Bronze.Bronze_IV.p6841번_I_Speak_TXTMSG;
 
 import java.io.BufferedReader;
 import java.io.IOException;

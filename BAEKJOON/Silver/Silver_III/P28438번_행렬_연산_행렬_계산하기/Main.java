@@ -1,4 +1,4 @@
-package P28438번_행렬_연산_행렬_계산하기;
+package BAEKJOON.Silver.Silver_III.P28438번_행렬_연산_행렬_계산하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

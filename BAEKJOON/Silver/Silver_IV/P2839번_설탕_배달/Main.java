@@ -1,4 +1,4 @@
-package P2839번_설탕_배달;
+package BAEKJOON.Silver.Silver_IV.P2839번_설탕_배달;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

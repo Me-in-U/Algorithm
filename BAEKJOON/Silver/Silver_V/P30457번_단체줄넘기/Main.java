@@ -1,4 +1,4 @@
-package P30457번_단체줄넘기;
+package BAEKJOON.Silver.Silver_V.P30457번_단체줄넘기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

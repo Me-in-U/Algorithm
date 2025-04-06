@@ -1,4 +1,4 @@
-package P15596번_정수_N개의_합;
+package BAEKJOON.Bronze.Bronze_II.P15596번_정수_N개의_합;
 
 class Test {
   long sum(int[] a) {

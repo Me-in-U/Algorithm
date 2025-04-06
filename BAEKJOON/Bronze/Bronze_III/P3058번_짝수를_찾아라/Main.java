@@ -1,4 +1,4 @@
-package P3058번_짝수를_찾아라;
+package BAEKJOON.Bronze.Bronze_III.P3058번_짝수를_찾아라;
 
 import java.io.BufferedReader;
 import java.io.IOException;

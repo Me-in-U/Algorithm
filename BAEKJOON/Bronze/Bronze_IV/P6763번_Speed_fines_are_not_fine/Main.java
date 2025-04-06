@@ -1,4 +1,4 @@
-package P6763번_Speed_fines_are_not_fine;
+package BAEKJOON.Bronze.Bronze_IV.P6763번_Speed_fines_are_not_fine;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P11113번_The_Traveling_Orienteerer;
+package BAEKJOON.Bronze.Bronze_II.P11113번_The_Traveling_Orienteerer;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P24267번_알고리즘_수업_알고이즘의_수행_시간_6;
+package BAEKJOON.Bronze.Bronze_II.P24267번_알고리즘_수업_알고이즘의_수행_시간_6;
 
 import java.io.BufferedReader;
 import java.io.IOException;

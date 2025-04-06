@@ -1,4 +1,4 @@
-package P1934번_최소공배수;
+package BAEKJOON.Bronze.Bronze_I.P1934번_최소공배수;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

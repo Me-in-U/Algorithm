@@ -1,4 +1,4 @@
-package P18698번_The_Walking_Adam;
+package BAEKJOON.Bronze.Bronze_IV.P18698번_The_Walking_Adam;
 
 import java.io.BufferedReader;
 import java.io.IOException;

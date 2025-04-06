@@ -1,4 +1,4 @@
-package P21633번_Bank_Transfer;
+package BAEKJOON.Bronze.Bronze_IV.P21633번_Bank_Transfer;
 
 import java.io.BufferedReader;
 import java.io.IOException;

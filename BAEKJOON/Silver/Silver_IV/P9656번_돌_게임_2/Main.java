@@ -1,4 +1,4 @@
-package P9656번_돌_게임_2;
+package BAEKJOON.Silver.Silver_IV.P9656번_돌_게임_2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

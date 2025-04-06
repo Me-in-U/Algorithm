@@ -1,4 +1,4 @@
-package P9506번_약수들의_합;
+package BAEKJOON.Bronze.Bronze_I.P9506번_약수들의_합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

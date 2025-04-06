@@ -1,4 +1,4 @@
-package P2563번_색종이;
+package BAEKJOON.Silver.Silver_V.P2563번_색종이;
 
 /**
  * BAEKJOON ONLINE JUDGE

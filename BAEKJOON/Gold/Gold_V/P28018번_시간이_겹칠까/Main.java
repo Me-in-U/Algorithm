@@ -1,4 +1,4 @@
-package P28018번_시간이_겹칠까;
+package BAEKJOON.Gold.Gold_V.P28018번_시간이_겹칠까;
 
 import java.io.BufferedReader;
 import java.io.IOException;

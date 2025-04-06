@@ -1,4 +1,4 @@
-package P14939번_불_끄기;
+package BAEKJOON.Platinum.Platinum_IV.P14939번_불_끄기;
 
 import java.io.IOException;
 

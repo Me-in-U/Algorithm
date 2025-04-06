@@ -1,4 +1,4 @@
-package P24082번_Cube;
+package BAEKJOON.Bronze.Bronze_V.P24082번_Cube;
 
 import java.io.BufferedReader;
 import java.io.IOException;

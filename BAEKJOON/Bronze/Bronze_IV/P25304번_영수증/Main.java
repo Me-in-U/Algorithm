@@ -1,4 +1,4 @@
-package P25304번_영수증;
+package BAEKJOON.Bronze.Bronze_IV.P25304번_영수증;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P1138번_한_줄로_서기;
+package BAEKJOON.Silver.Silver_II.P1138번_한_줄로_서기;
 
 import java.io.IOException;
 

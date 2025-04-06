@@ -1,4 +1,4 @@
-package P1786번_찾기;
+package BAEKJOON.Platinum.Platinum_V.P1786번_찾기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

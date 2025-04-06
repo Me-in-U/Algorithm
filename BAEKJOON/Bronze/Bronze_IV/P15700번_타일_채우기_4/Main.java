@@ -1,4 +1,4 @@
-package P15700번_타일_채우기_4;
+package BAEKJOON.Bronze.Bronze_IV.P15700번_타일_채우기_4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

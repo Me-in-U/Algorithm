@@ -1,4 +1,4 @@
-package P15351번_인생_점수;
+package BAEKJOON.Bronze.Bronze_II.P15351번_인생_점수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

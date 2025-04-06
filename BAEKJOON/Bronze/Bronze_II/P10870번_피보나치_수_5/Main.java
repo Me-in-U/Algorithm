@@ -1,4 +1,4 @@
-package P10870번_피보나치_수_5;
+package BAEKJOON.Bronze.Bronze_II.P10870번_피보나치_수_5;
 
 import java.io.BufferedReader;
 import java.io.IOException;

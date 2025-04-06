@@ -1,4 +1,4 @@
-package P32604번_Junbled_Scoreboards;
+package BAEKJOON.Bronze.Bronze_IV.P32604번_Junbled_Scoreboards;
 
 import java.io.BufferedReader;
 import java.io.IOException;

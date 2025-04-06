@@ -1,4 +1,4 @@
-package P14264번_정육각형과_삼각형;
+package BAEKJOON.Bronze.Bronze_III.P14264번_정육각형과_삼각형;
 
 import java.io.BufferedReader;
 import java.io.IOException;

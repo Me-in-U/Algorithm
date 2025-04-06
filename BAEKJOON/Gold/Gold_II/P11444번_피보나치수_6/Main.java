@@ -1,4 +1,4 @@
-package P11444번_피보나치수_6;
+package BAEKJOON.Gold.Gold_II.P11444번_피보나치수_6;
 
 import java.io.BufferedReader;
 import java.io.IOException;

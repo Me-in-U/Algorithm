@@ -1,4 +1,4 @@
-package P27110번_특식_배부;
+package BAEKJOON.Bronze.Bronze_IV.P27110번_특식_배부;
 
 import java.io.BufferedReader;
 import java.io.IOException;

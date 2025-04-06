@@ -1,4 +1,4 @@
-package P18141번_Are_They_All_Integers;
+package BAEKJOON.Bronze.Bronze_II.P18141번_Are_They_All_Integers;
 
 import java.io.IOException;
 

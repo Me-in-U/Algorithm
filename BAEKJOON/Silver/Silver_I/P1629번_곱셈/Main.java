@@ -1,4 +1,4 @@
-package P1629번_곱셈;
+package BAEKJOON.Silver.Silver_I.P1629번_곱셈;
 
 import java.io.BufferedReader;
 import java.io.IOException;

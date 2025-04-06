@@ -1,4 +1,4 @@
-package P2845번_파티가끝나고_난_뒤;
+package BAEKJOON.Bronze.Bronze_IV.P2845번_파티가끝나고_난_뒤;
 
 import java.io.BufferedReader;
 import java.io.IOException;

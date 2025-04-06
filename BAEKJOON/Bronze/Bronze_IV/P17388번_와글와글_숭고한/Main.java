@@ -1,4 +1,4 @@
-package P17388번_와글와글_숭고한;
+package BAEKJOON.Bronze.Bronze_IV.P17388번_와글와글_숭고한;
 
 import java.io.BufferedReader;
 import java.io.IOException;

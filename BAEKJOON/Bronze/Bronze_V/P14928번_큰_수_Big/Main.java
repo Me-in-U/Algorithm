@@ -1,4 +1,4 @@
-package P14928번_큰_수_Big;
+package BAEKJOON.Bronze.Bronze_V.P14928번_큰_수_Big;
 
 import java.io.BufferedReader;
 import java.io.IOException;

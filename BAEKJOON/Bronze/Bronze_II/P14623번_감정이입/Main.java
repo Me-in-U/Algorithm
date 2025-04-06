@@ -1,4 +1,4 @@
-package P14623번_감정이입;
+package BAEKJOON.Bronze.Bronze_II.P14623번_감정이입;
 
 import java.io.BufferedReader;
 import java.io.IOException;

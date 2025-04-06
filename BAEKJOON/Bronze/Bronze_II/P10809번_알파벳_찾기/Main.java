@@ -1,4 +1,4 @@
-package P10809번_알파벳_찾기;
+package BAEKJOON.Bronze.Bronze_II.P10809번_알파벳_찾기;
 
 import java.util.Scanner;
     

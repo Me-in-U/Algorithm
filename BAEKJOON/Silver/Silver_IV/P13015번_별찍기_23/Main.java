@@ -1,4 +1,4 @@
-package P13015번_별찍기_23;
+package BAEKJOON.Silver.Silver_IV.P13015번_별찍기_23;
 
 import java.io.BufferedReader;
 import java.io.IOException;

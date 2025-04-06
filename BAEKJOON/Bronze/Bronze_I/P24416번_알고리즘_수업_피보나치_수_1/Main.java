@@ -1,4 +1,4 @@
-package P24416번_알고리즘_수업_피보나치_수_1;
+package BAEKJOON.Bronze.Bronze_I.P24416번_알고리즘_수업_피보나치_수_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

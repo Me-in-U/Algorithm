@@ -1,4 +1,4 @@
-package P1546번_평균;
+package BAEKJOON.Bronze.Bronze_I.P1546번_평균;
 
 import java.util.Scanner;
 import java.util.Arrays;

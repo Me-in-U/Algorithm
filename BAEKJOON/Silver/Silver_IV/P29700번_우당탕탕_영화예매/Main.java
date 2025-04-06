@@ -1,4 +1,4 @@
-package P29700번_우당탕탕_영화예매;
+package BAEKJOON.Silver.Silver_IV.P29700번_우당탕탕_영화예매;
 
 import java.io.BufferedReader;
 import java.io.IOException;

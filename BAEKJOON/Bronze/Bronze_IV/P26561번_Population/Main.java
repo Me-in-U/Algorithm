@@ -1,4 +1,4 @@
-package P26561번_Population;
+package BAEKJOON.Bronze.Bronze_IV.P26561번_Population;
 
 import java.io.BufferedReader;
 import java.io.IOException;

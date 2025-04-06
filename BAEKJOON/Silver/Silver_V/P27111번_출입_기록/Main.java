@@ -1,4 +1,4 @@
-package P27111번_출입_기록;
+package BAEKJOON.Silver.Silver_V.P27111번_출입_기록;
 
 import java.io.BufferedReader;
 import java.io.IOException;

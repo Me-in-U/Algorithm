@@ -1,4 +1,4 @@
-package P25591번_푸앙이와_종윤이;
+package BAEKJOON.Bronze.Bronze_IV.P25591번_푸앙이와_종윤이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

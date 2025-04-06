@@ -1,4 +1,4 @@
-package P11721번_열_개씩_끊어_출력하기;
+package BAEKJOON.Bronze.Bronze_III.P11721번_열_개씩_끊어_출력하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2741번_N_찍기;
+package BAEKJOON.Bronze.Bronze_V.P2741번_N_찍기;
 
 import java.util.Scanner;
     

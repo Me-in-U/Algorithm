@@ -1,4 +1,4 @@
-package P1789번_수들의_합;
+package BAEKJOON.Silver.Silver_V.P1789번_수들의_합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

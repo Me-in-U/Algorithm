@@ -1,4 +1,4 @@
-package P9498번_시험_성적;
+package BAEKJOON.Bronze.Bronze_V.P9498번_시험_성적;
 
 import java.util.Scanner;
     

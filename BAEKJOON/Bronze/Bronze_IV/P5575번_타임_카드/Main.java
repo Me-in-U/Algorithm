@@ -1,4 +1,4 @@
-package P5575번_타임_카드;
+package BAEKJOON.Bronze.Bronze_IV.P5575번_타임_카드;
 
 import java.io.BufferedReader;
 import java.io.IOException;

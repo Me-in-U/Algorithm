@@ -1,4 +1,4 @@
-package P10814번_나이순_정렬;
+package BAEKJOON.Silver.Silver_V.P10814번_나이순_정렬;
 
 import java.io.IOException;import java.io.BufferedReader;import java.io.InputStreamReader;
 

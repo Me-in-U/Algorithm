@@ -1,4 +1,4 @@
-package P14038번_Tournament_Selection;
+package BAEKJOON.Bronze.Bronze_IV.P14038번_Tournament_Selection;
 
 import java.io.BufferedReader;
 import java.io.IOException;

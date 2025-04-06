@@ -1,4 +1,4 @@
-package P17945번_통학의_신;
+package BAEKJOON.Bronze.Bronze_III.P17945번_통학의_신;
 
 import java.io.BufferedReader;
 import java.io.IOException;

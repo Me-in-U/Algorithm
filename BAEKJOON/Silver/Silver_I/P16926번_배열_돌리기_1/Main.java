@@ -1,4 +1,4 @@
-package P16926번_배열_돌리기_1;
+package BAEKJOON.Silver.Silver_I.P16926번_배열_돌리기_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

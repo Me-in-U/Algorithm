@@ -1,4 +1,4 @@
-package P17614번_369;
+package BAEKJOON.Bronze.Bronze_III.P17614번_369;
 
 import java.io.BufferedReader;
 import java.io.IOException;

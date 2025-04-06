@@ -1,4 +1,4 @@
-package P11025번_요세푸스_문제_3;
+package BAEKJOON.Platinum.Platinum_V.P11025번_요세푸스_문제_3;
 
 import java.io.BufferedReader;
 import java.io.IOException;

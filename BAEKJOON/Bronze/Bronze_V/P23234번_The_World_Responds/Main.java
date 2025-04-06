@@ -1,4 +1,4 @@
-package P23234번_The_World_Responds;
+package BAEKJOON.Bronze.Bronze_V.P23234번_The_World_Responds;
 
 public class Main {
   public static void main(String[] args) {

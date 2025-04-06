@@ -1,4 +1,4 @@
-package P11024번_더하기_4;
+package BAEKJOON.Bronze.Bronze_IV.P11024번_더하기_4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2475번_검증수;
+package BAEKJOON.Bronze.Bronze_V.P2475번_검증수;
 
 import java.util.Scanner;
     

@@ -1,4 +1,4 @@
-package P16570번_앞뒤가_맞는_수열;
+package BAEKJOON.Platinum.Platinum_V.P16570번_앞뒤가_맞는_수열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

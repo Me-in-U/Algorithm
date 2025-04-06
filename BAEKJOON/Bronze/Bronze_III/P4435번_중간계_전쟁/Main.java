@@ -1,4 +1,4 @@
-package P4435번_중간계_전쟁;
+package BAEKJOON.Bronze.Bronze_III.P4435번_중간계_전쟁;
 
 import java.io.BufferedReader;
 import java.io.IOException;

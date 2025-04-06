@@ -1,4 +1,4 @@
-package P5176번_대회_자리;
+package BAEKJOON.Bronze.Bronze_II.P5176번_대회_자리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

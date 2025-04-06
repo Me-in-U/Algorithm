@@ -1,4 +1,4 @@
-package P26071번_오락실에_간_총총이;
+package BAEKJOON.Silver.Silver_II.P26071번_오락실에_간_총총이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2566번_최댓값;
+package BAEKJOON.Bronze.Bronze_III.P2566번_최댓값;
 
 import java.io.BufferedReader;
 import java.io.IOException;

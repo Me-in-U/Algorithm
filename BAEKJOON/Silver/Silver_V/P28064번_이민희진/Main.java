@@ -1,4 +1,4 @@
-package P28064번_이민희진;
+package BAEKJOON.Silver.Silver_V.P28064번_이민희진;
 
 import java.io.BufferedReader;
 import java.io.IOException;

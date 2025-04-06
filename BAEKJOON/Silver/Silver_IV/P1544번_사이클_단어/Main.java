@@ -1,4 +1,4 @@
-package P1544번_사이클_단어;
+package BAEKJOON.Silver.Silver_IV.P1544번_사이클_단어;
 
 import java.io.BufferedReader;
 import java.io.IOException;

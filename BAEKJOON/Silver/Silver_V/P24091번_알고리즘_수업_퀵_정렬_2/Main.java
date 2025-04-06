@@ -1,4 +1,4 @@
-package P24091번_알고리즘_수업_퀵_정렬_2;
+package BAEKJOON.Silver.Silver_V.P24091번_알고리즘_수업_퀵_정렬_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

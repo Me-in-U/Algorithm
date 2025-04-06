@@ -1,4 +1,4 @@
-package P10822번_더하기;
+package BAEKJOON.Bronze.Bronze_II.P10822번_더하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

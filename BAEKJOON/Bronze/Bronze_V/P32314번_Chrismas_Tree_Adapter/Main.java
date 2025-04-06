@@ -1,4 +1,4 @@
-package P32314번_Chrismas_Tree_Adapter;
+package BAEKJOON.Bronze.Bronze_V.P32314번_Chrismas_Tree_Adapter;
 
 import java.io.BufferedReader;
 import java.io.IOException;

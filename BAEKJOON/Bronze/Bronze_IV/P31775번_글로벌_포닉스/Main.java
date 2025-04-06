@@ -1,4 +1,4 @@
-package P31775번_글로벌_포닉스;
+package BAEKJOON.Bronze.Bronze_IV.P31775번_글로벌_포닉스;
 
 import java.io.BufferedReader;
 import java.io.IOException;

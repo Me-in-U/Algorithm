@@ -1,4 +1,4 @@
-package P28444번_HI_ARC;
+package BAEKJOON.Bronze.Bronze_V.P28444번_HI_ARC;
 
 import java.io.BufferedReader;
 import java.io.IOException;

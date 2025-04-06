@@ -1,4 +1,4 @@
-package P1912번_연속합;
+package BAEKJOON.Silver.Silver_II.P1912번_연속합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P13141번_Ignition;
+package BAEKJOON.Platinum.Platinum_V.P13141번_Ignition;
 
 import java.io.IOException;
 import java.util.ArrayDeque;

@@ -1,4 +1,4 @@
-package P5357번_Dedupe;
+package BAEKJOON.Bronze.Bronze_IV.P5357번_Dedupe;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P1259번_팰린드롬수;
+package BAEKJOON.Bronze.Bronze_I.P1259번_팰린드롬수;
 
 import java.util.Scanner;
 class Main {

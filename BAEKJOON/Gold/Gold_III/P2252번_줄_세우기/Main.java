@@ -1,4 +1,4 @@
-package P2252번_줄_세우기;
+package BAEKJOON.Gold.Gold_III.P2252번_줄_세우기;
 
 import java.io.IOException;
 import java.util.ArrayDeque;

@@ -1,4 +1,4 @@
-package P32089번_部員の変遷;
+package BAEKJOON.Bronze.Bronze_IV.P32089번_部員の変遷;
 
 import java.io.BufferedReader;
 import java.io.IOException;

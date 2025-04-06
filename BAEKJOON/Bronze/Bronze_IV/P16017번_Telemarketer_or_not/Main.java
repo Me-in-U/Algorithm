@@ -1,4 +1,4 @@
-package P16017번_Telemarketer_or_not;
+package BAEKJOON.Bronze.Bronze_IV.P16017번_Telemarketer_or_not;
 
 import java.io.BufferedReader;
 import java.io.IOException;

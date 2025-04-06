@@ -1,4 +1,4 @@
-package P4659번_비밀번호_발음하기;
+package BAEKJOON.Silver.Silver_V.P4659번_비밀번호_발음하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

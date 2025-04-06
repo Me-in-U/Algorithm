@@ -1,4 +1,4 @@
-package P31907번_GIST_찍기;
+package BAEKJOON.Bronze.Bronze_III.P31907번_GIST_찍기;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

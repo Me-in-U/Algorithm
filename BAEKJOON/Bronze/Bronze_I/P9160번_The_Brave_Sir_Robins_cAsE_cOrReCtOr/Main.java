@@ -1,4 +1,4 @@
-package P9160번_The_Brave_Sir_Robins_cAsE_cOrReCtOr;
+package BAEKJOON.Bronze.Bronze_I.P9160번_The_Brave_Sir_Robins_cAsE_cOrReCtOr;
 
 import java.io.BufferedReader;
 import java.io.IOException;

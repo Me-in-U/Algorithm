@@ -1,4 +1,4 @@
-package P25628번_햄버거_만들기;
+package BAEKJOON.Bronze.Bronze_IV.P25628번_햄버거_만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

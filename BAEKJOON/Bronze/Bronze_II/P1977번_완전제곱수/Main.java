@@ -1,4 +1,4 @@
-package P1977번_완전제곱수;
+package BAEKJOON.Bronze.Bronze_II.P1977번_완전제곱수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

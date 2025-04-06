@@ -1,4 +1,4 @@
-package P26530번_Shipping;
+package BAEKJOON.Bronze.Bronze_IV.P26530번_Shipping;
 
 import java.io.BufferedReader;
 import java.io.IOException;

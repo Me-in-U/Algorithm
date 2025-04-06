@@ -1,4 +1,4 @@
-package P16504번_종이접기;
+package BAEKJOON.Bronze.Bronze_III.P16504번_종이접기;
 
 import java.io.IOException;
 

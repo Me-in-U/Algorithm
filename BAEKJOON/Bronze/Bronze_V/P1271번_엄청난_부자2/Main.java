@@ -1,4 +1,4 @@
-package P1271번_엄청난_부자2;
+package BAEKJOON.Bronze.Bronze_V.P1271번_엄청난_부자2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

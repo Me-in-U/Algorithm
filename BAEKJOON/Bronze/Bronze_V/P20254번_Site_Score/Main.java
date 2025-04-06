@@ -1,4 +1,4 @@
-package P20254번_Site_Score;
+package BAEKJOON.Bronze.Bronze_V.P20254번_Site_Score;
 
 import java.io.BufferedReader;
 import java.io.IOException;

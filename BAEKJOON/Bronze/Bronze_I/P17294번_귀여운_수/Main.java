@@ -1,4 +1,4 @@
-package P17294번_귀여운_수;
+package BAEKJOON.Bronze.Bronze_I.P17294번_귀여운_수;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

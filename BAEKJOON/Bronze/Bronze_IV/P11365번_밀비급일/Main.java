@@ -1,4 +1,4 @@
-package P11365번_밀비급일;
+package BAEKJOON.Bronze.Bronze_IV.P11365번_밀비급일;
 
 import java.io.BufferedReader;
 import java.io.IOException;

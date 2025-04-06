@@ -1,4 +1,4 @@
-package P26768번_H4x0r;
+package BAEKJOON.Bronze.Bronze_IV.P26768번_H4x0r;
 
 import java.io.BufferedReader;
 import java.io.IOException;

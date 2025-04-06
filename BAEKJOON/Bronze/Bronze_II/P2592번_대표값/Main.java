@@ -1,4 +1,4 @@
-package P2592번_대표값;
+package BAEKJOON.Bronze.Bronze_II.P2592번_대표값;
 
 import java.io.BufferedReader;
 import java.io.IOException;

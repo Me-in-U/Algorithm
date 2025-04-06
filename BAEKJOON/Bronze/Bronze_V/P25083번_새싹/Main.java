@@ -1,4 +1,4 @@
-package P25083번_새싹;
+package BAEKJOON.Bronze.Bronze_V.P25083번_새싹;
 
 
 class Main {

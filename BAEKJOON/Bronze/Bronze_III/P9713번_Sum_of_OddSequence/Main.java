@@ -1,4 +1,4 @@
-package P9713번_Sum_of_OddSequence;
+package BAEKJOON.Bronze.Bronze_III.P9713번_Sum_of_OddSequence;
 
 import java.io.BufferedReader;
 import java.io.IOException;

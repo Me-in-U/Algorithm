@@ -1,4 +1,4 @@
-package P29766번_DKSH_찾기;
+package BAEKJOON.Bronze.Bronze_IV.P29766번_DKSH_찾기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

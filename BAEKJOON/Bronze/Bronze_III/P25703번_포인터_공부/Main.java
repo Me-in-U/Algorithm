@@ -1,4 +1,4 @@
-package P25703번_포인터_공부;
+package BAEKJOON.Bronze.Bronze_III.P25703번_포인터_공부;
 
 import java.io.BufferedReader;
 import java.io.IOException;

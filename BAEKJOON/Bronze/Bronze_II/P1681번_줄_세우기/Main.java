@@ -1,4 +1,4 @@
-package P1681번_줄_세우기;
+package BAEKJOON.Bronze.Bronze_II.P1681번_줄_세우기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

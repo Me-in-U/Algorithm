@@ -1,4 +1,4 @@
-package P21638번_SMS_from_MCHS;
+package BAEKJOON.Bronze.Bronze_IV.P21638번_SMS_from_MCHS;
 
 import java.io.BufferedReader;
 import java.io.IOException;

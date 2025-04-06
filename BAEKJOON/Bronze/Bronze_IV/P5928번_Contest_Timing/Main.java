@@ -1,4 +1,4 @@
-package P5928번_Contest_Timing;
+package BAEKJOON.Bronze.Bronze_IV.P5928번_Contest_Timing;
 
 import java.io.BufferedReader;
 import java.io.IOException;

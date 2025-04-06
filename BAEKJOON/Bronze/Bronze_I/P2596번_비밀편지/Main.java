@@ -1,4 +1,4 @@
-package P2596번_비밀편지;
+package BAEKJOON.Bronze.Bronze_I.P2596번_비밀편지;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P10886번_0_not_cute_1_cute;
+package BAEKJOON.Bronze.Bronze_III.P10886번_0_not_cute_1_cute;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P1406번_에디터;
+package BAEKJOON.Silver.Silver_II.P1406번_에디터;
 
 import java.io.BufferedReader;
 import java.io.IOException;

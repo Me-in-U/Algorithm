@@ -1,4 +1,4 @@
-package P31428번_엘리스_트랙_매칭;
+package BAEKJOON.Bronze.Bronze_IV.P31428번_엘리스_트랙_매칭;
 
 import java.io.BufferedReader;
 import java.io.IOException;

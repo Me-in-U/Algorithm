@@ -1,4 +1,4 @@
-package P12904번_A와_B;
+package BAEKJOON.Gold.Gold_V.P12904번_A와_B;
 
 import java.io.BufferedReader;
 import java.io.IOException;

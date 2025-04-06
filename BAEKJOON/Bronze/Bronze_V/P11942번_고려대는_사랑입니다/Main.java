@@ -1,4 +1,4 @@
-package P11942번_고려대는_사랑입니다;
+package BAEKJOON.Bronze.Bronze_V.P11942번_고려대는_사랑입니다;
 
 class Main {
   public static void main(String[] args) {

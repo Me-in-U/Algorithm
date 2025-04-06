@@ -1,4 +1,4 @@
-package P25285번_심준의_병역판정검사;
+package BAEKJOON.Bronze.Bronze_III.P25285번_심준의_병역판정검사;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P25991번_Lots_of_Liquid;
+package BAEKJOON.Bronze.Bronze_IV.P25991번_Lots_of_Liquid;
 
 import java.io.BufferedReader;
 import java.io.IOException;

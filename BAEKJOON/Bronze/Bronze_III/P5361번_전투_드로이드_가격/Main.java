@@ -1,4 +1,4 @@
-package P5361번_전투_드로이드_가격;
+package BAEKJOON.Bronze.Bronze_III.P5361번_전투_드로이드_가격;
 
 import java.io.BufferedReader;
 import java.io.IOException;

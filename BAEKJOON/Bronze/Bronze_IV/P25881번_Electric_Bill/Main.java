@@ -1,4 +1,4 @@
-package P25881번_Electric_Bill;
+package BAEKJOON.Bronze.Bronze_IV.P25881번_Electric_Bill;
 
 import java.io.BufferedReader;
 import java.io.IOException;

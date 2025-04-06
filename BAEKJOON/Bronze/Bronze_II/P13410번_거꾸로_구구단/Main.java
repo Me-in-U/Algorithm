@@ -1,4 +1,4 @@
-package P13410번_거꾸로_구구단;
+package BAEKJOON.Bronze.Bronze_II.P13410번_거꾸로_구구단;
 
 import java.io.BufferedReader;
 import java.io.IOException;

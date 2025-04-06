@@ -1,4 +1,4 @@
-package P15781번_헬멧과_조끼;
+package BAEKJOON.Bronze.Bronze_III.P15781번_헬멧과_조끼;
 
 import java.io.BufferedReader;
 import java.io.IOException;

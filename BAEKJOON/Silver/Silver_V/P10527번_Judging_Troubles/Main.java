@@ -1,4 +1,4 @@
-package P10527번_Judging_Troubles;
+package BAEKJOON.Silver.Silver_V.P10527번_Judging_Troubles;
 
 import java.io.BufferedReader;
 import java.io.IOException;

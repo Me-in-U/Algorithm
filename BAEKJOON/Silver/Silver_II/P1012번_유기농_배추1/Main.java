@@ -1,4 +1,4 @@
-package P1012번_유기농_배추1;
+package BAEKJOON.Silver.Silver_II.P1012번_유기농_배추1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

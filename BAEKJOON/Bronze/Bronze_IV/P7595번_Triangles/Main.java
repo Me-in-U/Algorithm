@@ -1,4 +1,4 @@
-package P7595번_Triangles;
+package BAEKJOON.Bronze.Bronze_IV.P7595번_Triangles;
 
 import java.io.BufferedReader;
 import java.io.IOException;

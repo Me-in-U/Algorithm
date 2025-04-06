@@ -1,4 +1,4 @@
-package P8723번_Patyki;
+package BAEKJOON.Bronze.Bronze_IV.P8723번_Patyki;
 
 import java.io.BufferedReader;
 import java.io.IOException;

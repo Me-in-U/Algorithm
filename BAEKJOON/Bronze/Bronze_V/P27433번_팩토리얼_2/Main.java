@@ -1,4 +1,4 @@
-package P27433번_팩토리얼_2;
+package BAEKJOON.Bronze.Bronze_V.P27433번_팩토리얼_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

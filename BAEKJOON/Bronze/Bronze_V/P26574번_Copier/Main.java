@@ -1,4 +1,4 @@
-package P26574번_Copier;
+package BAEKJOON.Bronze.Bronze_V.P26574번_Copier;
 
 import java.io.BufferedReader;
 import java.io.IOException;

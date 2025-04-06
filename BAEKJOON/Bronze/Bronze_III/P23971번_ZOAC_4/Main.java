@@ -1,4 +1,4 @@
-package P23971번_ZOAC_4;
+package BAEKJOON.Bronze.Bronze_III.P23971번_ZOAC_4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

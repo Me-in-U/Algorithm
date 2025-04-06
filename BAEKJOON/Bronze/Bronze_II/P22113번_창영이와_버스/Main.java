@@ -1,4 +1,4 @@
-package P22113번_창영이와_버스;
+package BAEKJOON.Bronze.Bronze_II.P22113번_창영이와_버스;
 
 import java.io.BufferedReader;
 import java.io.IOException;

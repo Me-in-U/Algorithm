@@ -1,4 +1,4 @@
-package P26742번_Skarpetki;
+package BAEKJOON.Bronze.Bronze_IV.P26742번_Skarpetki;
 
 import java.io.BufferedReader;
 import java.io.IOException;

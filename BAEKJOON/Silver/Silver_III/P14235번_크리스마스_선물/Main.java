@@ -1,4 +1,4 @@
-package P14235번_크리스마스_선물;
+package BAEKJOON.Silver.Silver_III.P14235번_크리스마스_선물;
 
 import java.io.BufferedReader;
 import java.io.IOException;

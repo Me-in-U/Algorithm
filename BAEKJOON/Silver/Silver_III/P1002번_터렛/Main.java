@@ -1,4 +1,4 @@
-package P1002번_터렛;
+package BAEKJOON.Silver.Silver_III.P1002번_터렛;
 
 import java.io.BufferedReader;
 import java.io.IOException;

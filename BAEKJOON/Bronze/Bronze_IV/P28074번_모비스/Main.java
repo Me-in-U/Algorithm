@@ -1,4 +1,4 @@
-package P28074번_모비스;
+package BAEKJOON.Bronze.Bronze_IV.P28074번_모비스;
 
 import java.io.BufferedReader;
 import java.io.IOException;

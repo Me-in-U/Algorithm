@@ -1,4 +1,4 @@
-package P32306번_Basketball_Score;
+package BAEKJOON.Bronze.Bronze_IV.P32306번_Basketball_Score;
 
 import java.io.BufferedReader;
 import java.io.IOException;

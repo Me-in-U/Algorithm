@@ -1,4 +1,4 @@
-package P32951번_AI_선도대학;
+package BAEKJOON.Bronze.Bronze_V.P32951번_AI_선도대학;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

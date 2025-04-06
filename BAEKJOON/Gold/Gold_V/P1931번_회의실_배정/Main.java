@@ -1,4 +1,4 @@
-package P1931번_회의실_배정;
+package BAEKJOON.Gold.Gold_V.P1931번_회의실_배정;
 
 import java.io.IOException;
 import java.util.PriorityQueue;

@@ -1,4 +1,4 @@
-package P11758번_CCW;
+package BAEKJOON.Gold.Gold_V.P11758번_CCW;
 
 import java.io.BufferedReader;
 import java.io.IOException;

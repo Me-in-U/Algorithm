@@ -1,4 +1,4 @@
-package P10474번_분수좋아해;
+package BAEKJOON.Bronze.Bronze_III.P10474번_분수좋아해;
 
 import java.io.BufferedReader;
 import java.io.IOException;

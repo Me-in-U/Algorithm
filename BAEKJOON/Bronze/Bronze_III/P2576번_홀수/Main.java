@@ -1,4 +1,4 @@
-package P2576번_홀수;
+package BAEKJOON.Bronze.Bronze_III.P2576번_홀수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

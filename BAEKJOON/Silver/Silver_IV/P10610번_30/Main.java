@@ -1,4 +1,4 @@
-package P10610번_30;
+package BAEKJOON.Silver.Silver_IV.P10610번_30;
 
 import java.io.BufferedReader;
 import java.io.IOException;

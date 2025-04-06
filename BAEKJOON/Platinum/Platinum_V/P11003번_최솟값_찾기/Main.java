@@ -1,4 +1,4 @@
-package P11003번_최솟값_찾기;
+package BAEKJOON.Platinum.Platinum_V.P11003번_최솟값_찾기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P17136번_색종이_붙이기;
+package BAEKJOON.Gold.Gold_II.P17136번_색종이_붙이기;
 
 /**
  * =

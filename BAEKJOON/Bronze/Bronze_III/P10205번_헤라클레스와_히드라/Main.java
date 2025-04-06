@@ -1,4 +1,4 @@
-package P10205번_헤라클레스와_히드라;
+package BAEKJOON.Bronze.Bronze_III.P10205번_헤라클레스와_히드라;
 
 import java.util.Scanner;
 
@@ -11,5 +11,6 @@ interface Main {
                 h += c == 'c' ? 1 : -1;
             System.out.printf("Data Set %d:\n%d\n\n", k, h);
         }
+        s.close();
     }
 }

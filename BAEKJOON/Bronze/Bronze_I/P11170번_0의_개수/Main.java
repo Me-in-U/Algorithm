@@ -1,4 +1,4 @@
-package P11170번_0의_개수;
+package BAEKJOON.Bronze.Bronze_I.P11170번_0의_개수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

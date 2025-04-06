@@ -1,4 +1,4 @@
-package P2693번_N번째_큰_수;
+package BAEKJOON.Bronze.Bronze_I.P2693번_N번째_큰_수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

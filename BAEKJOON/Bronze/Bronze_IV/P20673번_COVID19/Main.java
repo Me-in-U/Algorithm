@@ -1,4 +1,4 @@
-package P20673번_COVID19;
+package BAEKJOON.Bronze.Bronze_IV.P20673번_COVID19;
 
 import java.io.BufferedReader;
 import java.io.IOException;

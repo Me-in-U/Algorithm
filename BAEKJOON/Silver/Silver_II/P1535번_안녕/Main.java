@@ -1,4 +1,4 @@
-package P1535번_안녕;
+package BAEKJOON.Silver.Silver_II.P1535번_안녕;
 
 import java.io.IOException;
 

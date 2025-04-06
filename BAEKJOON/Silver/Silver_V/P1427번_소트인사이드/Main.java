@@ -1,4 +1,4 @@
-package P1427번_소트인사이드;
+package BAEKJOON.Silver.Silver_V.P1427번_소트인사이드;
 
 import java.io.BufferedReader;
 import java.io.IOException;

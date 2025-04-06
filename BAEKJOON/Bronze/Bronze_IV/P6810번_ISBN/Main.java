@@ -1,4 +1,4 @@
-package P6810번_ISBN;
+package BAEKJOON.Bronze.Bronze_IV.P6810번_ISBN;
 
 import java.io.BufferedReader;
 import java.io.IOException;

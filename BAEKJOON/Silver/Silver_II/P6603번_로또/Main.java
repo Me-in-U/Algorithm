@@ -1,4 +1,4 @@
-package P6603번_로또;
+package BAEKJOON.Silver.Silver_II.P6603번_로또;
 
 import java.io.IOException;
 

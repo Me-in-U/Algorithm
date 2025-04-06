@@ -1,4 +1,4 @@
-package P9316번_Hello_Judge;
+package BAEKJOON.Bronze.Bronze_IV.P9316번_Hello_Judge;
 
 import java.io.BufferedReader;
 import java.io.IOException;

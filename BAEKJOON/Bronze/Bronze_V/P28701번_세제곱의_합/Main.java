@@ -1,4 +1,4 @@
-package P28701번_세제곱의_합;
+package BAEKJOON.Bronze.Bronze_V.P28701번_세제곱의_합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

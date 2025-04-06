@@ -1,4 +1,4 @@
-package P15953번_상금헌터;
+package BAEKJOON.Bronze.Bronze_III.P15953번_상금헌터;
 
 import java.io.BufferedReader;
 import java.io.IOException;

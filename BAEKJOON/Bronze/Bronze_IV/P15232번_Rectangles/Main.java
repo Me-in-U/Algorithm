@@ -1,4 +1,4 @@
-package P15232번_Rectangles;
+package BAEKJOON.Bronze.Bronze_IV.P15232번_Rectangles;
 
 import java.io.BufferedReader;
 import java.io.IOException;

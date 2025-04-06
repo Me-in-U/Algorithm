@@ -1,4 +1,4 @@
-package P32369번_양파_실험;
+package BAEKJOON.Bronze.Bronze_IV.P32369번_양파_실험;
 
 import java.io.BufferedReader;
 import java.io.IOException;

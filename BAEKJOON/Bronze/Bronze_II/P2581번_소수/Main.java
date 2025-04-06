@@ -1,4 +1,4 @@
-package P2581번_소수;
+package BAEKJOON.Bronze.Bronze_II.P2581번_소수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P1551번_수열의_변화;
+package BAEKJOON.Bronze.Bronze_I.P1551번_수열의_변화;
 
 import java.io.BufferedReader;
 import java.io.IOException;

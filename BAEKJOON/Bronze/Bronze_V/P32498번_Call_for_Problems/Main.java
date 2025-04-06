@@ -1,4 +1,4 @@
-package P32498번_Call_for_Problems;
+package BAEKJOON.Bronze.Bronze_V.P32498번_Call_for_Problems;
 
 import java.io.BufferedReader;
 import java.io.IOException;

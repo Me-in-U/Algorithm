@@ -1,4 +1,4 @@
-package P26545번_Mathematics;
+package BAEKJOON.Bronze.Bronze_V.P26545번_Mathematics;
 
 import java.io.BufferedReader;
 import java.io.IOException;

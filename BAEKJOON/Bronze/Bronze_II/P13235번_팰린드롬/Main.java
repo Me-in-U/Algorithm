@@ -1,4 +1,4 @@
-package P13235번_팰린드롬;
+package BAEKJOON.Bronze.Bronze_II.P13235번_팰린드롬;
 
 import java.io.BufferedReader;
 import java.io.IOException;

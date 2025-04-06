@@ -1,4 +1,4 @@
-package P2908번_상수;
+package BAEKJOON.Bronze.Bronze_II.P2908번_상수;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package P33612번_피갤컵;
+package BAEKJOON.Bronze.Bronze_V.P33612번_피갤컵;
 
 import java.io.IOException;
 

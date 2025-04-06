@@ -1,4 +1,4 @@
-package P25418번_정수_a를_k로_만들기;
+package BAEKJOON.Silver.Silver_III.P25418번_정수_a를_k로_만들기;
 
 import java.io.IOException;
 import java.util.ArrayDeque;

@@ -1,4 +1,4 @@
-package P11121번_Communication_Channels;
+package BAEKJOON.Bronze.Bronze_IV.P11121번_Communication_Channels;
 
 import java.io.BufferedReader;
 import java.io.IOException;

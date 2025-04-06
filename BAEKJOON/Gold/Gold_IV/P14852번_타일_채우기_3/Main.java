@@ -1,4 +1,4 @@
-package P14852번_타일_채우기_3;
+package BAEKJOON.Gold.Gold_IV.P14852번_타일_채우기_3;
 
 import java.io.IOException;
 

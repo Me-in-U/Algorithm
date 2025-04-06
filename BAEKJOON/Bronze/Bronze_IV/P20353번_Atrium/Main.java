@@ -1,4 +1,4 @@
-package P20353번_Atrium;
+package BAEKJOON.Bronze.Bronze_IV.P20353번_Atrium;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P11948번_과목선택;
+package BAEKJOON.Bronze.Bronze_IV.P11948번_과목선택;
 
 import java.io.BufferedReader;
 import java.io.IOException;

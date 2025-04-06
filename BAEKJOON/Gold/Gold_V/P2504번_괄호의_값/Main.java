@@ -1,4 +1,4 @@
-package P2504번_괄호의_값;
+package BAEKJOON.Gold.Gold_V.P2504번_괄호의_값;
 
 import java.io.BufferedReader;
 import java.io.IOException;

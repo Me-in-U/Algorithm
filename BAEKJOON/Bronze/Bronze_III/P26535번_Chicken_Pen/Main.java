@@ -1,4 +1,4 @@
-package P26535번_Chicken_Pen;
+package BAEKJOON.Bronze.Bronze_III.P26535번_Chicken_Pen;
 
 import java.io.BufferedReader;
 import java.io.IOException;

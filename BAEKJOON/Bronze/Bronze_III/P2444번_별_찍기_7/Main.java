@@ -1,4 +1,4 @@
-package P2444번_별_찍기_7;
+package BAEKJOON.Bronze.Bronze_III.P2444번_별_찍기_7;
 
 import java.io.BufferedReader;
 import java.io.IOException;

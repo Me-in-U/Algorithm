@@ -1,4 +1,4 @@
-package P30087번_진흥원_세미나;
+package BAEKJOON.Bronze.Bronze_V.P30087번_진흥원_세미나;
 
 import java.io.BufferedReader;
 import java.io.IOException;

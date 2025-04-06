@@ -1,4 +1,4 @@
-package P10811번_바구니_뒤집기;
+package BAEKJOON.Bronze.Bronze_II.P10811번_바구니_뒤집기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

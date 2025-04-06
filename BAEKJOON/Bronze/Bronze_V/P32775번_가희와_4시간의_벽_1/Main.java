@@ -1,4 +1,4 @@
-package P32775번_가희와_4시간의_벽_1;
+package BAEKJOON.Bronze.Bronze_V.P32775번_가희와_4시간의_벽_1;
 
 import java.io.IOException;
 

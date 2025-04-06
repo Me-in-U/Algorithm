@@ -1,4 +1,4 @@
-package P26209번_Intercepting_Information;
+package BAEKJOON.Bronze.Bronze_V.P26209번_Intercepting_Information;
 
 import java.io.BufferedReader;
 import java.io.IOException;

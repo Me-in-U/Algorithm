@@ -1,4 +1,4 @@
-package P26495번_Big_Number;
+package BAEKJOON.Bronze.Bronze_IV.P26495번_Big_Number;
 
 import java.io.BufferedReader;
 import java.io.IOException;

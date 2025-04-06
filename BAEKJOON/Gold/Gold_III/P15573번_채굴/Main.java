@@ -1,4 +1,4 @@
-package P15573번_채굴;
+package BAEKJOON.Gold.Gold_III.P15573번_채굴;
 
 import java.io.BufferedReader;
 import java.io.IOException;

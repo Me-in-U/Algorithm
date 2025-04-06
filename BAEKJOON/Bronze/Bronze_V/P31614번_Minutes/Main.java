@@ -1,4 +1,4 @@
-package P31614번_Minutes;
+package BAEKJOON.Bronze.Bronze_V.P31614번_Minutes;
 
 import java.io.BufferedReader;
 import java.io.IOException;

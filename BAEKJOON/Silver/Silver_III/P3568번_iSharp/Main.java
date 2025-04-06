@@ -1,4 +1,4 @@
-package P3568번_iSharp;
+package BAEKJOON.Silver.Silver_III.P3568번_iSharp;
 
 import java.io.BufferedReader;
 import java.io.IOException;

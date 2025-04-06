@@ -1,4 +1,4 @@
-package P32247번_이상한_나라의_끈끈이주걱;
+package BAEKJOON.Silver.Silver_I.P32247번_이상한_나라의_끈끈이주걱;
 
 import java.io.BufferedReader;
 import java.io.IOException;

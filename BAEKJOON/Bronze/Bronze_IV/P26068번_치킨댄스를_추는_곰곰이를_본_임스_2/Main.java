@@ -1,4 +1,4 @@
-package P26068번_치킨댄스를_추는_곰곰이를_본_임스_2;
+package BAEKJOON.Bronze.Bronze_IV.P26068번_치킨댄스를_추는_곰곰이를_본_임스_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2579번_계단_오르기;
+package BAEKJOON.Silver.Silver_III.P2579번_계단_오르기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

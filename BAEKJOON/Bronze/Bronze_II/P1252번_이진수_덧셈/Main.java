@@ -1,4 +1,4 @@
-package P1252번_이진수_덧셈;
+package BAEKJOON.Bronze.Bronze_II.P1252번_이진수_덧셈;
 
 import java.io.BufferedReader;
 import java.io.IOException;

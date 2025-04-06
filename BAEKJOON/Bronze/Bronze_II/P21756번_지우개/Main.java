@@ -1,4 +1,4 @@
-package P21756번_지우개;
+package BAEKJOON.Bronze.Bronze_II.P21756번_지우개;
 
 import java.io.BufferedReader;
 import java.io.IOException;

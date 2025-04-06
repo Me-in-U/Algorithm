@@ -1,4 +1,4 @@
-package P24365번_ПЧЕЛИЧКАТА_МАЯ;
+package BAEKJOON.Bronze.Bronze_IV.P24365번_ПЧЕЛИЧКАТА_МАЯ;
 
 import java.io.BufferedReader;
 import java.io.IOException;

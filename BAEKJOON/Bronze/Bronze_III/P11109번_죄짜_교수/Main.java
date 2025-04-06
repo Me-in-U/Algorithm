@@ -1,4 +1,4 @@
-package P11109번_죄짜_교수;
+package BAEKJOON.Bronze.Bronze_III.P11109번_죄짜_교수;
 
 import java.io.IOException;
 

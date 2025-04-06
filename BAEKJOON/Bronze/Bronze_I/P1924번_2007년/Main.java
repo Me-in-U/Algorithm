@@ -1,4 +1,4 @@
-package P1924번_2007년;
+package BAEKJOON.Bronze.Bronze_I.P1924번_2007년;
 
 import java.io.BufferedReader;
 import java.io.IOException;

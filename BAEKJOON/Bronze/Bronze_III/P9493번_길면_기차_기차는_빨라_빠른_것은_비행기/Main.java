@@ -1,4 +1,4 @@
-package P9493번_길면_기차_기차는_빨라_빠른_것은_비행기;
+package BAEKJOON.Bronze.Bronze_III.P9493번_길면_기차_기차는_빨라_빠른_것은_비행기;
 
 import java.io.IOException;
 

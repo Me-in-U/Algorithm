@@ -1,4 +1,4 @@
-package P2672번_여러_직사각형의_전체_면적_구하기;
+package BAEKJOON.Gold.Gold_II.P2672번_여러_직사각형의_전체_면적_구하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

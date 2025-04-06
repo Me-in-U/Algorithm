@@ -1,4 +1,4 @@
-package P14938번_서강그라운드;
+package BAEKJOON.Gold.Gold_IV.P14938번_서강그라운드;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P1251번_단어_나누기;
+package BAEKJOON.Silver.Silver_V.P1251번_단어_나누기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P32372번_마법의_나침반;
+package BAEKJOON.Silver.Silver_IV.P32372번_마법의_나침반;
 
 import java.io.BufferedReader;
 import java.io.IOException;

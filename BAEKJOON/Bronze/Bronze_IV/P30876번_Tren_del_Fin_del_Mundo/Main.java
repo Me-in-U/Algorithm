@@ -1,4 +1,4 @@
-package P30876번_Tren_del_Fin_del_Mundo;
+package BAEKJOON.Bronze.Bronze_IV.P30876번_Tren_del_Fin_del_Mundo;
 
 import java.io.BufferedReader;
 import java.io.IOException;

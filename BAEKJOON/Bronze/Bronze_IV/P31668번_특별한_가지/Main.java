@@ -1,4 +1,4 @@
-package P31668번_특별한_가지;
+package BAEKJOON.Bronze.Bronze_IV.P31668번_특별한_가지;
 
 import java.io.BufferedReader;
 import java.io.IOException;

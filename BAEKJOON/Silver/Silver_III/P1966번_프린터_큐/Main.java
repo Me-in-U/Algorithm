@@ -1,4 +1,4 @@
-package P1966번_프린터_큐;
+package BAEKJOON.Silver.Silver_III.P1966번_프린터_큐;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package P11158번_Angry_Grammar_Nazi;
+package BAEKJOON.Bronze.Bronze_I.P11158번_Angry_Grammar_Nazi;
 
 import java.io.BufferedReader;
 import java.io.IOException;

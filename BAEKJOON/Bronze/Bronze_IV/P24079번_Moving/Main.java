@@ -1,4 +1,4 @@
-package P24079번_Moving;
+package BAEKJOON.Bronze.Bronze_IV.P24079번_Moving;
 
 import java.io.BufferedReader;
 import java.io.IOException;

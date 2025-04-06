@@ -1,4 +1,4 @@
-package P25858번_Divide_the_Cash;
+package BAEKJOON.Bronze.Bronze_IV.P25858번_Divide_the_Cash;
 
 import java.io.BufferedReader;
 import java.io.IOException;

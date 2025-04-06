@@ -1,4 +1,4 @@
-package P1038번_감소하는_수;
+package BAEKJOON.Gold.Gold_V.P1038번_감소하는_수;
 
 import java.io.IOException;
 

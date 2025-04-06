@@ -1,4 +1,4 @@
-package P9663번_NQueen;
+package BAEKJOON.Gold.Gold_IV.P9663번_NQueen;
 
 import java.io.BufferedReader;
 import java.io.IOException;

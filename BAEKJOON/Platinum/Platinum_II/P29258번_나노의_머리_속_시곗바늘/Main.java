@@ -1,4 +1,4 @@
-package Platinum_II.P29258번_나노의_머리_속_시곗바늘;
+package BAEKJOON.Platinum.Platinum_II.P29258번_나노의_머리_속_시곗바늘;
 
 import java.io.BufferedReader;
 import java.io.IOException;

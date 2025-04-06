@@ -1,4 +1,4 @@
-package P2743번_단어_길이_재기;
+package BAEKJOON.Bronze.Bronze_V.P2743번_단어_길이_재기;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

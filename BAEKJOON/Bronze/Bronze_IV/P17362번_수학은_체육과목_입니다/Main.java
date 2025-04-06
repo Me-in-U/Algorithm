@@ -1,4 +1,4 @@
-package P17362번_수학은_체육과목_입니다;
+package BAEKJOON.Bronze.Bronze_IV.P17362번_수학은_체육과목_입니다;
 
 import java.io.BufferedReader;
 import java.io.IOException;

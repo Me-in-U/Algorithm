@@ -1,4 +1,4 @@
-package P25624번_SNUPTI;
+package BAEKJOON.Silver.Silver_III.P25624번_SNUPTI;
 
 import java.io.IOException;
 import java.util.HashSet;

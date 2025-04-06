@@ -1,4 +1,4 @@
-package P9654번_나무_함대_데이터;
+package BAEKJOON.Bronze.Bronze_V.P9654번_나무_함대_데이터;
 
 public class Main {
   public static void main(String[] args) {

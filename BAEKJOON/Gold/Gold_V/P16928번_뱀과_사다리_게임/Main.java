@@ -1,4 +1,4 @@
-package P16928번_뱀과_사다리_게임;
+package BAEKJOON.Gold.Gold_V.P16928번_뱀과_사다리_게임;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P11651번_좌표_정렬하기_2;
+package BAEKJOON.Silver.Silver_V.P11651번_좌표_정렬하기_2;
 
 import java.util.Arrays;
 import java.util.StringTokenizer;

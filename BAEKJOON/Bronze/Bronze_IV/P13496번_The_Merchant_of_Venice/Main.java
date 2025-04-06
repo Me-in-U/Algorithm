@@ -1,4 +1,4 @@
-package P13496번_The_Merchant_of_Venice;
+package BAEKJOON.Bronze.Bronze_IV.P13496번_The_Merchant_of_Venice;
 
 import java.io.BufferedReader;
 import java.io.IOException;

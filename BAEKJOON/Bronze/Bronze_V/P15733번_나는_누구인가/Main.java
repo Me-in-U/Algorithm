@@ -1,4 +1,4 @@
-package P15733번_나는_누구인가;
+package BAEKJOON.Bronze.Bronze_V.P15733번_나는_누구인가;
 
 class Main {
   public static void main(String[] args) {

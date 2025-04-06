@@ -1,4 +1,4 @@
-package P29790번_임스의_메이플컵;
+package BAEKJOON.Bronze.Bronze_IV.P29790번_임스의_메이플컵;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P1107번_리모컨;
+package BAEKJOON.Gold.Gold_V.P1107번_리모컨;
 
 import java.io.BufferedReader;
 import java.io.IOException;

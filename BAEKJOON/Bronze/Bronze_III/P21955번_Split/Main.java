@@ -1,4 +1,4 @@
-package P21955번_Split;
+package BAEKJOON.Bronze.Bronze_III.P21955번_Split;
 
 import java.io.BufferedReader;
 import java.io.IOException;

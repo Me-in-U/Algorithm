@@ -1,4 +1,4 @@
-package P11508번_2Plus1_세일;
+package BAEKJOON.Silver.Silver_IV.P11508번_2Plus1_세일;
 
 import java.io.BufferedReader;
 import java.io.IOException;

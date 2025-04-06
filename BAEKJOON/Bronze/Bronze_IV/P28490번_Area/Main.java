@@ -1,4 +1,4 @@
-package P28490번_Area;
+package BAEKJOON.Bronze.Bronze_IV.P28490번_Area;
 
 import java.io.BufferedReader;
 import java.io.IOException;

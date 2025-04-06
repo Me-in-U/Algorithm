@@ -1,4 +1,4 @@
-package p5585번_거스름돈;
+package BAEKJOON.Bronze.Bronze_II.p5585번_거스름돈;
 
 import java.io.BufferedReader;
 import java.io.IOException;

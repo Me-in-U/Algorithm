@@ -1,4 +1,4 @@
-package P13752번_히스토그램;
+package BAEKJOON.Bronze.Bronze_IV.P13752번_히스토그램;
 
 import java.io.BufferedReader;
 import java.io.IOException;

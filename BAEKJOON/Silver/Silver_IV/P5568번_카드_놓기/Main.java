@@ -1,4 +1,4 @@
-package P5568번_카드_놓기;
+package BAEKJOON.Silver.Silver_IV.P5568번_카드_놓기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

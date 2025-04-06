@@ -1,4 +1,4 @@
-package P2789번_유학_금지;
+package BAEKJOON.Bronze.Bronze_II.P2789번_유학_금지;
 
 import java.io.BufferedReader;
 import java.io.IOException;

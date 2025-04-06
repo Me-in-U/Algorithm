@@ -1,4 +1,4 @@
-package Platinum_II.P14750번_Jerry_and_Tom;
+package BAEKJOON.Platinum.Platinum_II.P14750번_Jerry_and_Tom;
 
 import java.io.BufferedReader;
 import java.io.IOException;

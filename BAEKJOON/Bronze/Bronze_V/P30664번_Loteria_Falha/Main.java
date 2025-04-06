@@ -1,4 +1,4 @@
-package P30664번_Loteria_Falha;
+package BAEKJOON.Bronze.Bronze_V.P30664번_Loteria_Falha;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P29163번_Счастье_Мистера_Бина;
+package BAEKJOON.Bronze.Bronze_V.P29163번_Счастье_Мистера_Бина;
 
 import java.io.BufferedReader;
 import java.io.IOException;

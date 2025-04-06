@@ -1,4 +1,4 @@
-package P2525번_오븐_시계;
+package BAEKJOON.Bronze.Bronze_III.P2525번_오븐_시계;
 
 import java.io.BufferedReader;
 import java.io.IOException;

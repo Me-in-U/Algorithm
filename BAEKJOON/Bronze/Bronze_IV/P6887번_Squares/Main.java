@@ -1,4 +1,4 @@
-package P6887번_Squares;
+package BAEKJOON.Bronze.Bronze_IV.P6887번_Squares;
 
 import java.io.BufferedReader;
 import java.io.IOException;

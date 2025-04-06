@@ -1,4 +1,4 @@
-package P28940번_Дневник_Гравити_Фолз;
+package BAEKJOON.Bronze.Bronze_IV.P28940번_Дневник_Гравити_Фолз;
 
 import java.io.BufferedReader;
 import java.io.IOException;

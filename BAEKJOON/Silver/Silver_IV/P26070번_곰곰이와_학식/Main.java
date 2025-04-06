@@ -1,4 +1,4 @@
-package P26070번_곰곰이와_학식;
+package BAEKJOON.Silver.Silver_IV.P26070번_곰곰이와_학식;
 
 import java.io.BufferedReader;
 import java.io.IOException;

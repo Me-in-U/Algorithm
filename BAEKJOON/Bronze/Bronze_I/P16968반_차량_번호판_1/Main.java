@@ -1,4 +1,4 @@
-package P16968반_차량_번호판_1;
+package BAEKJOON.Bronze.Bronze_I.P16968반_차량_번호판_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

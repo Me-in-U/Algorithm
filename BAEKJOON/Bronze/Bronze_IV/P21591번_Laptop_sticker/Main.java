@@ -1,4 +1,4 @@
-package P21591번_Laptop_sticker;
+package BAEKJOON.Bronze.Bronze_IV.P21591번_Laptop_sticker;
 
 import java.io.BufferedReader;
 import java.io.IOException;

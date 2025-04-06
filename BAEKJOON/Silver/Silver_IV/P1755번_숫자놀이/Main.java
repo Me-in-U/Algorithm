@@ -1,4 +1,4 @@
-package P1755번_숫자놀이;
+package BAEKJOON.Silver.Silver_IV.P1755번_숫자놀이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

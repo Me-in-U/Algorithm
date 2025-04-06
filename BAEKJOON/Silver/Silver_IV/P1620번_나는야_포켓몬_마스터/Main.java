@@ -1,4 +1,4 @@
-package P1620번_나는야_포켓몬_마스터;
+package BAEKJOON.Silver.Silver_IV.P1620번_나는야_포켓몬_마스터;
 
 import java.io.BufferedReader;
 import java.io.IOException;

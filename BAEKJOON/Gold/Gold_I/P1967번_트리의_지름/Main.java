@@ -1,4 +1,4 @@
-package Gold_I.P1967번_트리의_지름;
+package BAEKJOON.Gold.Gold_I.P1967번_트리의_지름;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P23810번_골뱅이_찍기_뒤집힌_ㅋ;
+package BAEKJOON.Bronze.Bronze_III.P23810번_골뱅이_찍기_뒤집힌_ㅋ;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P14470번_전자레인지;
+package BAEKJOON.Bronze.Bronze_IV.P14470번_전자레인지;
 
 import java.io.BufferedReader;
 import java.io.IOException;

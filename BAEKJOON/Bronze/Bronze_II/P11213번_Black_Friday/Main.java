@@ -1,4 +1,4 @@
-package P11213번_Black_Friday;
+package BAEKJOON.Bronze.Bronze_II.P11213번_Black_Friday;
 
 import java.io.IOException;
 

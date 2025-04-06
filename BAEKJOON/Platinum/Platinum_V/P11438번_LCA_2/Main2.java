@@ -1,4 +1,4 @@
-package P11438번_LCA_2;
+package BAEKJOON.Platinum.Platinum_V.P11438번_LCA_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

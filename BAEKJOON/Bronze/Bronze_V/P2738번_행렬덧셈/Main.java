@@ -1,4 +1,4 @@
-package P2738번_행렬덧셈;
+package BAEKJOON.Bronze.Bronze_V.P2738번_행렬덧셈;
 
 import java.io.BufferedReader;
 import java.io.IOException;

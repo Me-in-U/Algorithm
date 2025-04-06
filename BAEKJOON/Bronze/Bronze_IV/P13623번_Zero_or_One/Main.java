@@ -1,4 +1,4 @@
-package P13623번_Zero_or_One;
+package BAEKJOON.Bronze.Bronze_IV.P13623번_Zero_or_One;
 
 import java.io.BufferedReader;
 import java.io.IOException;

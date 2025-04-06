@@ -1,4 +1,4 @@
-package P1159번_농구경기;
+package BAEKJOON.Bronze.Bronze_II.P1159번_농구경기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

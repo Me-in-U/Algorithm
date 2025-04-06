@@ -1,4 +1,4 @@
-package P18301번_Rats;
+package BAEKJOON.Bronze.Bronze_V.P18301번_Rats;
 
 import java.io.BufferedReader;
 import java.io.IOException;

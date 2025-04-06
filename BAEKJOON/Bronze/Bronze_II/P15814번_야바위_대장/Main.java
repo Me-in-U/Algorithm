@@ -1,4 +1,4 @@
-package P15814번_야바위_대장;
+package BAEKJOON.Bronze.Bronze_II.P15814번_야바위_대장;
 
 import java.io.BufferedReader;
 import java.io.IOException;

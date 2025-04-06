@@ -1,4 +1,4 @@
-package P16938번_캠프_준비;
+package BAEKJOON.Gold.Gold_IV.P16938번_캠프_준비;
 
 import java.io.IOException;
 import java.util.Arrays;

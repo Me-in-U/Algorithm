@@ -1,4 +1,4 @@
-package P1753번_최단경로;
+package BAEKJOON.Gold.Gold_IV.P1753번_최단경로;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P25625번_샤틀버스;
+package BAEKJOON.Bronze.Bronze_IV.P25625번_샤틀버스;
 
 import java.io.BufferedReader;
 import java.io.IOException;

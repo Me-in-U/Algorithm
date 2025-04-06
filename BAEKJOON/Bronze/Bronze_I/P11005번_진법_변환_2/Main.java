@@ -1,4 +1,4 @@
-package P11005번_진법_변환_2;
+package BAEKJOON.Bronze.Bronze_I.P11005번_진법_변환_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

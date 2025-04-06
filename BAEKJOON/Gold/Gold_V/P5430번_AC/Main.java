@@ -1,4 +1,4 @@
-package P5430번_AC;
+package BAEKJOON.Gold.Gold_V.P5430번_AC;
 
 import java.io.BufferedReader;
 import java.io.IOException;

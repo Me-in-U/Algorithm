@@ -1,4 +1,4 @@
-package P31833번_온데간데없을뿐더러;
+package BAEKJOON.Bronze.Bronze_III.P31833번_온데간데없을뿐더러;
 
 import java.io.BufferedReader;
 import java.io.IOException;

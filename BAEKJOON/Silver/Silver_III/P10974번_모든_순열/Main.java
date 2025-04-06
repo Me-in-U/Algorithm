@@ -1,4 +1,4 @@
-package P10974번_모든_순열;
+package BAEKJOON.Silver.Silver_III.P10974번_모든_순열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

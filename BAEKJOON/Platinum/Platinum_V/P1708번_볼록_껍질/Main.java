@@ -1,4 +1,4 @@
-package P1708번_볼록_껍질;
+package BAEKJOON.Platinum.Platinum_V.P1708번_볼록_껍질;
 
 import java.io.BufferedReader;
 import java.io.IOException;

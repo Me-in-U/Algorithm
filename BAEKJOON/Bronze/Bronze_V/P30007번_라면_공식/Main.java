@@ -1,4 +1,4 @@
-package P30007번_라면_공식;
+package BAEKJOON.Bronze.Bronze_V.P30007번_라면_공식;
 
 import java.io.BufferedReader;
 import java.io.IOException;

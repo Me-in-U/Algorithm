@@ -1,4 +1,4 @@
-package P11288번_Ethels_Encryption;
+package BAEKJOON.Bronze.Bronze_I.P11288번_Ethels_Encryption;
 
 import java.io.BufferedReader;
 import java.io.IOException;

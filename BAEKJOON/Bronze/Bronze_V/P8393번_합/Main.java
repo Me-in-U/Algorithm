@@ -1,4 +1,4 @@
-package P8393번_합;
+package BAEKJOON.Bronze.Bronze_V.P8393번_합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

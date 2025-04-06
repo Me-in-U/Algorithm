@@ -1,4 +1,4 @@
-package P16727번_ICPC;
+package BAEKJOON.Bronze.Bronze_IV.P16727번_ICPC;
 
 import java.io.BufferedReader;
 import java.io.IOException;

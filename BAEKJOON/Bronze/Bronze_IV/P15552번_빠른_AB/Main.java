@@ -1,4 +1,4 @@
-package P15552번_빠른_AB;
+package BAEKJOON.Bronze.Bronze_IV.P15552번_빠른_AB;
 
 import java.io.BufferedReader;
 import java.io.IOException;

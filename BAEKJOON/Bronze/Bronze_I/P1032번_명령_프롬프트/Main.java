@@ -1,4 +1,4 @@
-package P1032번_명령_프롬프트;
+package BAEKJOON.Bronze.Bronze_I.P1032번_명령_프롬프트;
 
 import java.io.BufferedReader;
 import java.io.IOException;

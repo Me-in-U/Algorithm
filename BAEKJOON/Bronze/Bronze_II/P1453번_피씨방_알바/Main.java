@@ -1,4 +1,4 @@
-package P1453번_피씨방_알바;
+package BAEKJOON.Bronze.Bronze_II.P1453번_피씨방_알바;
 
 import java.io.BufferedReader;
 import java.io.IOException;

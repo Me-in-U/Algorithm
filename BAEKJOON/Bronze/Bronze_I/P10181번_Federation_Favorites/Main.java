@@ -1,4 +1,4 @@
-package P10181번_Federation_Favorites;
+package BAEKJOON.Bronze.Bronze_I.P10181번_Federation_Favorites;
 
 import java.io.IOException;
 import java.util.ArrayDeque;

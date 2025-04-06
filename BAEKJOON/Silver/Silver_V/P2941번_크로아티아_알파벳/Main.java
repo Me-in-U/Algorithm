@@ -1,4 +1,4 @@
-package P2941번_크로아티아_알파벳;
+package BAEKJOON.Silver.Silver_V.P2941번_크로아티아_알파벳;
 
 import java.io.BufferedReader;
 import java.io.IOException;

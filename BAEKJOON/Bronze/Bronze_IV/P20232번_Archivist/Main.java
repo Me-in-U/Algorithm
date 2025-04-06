@@ -1,4 +1,4 @@
-package P20232번_Archivist;
+package BAEKJOON.Bronze.Bronze_IV.P20232번_Archivist;
 
 import java.io.BufferedReader;
 import java.io.IOException;

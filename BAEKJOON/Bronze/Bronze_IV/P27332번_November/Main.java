@@ -1,4 +1,4 @@
-package P27332번_November;
+package BAEKJOON.Bronze.Bronze_IV.P27332번_November;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P21598번_SciComLove;
+package BAEKJOON.Bronze.Bronze_V.P21598번_SciComLove;
 
 import java.io.BufferedReader;
 import java.io.IOException;

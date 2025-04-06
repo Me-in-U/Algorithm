@@ -1,4 +1,4 @@
-package P4714번_Lunacy;
+package BAEKJOON.Bronze.Bronze_IV.P4714번_Lunacy;
 
 import java.io.BufferedReader;
 import java.io.IOException;

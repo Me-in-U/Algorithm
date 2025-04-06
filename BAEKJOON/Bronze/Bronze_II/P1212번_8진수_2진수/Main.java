@@ -1,4 +1,4 @@
-package P1212번_8진수_2진수;
+package BAEKJOON.Bronze.Bronze_II.P1212번_8진수_2진수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

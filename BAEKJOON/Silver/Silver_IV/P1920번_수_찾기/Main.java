@@ -1,4 +1,4 @@
-package P1920번_수_찾기;
+package BAEKJOON.Silver.Silver_IV.P1920번_수_찾기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

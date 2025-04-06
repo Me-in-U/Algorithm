@@ -1,4 +1,4 @@
-package P16171번_나는_친구가_적다_Small;
+package BAEKJOON.Bronze.Bronze_II.P16171번_나는_친구가_적다_Small;
 
 import java.io.BufferedReader;
 import java.io.IOException;

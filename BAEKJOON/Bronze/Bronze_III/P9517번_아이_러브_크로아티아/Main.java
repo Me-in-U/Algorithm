@@ -1,4 +1,4 @@
-package P9517번_아이_러브_크로아티아;
+package BAEKJOON.Bronze.Bronze_III.P9517번_아이_러브_크로아티아;
 
 import java.io.BufferedReader;
 import java.io.IOException;

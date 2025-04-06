@@ -1,4 +1,4 @@
-package P10545번_뚜기뚜기메뚜기;
+package BAEKJOON.Bronze.Bronze_I.P10545번_뚜기뚜기메뚜기;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

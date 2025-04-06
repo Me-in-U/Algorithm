@@ -1,4 +1,4 @@
-package P30999번_민주주의;
+package BAEKJOON.Bronze.Bronze_IV.P30999번_민주주의;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P23037번_5의_수난;
+package BAEKJOON.Bronze.Bronze_II.P23037번_5의_수난;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P11784번_HexCode;
+package BAEKJOON.Bronze.Bronze_I.P11784번_HexCode;
 
 import java.io.BufferedReader;
 import java.io.IOException;

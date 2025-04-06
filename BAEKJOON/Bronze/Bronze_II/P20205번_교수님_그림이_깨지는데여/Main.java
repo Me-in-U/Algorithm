@@ -1,4 +1,4 @@
-package P20205번_교수님_그림이_깨지는데여;
+package BAEKJOON.Bronze.Bronze_II.P20205번_교수님_그림이_깨지는데여;
 
 import java.io.BufferedReader;
 import java.io.IOException;

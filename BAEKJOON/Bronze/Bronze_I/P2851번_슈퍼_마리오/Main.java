@@ -1,4 +1,4 @@
-package P2851번_슈퍼_마리오;
+package BAEKJOON.Bronze.Bronze_I.P2851번_슈퍼_마리오;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P13023번_ABCDE;
+package BAEKJOON.Gold.Gold_V.P13023번_ABCDE;
 
 import java.io.BufferedReader;
 import java.io.IOException;

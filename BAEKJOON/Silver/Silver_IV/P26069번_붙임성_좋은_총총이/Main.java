@@ -1,4 +1,4 @@
-package P26069번_붙임성_좋은_총총이;
+package BAEKJOON.Silver.Silver_IV.P26069번_붙임성_좋은_총총이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

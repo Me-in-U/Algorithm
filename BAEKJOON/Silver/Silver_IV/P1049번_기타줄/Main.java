@@ -1,4 +1,4 @@
-package P1049번_기타줄;
+package BAEKJOON.Silver.Silver_IV.P1049번_기타줄;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2480번_주사위_세개;
+package BAEKJOON.Bronze.Bronze_IV.P2480번_주사위_세개;
 
 import java.io.BufferedReader;
 import java.io.IOException;

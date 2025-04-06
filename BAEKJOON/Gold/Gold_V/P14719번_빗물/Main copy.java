@@ -1,4 +1,4 @@
-package P14719번_빗물;
+package BAEKJOON.Gold.Gold_V.P14719번_빗물;
 
 import java.io.BufferedReader;
 import java.io.IOException;

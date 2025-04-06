@@ -1,4 +1,4 @@
-package P1181번_단어_정렬;
+package BAEKJOON.Silver.Silver_V.P1181번_단어_정렬;
 
 import java.util.Arrays;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package P10953번_A더하기B_6;
+package BAEKJOON.Bronze.Bronze_III.P10953번_A더하기B_6;
 
 import java.io.BufferedReader;
 import java.io.IOException;

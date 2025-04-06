@@ -1,4 +1,4 @@
-package P10825번_국영수;
+package BAEKJOON.Silver.Silver_IV.P10825번_국영수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

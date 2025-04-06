@@ -1,4 +1,4 @@
-package P1009번_분산처리;
+package BAEKJOON.Bronze.Bronze_II.P1009번_분산처리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P5576번_콘테스트;
+package BAEKJOON.Bronze.Bronze_II.P5576번_콘테스트;
 
 import java.io.BufferedReader;
 import java.io.IOException;

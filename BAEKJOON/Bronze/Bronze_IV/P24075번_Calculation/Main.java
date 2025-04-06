@@ -1,4 +1,4 @@
-package P24075번_Calculation;
+package BAEKJOON.Bronze.Bronze_IV.P24075번_Calculation;
 
 import java.io.BufferedReader;
 import java.io.IOException;

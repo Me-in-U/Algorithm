@@ -1,4 +1,4 @@
-package P6064번_카잉_달력;
+package BAEKJOON.Silver.Silver_I.P6064번_카잉_달력;
 
 import java.io.BufferedReader;
 import java.io.IOException;

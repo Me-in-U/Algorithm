@@ -1,4 +1,4 @@
-package P5597번_과제_안_내신_분;
+package BAEKJOON.Bronze.Bronze_V.P5597번_과제_안_내신_분;
 
 import java.io.BufferedReader;
 import java.io.IOException;

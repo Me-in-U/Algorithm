@@ -1,4 +1,4 @@
-package P28138번_재밌는_나머지_연산;
+package BAEKJOON.Silver.Silver_III.P28138번_재밌는_나머지_연산;
 
 import java.io.BufferedReader;
 import java.io.IOException;

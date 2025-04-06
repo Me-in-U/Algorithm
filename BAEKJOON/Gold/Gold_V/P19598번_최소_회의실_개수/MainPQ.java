@@ -1,4 +1,4 @@
-package P19598번_최소_회의실_개수;
+package BAEKJOON.Gold.Gold_V.P19598번_최소_회의실_개수;
 
 import java.io.IOException;
 import java.util.PriorityQueue;

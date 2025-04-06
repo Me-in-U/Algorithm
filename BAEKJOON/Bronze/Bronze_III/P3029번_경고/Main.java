@@ -1,4 +1,4 @@
-package P3029번_경고;
+package BAEKJOON.Bronze.Bronze_III.P3029번_경고;
 
 import java.io.BufferedReader;
 import java.io.IOException;

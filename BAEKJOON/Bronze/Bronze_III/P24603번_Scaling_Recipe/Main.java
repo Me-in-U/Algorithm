@@ -1,4 +1,4 @@
-package P24603번_Scaling_Recipe;
+package BAEKJOON.Bronze.Bronze_III.P24603번_Scaling_Recipe;
 
 import java.io.BufferedReader;
 import java.io.IOException;

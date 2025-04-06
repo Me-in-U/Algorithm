@@ -1,4 +1,4 @@
-package P16435번_스네이크버드;
+package BAEKJOON.Silver.Silver_V.P16435번_스네이크버드;
 
 import java.io.BufferedReader;
 import java.io.IOException;

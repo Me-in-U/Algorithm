@@ -1,4 +1,4 @@
-package P31261번_НАМИСЛИХ_СИ_ЧИСЛО;
+package BAEKJOON.Bronze.Bronze_IV.P31261번_НАМИСЛИХ_СИ_ЧИСЛО;
 
 import java.io.BufferedReader;
 import java.io.IOException;

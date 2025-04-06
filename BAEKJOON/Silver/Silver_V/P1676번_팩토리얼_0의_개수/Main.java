@@ -1,4 +1,4 @@
-package P1676번_팩토리얼_0의_개수;
+package BAEKJOON.Silver.Silver_V.P1676번_팩토리얼_0의_개수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

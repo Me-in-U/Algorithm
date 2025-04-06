@@ -1,4 +1,4 @@
-package P23303번_이_문제는_D2_입니다;
+package BAEKJOON.Bronze.Bronze_III.P23303번_이_문제는_D2_입니다;
 
 import java.io.BufferedReader;
 import java.io.IOException;

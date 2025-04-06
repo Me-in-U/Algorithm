@@ -1,4 +1,4 @@
-package P1759번_암호_만들기;
+package BAEKJOON.Gold.Gold_V.P1759번_암호_만들기;
 
 import java.io.IOException;
 import java.util.Arrays;

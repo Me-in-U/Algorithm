@@ -1,4 +1,4 @@
-package P2704번_이진법_시계;
+package BAEKJOON.Bronze.Bronze_II.P2704번_이진법_시계;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

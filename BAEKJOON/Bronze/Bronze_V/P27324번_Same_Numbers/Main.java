@@ -1,4 +1,4 @@
-package P27324번_Same_Numbers;
+package BAEKJOON.Bronze.Bronze_V.P27324번_Same_Numbers;
 
 import java.io.BufferedReader;
 import java.io.IOException;

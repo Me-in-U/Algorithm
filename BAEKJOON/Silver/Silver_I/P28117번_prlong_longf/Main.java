@@ -1,4 +1,4 @@
-package P28117번_prlong_longf;
+package BAEKJOON.Silver.Silver_I.P28117번_prlong_longf;
 
 import java.io.BufferedReader;
 import java.io.IOException;

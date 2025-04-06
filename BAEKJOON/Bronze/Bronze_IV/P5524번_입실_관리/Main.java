@@ -1,4 +1,4 @@
-package P5524번_입실_관리;
+package BAEKJOON.Bronze.Bronze_IV.P5524번_입실_관리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

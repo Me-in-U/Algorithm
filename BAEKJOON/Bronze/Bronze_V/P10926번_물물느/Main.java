@@ -1,4 +1,4 @@
-package P10926번_물물느;
+package BAEKJOON.Bronze.Bronze_V.P10926번_물물느;
 
 import java.io.BufferedReader;
 import java.io.IOException;

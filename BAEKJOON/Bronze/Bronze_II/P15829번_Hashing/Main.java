@@ -1,4 +1,4 @@
-package P15829번_Hashing;
+package BAEKJOON.Bronze.Bronze_II.P15829번_Hashing;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

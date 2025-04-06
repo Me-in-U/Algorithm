@@ -1,4 +1,4 @@
-package P20833번_Kuber;
+package BAEKJOON.Bronze.Bronze_IV.P20833번_Kuber;
 
 import java.io.BufferedReader;
 import java.io.IOException;

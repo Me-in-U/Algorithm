@@ -1,4 +1,4 @@
-package P4696번_St_lves;
+package BAEKJOON.Bronze.Bronze_IV.P4696번_St_lves;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P11637번_인기_투표;
+package BAEKJOON.Silver.Silver_V.P11637번_인기_투표;
 
 import java.io.BufferedReader;
 import java.io.IOException;

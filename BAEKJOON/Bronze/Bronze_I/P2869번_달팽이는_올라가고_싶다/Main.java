@@ -1,4 +1,4 @@
-package P2869번_달팽이는_올라가고_싶다;
+package BAEKJOON.Bronze.Bronze_I.P2869번_달팽이는_올라가고_싶다;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

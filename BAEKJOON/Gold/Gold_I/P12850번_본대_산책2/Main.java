@@ -1,4 +1,4 @@
-package Gold_I.P12850번_본대_산책2;
+package BAEKJOON.Gold.Gold_I.P12850번_본대_산책2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

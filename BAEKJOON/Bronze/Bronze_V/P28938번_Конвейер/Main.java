@@ -1,4 +1,4 @@
-package P28938번_Конвейер;
+package BAEKJOON.Bronze.Bronze_V.P28938번_Конвейер;
 
 import java.io.BufferedReader;
 import java.io.IOException;

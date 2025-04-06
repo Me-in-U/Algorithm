@@ -1,4 +1,4 @@
-package P28432번_끝말잇기;
+package BAEKJOON.Silver.Silver_V.P28432번_끝말잇기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

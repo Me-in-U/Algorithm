@@ -1,4 +1,4 @@
-package P27902번_CVE_Life_is_Way_Too_Short;
+package BAEKJOON.Unrated.P27902번_CVE_Life_is_Way_Too_Short;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2108번_통계학;
+package BAEKJOON.Silver.Silver_III.P2108번_통계학;
 
 import java.io.BufferedReader;
 import java.io.IOException;

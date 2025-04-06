@@ -1,4 +1,4 @@
-package P6749번_Next_in_line;
+package BAEKJOON.Bronze.Bronze_IV.P6749번_Next_in_line;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

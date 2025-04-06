@@ -1,4 +1,4 @@
-package P5893번_17배;
+package BAEKJOON.Bronze.Bronze_III.P5893번_17배;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P11816번_8진수_10진수_16진수;
+package BAEKJOON.Bronze.Bronze_II.P11816번_8진수_10진수_16진수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2993번_세_부분;
+package BAEKJOON.Silver.Silver_V.P2993번_세_부분;
 
 import java.io.BufferedReader;
 import java.io.IOException;

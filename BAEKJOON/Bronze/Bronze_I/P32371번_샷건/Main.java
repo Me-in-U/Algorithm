@@ -1,4 +1,4 @@
-package P32371번_샷건;
+package BAEKJOON.Bronze.Bronze_I.P32371번_샷건;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P31611번_Tuesday;
+package BAEKJOON.Bronze.Bronze_V.P31611번_Tuesday;
 
 import java.io.BufferedReader;
 import java.io.IOException;

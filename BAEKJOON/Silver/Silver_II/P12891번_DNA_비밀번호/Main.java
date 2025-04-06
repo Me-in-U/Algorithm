@@ -1,4 +1,4 @@
-package P12891번_DNA_비밀번호;
+package BAEKJOON.Silver.Silver_II.P12891번_DNA_비밀번호;
 
 interface Main {
     static void main(String[] a) throws Exception {

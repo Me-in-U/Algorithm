@@ -1,4 +1,4 @@
-package P17288번_3개만;
+package BAEKJOON.Bronze.Bronze_I.P17288번_3개만;
 
 import java.io.BufferedReader;
 import java.io.IOException;

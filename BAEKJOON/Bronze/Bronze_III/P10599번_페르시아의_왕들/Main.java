@@ -1,4 +1,4 @@
-package P10599번_페르시아의_왕들;
+package BAEKJOON.Bronze.Bronze_III.P10599번_페르시아의_왕들;
 
 import java.io.BufferedReader;
 import java.io.IOException;

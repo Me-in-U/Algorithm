@@ -1,4 +1,4 @@
-package P23080번_스키테일_암호;
+package BAEKJOON.Bronze.Bronze_III.P23080번_스키테일_암호;
 
 import java.io.BufferedReader;
 import java.io.IOException;

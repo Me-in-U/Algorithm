@@ -1,4 +1,4 @@
-package P15686번_치킨_배달;
+package BAEKJOON.Gold.Gold_V.P15686번_치킨_배달;
 
 /**
  * BAEKJOON ONLINE JUDGE 15686번 치킨 배달 골드 V

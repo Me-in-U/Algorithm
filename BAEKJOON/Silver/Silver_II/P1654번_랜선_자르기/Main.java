@@ -1,4 +1,4 @@
-package P1654번_랜선_자르기;
+package BAEKJOON.Silver.Silver_II.P1654번_랜선_자르기;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

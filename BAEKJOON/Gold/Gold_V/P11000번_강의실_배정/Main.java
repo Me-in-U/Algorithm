@@ -1,4 +1,4 @@
-package P11000번_강의실_배정;
+package BAEKJOON.Gold.Gold_V.P11000번_강의실_배정;
 
 import java.io.IOException;
 import java.util.PriorityQueue;

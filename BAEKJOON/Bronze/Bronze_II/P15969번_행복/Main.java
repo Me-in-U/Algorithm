@@ -1,4 +1,4 @@
-package P15969번_행복;
+package BAEKJOON.Bronze.Bronze_II.P15969번_행복;
 
 import java.io.BufferedReader;
 import java.io.IOException;

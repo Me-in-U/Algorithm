@@ -1,4 +1,4 @@
-package P31534번_현대모비스_선풍기_굴리기;
+package BAEKJOON.Silver.Silver_IV.P31534번_현대모비스_선풍기_굴리기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P1157번_단어_공부;
+package BAEKJOON.Bronze.Bronze_I.P1157번_단어_공부;
 
 import java.util.Scanner;
 

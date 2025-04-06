@@ -1,4 +1,4 @@
-package P14888번_연산자_끼워넣기;
+package BAEKJOON.Silver.Silver_I.P14888번_연산자_끼워넣기;
 
 import java.io.IOException;
 

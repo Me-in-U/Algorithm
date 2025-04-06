@@ -1,4 +1,4 @@
-package P24262번_알고리즘_수업;
+package BAEKJOON.Bronze.Bronze_V.P24262번_알고리즘_수업;
 
 public class Main {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package P1001번_A빼기B;
+package BAEKJOON.Bronze.Bronze_V.P1001번_A빼기B;
 
 import java.util.Scanner;
 

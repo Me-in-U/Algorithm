@@ -1,4 +1,4 @@
-package P2530번_인공지느_시계;
+package BAEKJOON.Bronze.Bronze_IV.P2530번_인공지느_시계;
 
 import java.io.BufferedReader;
 import java.io.IOException;

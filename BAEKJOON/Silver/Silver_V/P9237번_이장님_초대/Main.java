@@ -1,4 +1,4 @@
-package P9237번_이장님_초대;
+package BAEKJOON.Silver.Silver_V.P9237번_이장님_초대;
 
 import java.io.BufferedReader;
 import java.io.IOException;

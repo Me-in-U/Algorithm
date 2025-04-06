@@ -1,4 +1,4 @@
-package P11945번_뜨거운_붕어빵;
+package BAEKJOON.Bronze.Bronze_IV.P11945번_뜨거운_붕어빵;
 
 import java.io.BufferedReader;
 import java.io.IOException;

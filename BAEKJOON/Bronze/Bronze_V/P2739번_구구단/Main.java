@@ -1,4 +1,4 @@
-package P2739번_구구단;
+package BAEKJOON.Bronze.Bronze_V.P2739번_구구단;
 
 import java.util.Scanner;
     

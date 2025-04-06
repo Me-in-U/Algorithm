@@ -1,4 +1,4 @@
-package P14889번_스타트와_링크;
+package BAEKJOON.Silver.Silver_I.P14889번_스타트와_링크;
 
 import java.io.IOException;
 

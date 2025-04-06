@@ -1,4 +1,4 @@
-package P5339번_콜센터;
+package BAEKJOON.Bronze.Bronze_V.P5339번_콜센터;
 
 public class Main {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package P28431번_양말_짝_맞추기;
+package BAEKJOON.Bronze.Bronze_IV.P28431번_양말_짝_맞추기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P28352번_10;
+package BAEKJOON.Bronze.Bronze_IV.P28352번_10;
 
 import java.io.BufferedReader;
 import java.io.IOException;

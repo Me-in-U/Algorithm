@@ -1,4 +1,4 @@
-package P9576번_책_나눠주기;
+package BAEKJOON.Gold.Gold_II.P9576번_책_나눠주기;
 
 import java.io.IOException;
 import java.util.ArrayList;

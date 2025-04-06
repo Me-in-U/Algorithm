@@ -1,4 +1,4 @@
-package P16394번_홍익대학교;
+package BAEKJOON.Bronze.Bronze_V.P16394번_홍익대학교;
 
 import java.io.BufferedReader;
 import java.io.IOException;

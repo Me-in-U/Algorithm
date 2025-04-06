@@ -1,4 +1,4 @@
-package P10930번_SHA_256;
+package BAEKJOON.Unrated.P10930번_SHA_256;
 
 import java.io.BufferedReader;
 import java.io.IOException;

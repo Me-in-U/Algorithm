@@ -1,4 +1,4 @@
-package P11557번_Yangjojang_of_The_Year;
+package BAEKJOON.Bronze.Bronze_I.P11557번_Yangjojang_of_The_Year;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P18414번_The_Nearest_Value;
+package BAEKJOON.Bronze.Bronze_IV.P18414번_The_Nearest_Value;
 
 import java.io.BufferedReader;
 import java.io.IOException;

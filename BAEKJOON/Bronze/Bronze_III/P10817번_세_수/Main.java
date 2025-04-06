@@ -1,4 +1,4 @@
-package P10817번_세_수;
+package BAEKJOON.Bronze.Bronze_III.P10817번_세_수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P5622번_다이얼;
+package BAEKJOON.Bronze.Bronze_II.P5622번_다이얼;
 
 import java.io.BufferedReader;
 import java.io.IOException;

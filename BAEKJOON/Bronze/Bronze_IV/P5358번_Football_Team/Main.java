@@ -1,4 +1,4 @@
-package P5358번_Football_Team;
+package BAEKJOON.Bronze.Bronze_IV.P5358번_Football_Team;
 
 import java.io.BufferedReader;
 import java.io.IOException;

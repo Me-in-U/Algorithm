@@ -1,4 +1,4 @@
-package P24751번_Betting;
+package BAEKJOON.Bronze.Bronze_IV.P24751번_Betting;
 
 import java.io.BufferedReader;
 import java.io.IOException;

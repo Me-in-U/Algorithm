@@ -1,4 +1,4 @@
-package P10718번_We_love_kriii;
+package BAEKJOON.Bronze.Bronze_V.P10718번_We_love_kriii;
 
 class Main {
     public static void main(String[] args) {

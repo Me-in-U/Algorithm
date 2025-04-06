@@ -1,4 +1,4 @@
-package P1182번_부분수열의_합;
+package BAEKJOON.Silver.Silver_II.P1182번_부분수열의_합;
 
 import java.io.IOException;
 

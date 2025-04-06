@@ -1,4 +1,4 @@
-package P23530번_not_a_b;
+package BAEKJOON.Bronze.Bronze_III.P23530번_not_a_b;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

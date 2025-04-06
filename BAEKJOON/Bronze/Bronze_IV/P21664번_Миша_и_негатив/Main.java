@@ -1,4 +1,4 @@
-package P21664번_Миша_и_негатив;
+package BAEKJOON.Bronze.Bronze_IV.P21664번_Миша_и_негатив;
 
 import java.io.BufferedReader;
 import java.io.IOException;

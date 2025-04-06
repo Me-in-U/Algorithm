@@ -1,4 +1,4 @@
-package P20540번_연길이의_이상형;
+package BAEKJOON.Bronze.Bronze_III.P20540번_연길이의_이상형;
 
 import java.io.BufferedReader;
 import java.io.IOException;

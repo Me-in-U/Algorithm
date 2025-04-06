@@ -1,4 +1,4 @@
-package P1652번_누울_자리를_찾아라;
+package BAEKJOON.Silver.Silver_V.P1652번_누울_자리를_찾아라;
 
 import java.io.BufferedReader;
 import java.io.IOException;

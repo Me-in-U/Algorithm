@@ -1,4 +1,4 @@
-package P9086번_문자열;
+package BAEKJOON.Bronze.Bronze_V.P9086번_문자열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

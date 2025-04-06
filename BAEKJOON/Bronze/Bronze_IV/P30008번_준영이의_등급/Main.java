@@ -1,4 +1,4 @@
-package P30008번_준영이의_등급;
+package BAEKJOON.Bronze.Bronze_IV.P30008번_준영이의_등급;
 
 import java.io.BufferedReader;
 import java.io.IOException;

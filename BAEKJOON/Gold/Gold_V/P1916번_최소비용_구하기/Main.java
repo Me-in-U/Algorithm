@@ -1,4 +1,4 @@
-package P1916번_최소비용_구하기;
+package BAEKJOON.Gold.Gold_V.P1916번_최소비용_구하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

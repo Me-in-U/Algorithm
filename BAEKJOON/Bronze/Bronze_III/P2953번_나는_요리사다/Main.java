@@ -1,4 +1,4 @@
-package P2953번_나는_요리사다;
+package BAEKJOON.Bronze.Bronze_III.P2953번_나는_요리사다;
 
 import java.io.BufferedReader;
 import java.io.IOException;

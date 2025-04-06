@@ -1,4 +1,4 @@
-package P2003번_수들의_합_2;
+package BAEKJOON.Silver.Silver_IV.P2003번_수들의_합_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

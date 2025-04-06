@@ -1,4 +1,4 @@
-package P11585번_속타는_저녁_메뉴;
+package BAEKJOON.Platinum.Platinum_V.P11585번_속타는_저녁_메뉴;
 
 import java.io.BufferedReader;
 import java.io.IOException;

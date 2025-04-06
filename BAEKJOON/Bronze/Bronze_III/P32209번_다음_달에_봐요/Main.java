@@ -1,4 +1,4 @@
-package P32209번_다음_달에_봐요;
+package BAEKJOON.Bronze.Bronze_III.P32209번_다음_달에_봐요;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P26575번_Pups;
+package BAEKJOON.Bronze.Bronze_V.P26575번_Pups;
 
 import java.io.BufferedReader;
 import java.io.IOException;

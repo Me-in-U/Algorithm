@@ -1,4 +1,4 @@
-package P2751번_수_정렬하기_2;
+package BAEKJOON.Silver.Silver_V.P2751번_수_정렬하기_2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

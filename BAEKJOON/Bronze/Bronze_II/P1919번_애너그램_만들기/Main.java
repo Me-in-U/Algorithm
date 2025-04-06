@@ -1,4 +1,4 @@
-package P1919번_애너그램_만들기;
+package BAEKJOON.Bronze.Bronze_II.P1919번_애너그램_만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P14405번_피카츄;
+package BAEKJOON.Bronze.Bronze_I.P14405번_피카츄;
 
 import java.io.BufferedReader;
 import java.io.IOException;

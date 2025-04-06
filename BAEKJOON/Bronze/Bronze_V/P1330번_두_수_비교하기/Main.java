@@ -1,4 +1,4 @@
-package P1330번_두_수_비교하기;
+package BAEKJOON.Bronze.Bronze_V.P1330번_두_수_비교하기;
 
 import java.util.Scanner;
     

@@ -1,4 +1,4 @@
-package P7562번_나이트의_이동;
+package BAEKJOON.Silver.Silver_I.P7562번_나이트의_이동;
 
 import java.io.BufferedReader;
 import java.io.IOException;

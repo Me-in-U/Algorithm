@@ -1,4 +1,4 @@
-package Gold_I.P28082번_기계오리_연구;
+package BAEKJOON.Gold.Gold_I.P28082번_기계오리_연구;
 
 import java.io.BufferedReader;
 import java.io.IOException;

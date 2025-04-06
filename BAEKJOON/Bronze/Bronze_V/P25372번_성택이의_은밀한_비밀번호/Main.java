@@ -1,4 +1,4 @@
-package P25372번_성택이의_은밀한_비밀번호;
+package BAEKJOON.Bronze.Bronze_V.P25372번_성택이의_은밀한_비밀번호;
 
 import java.io.BufferedReader;
 import java.io.IOException;

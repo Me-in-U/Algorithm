@@ -1,4 +1,4 @@
-package P2562번_최댓값;
+package BAEKJOON.Bronze.Bronze_III.P2562번_최댓값;
 
 import java.util.Scanner;
     

@@ -1,4 +1,4 @@
-package P29703번_펭귄의_하루;
+package BAEKJOON.Gold.Gold_IV.P29703번_펭귄의_하루;
 
 import java.io.BufferedReader;
 import java.io.IOException;

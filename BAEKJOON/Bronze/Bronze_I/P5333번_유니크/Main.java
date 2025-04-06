@@ -1,4 +1,4 @@
-package P5333번_유니크;
+package BAEKJOON.Bronze.Bronze_I.P5333번_유니크;
 
 import java.io.BufferedReader;
 import java.io.IOException;

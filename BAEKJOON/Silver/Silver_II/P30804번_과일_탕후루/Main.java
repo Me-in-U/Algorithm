@@ -1,4 +1,4 @@
-package P30804번_과일_탕후루;
+package BAEKJOON.Silver.Silver_II.P30804번_과일_탕후루;
 
 import java.io.IOException;
 

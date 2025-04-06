@@ -1,4 +1,4 @@
-package P27257번_Любитель_нулей;
+package BAEKJOON.Bronze.Bronze_IV.P27257번_Любитель_нулей;
 
 import java.io.BufferedReader;
 import java.io.IOException;

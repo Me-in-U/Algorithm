@@ -1,4 +1,4 @@
-package P4673번_셀프넘버;
+package BAEKJOON.Silver.Silver_V.P4673번_셀프넘버;
 
 public class Main {
    public static void main(String args[]){

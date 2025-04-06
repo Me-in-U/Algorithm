@@ -1,4 +1,4 @@
-package P10420번_기념일;
+package BAEKJOON.Bronze.Bronze_II.P10420번_기념일;
 
 import java.io.BufferedReader;
 import java.io.IOException;

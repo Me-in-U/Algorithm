@@ -1,4 +1,4 @@
-package P1247번_부호;
+package BAEKJOON.Bronze.Bronze_III.P1247번_부호;
 
 import java.io.BufferedReader;
 import java.io.IOException;

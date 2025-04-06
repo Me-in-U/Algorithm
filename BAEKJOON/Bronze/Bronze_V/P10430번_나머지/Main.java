@@ -1,4 +1,4 @@
-package P10430번_나머지;
+package BAEKJOON.Bronze.Bronze_V.P10430번_나머지;
 
 import java.io.BufferedReader;
 import java.io.IOException;

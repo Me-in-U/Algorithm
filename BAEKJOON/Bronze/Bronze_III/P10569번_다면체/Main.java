@@ -1,4 +1,4 @@
-package P10569번_다면체;
+package BAEKJOON.Bronze.Bronze_III.P10569번_다면체;
 
 import java.io.BufferedReader;
 import java.io.IOException;

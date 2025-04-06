@@ -1,4 +1,4 @@
-package P16316번_Baby_Bites;
+package BAEKJOON.Bronze.Bronze_III.P16316번_Baby_Bites;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P10797번_10부제;
+package BAEKJOON.Bronze.Bronze_IV.P10797번_10부제;
 
 import java.io.BufferedReader;
 import java.io.IOException;

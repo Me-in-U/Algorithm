@@ -1,4 +1,4 @@
-package P18870번_좌표_압축;
+package BAEKJOON.Silver.Silver_II.P18870번_좌표_압축;
 
 import java.io.BufferedReader;
 import java.io.IOException;

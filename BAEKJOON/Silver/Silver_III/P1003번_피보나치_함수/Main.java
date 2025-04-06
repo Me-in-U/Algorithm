@@ -1,4 +1,4 @@
-package P1003번_피보나치_함수;
+package BAEKJOON.Silver.Silver_III.P1003번_피보나치_함수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

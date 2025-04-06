@@ -1,4 +1,4 @@
-package P18398번_HOMWRK;
+package BAEKJOON.Bronze.Bronze_IV.P18398번_HOMWRK;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P28927번_Киноманы;
+package BAEKJOON.Bronze.Bronze_V.P28927번_Киноманы;
 
 import java.io.BufferedReader;
 import java.io.IOException;

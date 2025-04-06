@@ -1,4 +1,4 @@
-package P26766번_Serca;
+package BAEKJOON.Bronze.Bronze_V.P26766번_Serca;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P14425번_문자열_집합;
+package BAEKJOON.Silver.Silver_III.P14425번_문자열_집합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

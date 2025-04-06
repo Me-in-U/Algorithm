@@ -1,4 +1,4 @@
-package P24263번_알고리즘_수업_알고리즘의_수행_시간_2;
+package BAEKJOON.Bronze.Bronze_IV.P24263번_알고리즘_수업_알고리즘의_수행_시간_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

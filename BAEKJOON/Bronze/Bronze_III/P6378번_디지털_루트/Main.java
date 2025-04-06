@@ -1,4 +1,4 @@
-package P6378번_디지털_루트;
+package BAEKJOON.Bronze.Bronze_III.P6378번_디지털_루트;
 
 import java.io.BufferedReader;
 import java.io.IOException;

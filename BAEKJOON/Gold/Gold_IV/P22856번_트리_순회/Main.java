@@ -1,9 +1,10 @@
-package P22856번_트리_순회;
+package BAEKJOON.Gold.Gold_IV.P22856번_트리_순회;
 
 import java.io.IOException;
 
 public class Main {
     private static class Node {
+        @SuppressWarnings("unused")
         Node left, right;
     }
 

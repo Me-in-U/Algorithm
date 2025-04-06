@@ -1,4 +1,4 @@
-package P28960번_Плащ_левитации;
+package BAEKJOON.Bronze.Bronze_IV.P28960번_Плащ_левитации;
 
 import java.io.BufferedReader;
 import java.io.IOException;

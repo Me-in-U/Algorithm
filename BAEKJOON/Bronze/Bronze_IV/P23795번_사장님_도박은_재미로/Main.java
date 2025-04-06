@@ -1,4 +1,4 @@
-package P23795번_사장님_도박은_재미로;
+package BAEKJOON.Bronze.Bronze_IV.P23795번_사장님_도박은_재미로;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P17009번_Winning_Score;
+package BAEKJOON.Bronze.Bronze_IV.P17009번_Winning_Score;
 
 import java.io.BufferedReader;
 import java.io.IOException;

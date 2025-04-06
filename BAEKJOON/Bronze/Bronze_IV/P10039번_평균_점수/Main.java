@@ -1,4 +1,4 @@
-package P10039번_평균_점수;
+package BAEKJOON.Bronze.Bronze_IV.P10039번_평균_점수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

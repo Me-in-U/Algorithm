@@ -1,4 +1,4 @@
-package P1244번_스위치_켜고_끄기;
+package BAEKJOON.Silver.Silver_IV.P1244번_스위치_켜고_끄기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P11319번_Count_Me_In;
+package BAEKJOON.Bronze.Bronze_II.P11319번_Count_Me_In;
 
 import java.io.BufferedReader;
 import java.io.IOException;

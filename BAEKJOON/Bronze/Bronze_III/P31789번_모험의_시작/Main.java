@@ -1,4 +1,4 @@
-package P31789번_모험의_시작;
+package BAEKJOON.Bronze.Bronze_III.P31789번_모험의_시작;
 
 import java.io.IOException;
 

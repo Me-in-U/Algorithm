@@ -1,4 +1,4 @@
-package P11286번_절댓값_힙;
+package BAEKJOON.Silver.Silver_I.P11286번_절댓값_힙;
 
 import java.io.BufferedReader;
 import java.io.IOException;

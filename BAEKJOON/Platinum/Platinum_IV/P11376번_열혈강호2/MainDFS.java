@@ -1,4 +1,4 @@
-package P11376번_열혈강호2;
+package BAEKJOON.Platinum.Platinum_IV.P11376번_열혈강호2;
 
 import java.io.IOException;
 import java.util.ArrayList;

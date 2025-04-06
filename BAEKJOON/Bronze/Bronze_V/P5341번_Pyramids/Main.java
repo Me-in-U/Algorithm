@@ -1,4 +1,4 @@
-package P5341번_Pyramids;
+package BAEKJOON.Bronze.Bronze_V.P5341번_Pyramids;
 
 import java.io.BufferedReader;
 import java.io.IOException;

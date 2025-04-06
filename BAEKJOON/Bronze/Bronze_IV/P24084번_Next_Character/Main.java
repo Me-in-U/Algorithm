@@ -1,4 +1,4 @@
-package P24084번_Next_Character;
+package BAEKJOON.Bronze.Bronze_IV.P24084번_Next_Character;
 
 import java.io.BufferedReader;
 import java.io.IOException;

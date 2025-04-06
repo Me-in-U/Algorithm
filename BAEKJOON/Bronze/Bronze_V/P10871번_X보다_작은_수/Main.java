@@ -1,4 +1,4 @@
-package P10871번_X보다_작은_수;
+package BAEKJOON.Bronze.Bronze_V.P10871번_X보다_작은_수;
 
 import java.util.Scanner;
     

@@ -1,4 +1,4 @@
-package P5343번_Parity_Bit;
+package BAEKJOON.Bronze.Bronze_III.P5343번_Parity_Bit;
 
 import java.io.BufferedReader;
 import java.io.IOException;

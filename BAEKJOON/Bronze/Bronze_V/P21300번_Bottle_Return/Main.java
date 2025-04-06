@@ -1,4 +1,4 @@
-package P21300번_Bottle_Return;
+package BAEKJOON.Bronze.Bronze_V.P21300번_Bottle_Return;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P3003번_킹;
+package BAEKJOON.Bronze.Bronze_V.P3003번_킹;
 
 import java.io.BufferedReader;
 import java.io.IOException;

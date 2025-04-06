@@ -1,4 +1,4 @@
-package P8545번_Zadanie_próbne;
+package BAEKJOON.Bronze.Bronze_V.P8545번_Zadanie_próbne;
 
 import java.io.BufferedReader;
 import java.io.IOException;

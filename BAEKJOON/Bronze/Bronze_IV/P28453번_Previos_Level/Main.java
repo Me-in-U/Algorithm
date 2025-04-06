@@ -1,4 +1,4 @@
-package P28453번_Previos_Level;
+package BAEKJOON.Bronze.Bronze_IV.P28453번_Previos_Level;
 
 import java.io.BufferedReader;
 import java.io.IOException;

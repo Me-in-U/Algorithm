@@ -1,4 +1,4 @@
-package P26566번_Pizza;
+package BAEKJOON.Bronze.Bronze_IV.P26566번_Pizza;
 
 import java.io.BufferedReader;
 import java.io.IOException;

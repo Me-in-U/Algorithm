@@ -1,4 +1,4 @@
-package P32278번_선택_가능성이_가장_높은_자료형;
+package BAEKJOON.Bronze.Bronze_IV.P32278번_선택_가능성이_가장_높은_자료형;
 
 import java.io.BufferedReader;
 import java.io.IOException;

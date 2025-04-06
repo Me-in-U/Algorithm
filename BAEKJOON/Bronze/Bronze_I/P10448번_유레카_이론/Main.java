@@ -1,4 +1,4 @@
-package P10448번_유레카_이론;
+package BAEKJOON.Bronze.Bronze_I.P10448번_유레카_이론;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P6840번_Who_is_int_the_middle;
+package BAEKJOON.Bronze.Bronze_V.P6840번_Who_is_int_the_middle;
 
 import java.io.BufferedReader;
 import java.io.IOException;

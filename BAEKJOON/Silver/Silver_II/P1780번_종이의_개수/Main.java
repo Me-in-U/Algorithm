@@ -1,4 +1,4 @@
-package P1780번_종이의_개수;
+package BAEKJOON.Silver.Silver_II.P1780번_종이의_개수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

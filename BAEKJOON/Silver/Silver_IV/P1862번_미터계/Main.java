@@ -1,4 +1,4 @@
-package P1862번_미터계;
+package BAEKJOON.Silver.Silver_IV.P1862번_미터계;
 
 import java.io.BufferedReader;
 import java.io.IOException;

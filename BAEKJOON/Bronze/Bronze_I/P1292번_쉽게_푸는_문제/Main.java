@@ -1,4 +1,4 @@
-package P1292번_쉽게_푸는_문제;
+package BAEKJOON.Bronze.Bronze_I.P1292번_쉽게_푸는_문제;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P1735번_분수합;
+package BAEKJOON.Silver.Silver_III.P1735번_분수합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

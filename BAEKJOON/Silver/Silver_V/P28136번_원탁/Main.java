@@ -1,4 +1,4 @@
-package P28136번_원탁;
+package BAEKJOON.Silver.Silver_V.P28136번_원탁;
 
 import java.io.BufferedReader;
 import java.io.IOException;

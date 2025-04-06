@@ -1,4 +1,4 @@
-package P10188번_Quadrilateral;
+package BAEKJOON.Bronze.Bronze_IV.P10188번_Quadrilateral;
 
 import java.io.BufferedReader;
 import java.io.IOException;

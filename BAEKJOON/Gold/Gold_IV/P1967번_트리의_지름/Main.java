@@ -1,4 +1,4 @@
-package P1967번_트리의_지름;
+package BAEKJOON.Gold.Gold_IV.P1967번_트리의_지름;
 
 /**
  * <h1>BAEKJOON 1967번 트리의 지름 GOLD IV</h1>

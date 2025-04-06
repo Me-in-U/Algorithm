@@ -1,3 +1,4 @@
+package SWEA.DP_연습;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P26489번_Gum_Gum_for_Jay_Jay;
+package BAEKJOON.Bronze.Bronze_V.P26489번_Gum_Gum_for_Jay_Jay;
 
 import java.io.BufferedReader;
 import java.io.IOException;

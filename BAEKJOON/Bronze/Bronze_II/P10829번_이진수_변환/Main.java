@@ -1,4 +1,4 @@
-package P10829번_이진수_변환;
+package BAEKJOON.Bronze.Bronze_II.P10829번_이진수_변환;
 
 import java.io.BufferedReader;
 import java.io.IOException;

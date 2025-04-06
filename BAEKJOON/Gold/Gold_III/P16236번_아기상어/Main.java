@@ -1,4 +1,4 @@
-package P16236번_아기상어;
+package BAEKJOON.Gold.Gold_III.P16236번_아기상어;
 
 import java.io.BufferedReader;
 import java.io.IOException;

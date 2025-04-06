@@ -1,4 +1,4 @@
-package P11725번_트리의_부모_찾기;
+package BAEKJOON.Silver.Silver_II.P11725번_트리의_부모_찾기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

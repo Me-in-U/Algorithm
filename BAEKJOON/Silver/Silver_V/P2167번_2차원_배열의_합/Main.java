@@ -1,4 +1,4 @@
-package P2167번_2차원_배열의_합;
+package BAEKJOON.Silver.Silver_V.P2167번_2차원_배열의_합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

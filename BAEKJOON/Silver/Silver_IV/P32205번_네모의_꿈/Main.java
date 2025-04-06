@@ -1,4 +1,4 @@
-package P32205번_네모의_꿈;
+package BAEKJOON.Silver.Silver_IV.P32205번_네모의_꿈;
 
 import java.io.BufferedReader;
 import java.io.IOException;

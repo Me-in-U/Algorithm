@@ -1,4 +1,4 @@
-package P20361번_일우는_야바위꾼;
+package BAEKJOON.Bronze.Bronze_III.P20361번_일우는_야바위꾼;
 
 import java.io.BufferedOutputStream;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P24860번_Counting_Antibodies;
+package BAEKJOON.Bronze.Bronze_IV.P24860번_Counting_Antibodies;
 
 import java.io.BufferedReader;
 import java.io.IOException;

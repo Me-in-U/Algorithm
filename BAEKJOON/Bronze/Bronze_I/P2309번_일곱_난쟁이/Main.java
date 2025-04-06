@@ -1,4 +1,4 @@
-package P2309번_일곱_난쟁이;
+package BAEKJOON.Bronze.Bronze_I.P2309번_일곱_난쟁이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

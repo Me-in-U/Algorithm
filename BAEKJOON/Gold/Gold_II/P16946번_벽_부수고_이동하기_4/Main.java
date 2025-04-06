@@ -1,4 +1,4 @@
-package P16946번_벽_부수고_이동하기_4;
+package BAEKJOON.Gold.Gold_II.P16946번_벽_부수고_이동하기_4;
 
 import java.io.IOException;
 import java.util.ArrayDeque;

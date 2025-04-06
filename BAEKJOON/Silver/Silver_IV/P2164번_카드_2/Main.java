@@ -1,4 +1,4 @@
-package P2164번_카드_2;
+package BAEKJOON.Silver.Silver_IV.P2164번_카드_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

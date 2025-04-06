@@ -1,4 +1,4 @@
-package P28126번_Space_A;
+package BAEKJOON.Silver.Silver_II.P28126번_Space_A;
 
 import java.io.BufferedReader;
 import java.io.IOException;

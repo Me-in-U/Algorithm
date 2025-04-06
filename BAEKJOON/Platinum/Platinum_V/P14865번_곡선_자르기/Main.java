@@ -1,4 +1,4 @@
-package P14865번_곡선_자르기;
+package BAEKJOON.Platinum.Platinum_V.P14865번_곡선_자르기;
 
 import java.io.IOException;
 import java.util.ArrayList;

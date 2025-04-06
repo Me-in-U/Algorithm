@@ -1,4 +1,4 @@
-package P28445번_알록달록_앵무새;
+package BAEKJOON.Silver.Silver_V.P28445번_알록달록_앵무새;
 
 import java.io.BufferedReader;
 import java.io.IOException;

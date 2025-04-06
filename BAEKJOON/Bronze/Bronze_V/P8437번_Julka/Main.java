@@ -1,4 +1,4 @@
-package P8437번_Julka;
+package BAEKJOON.Bronze.Bronze_V.P8437번_Julka;
 
 import java.io.BufferedReader;
 import java.io.IOException;

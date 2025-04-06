@@ -1,4 +1,4 @@
-package P10798번_세로읽기;
+package BAEKJOON.Bronze.Bronze_I.P10798번_세로읽기;
 
 import java.io.*;
 import java.util.*;

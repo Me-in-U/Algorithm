@@ -1,4 +1,4 @@
-package P16204번_카드_뽑기;
+package BAEKJOON.Bronze.Bronze_IV.P16204번_카드_뽑기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

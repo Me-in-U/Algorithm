@@ -1,4 +1,4 @@
-package P26076번_곰곰이의_식단_관리_2;
+package BAEKJOON.Platinum.Platinum_V.P26076번_곰곰이의_식단_관리_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

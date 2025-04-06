@@ -1,4 +1,4 @@
-package P1531번_투명;
+package BAEKJOON.Bronze.Bronze_III.P1531번_투명;
 
 import java.io.BufferedReader;
 import java.io.IOException;

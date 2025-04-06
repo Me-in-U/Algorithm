@@ -1,4 +1,4 @@
-package P10820번_문자열_분석;
+package BAEKJOON.Bronze.Bronze_II.P10820번_문자열_분석;
 
 import java.io.BufferedReader;
 import java.io.IOException;

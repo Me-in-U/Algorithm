@@ -1,4 +1,4 @@
-package P11161번_Negative_People_in_Da_House;
+package BAEKJOON.Bronze.Bronze_III.P11161번_Negative_People_in_Da_House;
 
 import java.io.IOException;
 

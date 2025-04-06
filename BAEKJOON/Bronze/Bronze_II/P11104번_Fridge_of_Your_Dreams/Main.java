@@ -1,4 +1,4 @@
-package P11104번_Fridge_of_Your_Dreams;
+package BAEKJOON.Bronze.Bronze_II.P11104번_Fridge_of_Your_Dreams;
 
 import java.io.IOException;
 

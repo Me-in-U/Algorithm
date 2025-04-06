@@ -1,4 +1,4 @@
-package P11660번_구간_합_구하기_5;
+package BAEKJOON.Silver.Silver_I.P11660번_구간_합_구하기_5;
 
 import java.io.BufferedReader;
 import java.io.IOException;

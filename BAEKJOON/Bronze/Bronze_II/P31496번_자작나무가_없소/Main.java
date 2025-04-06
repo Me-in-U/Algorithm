@@ -1,4 +1,4 @@
-package P31496번_자작나무가_없소;
+package BAEKJOON.Bronze.Bronze_II.P31496번_자작나무가_없소;
 
 import java.io.BufferedReader;
 import java.io.IOException;

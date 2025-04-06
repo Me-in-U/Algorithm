@@ -1,4 +1,4 @@
-package P25893번_Majestic_10;
+package BAEKJOON.Bronze.Bronze_IV.P25893번_Majestic_10;
 
 import java.io.BufferedReader;
 import java.io.IOException;

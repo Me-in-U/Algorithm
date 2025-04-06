@@ -1,4 +1,4 @@
-package P17094번_Serious_Problem;
+package BAEKJOON.Bronze.Bronze_III.P17094번_Serious_Problem;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

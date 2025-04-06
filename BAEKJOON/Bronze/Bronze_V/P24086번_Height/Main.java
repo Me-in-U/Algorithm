@@ -1,4 +1,4 @@
-package P24086번_Height;
+package BAEKJOON.Bronze.Bronze_V.P24086번_Height;
 
 import java.io.BufferedReader;
 import java.io.IOException;

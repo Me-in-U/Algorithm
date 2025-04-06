@@ -1,4 +1,4 @@
-package P7120번_String;
+package BAEKJOON.Bronze.Bronze_II.P7120번_String;
 
 import java.io.BufferedReader;
 import java.io.IOException;

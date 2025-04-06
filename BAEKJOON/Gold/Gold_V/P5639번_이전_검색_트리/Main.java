@@ -1,4 +1,4 @@
-package P5639번_이전_검색_트리;
+package BAEKJOON.Gold.Gold_V.P5639번_이전_검색_트리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

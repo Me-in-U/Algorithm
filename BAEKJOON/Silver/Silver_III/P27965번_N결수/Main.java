@@ -1,4 +1,4 @@
-package P27965번_N결수;
+package BAEKJOON.Silver.Silver_III.P27965번_N결수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

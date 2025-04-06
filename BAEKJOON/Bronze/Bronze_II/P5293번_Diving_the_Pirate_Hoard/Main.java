@@ -1,4 +1,4 @@
-package P5293번_Diving_the_Pirate_Hoard;
+package BAEKJOON.Bronze.Bronze_II.P5293번_Diving_the_Pirate_Hoard;
 
 import java.io.BufferedReader;
 import java.io.IOException;

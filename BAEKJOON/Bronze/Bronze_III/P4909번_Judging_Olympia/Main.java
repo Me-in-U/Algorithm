@@ -1,4 +1,4 @@
-package P4909번_Judging_Olympia;
+package BAEKJOON.Bronze.Bronze_III.P4909번_Judging_Olympia;
 
 import java.util.*;
 

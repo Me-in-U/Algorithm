@@ -1,4 +1,4 @@
-package P2609번_최대공약수와_최소공배수;
+package BAEKJOON.Bronze.Bronze_I.P2609번_최대공약수와_최소공배수;
 
 import java.util.Scanner;
 

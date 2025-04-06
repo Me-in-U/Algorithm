@@ -1,4 +1,4 @@
-package P10813번_공_바꾸기;
+package BAEKJOON.Bronze.Bronze_II.P10813번_공_바꾸기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

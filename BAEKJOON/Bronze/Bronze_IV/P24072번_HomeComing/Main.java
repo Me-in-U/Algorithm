@@ -1,4 +1,4 @@
-package P24072번_HomeComing;
+package BAEKJOON.Bronze.Bronze_IV.P24072번_HomeComing;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P18405번_경쟁적_전염;
+package BAEKJOON.Gold.Gold_V.P18405번_경쟁적_전염;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P1235번_학생_번호;
+package BAEKJOON.Silver.Silver_IV.P1235번_학생_번호;
 
 import java.io.BufferedReader;
 import java.io.IOException;

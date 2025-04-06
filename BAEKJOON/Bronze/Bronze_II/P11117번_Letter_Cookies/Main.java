@@ -1,4 +1,4 @@
-package P11117번_Letter_Cookies;
+package BAEKJOON.Bronze.Bronze_II.P11117번_Letter_Cookies;
 
 import java.io.BufferedReader;
 import java.io.IOException;

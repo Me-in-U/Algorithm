@@ -1,4 +1,4 @@
-package P4458번_첫_글자를_대문자로;
+package BAEKJOON.Bronze.Bronze_III.P4458번_첫_글자를_대문자로;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2490번_윷놀이;
+package BAEKJOON.Bronze.Bronze_III.P2490번_윷놀이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

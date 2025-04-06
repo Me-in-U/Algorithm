@@ -1,4 +1,4 @@
-package P17144번_미세먼지_안녕;
+package BAEKJOON.Gold.Gold_IV.P17144번_미세먼지_안녕;
 
 import java.io.BufferedReader;
 import java.io.IOException;

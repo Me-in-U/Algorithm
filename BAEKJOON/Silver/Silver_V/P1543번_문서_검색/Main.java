@@ -1,4 +1,4 @@
-package P1543번_문서_검색;
+package BAEKJOON.Silver.Silver_V.P1543번_문서_검색;
 
 import java.io.BufferedReader;
 import java.io.IOException;

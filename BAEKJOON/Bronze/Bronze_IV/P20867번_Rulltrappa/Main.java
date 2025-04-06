@@ -1,4 +1,4 @@
-package P20867번_Rulltrappa;
+package BAEKJOON.Bronze.Bronze_IV.P20867번_Rulltrappa;
 
 import java.io.BufferedReader;
 import java.io.IOException;

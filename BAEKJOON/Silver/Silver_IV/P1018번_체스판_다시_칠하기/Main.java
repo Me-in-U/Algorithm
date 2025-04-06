@@ -1,4 +1,4 @@
-package P1018번_체스판_다시_칠하기;
+package BAEKJOON.Silver.Silver_IV.P1018번_체스판_다시_칠하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P1783번_병든나이트;
+package BAEKJOON.Silver.Silver_III.P1783번_병든나이트;
 
 import java.io.BufferedReader;
 import java.io.IOException;

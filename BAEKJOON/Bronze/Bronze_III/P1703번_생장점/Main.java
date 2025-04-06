@@ -1,4 +1,4 @@
-package P1703번_생장점;
+package BAEKJOON.Bronze.Bronze_III.P1703번_생장점;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package P3046번_R2;
+package BAEKJOON.Bronze.Bronze_IV.P3046번_R2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

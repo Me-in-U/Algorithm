@@ -1,4 +1,4 @@
-package P1436번_영화감독_숌;
+package BAEKJOON.Silver.Silver_V.P1436번_영화감독_숌;
 
 import java.io.IOException;
 

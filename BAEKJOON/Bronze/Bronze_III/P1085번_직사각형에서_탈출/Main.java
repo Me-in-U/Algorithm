@@ -1,4 +1,4 @@
-package P1085번_직사각형에서_탈출;
+package BAEKJOON.Bronze.Bronze_III.P1085번_직사각형에서_탈출;
 
 import java.util.Scanner;
 class Main {

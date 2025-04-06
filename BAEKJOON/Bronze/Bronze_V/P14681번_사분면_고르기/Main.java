@@ -1,4 +1,4 @@
-package P14681번_사분면_고르기;
+package BAEKJOON.Bronze.Bronze_V.P14681번_사분면_고르기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

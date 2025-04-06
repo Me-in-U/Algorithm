@@ -1,4 +1,4 @@
-package P2947번_나무_조각;
+package BAEKJOON.Bronze.Bronze_I.P2947번_나무_조각;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P31994번_강당_대관;
+package BAEKJOON.Bronze.Bronze_IV.P31994번_강당_대관;
 
 import java.io.BufferedReader;
 import java.io.IOException;

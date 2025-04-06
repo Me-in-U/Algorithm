@@ -1,4 +1,4 @@
-package P26040번_특정_대문자를_소문자로_바꾸기;
+package BAEKJOON.Bronze.Bronze_III.P26040번_특정_대문자를_소문자로_바꾸기;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P30205번_전역_임무;
+package BAEKJOON.Silver.Silver_II.P30205번_전역_임무;
 
 import java.io.BufferedReader;
 import java.io.IOException;

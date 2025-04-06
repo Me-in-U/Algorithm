@@ -1,4 +1,4 @@
-package P2615번_오목;
+package BAEKJOON.Silver.Silver_I.P2615번_오목;
 
 import java.io.IOException;
 

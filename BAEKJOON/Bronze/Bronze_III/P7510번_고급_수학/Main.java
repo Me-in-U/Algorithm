@@ -1,4 +1,4 @@
-package P7510번_고급_수학;
+package BAEKJOON.Bronze.Bronze_III.P7510번_고급_수학;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P13866번_팀_나누기;
+package BAEKJOON.Bronze.Bronze_IV.P13866번_팀_나누기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

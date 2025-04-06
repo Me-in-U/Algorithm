@@ -1,4 +1,4 @@
-package P8370번_Plane;
+package BAEKJOON.Bronze.Bronze_V.P8370번_Plane;
 
 import java.io.BufferedReader;
 import java.io.IOException;

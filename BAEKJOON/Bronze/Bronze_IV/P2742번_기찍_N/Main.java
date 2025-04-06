@@ -1,4 +1,4 @@
-package P2742번_기찍_N;
+package BAEKJOON.Bronze.Bronze_IV.P2742번_기찍_N;
 
 import java.util.Scanner;
     

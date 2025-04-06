@@ -1,4 +1,4 @@
-package P16483번_접시_안의_원;
+package BAEKJOON.Bronze.Bronze_III.P16483번_접시_안의_원;
 
 import java.io.IOException;
 

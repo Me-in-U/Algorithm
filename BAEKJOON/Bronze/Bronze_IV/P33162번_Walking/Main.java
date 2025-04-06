@@ -1,4 +1,4 @@
-package P33162번_Walking;
+package BAEKJOON.Bronze.Bronze_IV.P33162번_Walking;
 
 import java.io.IOException;
 

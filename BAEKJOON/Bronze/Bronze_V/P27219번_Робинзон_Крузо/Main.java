@@ -1,4 +1,4 @@
-package P27219번_Робинзон_Крузо;
+package BAEKJOON.Bronze.Bronze_V.P27219번_Робинзон_Крузо;
 
 import java.io.BufferedReader;
 import java.io.IOException;

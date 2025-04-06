@@ -1,4 +1,4 @@
-package P25305번_커트라인;
+package BAEKJOON.Bronze.Bronze_II.P25305번_커트라인;
 
 import java.io.BufferedReader;
 import java.io.IOException;

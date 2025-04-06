@@ -1,4 +1,4 @@
-package P2083번_럭비_클럽;
+package BAEKJOON.Bronze.Bronze_IV.P2083번_럭비_클럽;
 
 import java.io.BufferedReader;
 import java.io.IOException;

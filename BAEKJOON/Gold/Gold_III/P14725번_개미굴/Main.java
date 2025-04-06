@@ -1,4 +1,4 @@
-package P14725번_개미굴;
+package BAEKJOON.Gold.Gold_III.P14725번_개미굴;
 
 import java.io.BufferedReader;
 import java.io.IOException;

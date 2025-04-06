@@ -1,4 +1,4 @@
-package P27889번_특별한_학교_이름;
+package BAEKJOON.Bronze.Bronze_V.P27889번_특별한_학교_이름;
 
 import java.io.BufferedReader;
 import java.io.IOException;

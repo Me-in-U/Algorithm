@@ -1,4 +1,4 @@
-package P24313번_알고리즘_수업_점근적_표기_1;
+package BAEKJOON.Silver.Silver_V.P24313번_알고리즘_수업_점근적_표기_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

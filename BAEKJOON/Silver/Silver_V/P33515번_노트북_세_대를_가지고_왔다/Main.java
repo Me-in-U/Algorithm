@@ -1,4 +1,4 @@
-package P33515번_노트북_세_대를_가지고_왔다;
+package BAEKJOON.Silver.Silver_V.P33515번_노트북_세_대를_가지고_왔다;
 
 import java.io.IOException;
 

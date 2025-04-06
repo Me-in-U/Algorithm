@@ -1,4 +1,4 @@
-package P11654번_아스키_코드;
+package BAEKJOON.Bronze.Bronze_V.P11654번_아스키_코드;
 
 import java.util.Scanner;
     

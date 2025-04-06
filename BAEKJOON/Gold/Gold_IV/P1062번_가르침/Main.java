@@ -1,4 +1,4 @@
-package P1062번_가르침;
+package BAEKJOON.Gold.Gold_IV.P1062번_가르침;
 
 import java.io.BufferedReader;
 import java.io.IOException;

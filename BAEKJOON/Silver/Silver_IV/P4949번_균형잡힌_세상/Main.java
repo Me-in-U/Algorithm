@@ -1,4 +1,4 @@
-package P4949번_균형잡힌_세상;
+package BAEKJOON.Silver.Silver_IV.P4949번_균형잡힌_세상;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

@@ -1,4 +1,4 @@
-package P28281번_선물;
+package BAEKJOON.Bronze.Bronze_IV.P28281번_선물;
 
 import java.io.BufferedReader;
 import java.io.IOException;

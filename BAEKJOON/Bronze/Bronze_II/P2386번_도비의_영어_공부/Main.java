@@ -1,4 +1,4 @@
-package P2386번_도비의_영어_공부;
+package BAEKJOON.Bronze.Bronze_II.P2386번_도비의_영어_공부;
 
 import java.io.BufferedReader;
 import java.io.IOException;

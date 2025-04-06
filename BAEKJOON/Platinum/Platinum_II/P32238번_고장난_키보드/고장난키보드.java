@@ -1,4 +1,4 @@
-package Platinum_II.P32238번_고장난_키보드;
+package BAEKJOON.Platinum.Platinum_II.P32238번_고장난_키보드;
 
 import java.io.BufferedReader;
 import java.io.IOException;

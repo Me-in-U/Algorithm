@@ -1,4 +1,4 @@
-package P29546번_Файлы;
+package BAEKJOON.Bronze.Bronze_IV.P29546번_Файлы;
 
 import java.io.BufferedReader;
 import java.io.IOException;

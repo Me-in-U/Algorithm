@@ -1,4 +1,4 @@
-package P4740번_거울_오_거울;
+package BAEKJOON.Bronze.Bronze_III.P4740번_거울_오_거울;
 
 import java.io.BufferedReader;
 import java.io.IOException;

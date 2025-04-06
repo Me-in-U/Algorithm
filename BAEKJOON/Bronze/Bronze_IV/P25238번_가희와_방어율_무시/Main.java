@@ -1,4 +1,4 @@
-package P25238번_가희와_방어율_무시;
+package BAEKJOON.Bronze.Bronze_IV.P25238번_가희와_방어율_무시;
 
 import java.io.BufferedReader;
 import java.io.IOException;

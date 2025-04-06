@@ -1,4 +1,4 @@
-package P1000번_A더하기B;
+package BAEKJOON.Bronze.Bronze_V.P1000번_A더하기B;
 
 import java.util.Scanner;
 

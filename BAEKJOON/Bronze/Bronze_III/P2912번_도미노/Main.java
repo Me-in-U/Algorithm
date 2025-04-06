@@ -1,4 +1,4 @@
-package P2912번_도미노;
+package BAEKJOON.Bronze.Bronze_III.P2912번_도미노;
 
 import java.io.BufferedReader;
 import java.io.IOException;

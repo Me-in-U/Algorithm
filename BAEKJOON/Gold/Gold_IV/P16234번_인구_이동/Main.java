@@ -1,4 +1,4 @@
-package P16234번_인구_이동;
+package BAEKJOON.Gold.Gold_IV.P16234번_인구_이동;
 
 import java.io.IOException;
 import java.util.ArrayList;

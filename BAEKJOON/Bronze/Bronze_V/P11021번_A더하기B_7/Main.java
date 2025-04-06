@@ -1,4 +1,4 @@
-package P11021번_A더하기B_7;
+package BAEKJOON.Bronze.Bronze_V.P11021번_A더하기B_7;
 
 import java.io.BufferedReader;
 import java.io.IOException;

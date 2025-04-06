@@ -1,4 +1,4 @@
-package P1063번_킹;
+package BAEKJOON.Silver.Silver_III.P1063번_킹;
 
 import java.io.BufferedReader;
 import java.io.IOException;

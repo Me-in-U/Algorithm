@@ -1,4 +1,4 @@
-package P14065번_Gorivo;
+package BAEKJOON.Bronze.Bronze_IV.P14065번_Gorivo;
 
 import java.io.BufferedReader;
 import java.io.IOException;

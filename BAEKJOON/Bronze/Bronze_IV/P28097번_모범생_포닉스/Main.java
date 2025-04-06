@@ -1,4 +1,4 @@
-package P28097번_모범생_포닉스;
+package BAEKJOON.Bronze.Bronze_IV.P28097번_모범생_포닉스;
 
 import java.io.BufferedReader;
 import java.io.IOException;

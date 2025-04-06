@@ -1,4 +1,4 @@
-package P15610번_Abbey_Courtyard;
+package BAEKJOON.Bronze.Bronze_IV.P15610번_Abbey_Courtyard;
 
 import java.io.BufferedReader;
 import java.io.IOException;

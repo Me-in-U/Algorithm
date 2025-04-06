@@ -1,4 +1,4 @@
-package P10757번_큰_수_A더하기B;
+package BAEKJOON.Bronze.Bronze_V.P10757번_큰_수_A더하기B;
 
 import java.io.BufferedReader;
 import java.io.IOException;

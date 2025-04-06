@@ -1,4 +1,4 @@
-package P2239번_스도쿠;
+package BAEKJOON.Gold.Gold_IV.P2239번_스도쿠;
 
 /**
  * BAEKJOON 2239번 스도쿠

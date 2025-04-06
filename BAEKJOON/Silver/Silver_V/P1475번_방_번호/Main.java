@@ -1,4 +1,4 @@
-package P1475번_방_번호;
+package BAEKJOON.Silver.Silver_V.P1475번_방_번호;
 
 import java.io.BufferedReader;
 import java.io.IOException;

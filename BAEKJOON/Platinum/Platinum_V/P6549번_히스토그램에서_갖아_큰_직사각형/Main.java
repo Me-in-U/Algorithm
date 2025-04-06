@@ -1,4 +1,4 @@
-package P6549번_히스토그램에서_갖아_큰_직사각형;
+package BAEKJOON.Platinum.Platinum_V.P6549번_히스토그램에서_갖아_큰_직사각형;
 
 import java.io.BufferedReader;
 import java.io.IOException;

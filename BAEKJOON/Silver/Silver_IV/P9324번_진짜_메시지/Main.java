@@ -1,4 +1,4 @@
-package P9324번_진짜_메시지;
+package BAEKJOON.Silver.Silver_IV.P9324번_진짜_메시지;
 
 import java.io.BufferedReader;
 import java.io.IOException;

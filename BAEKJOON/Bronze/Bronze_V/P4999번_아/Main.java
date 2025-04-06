@@ -1,4 +1,4 @@
-package P4999번_아;
+package BAEKJOON.Bronze.Bronze_V.P4999번_아;
 
 import java.io.BufferedReader;
 import java.io.IOException;

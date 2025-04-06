@@ -1,4 +1,4 @@
-package P14501번_퇴사;
+package BAEKJOON.Silver.Silver_III.P14501번_퇴사;
 
 import java.io.BufferedReader;
 import java.io.IOException;

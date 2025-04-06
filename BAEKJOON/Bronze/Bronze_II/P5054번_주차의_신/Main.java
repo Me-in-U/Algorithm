@@ -1,4 +1,4 @@
-package P5054번_주차의_신;
+package BAEKJOON.Bronze.Bronze_II.P5054번_주차의_신;
 
 import java.io.BufferedReader;
 import java.io.IOException;

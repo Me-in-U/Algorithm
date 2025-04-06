@@ -1,4 +1,4 @@
-package P17263번_Sort_마스터_배지훈;
+package BAEKJOON.Bronze.Bronze_III.P17263번_Sort_마스터_배지훈;
 
 import java.io.BufferedReader;
 import java.io.IOException;

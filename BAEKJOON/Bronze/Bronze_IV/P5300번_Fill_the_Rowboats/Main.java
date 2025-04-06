@@ -1,4 +1,4 @@
-package P5300번_Fill_the_Rowboats;
+package BAEKJOON.Bronze.Bronze_IV.P5300번_Fill_the_Rowboats;
 
 import java.io.BufferedReader;
 import java.io.IOException;

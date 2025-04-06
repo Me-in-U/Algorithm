@@ -1,4 +1,4 @@
-package P3985번_롤_케이크;
+package BAEKJOON.Bronze.Bronze_I.P3985번_롤_케이크;
 
 import java.io.BufferedReader;
 import java.io.IOException;

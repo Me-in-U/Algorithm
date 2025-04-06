@@ -1,4 +1,4 @@
-package P15740번_AB_9;
+package BAEKJOON.Bronze.Bronze_V.P15740번_AB_9;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P8958번_OX퀴즈;
+package BAEKJOON.Bronze.Bronze_II.P8958번_OX퀴즈;
 
 import java.util.Scanner;
 class Main {

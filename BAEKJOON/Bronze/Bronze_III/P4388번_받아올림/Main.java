@@ -1,4 +1,4 @@
-package P4388번_받아올림;
+package BAEKJOON.Bronze.Bronze_III.P4388번_받아올림;
 
 import java.io.IOException;
 

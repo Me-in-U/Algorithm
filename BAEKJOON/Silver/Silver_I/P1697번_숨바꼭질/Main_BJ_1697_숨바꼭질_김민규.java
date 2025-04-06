@@ -1,4 +1,4 @@
-package P1697번_숨바꼭질;
+package BAEKJOON.Silver.Silver_I.P1697번_숨바꼭질;
 
 /**
  * <h1>BAEKJOON 1697번 숨바꼭질</h1>

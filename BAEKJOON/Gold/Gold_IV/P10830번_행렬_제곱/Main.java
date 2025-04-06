@@ -1,4 +1,4 @@
-package P10830번_행렬_제곱;
+package BAEKJOON.Gold.Gold_IV.P10830번_행렬_제곱;
 
 import java.io.IOException;
 

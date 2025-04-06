@@ -1,4 +1,4 @@
-package P2914번_저작권;
+package BAEKJOON.Bronze.Bronze_III.P2914번_저작권;
 
 import java.io.BufferedReader;
 import java.io.IOException;

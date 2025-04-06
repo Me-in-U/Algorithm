@@ -1,4 +1,4 @@
-package P14489번_치킨_두_마리;
+package BAEKJOON.Bronze.Bronze_IV.P14489번_치킨_두_마리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

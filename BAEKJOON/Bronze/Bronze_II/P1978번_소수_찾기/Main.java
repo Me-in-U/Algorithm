@@ -1,4 +1,4 @@
-package P1978번_소수_찾기;
+package BAEKJOON.Bronze.Bronze_II.P1978번_소수_찾기;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

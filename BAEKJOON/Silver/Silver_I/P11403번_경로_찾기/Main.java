@@ -1,4 +1,4 @@
-package P11403번_경로_찾기;
+package BAEKJOON.Silver.Silver_I.P11403번_경로_찾기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

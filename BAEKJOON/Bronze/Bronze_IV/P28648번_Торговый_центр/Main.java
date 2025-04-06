@@ -1,4 +1,4 @@
-package P28648번_Торговый_центр;
+package BAEKJOON.Bronze.Bronze_IV.P28648번_Торговый_центр;
 
 import java.io.BufferedReader;
 import java.io.IOException;

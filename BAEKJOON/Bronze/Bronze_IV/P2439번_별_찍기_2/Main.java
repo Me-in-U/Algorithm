@@ -1,4 +1,4 @@
-package P2439번_별_찍기_2;
+package BAEKJOON.Bronze.Bronze_IV.P2439번_별_찍기_2;
 
 import java.util.Scanner;
     

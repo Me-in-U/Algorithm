@@ -1,4 +1,4 @@
-package P22193번_Multiply;
+package BAEKJOON.Bronze.Bronze_V.P22193번_Multiply;
 
 import java.io.BufferedReader;
 import java.io.IOException;

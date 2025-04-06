@@ -1,4 +1,4 @@
-package P1380번_귀걸이;
+package BAEKJOON.Silver.Silver_V.P1380번_귀걸이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

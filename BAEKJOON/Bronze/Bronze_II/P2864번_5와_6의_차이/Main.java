@@ -1,4 +1,4 @@
-package P2864번_5와_6의_차이;
+package BAEKJOON.Bronze.Bronze_II.P2864번_5와_6의_차이;
 
 import java.io.IOException;
 import java.io.BufferedReader;

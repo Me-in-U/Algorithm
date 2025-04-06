@@ -1,4 +1,4 @@
-package P10971번_외판원_순회_2;
+package BAEKJOON.Silver.Silver_II.P10971번_외판원_순회_2;
 
 import java.io.IOException;
 import java.util.ArrayList;

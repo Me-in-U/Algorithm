@@ -1,4 +1,4 @@
-package P29340번_Отряд;
+package BAEKJOON.Bronze.Bronze_IV.P29340번_Отряд;
 
 import java.io.BufferedReader;
 import java.io.IOException;

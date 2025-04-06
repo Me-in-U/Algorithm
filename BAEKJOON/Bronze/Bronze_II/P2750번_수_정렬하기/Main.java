@@ -1,4 +1,4 @@
-package P2750번_수_정렬하기;
+package BAEKJOON.Bronze.Bronze_II.P2750번_수_정렬하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

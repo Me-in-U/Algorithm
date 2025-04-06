@@ -1,4 +1,4 @@
-package P9076번_점수_집계;
+package BAEKJOON.Bronze.Bronze_II.P9076번_점수_집계;
 
 import java.io.BufferedReader;
 import java.io.IOException;

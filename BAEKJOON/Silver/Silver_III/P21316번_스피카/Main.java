@@ -1,4 +1,4 @@
-package P21316번_스피카;
+package BAEKJOON.Silver.Silver_III.P21316번_스피카;
 
 import java.io.BufferedReader;
 import java.io.IOException;

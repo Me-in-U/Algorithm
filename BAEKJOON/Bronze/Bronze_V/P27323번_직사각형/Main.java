@@ -1,4 +1,4 @@
-package P27323번_직사각형;
+package BAEKJOON.Bronze.Bronze_V.P27323번_직사각형;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P10807번_개수_세기;
+package BAEKJOON.Bronze.Bronze_V.P10807번_개수_세기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P1225번_이상한_곱셈;
+package BAEKJOON.Bronze.Bronze_II.P1225번_이상한_곱셈;
 
 import java.io.BufferedReader;
 import java.io.IOException;

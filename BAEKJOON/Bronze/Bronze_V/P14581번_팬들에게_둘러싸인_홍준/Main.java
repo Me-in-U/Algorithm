@@ -1,4 +1,4 @@
-package P14581번_팬들에게_둘러싸인_홍준;
+package BAEKJOON.Bronze.Bronze_V.P14581번_팬들에게_둘러싸인_홍준;
 
 import java.io.BufferedReader;
 import java.io.IOException;

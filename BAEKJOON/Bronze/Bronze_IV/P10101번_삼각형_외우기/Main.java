@@ -1,4 +1,4 @@
-package P10101번_삼각형_외우기;
+package BAEKJOON.Bronze.Bronze_IV.P10101번_삼각형_외우기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

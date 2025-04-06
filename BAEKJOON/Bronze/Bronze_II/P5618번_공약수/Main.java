@@ -1,4 +1,4 @@
-package P5618번_공약수;
+package BAEKJOON.Bronze.Bronze_II.P5618번_공약수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P31609번_Appearing_Numbers;
+package BAEKJOON.Bronze.Bronze_IV.P31609번_Appearing_Numbers;
 
 import java.io.BufferedReader;
 import java.io.IOException;

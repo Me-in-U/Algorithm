@@ -1,4 +1,4 @@
-package P1761번_정점들의_거리;
+package BAEKJOON.Platinum.Platinum_V.P1761번_정점들의_거리;
 
 import java.io.IOException;
 import java.util.ArrayList;

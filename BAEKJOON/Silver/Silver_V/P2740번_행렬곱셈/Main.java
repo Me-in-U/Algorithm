@@ -1,4 +1,4 @@
-package P2740번_행렬곱셈;
+package BAEKJOON.Silver.Silver_V.P2740번_행렬곱셈;
 
 import java.io.BufferedReader;
 import java.io.IOException;

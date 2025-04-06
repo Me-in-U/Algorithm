@@ -1,4 +1,4 @@
-package P15439번_Vera_and_Outfits;
+package BAEKJOON.Bronze.Bronze_IV.P15439번_Vera_and_Outfits;
 
 import java.io.BufferedReader;
 import java.io.IOException;

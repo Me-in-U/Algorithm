@@ -1,4 +1,4 @@
-package P17470번_배열_돌리기_5;
+package BAEKJOON.Platinum.Platinum_IV.P17470번_배열_돌리기_5;
 
 import java.io.BufferedReader;
 import java.io.IOException;

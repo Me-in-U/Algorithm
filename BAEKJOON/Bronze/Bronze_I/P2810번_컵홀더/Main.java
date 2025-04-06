@@ -1,4 +1,4 @@
-package P2810번_컵홀더;
+package BAEKJOON.Bronze.Bronze_I.P2810번_컵홀더;
 
 import java.io.BufferedReader;
 import java.io.IOException;

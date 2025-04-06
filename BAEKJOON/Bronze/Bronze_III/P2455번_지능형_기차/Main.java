@@ -1,4 +1,4 @@
-package P2455번_지능형_기차;
+package BAEKJOON.Bronze.Bronze_III.P2455번_지능형_기차;
 
 import java.io.BufferedReader;
 import java.io.IOException;

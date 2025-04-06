@@ -1,4 +1,4 @@
-package P13985번_Equality;
+package BAEKJOON.Bronze.Bronze_IV.P13985번_Equality;
 
 import java.io.BufferedReader;
 import java.io.IOException;

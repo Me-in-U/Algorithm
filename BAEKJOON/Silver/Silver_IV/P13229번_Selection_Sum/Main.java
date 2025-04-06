@@ -1,4 +1,4 @@
-package P13229번_Selection_Sum;
+package BAEKJOON.Silver.Silver_IV.P13229번_Selection_Sum;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P1008번_A나누기B;
+package BAEKJOON.Bronze.Bronze_V.P1008번_A나누기B;
 
 import java.util.Scanner;
 

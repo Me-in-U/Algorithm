@@ -1,4 +1,4 @@
-package P33165번_Footrace;
+package BAEKJOON.Bronze.Bronze_V.P33165번_Footrace;
 
 interface Main {
     static void main(String[] a) throws Exception {

@@ -1,4 +1,4 @@
-package P13163번_닉네임에_갓_붙이기;
+package BAEKJOON.Bronze.Bronze_III.P13163번_닉네임에_갓_붙이기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

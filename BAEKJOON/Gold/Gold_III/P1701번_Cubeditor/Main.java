@@ -1,4 +1,4 @@
-package P1701번_Cubeditor;
+package BAEKJOON.Gold.Gold_III.P1701번_Cubeditor;
 
 import java.io.BufferedReader;
 import java.io.IOException;

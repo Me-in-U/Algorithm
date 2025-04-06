@@ -1,4 +1,4 @@
-package P30822번_UOSPC_세기;
+package BAEKJOON.Bronze.Bronze_III.P30822번_UOSPC_세기;
 
 import java.io.IOException;
 

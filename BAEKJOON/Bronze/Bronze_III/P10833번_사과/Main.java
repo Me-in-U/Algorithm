@@ -1,4 +1,4 @@
-package P10833번_사과;
+package BAEKJOON.Bronze.Bronze_III.P10833번_사과;
 
 import java.io.BufferedReader;
 import java.io.IOException;

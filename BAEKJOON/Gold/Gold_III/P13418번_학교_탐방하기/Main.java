@@ -1,4 +1,4 @@
-package P13418번_학교_탐방하기;
+package BAEKJOON.Gold.Gold_III.P13418번_학교_탐방하기;
 
 import java.io.IOException;
 import java.util.Comparator;

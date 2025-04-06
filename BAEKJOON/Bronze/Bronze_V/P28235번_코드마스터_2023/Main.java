@@ -1,4 +1,4 @@
-package P28235번_코드마스터_2023;
+package BAEKJOON.Bronze.Bronze_V.P28235번_코드마스터_2023;
 
 import java.io.BufferedReader;
 import java.io.IOException;

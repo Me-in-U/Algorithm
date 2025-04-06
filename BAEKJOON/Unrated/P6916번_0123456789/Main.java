@@ -1,4 +1,4 @@
-package P6916번_0123456789;
+package BAEKJOON.Unrated.P6916번_0123456789;
 
 import java.io.BufferedReader;
 import java.io.IOException;

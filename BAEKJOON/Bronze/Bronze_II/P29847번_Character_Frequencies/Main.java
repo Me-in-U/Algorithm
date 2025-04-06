@@ -1,4 +1,4 @@
-package P29847번_Character_Frequencies;
+package BAEKJOON.Bronze.Bronze_II.P29847번_Character_Frequencies;
 
 import java.io.BufferedReader;
 import java.io.IOException;

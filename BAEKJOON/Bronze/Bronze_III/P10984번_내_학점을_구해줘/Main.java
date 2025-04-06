@@ -1,4 +1,4 @@
-package P10984번_내_학점을_구해줘;
+package BAEKJOON.Bronze.Bronze_III.P10984번_내_학점을_구해줘;
 
 import java.io.BufferedReader;
 import java.io.IOException;

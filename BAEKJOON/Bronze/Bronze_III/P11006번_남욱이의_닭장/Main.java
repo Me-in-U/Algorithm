@@ -1,4 +1,4 @@
-package P11006번_남욱이의_닭장;
+package BAEKJOON.Bronze.Bronze_III.P11006번_남욱이의_닭장;
 
 import java.io.BufferedReader;
 import java.io.IOException;

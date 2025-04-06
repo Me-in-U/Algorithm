@@ -1,4 +1,4 @@
-package P33166번_Railway_Trip_3;
+package BAEKJOON.Bronze.Bronze_IV.P33166번_Railway_Trip_3;
 
 import java.io.BufferedReader;
 import java.io.IOException;

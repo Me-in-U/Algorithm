@@ -1,4 +1,4 @@
-package P32978번_아_맞다_마늘;
+package BAEKJOON.Bronze.Bronze_III.P32978번_아_맞다_마늘;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

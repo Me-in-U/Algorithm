@@ -1,4 +1,4 @@
-package P12813번_이진수_연산;
+package BAEKJOON.Bronze.Bronze_II.P12813번_이진수_연산;
 
 import java.io.BufferedReader;
 import java.io.IOException;

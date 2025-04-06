@@ -1,4 +1,4 @@
-package P5800번_성적_통계;
+package BAEKJOON.Silver.Silver_V.P5800번_성적_통계;
 
 import java.io.BufferedReader;
 import java.io.IOException;

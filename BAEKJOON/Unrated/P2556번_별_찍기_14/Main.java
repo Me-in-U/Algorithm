@@ -1,4 +1,4 @@
-package P2556번_별_찍기_14;
+package BAEKJOON.Unrated.P2556번_별_찍기_14;
 
 import java.io.BufferedReader;
 import java.io.IOException;

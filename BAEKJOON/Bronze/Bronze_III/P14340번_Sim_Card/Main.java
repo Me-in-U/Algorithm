@@ -1,4 +1,4 @@
-package P14340번_Sim_Card;
+package BAEKJOON.Bronze.Bronze_III.P14340번_Sim_Card;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

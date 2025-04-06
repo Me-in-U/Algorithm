@@ -1,4 +1,4 @@
-package P11375번_열혈강호;
+package BAEKJOON.Platinum.Platinum_IV.P11375번_열혈강호;
 
 import java.io.IOException;
 import java.util.ArrayList;

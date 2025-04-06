@@ -1,4 +1,4 @@
-package P11648번_지속;
+package BAEKJOON.Bronze.Bronze_III.P11648번_지속;
 
 import java.io.BufferedReader;
 import java.io.IOException;

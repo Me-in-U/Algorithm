@@ -1,4 +1,4 @@
-package P30702번_국기_색칠하기;
+package BAEKJOON.Silver.Silver_I.P30702번_국기_색칠하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

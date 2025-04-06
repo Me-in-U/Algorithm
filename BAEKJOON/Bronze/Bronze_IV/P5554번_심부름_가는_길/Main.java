@@ -1,4 +1,4 @@
-package P5554번_심부름_가는_길;
+package BAEKJOON.Bronze.Bronze_IV.P5554번_심부름_가는_길;
 
 import java.io.BufferedReader;
 import java.io.IOException;

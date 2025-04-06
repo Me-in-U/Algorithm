@@ -1,4 +1,4 @@
-package P25600번_Triathlon;
+package BAEKJOON.Bronze.Bronze_IV.P25600번_Triathlon;
 
 import java.io.BufferedReader;
 import java.io.IOException;

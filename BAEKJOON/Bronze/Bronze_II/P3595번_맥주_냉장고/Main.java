@@ -1,4 +1,4 @@
-package P3595번_맥주_냉장고;
+package BAEKJOON.Bronze.Bronze_II.P3595번_맥주_냉장고;
 
 import java.io.BufferedReader;
 import java.io.IOException;

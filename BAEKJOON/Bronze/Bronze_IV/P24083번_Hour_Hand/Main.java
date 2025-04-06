@@ -1,4 +1,4 @@
-package P24083번_Hour_Hand;
+package BAEKJOON.Bronze.Bronze_IV.P24083번_Hour_Hand;
 
 import java.io.BufferedReader;
 import java.io.IOException;

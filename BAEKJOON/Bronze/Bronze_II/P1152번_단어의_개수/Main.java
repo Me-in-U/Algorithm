@@ -1,4 +1,4 @@
-package P1152번_단어의_개수;
+package BAEKJOON.Bronze.Bronze_II.P1152번_단어의_개수;
 
 import java.util.Scanner;
 

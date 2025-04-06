@@ -1,4 +1,4 @@
-package P2606번_바이러스;
+package BAEKJOON.Silver.Silver_III.P2606번_바이러스;
 
 import java.util.LinkedList;
 import java.util.Stack;

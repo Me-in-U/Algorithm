@@ -1,4 +1,4 @@
-package P2959번_거북이;
+package BAEKJOON.Bronze.Bronze_III.P2959번_거북이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

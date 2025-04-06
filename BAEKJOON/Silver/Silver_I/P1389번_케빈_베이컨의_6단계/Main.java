@@ -1,4 +1,4 @@
-package P1389번_케빈_베이컨의_6단계;
+package BAEKJOON.Silver.Silver_I.P1389번_케빈_베이컨의_6단계;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P10989번_수_정렬하기_3;
+package BAEKJOON.Bronze.Bronze_I.P10989번_수_정렬하기_3;
 
 import java.util.Arrays;
 import java.io.BufferedReader;

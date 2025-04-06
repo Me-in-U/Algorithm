@@ -1,4 +1,4 @@
-package P1932번_정수_삼각형;
+package BAEKJOON.Silver.Silver_I.P1932번_정수_삼각형;
 
 import java.io.BufferedReader;
 import java.io.IOException;

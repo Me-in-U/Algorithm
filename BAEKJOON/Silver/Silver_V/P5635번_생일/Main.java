@@ -1,4 +1,4 @@
-package P5635번_생일;
+package BAEKJOON.Silver.Silver_V.P5635번_생일;
 
 import java.io.BufferedReader;
 import java.io.IOException;

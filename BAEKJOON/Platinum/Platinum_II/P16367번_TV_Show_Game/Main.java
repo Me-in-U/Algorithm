@@ -1,4 +1,4 @@
-package Platinum_II.P16367번_TV_Show_Game;
+package BAEKJOON.Platinum.Platinum_II.P16367번_TV_Show_Game;
 
 import java.io.BufferedReader;
 import java.io.IOException;

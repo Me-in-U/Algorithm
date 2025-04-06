@@ -1,4 +1,4 @@
-package P26592번_Triangle_Height;
+package BAEKJOON.Bronze.Bronze_IV.P26592번_Triangle_Height;
 
 import java.io.BufferedReader;
 import java.io.IOException;

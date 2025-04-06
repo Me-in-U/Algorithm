@@ -1,4 +1,4 @@
-package P11404번_플로이드;
+package BAEKJOON.Gold.Gold_IV.P11404번_플로이드;
 
 import java.io.BufferedReader;
 import java.io.IOException;

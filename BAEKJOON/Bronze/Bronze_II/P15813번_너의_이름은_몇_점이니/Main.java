@@ -1,4 +1,4 @@
-package P15813번_너의_이름은_몇_점이니;
+package BAEKJOON.Bronze.Bronze_II.P15813번_너의_이름은_몇_점이니;
 
 import java.io.BufferedReader;
 import java.io.IOException;

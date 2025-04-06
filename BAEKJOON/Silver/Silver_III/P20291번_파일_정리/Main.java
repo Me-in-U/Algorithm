@@ -1,4 +1,4 @@
-package P20291번_파일_정리;
+package BAEKJOON.Silver.Silver_III.P20291번_파일_정리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

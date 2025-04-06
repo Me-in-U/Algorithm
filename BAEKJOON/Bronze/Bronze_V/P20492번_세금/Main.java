@@ -1,4 +1,4 @@
-package P20492번_세금;
+package BAEKJOON.Bronze.Bronze_V.P20492번_세금;
 
 import java.io.BufferedReader;
 import java.io.IOException;

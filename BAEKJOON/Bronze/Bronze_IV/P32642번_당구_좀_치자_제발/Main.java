@@ -1,4 +1,4 @@
-package P32642번_당구_좀_치자_제발;
+package BAEKJOON.Bronze.Bronze_IV.P32642번_당구_좀_치자_제발;
 
 import java.io.BufferedReader;
 import java.io.IOException;

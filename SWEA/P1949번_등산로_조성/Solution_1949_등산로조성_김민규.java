@@ -1,4 +1,4 @@
-package P1949번_등산로_조성;
+package SWEA.P1949번_등산로_조성;
 
 /**
  * <h1>SW Expert Academy 1949번 등산로 조성</h1>

@@ -1,4 +1,4 @@
-package P2448번_별찍기_11;
+package BAEKJOON.Gold.Gold_IV.P2448번_별찍기_11;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

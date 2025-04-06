@@ -1,4 +1,4 @@
-package P1010번_다리_놓기;
+package BAEKJOON.Silver.Silver_V.P1010번_다리_놓기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

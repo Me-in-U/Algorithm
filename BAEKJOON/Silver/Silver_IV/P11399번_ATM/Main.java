@@ -1,4 +1,4 @@
-package P11399번_ATM;
+package BAEKJOON.Silver.Silver_IV.P11399번_ATM;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

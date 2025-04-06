@@ -1,4 +1,4 @@
-package P2206번_벽_부수고_이동하기;
+package BAEKJOON.Gold.Gold_III.P2206번_벽_부수고_이동하기;
 
 /**
  * <h1>BAEKJOON 2206번 벽 부수고 이동하기 GOLD III</h1>

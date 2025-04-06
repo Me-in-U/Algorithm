@@ -1,4 +1,4 @@
-package P11023번_더하기3;
+package BAEKJOON.Bronze.Bronze_III.P11023번_더하기3;
 
 import java.io.BufferedReader;
 import java.io.IOException;

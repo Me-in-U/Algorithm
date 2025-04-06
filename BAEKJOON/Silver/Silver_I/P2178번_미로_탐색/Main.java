@@ -1,4 +1,4 @@
-package P2178번_미로_탐색;
+package BAEKJOON.Silver.Silver_I.P2178번_미로_탐색;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P7568번_덩치;
+package BAEKJOON.Silver.Silver_V.P7568번_덩치;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package P7523_Gauß;
+package BAEKJOON.Bronze.Bronze_III.P7523_Gauß;
 
 import java.io.IOException;
 

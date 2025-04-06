@@ -1,4 +1,4 @@
-package P11931번_수_정렬하기_4;
+package BAEKJOON.Silver.Silver_V.P11931번_수_정렬하기_4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

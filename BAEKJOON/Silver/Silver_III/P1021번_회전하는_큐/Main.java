@@ -1,4 +1,4 @@
-package P1021번_회전하는_큐;
+package BAEKJOON.Silver.Silver_III.P1021번_회전하는_큐;
 
 import java.io.BufferedReader;
 import java.io.IOException;

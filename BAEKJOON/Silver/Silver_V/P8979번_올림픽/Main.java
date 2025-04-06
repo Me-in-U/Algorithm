@@ -1,4 +1,4 @@
-package P8979번_올림픽;
+package BAEKJOON.Silver.Silver_V.P8979번_올림픽;
 
 import java.io.BufferedReader;
 import java.io.IOException;

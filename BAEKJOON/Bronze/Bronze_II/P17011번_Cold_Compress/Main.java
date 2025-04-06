@@ -1,4 +1,4 @@
-package P17011번_Cold_Compress;
+package BAEKJOON.Bronze.Bronze_II.P17011번_Cold_Compress;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P3155번_라디오;
+package BAEKJOON.Silver.Silver_V.P3155번_라디오;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P10709번_기상캐스터;
+package BAEKJOON.Silver.Silver_V.P10709번_기상캐스터;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P15681번_트리와_쿼리;
+package BAEKJOON.Gold.Gold_V.P15681번_트리와_쿼리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

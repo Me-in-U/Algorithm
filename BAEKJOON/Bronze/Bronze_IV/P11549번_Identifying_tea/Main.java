@@ -1,4 +1,4 @@
-package P11549번_Identifying_tea;
+package BAEKJOON.Bronze.Bronze_IV.P11549번_Identifying_tea;
 
 import java.io.BufferedReader;
 import java.io.IOException;

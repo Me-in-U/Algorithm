@@ -1,4 +1,4 @@
-package P8718번_Balwanek;
+package BAEKJOON.Bronze.Bronze_IV.P8718번_Balwanek;
 
 import java.io.BufferedReader;
 import java.io.IOException;

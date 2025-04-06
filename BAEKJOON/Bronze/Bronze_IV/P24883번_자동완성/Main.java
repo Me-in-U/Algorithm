@@ -1,4 +1,4 @@
-package P24883번_자동완성;
+package BAEKJOON.Bronze.Bronze_IV.P24883번_자동완성;
 
 import java.io.BufferedReader;
 import java.io.IOException;

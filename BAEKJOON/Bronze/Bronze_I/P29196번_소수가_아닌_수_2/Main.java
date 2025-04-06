@@ -1,4 +1,4 @@
-package P29196번_소수가_아닌_수_2;
+package BAEKJOON.Bronze.Bronze_I.P29196번_소수가_아닌_수_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

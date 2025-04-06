@@ -1,4 +1,4 @@
-package P27590번_Sun_and_Moon;
+package BAEKJOON.Bronze.Bronze_IV.P27590번_Sun_and_Moon;
 
 import java.io.BufferedReader;
 import java.io.IOException;

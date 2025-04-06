@@ -1,4 +1,4 @@
-package P1712번_손익분기점;
+package BAEKJOON.Bronze.Bronze_II.P1712번_손익분기점;
 
 import java.io.BufferedReader;
 import java.io.IOException;

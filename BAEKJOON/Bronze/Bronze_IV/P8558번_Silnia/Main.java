@@ -1,4 +1,4 @@
-package P8558번_Silnia;
+package BAEKJOON.Bronze.Bronze_IV.P8558번_Silnia;
 
 import java.io.BufferedReader;
 import java.io.IOException;

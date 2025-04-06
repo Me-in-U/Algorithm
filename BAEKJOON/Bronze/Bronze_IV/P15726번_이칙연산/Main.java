@@ -1,4 +1,4 @@
-package P15726번_이칙연산;
+package BAEKJOON.Bronze.Bronze_IV.P15726번_이칙연산;
 
 import java.io.BufferedReader;
 import java.io.IOException;

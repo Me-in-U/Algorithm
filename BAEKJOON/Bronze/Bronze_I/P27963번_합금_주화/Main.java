@@ -1,4 +1,4 @@
-package P27963번_합금_주화;
+package BAEKJOON.Bronze.Bronze_I.P27963번_합금_주화;
 
 import java.io.BufferedReader;
 import java.io.IOException;

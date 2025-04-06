@@ -1,4 +1,4 @@
-package P5717번_상근이_친구들;
+package BAEKJOON.Bronze.Bronze_IV.P5717번_상근이_친구들;
 
 import java.io.BufferedReader;
 import java.io.IOException;

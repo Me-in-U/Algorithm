@@ -1,4 +1,4 @@
-package P20976번_The_Second_Largest_Integer;
+package BAEKJOON.Bronze.Bronze_IV.P20976번_The_Second_Largest_Integer;
 
 import java.io.BufferedReader;
 import java.io.IOException;

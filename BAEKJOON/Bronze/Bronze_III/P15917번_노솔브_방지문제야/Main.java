@@ -1,4 +1,4 @@
-package P15917번_노솔브_방지문제야;
+package BAEKJOON.Bronze.Bronze_III.P15917번_노솔브_방지문제야;
 
 import java.io.BufferedReader;
 import java.io.IOException;

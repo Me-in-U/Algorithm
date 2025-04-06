@@ -1,4 +1,4 @@
-package P27331번_Two_digit_Integer;
+package BAEKJOON.Bronze.Bronze_V.P27331번_Two_digit_Integer;
 
 import java.io.BufferedReader;
 import java.io.IOException;

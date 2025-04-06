@@ -1,4 +1,4 @@
-package P21394번_숫자_카드;
+package BAEKJOON.Bronze.Bronze_I.P21394번_숫자_카드;
 
 import java.io.BufferedReader;
 import java.io.IOException;

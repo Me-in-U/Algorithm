@@ -1,4 +1,4 @@
-package P23348번_스트릿_코딩_파이터;
+package BAEKJOON.Bronze.Bronze_III.P23348번_스트릿_코딩_파이터;
 
 import java.io.BufferedReader;
 import java.io.IOException;

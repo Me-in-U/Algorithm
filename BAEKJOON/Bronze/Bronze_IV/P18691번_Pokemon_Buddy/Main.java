@@ -1,4 +1,4 @@
-package P18691번_Pokemon_Buddy;
+package BAEKJOON.Bronze.Bronze_IV.P18691번_Pokemon_Buddy;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2588번_곱셈;
+package BAEKJOON.Bronze.Bronze_III.P2588번_곱셈;
 
 import java.io.BufferedReader;
 import java.io.IOException;

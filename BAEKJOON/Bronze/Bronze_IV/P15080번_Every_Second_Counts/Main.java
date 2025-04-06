@@ -1,4 +1,4 @@
-package P15080번_Every_Second_Counts;
+package BAEKJOON.Bronze.Bronze_IV.P15080번_Every_Second_Counts;
 
 import java.io.BufferedReader;
 import java.io.IOException;

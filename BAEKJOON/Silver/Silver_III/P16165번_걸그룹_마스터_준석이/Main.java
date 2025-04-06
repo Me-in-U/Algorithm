@@ -1,4 +1,4 @@
-package P16165번_걸그룹_마스터_준석이;
+package BAEKJOON.Silver.Silver_III.P16165번_걸그룹_마스터_준석이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

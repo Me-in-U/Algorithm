@@ -1,4 +1,4 @@
-package P10801번_카드게임;
+package BAEKJOON.Bronze.Bronze_II.P10801번_카드게임;
 
 import java.io.BufferedReader;
 import java.io.IOException;

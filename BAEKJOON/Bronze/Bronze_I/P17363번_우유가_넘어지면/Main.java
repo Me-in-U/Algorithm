@@ -1,4 +1,4 @@
-package P17363번_우유가_넘어지면;
+package BAEKJOON.Bronze.Bronze_I.P17363번_우유가_넘어지면;
 
 import java.io.BufferedReader;
 import java.io.IOException;

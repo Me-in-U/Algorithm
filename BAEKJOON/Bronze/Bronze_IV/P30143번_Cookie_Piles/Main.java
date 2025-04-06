@@ -1,4 +1,4 @@
-package P30143번_Cookie_Piles;
+package BAEKJOON.Bronze.Bronze_IV.P30143번_Cookie_Piles;
 
 import java.io.BufferedReader;
 import java.io.IOException;

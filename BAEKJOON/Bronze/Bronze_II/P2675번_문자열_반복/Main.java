@@ -1,4 +1,4 @@
-package P2675번_문자열_반복;
+package BAEKJOON.Bronze.Bronze_II.P2675번_문자열_반복;
 
 import java.util.Scanner;
     

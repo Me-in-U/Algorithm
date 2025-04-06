@@ -1,4 +1,4 @@
-package P4153번_직각삼각형;
+package BAEKJOON.Bronze.Bronze_III.P4153번_직각삼각형;
 
 import java.util.Scanner;
 import java.util.Arrays;

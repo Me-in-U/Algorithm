@@ -1,4 +1,4 @@
-package P28078번_중력_큐;
+package BAEKJOON.Silver.Silver_I.P28078번_중력_큐;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2447번_별_찍기_10;
+package BAEKJOON.Gold.Gold_V.P2447번_별_찍기_10;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

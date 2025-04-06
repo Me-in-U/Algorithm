@@ -1,4 +1,4 @@
-package P9012번_괄호;
+package BAEKJOON.Silver.Silver_IV.P9012번_괄호;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

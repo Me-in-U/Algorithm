@@ -1,4 +1,4 @@
-package P2775번_부녀회장이_될테야;
+package BAEKJOON.Bronze.Bronze_I.P2775번_부녀회장이_될테야;
 
 import java.util.Scanner;
 

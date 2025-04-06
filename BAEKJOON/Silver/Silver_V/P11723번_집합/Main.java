@@ -1,4 +1,4 @@
-package P11723번_집합;
+package BAEKJOON.Silver.Silver_V.P11723번_집합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

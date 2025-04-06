@@ -1,4 +1,4 @@
-package P32941번_왜_맘대로_예약하냐고;
+package BAEKJOON.Bronze.Bronze_IV.P32941번_왜_맘대로_예약하냐고;
 
 import java.io.IOException;
 

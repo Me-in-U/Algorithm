@@ -1,4 +1,4 @@
-package P28248번_Deliv_e_droid;
+package BAEKJOON.Bronze.Bronze_IV.P28248번_Deliv_e_droid;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2753번_윤년;
+package BAEKJOON.Bronze.Bronze_V.P2753번_윤년;
 
 import java.util.Scanner;
 

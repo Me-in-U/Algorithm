@@ -1,4 +1,4 @@
-package P9469번_폰_노이만;
+package BAEKJOON.Bronze.Bronze_III.P9469번_폰_노이만;
 
 import java.io.BufferedReader;
 import java.io.IOException;

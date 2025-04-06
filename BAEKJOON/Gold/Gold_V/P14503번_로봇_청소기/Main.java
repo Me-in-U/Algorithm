@@ -1,4 +1,4 @@
-package P14503번_로봇_청소기;
+package BAEKJOON.Gold.Gold_V.P14503번_로봇_청소기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

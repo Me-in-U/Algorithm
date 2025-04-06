@@ -1,4 +1,4 @@
-package P5217번_쌍의_합;
+package BAEKJOON.Bronze.Bronze_III.P5217번_쌍의_합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P25704번_출석_이벤트;
+package BAEKJOON.Bronze.Bronze_IV.P25704번_출석_이벤트;
 
 import java.io.BufferedReader;
 import java.io.IOException;

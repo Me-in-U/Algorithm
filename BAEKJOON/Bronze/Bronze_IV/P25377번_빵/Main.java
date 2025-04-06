@@ -1,4 +1,4 @@
-package P25377번_빵;
+package BAEKJOON.Bronze.Bronze_IV.P25377번_빵;
 
 import java.io.BufferedReader;
 import java.io.IOException;

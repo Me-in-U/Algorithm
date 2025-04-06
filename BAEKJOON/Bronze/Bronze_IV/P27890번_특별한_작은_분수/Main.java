@@ -1,4 +1,4 @@
-package P27890번_특별한_작은_분수;
+package BAEKJOON.Bronze.Bronze_IV.P27890번_특별한_작은_분수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

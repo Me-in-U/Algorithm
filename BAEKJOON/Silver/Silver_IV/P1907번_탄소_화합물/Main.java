@@ -1,4 +1,4 @@
-package P1907번_탄소_화합물;
+package BAEKJOON.Silver.Silver_IV.P1907번_탄소_화합물;
 
 import java.io.BufferedReader;
 import java.io.IOException;

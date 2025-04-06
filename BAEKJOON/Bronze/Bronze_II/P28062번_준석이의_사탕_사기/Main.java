@@ -1,4 +1,4 @@
-package P28062번_준석이의_사탕_사기;
+package BAEKJOON.Bronze.Bronze_II.P28062번_준석이의_사탕_사기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

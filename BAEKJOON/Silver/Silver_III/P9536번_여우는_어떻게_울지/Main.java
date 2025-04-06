@@ -1,4 +1,4 @@
-package P9536번_여우는_어떻게_울지;
+package BAEKJOON.Silver.Silver_III.P9536번_여우는_어떻게_울지;
 
 import java.io.BufferedReader;
 import java.io.IOException;

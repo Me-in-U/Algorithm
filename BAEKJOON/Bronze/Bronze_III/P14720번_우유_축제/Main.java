@@ -1,4 +1,4 @@
-package P14720번_우유_축제;
+package BAEKJOON.Bronze.Bronze_III.P14720번_우유_축제;
 
 import java.io.BufferedReader;
 import java.io.IOException;

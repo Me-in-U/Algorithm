@@ -1,4 +1,4 @@
-package P11656번_접미사_배열;
+package BAEKJOON.Silver.Silver_IV.P11656번_접미사_배열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

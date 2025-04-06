@@ -1,4 +1,4 @@
-package P2420번_사파리월드;
+package BAEKJOON.Bronze.Bronze_V.P2420번_사파리월드;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

@@ -1,4 +1,4 @@
-package P15059번_Hard_Choice;
+package BAEKJOON.Bronze.Bronze_IV.P15059번_Hard_Choice;
 
 import java.io.BufferedReader;
 import java.io.IOException;

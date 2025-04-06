@@ -1,4 +1,4 @@
-package P10872번_팩토리얼;
+package BAEKJOON.Bronze.Bronze_V.P10872번_팩토리얼;
 
 import java.io.BufferedReader;
 import java.io.IOException;

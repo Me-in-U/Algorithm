@@ -1,4 +1,4 @@
-package P24900번_한별찍기;
+package BAEKJOON.Bronze.Bronze_V.P24900번_한별찍기;
 
 public class Main {
   public static void main(String[] args) {

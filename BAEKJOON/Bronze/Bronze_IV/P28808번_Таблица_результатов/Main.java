@@ -1,4 +1,4 @@
-package P28808번_Таблица_результатов;
+package BAEKJOON.Bronze.Bronze_IV.P28808번_Таблица_результатов;
 
 import java.io.BufferedReader;
 import java.io.IOException;

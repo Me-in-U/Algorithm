@@ -1,4 +1,4 @@
-package P15873번_공백없는;
+package BAEKJOON.Bronze.Bronze_IV.P15873번_공백없는;
 
 import java.io.BufferedReader;
 import java.io.IOException;

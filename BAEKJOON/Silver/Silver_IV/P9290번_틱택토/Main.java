@@ -1,4 +1,4 @@
-package P9290번_틱택토;
+package BAEKJOON.Silver.Silver_IV.P9290번_틱택토;
 
 import java.io.BufferedReader;
 import java.io.IOException;

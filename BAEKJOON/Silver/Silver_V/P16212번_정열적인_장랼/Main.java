@@ -1,4 +1,4 @@
-package P16212번_정열적인_장랼;
+package BAEKJOON.Silver.Silver_V.P16212번_정열적인_장랼;
 
 import java.io.BufferedReader;
 import java.io.IOException;

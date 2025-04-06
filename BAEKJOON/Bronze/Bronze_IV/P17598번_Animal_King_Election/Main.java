@@ -1,4 +1,4 @@
-package P17598번_Animal_King_Election;
+package BAEKJOON.Bronze.Bronze_IV.P17598번_Animal_King_Election;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P32288번_바코드_닉네임;
+package BAEKJOON.Bronze.Bronze_IV.P32288번_바코드_닉네임;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P1463번_1로_만들기;
+package BAEKJOON.Silver.Silver_III.P1463번_1로_만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P17070번_파이프_옮기기;
+package BAEKJOON.Gold.Gold_V.P17070번_파이프_옮기기;
 
 /**
  * <h1>BAEKJOON 17070번 파이프 옮기기</h1>

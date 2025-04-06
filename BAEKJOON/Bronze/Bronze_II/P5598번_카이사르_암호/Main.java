@@ -1,4 +1,4 @@
-package P5598번_카이사르_암호;
+package BAEKJOON.Bronze.Bronze_II.P5598번_카이사르_암호;
 
 import java.io.BufferedReader;
 import java.io.IOException;

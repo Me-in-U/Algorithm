@@ -1,4 +1,4 @@
-package P11944번_NN;
+package BAEKJOON.Bronze.Bronze_II.P11944번_NN;
 
 import java.io.BufferedReader;
 import java.io.IOException;

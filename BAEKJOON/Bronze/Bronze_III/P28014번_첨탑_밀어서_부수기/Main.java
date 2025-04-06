@@ -1,4 +1,4 @@
-package P28014번_첨탑_밀어서_부수기;
+package BAEKJOON.Bronze.Bronze_III.P28014번_첨탑_밀어서_부수기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

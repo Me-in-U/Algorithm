@@ -1,4 +1,4 @@
-package P11726번_2xn_타일링;
+package BAEKJOON.Silver.Silver_III.P11726번_2xn_타일링;
 
 import java.io.BufferedReader;
 import java.io.IOException;

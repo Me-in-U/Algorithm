@@ -1,4 +1,4 @@
-package P5692번_팩토리얼_진법;
+package BAEKJOON.Bronze.Bronze_III.P5692번_팩토리얼_진법;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package P10994번_별_찍기_19;
+package BAEKJOON.Silver.Silver_IV.P10994번_별_찍기_19;
 
 import java.io.BufferedReader;
 import java.io.IOException;

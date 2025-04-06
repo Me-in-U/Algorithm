@@ -1,4 +1,4 @@
-package P2960번_에라토스테니스의_체;
+package BAEKJOON.Silver.Silver_IV.P2960번_에라토스테니스의_체;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P15051번_Maquina_de_cafe;
+package BAEKJOON.Bronze.Bronze_IV.P15051번_Maquina_de_cafe;
 
 import java.io.BufferedReader;
 import java.io.IOException;

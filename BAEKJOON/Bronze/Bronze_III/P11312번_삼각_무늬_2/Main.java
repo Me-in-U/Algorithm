@@ -1,4 +1,4 @@
-package P11312번_삼각_무늬_2;
+package BAEKJOON.Bronze.Bronze_III.P11312번_삼각_무늬_2;
 
 import java.io.IOException;
 

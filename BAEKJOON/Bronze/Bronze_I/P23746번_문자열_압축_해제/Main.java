@@ -1,4 +1,4 @@
-package P23746번_문자열_압축_해제;
+package BAEKJOON.Bronze.Bronze_I.P23746번_문자열_압축_해제;
 
 import java.io.BufferedReader;
 import java.io.IOException;

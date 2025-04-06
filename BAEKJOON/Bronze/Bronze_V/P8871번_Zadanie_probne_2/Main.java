@@ -1,4 +1,4 @@
-package P8871번_Zadanie_probne_2;
+package BAEKJOON.Bronze.Bronze_V.P8871번_Zadanie_probne_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P11382번_꼬마_정민;
+package BAEKJOON.Bronze.Bronze_V.P11382번_꼬마_정민;
 
 import java.io.BufferedReader;
 import java.io.IOException;

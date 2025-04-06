@@ -1,4 +1,4 @@
-package P1302번_베스트셀러;
+package BAEKJOON.Silver.Silver_IV.P1302번_베스트셀러;
 
 import java.io.BufferedReader;
 import java.io.IOException;

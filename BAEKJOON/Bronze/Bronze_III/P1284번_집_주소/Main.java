@@ -1,4 +1,4 @@
-package P1284번_집_주소;
+package BAEKJOON.Bronze.Bronze_III.P1284번_집_주소;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P11034번_캥거루_세마리_2;
+package BAEKJOON.Bronze.Bronze_III.P11034번_캥거루_세마리_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P17863번_FYI;
+package BAEKJOON.Bronze.Bronze_IV.P17863번_FYI;
 
 import java.io.BufferedReader;
 import java.io.IOException;

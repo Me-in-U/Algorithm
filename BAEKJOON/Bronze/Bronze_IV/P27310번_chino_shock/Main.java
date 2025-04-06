@@ -1,4 +1,4 @@
-package P27310번_chino_shock;
+package BAEKJOON.Bronze.Bronze_IV.P27310번_chino_shock;
 
 import java.io.BufferedReader;
 import java.io.IOException;

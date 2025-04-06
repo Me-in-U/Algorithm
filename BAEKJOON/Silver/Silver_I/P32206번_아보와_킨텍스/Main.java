@@ -1,4 +1,4 @@
-package P32206번_아보와_킨텍스;
+package BAEKJOON.Silver.Silver_I.P32206번_아보와_킨텍스;
 
 import java.io.BufferedReader;
 import java.io.IOException;

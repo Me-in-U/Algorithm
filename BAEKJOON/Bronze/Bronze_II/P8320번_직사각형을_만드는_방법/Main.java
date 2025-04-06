@@ -1,4 +1,4 @@
-package P8320번_직사각형을_만드는_방법;
+package BAEKJOON.Bronze.Bronze_II.P8320번_직사각형을_만드는_방법;
 
 import java.io.BufferedReader;
 import java.io.IOException;

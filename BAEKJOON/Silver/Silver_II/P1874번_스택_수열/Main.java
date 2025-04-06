@@ -1,4 +1,4 @@
-package P1874번_스택_수열;
+package BAEKJOON.Silver.Silver_II.P1874번_스택_수열;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

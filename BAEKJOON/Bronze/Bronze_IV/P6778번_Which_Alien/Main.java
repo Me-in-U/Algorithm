@@ -1,4 +1,4 @@
-package P6778번_Which_Alien;
+package BAEKJOON.Bronze.Bronze_IV.P6778번_Which_Alien;
 
 import java.io.BufferedReader;
 import java.io.IOException;

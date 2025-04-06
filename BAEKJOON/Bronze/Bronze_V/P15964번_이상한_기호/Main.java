@@ -1,4 +1,4 @@
-package P15964번_이상한_기호;
+package BAEKJOON.Bronze.Bronze_V.P15964번_이상한_기호;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P27327번_Hour;
+package BAEKJOON.Bronze.Bronze_V.P27327번_Hour;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P10804번_카드_역배치;
+package BAEKJOON.Bronze.Bronze_II.P10804번_카드_역배치;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P30456번_바닥수;
+package BAEKJOON.Bronze.Bronze_I.P30456번_바닥수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

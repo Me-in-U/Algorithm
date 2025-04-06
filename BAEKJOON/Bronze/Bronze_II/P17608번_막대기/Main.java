@@ -1,4 +1,4 @@
-package P17608번_막대기;
+package BAEKJOON.Bronze.Bronze_II.P17608번_막대기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P10845번_큐;
+package BAEKJOON.Silver.Silver_IV.P10845번_큐;
 
 import java.io.BufferedReader;
 import java.io.IOException;

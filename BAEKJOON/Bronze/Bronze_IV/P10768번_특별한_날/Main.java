@@ -1,4 +1,4 @@
-package P10768번_특별한_날;
+package BAEKJOON.Bronze.Bronze_IV.P10768번_특별한_날;
 
 import java.io.BufferedReader;
 import java.io.IOException;

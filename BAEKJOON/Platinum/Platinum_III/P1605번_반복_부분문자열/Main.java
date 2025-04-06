@@ -1,4 +1,4 @@
-package P1605번_반복_부분문자열;
+package BAEKJOON.Platinum.Platinum_III.P1605번_반복_부분문자열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

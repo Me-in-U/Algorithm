@@ -1,4 +1,4 @@
-package P3053번_택시_기하학;
+package BAEKJOON.Bronze.Bronze_III.P3053번_택시_기하학;
 
 import java.io.BufferedReader;
 import java.io.IOException;

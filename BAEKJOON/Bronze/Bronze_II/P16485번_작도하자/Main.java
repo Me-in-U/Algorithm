@@ -1,4 +1,4 @@
-package P16485번_작도하자;
+package BAEKJOON.Bronze.Bronze_II.P16485번_작도하자;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2501번_약수_구하기;
+package BAEKJOON.Bronze.Bronze_III.P2501번_약수_구하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

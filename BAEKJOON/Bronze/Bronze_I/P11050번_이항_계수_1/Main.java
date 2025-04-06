@@ -1,4 +1,4 @@
-package P11050번_이항_계수_1;
+package BAEKJOON.Bronze.Bronze_I.P11050번_이항_계수_1;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

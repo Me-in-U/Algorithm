@@ -1,4 +1,4 @@
-package P14173번_Square_pasture;
+package BAEKJOON.Bronze.Bronze_III.P14173번_Square_pasture;
 
 import java.io.BufferedReader;
 import java.io.IOException;

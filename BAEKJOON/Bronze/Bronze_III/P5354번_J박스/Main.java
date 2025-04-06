@@ -1,4 +1,4 @@
-package P5354번_J박스;
+package BAEKJOON.Bronze.Bronze_III.P5354번_J박스;
 
 import java.io.BufferedReader;
 import java.io.IOException;

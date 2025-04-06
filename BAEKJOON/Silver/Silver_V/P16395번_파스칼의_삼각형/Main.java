@@ -1,4 +1,4 @@
-package P16395번_파스칼의_삼각형;
+package BAEKJOON.Silver.Silver_V.P16395번_파스칼의_삼각형;
 
 import java.io.BufferedReader;
 import java.io.IOException;

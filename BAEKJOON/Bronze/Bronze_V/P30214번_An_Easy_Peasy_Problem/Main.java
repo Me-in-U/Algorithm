@@ -1,4 +1,4 @@
-package P30214번_An_Easy_Peasy_Problem;
+package BAEKJOON.Bronze.Bronze_V.P30214번_An_Easy_Peasy_Problem;
 
 import java.io.BufferedReader;
 import java.io.IOException;

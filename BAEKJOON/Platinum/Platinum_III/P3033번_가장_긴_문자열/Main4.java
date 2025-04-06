@@ -1,4 +1,4 @@
-package P3033번_가장_긴_문자열;
+package BAEKJOON.Platinum.Platinum_III.P3033번_가장_긴_문자열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

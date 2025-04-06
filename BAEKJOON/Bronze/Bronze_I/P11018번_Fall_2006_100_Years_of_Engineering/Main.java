@@ -1,4 +1,4 @@
-package P11018번_Fall_2006_100_Years_of_Engineering;
+package BAEKJOON.Bronze.Bronze_I.P11018번_Fall_2006_100_Years_of_Engineering;
 
 import java.io.IOException;
 

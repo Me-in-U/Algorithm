@@ -1,4 +1,4 @@
-package P9084번_동전;
+package BAEKJOON.Gold.Gold_V.P9084번_동전;
 
 import java.io.BufferedReader;
 import java.io.IOException;

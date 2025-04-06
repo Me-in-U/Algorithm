@@ -1,4 +1,4 @@
-package P4195_친구_네트워크;
+package BAEKJOON.Gold.Gold_II.P4195_친구_네트워크;
 
 import java.io.IOException;
 import java.io.InputStream;

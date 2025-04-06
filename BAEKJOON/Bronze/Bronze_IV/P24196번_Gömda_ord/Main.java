@@ -1,4 +1,4 @@
-package P24196번_Gömda_ord;
+package BAEKJOON.Bronze.Bronze_IV.P24196번_Gömda_ord;
 
 import java.io.BufferedReader;
 import java.io.IOException;

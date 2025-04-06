@@ -1,4 +1,4 @@
-package P27329번_Repeating_String;
+package BAEKJOON.Bronze.Bronze_III.P27329번_Repeating_String;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

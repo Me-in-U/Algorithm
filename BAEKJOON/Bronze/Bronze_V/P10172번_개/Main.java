@@ -1,4 +1,4 @@
-package P10172번_개;
+package BAEKJOON.Bronze.Bronze_V.P10172번_개;
 
 class Main {
   public static void main(String[] args) {

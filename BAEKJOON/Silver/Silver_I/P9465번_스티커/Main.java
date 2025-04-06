@@ -1,4 +1,4 @@
-package P9465번_스티커;
+package BAEKJOON.Silver.Silver_I.P9465번_스티커;
 
 import java.io.BufferedReader;
 import java.io.IOException;

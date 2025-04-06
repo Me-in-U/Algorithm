@@ -1,4 +1,4 @@
-package P10866번_덱;
+package BAEKJOON.Silver.Silver_IV.P10866번_덱;
 
 import java.io.BufferedReader;
 import java.io.IOException;

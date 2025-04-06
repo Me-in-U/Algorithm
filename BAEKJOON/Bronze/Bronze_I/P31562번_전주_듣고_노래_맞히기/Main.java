@@ -1,4 +1,4 @@
-package P31562번_전주_듣고_노래_맞히기;
+package BAEKJOON.Bronze.Bronze_I.P31562번_전주_듣고_노래_맞히기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

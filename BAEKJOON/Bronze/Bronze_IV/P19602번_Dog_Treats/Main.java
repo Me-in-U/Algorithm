@@ -1,4 +1,4 @@
-package P19602번_Dog_Treats;
+package BAEKJOON.Bronze.Bronze_IV.P19602번_Dog_Treats;
 
 import java.io.BufferedReader;
 import java.io.IOException;

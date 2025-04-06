@@ -1,4 +1,4 @@
-package P11478번_서로_다른_부분_문자열의_개수;
+package BAEKJOON.Silver.Silver_III.P11478번_서로_다른_부분_문자열의_개수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

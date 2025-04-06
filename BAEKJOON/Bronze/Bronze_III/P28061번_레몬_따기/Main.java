@@ -1,4 +1,4 @@
-package P28061번_레몬_따기;
+package BAEKJOON.Bronze.Bronze_III.P28061번_레몬_따기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

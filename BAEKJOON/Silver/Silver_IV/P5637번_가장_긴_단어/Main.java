@@ -1,4 +1,4 @@
-package P5637번_가장_긴_단어;
+package BAEKJOON.Silver.Silver_IV.P5637번_가장_긴_단어;
 
 import java.util.*;
 

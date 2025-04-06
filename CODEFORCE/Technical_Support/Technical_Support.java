@@ -1,4 +1,4 @@
-package Technical_Support;
+package CODEFORCE.Technical_Support;
 
 import java.io.BufferedReader;
 import java.io.IOException;

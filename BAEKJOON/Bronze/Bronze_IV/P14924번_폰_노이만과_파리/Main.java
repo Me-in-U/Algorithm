@@ -1,4 +1,4 @@
-package P14924번_폰_노이만과_파리;
+package BAEKJOON.Bronze.Bronze_IV.P14924번_폰_노이만과_파리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

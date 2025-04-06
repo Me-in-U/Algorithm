@@ -1,4 +1,4 @@
-package P14500번_테트로미노;
+package BAEKJOON.Gold.Gold_IV.P14500번_테트로미노;
 
 import java.io.IOException;
 

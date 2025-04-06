@@ -1,4 +1,4 @@
-package P1915번_가장_큰_정사각형;
+package BAEKJOON.Gold.Gold_IV.P1915번_가장_큰_정사각형;
 
 import java.io.BufferedReader;
 import java.io.IOException;

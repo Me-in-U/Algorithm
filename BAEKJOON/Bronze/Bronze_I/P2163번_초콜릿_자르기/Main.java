@@ -1,4 +1,4 @@
-package P2163번_초콜릿_자르기;
+package BAEKJOON.Bronze.Bronze_I.P2163번_초콜릿_자르기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

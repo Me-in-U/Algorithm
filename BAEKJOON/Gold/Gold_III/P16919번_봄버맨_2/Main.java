@@ -1,4 +1,4 @@
-package P16919번_봄버맨_2;
+package BAEKJOON.Gold.Gold_III.P16919번_봄버맨_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P2846번_오르막길;
+package BAEKJOON.Bronze.Bronze_I.P2846번_오르막길;
 
 import java.io.BufferedReader;
 import java.io.IOException;

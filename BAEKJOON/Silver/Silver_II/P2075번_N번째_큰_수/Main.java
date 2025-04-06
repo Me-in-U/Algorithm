@@ -1,4 +1,4 @@
-package P2075번_N번째_큰_수;
+package BAEKJOON.Silver.Silver_II.P2075번_N번째_큰_수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

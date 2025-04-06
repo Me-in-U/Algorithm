@@ -1,4 +1,4 @@
-package P1236번_성_지키기;
+package BAEKJOON.Bronze.Bronze_I.P1236번_성_지키기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

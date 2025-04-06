@@ -1,4 +1,4 @@
-package P25932번_Find_the_Twins;
+package BAEKJOON.Bronze.Bronze_IV.P25932번_Find_the_Twins;
 
 import java.io.BufferedReader;
 import java.io.IOException;

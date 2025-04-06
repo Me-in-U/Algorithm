@@ -1,4 +1,4 @@
-package P30700번_KOREA_문자열_만들기;
+package BAEKJOON.Bronze.Bronze_II.P30700번_KOREA_문자열_만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

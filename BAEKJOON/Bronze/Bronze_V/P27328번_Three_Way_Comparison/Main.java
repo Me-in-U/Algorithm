@@ -1,4 +1,4 @@
-package P27328번_Three_Way_Comparison;
+package BAEKJOON.Bronze.Bronze_V.P27328번_Three_Way_Comparison;
 
 import java.io.BufferedReader;
 import java.io.IOException;

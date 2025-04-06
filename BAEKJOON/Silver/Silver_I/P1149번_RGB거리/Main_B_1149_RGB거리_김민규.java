@@ -1,8 +1,18 @@
-package P1149번_RGB거리;
+package BAEKJOON.Silver.Silver_I.P1149번_RGB거리;
 
+/**
+ * <h1>SW Expert Academy 1149번 RGB거리</h1>
+ * <h1>BAEKJOON 번</h1>
+ * <p>
+ * JAVA11 : 메모리 14,152KB, 시간 104ms
+ * </p>
+ * 
+ * @author KIM MINGYU jun3021303@gmail.com
+ * @since 2025-04-05
+ */
 import java.io.IOException;
 
-public class Main {
+public class Main_B_1149_RGB거리_김민규 {
     public static void main(String[] args) throws IOException {
         int N = readInt();
         // cost[i][j]: i번째 집의 j색깔 비용 (0: R, 1: G, 2: B)

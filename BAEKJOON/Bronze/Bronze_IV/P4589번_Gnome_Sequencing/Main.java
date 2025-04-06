@@ -1,4 +1,4 @@
-package P4589번_Gnome_Sequencing;
+package BAEKJOON.Bronze.Bronze_IV.P4589번_Gnome_Sequencing;
 
 import java.io.BufferedReader;
 import java.io.IOException;

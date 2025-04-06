@@ -1,4 +1,4 @@
-package P27541번_Last_Letter;
+package BAEKJOON.Bronze.Bronze_IV.P27541번_Last_Letter;
 
 import java.io.BufferedReader;
 import java.io.IOException;

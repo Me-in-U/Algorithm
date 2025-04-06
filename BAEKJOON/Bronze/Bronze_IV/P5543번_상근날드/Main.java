@@ -1,4 +1,4 @@
-package P5543번_상근날드;
+package BAEKJOON.Bronze.Bronze_IV.P5543번_상근날드;
 
 import java.io.BufferedReader;
 import java.io.IOException;

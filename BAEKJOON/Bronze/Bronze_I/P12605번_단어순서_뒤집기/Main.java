@@ -1,4 +1,4 @@
-package P12605번_단어순서_뒤집기;
+package BAEKJOON.Bronze.Bronze_I.P12605번_단어순서_뒤집기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

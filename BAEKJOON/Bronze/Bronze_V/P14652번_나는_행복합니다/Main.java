@@ -1,4 +1,4 @@
-package P14652번_나는_행복합니다;
+package BAEKJOON.Bronze.Bronze_V.P14652번_나는_행복합니다;
 
 import java.io.BufferedReader;
 import java.io.IOException;

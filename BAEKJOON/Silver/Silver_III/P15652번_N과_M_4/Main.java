@@ -1,4 +1,4 @@
-package P15652번_N과_M_4;
+package BAEKJOON.Silver.Silver_III.P15652번_N과_M_4;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package P11800번_Tawla;
+package BAEKJOON.Bronze.Bronze_III.P11800번_Tawla;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package P11145번_Is_it_a_Number;
+package BAEKJOON.Bronze.Bronze_II.P11145번_Is_it_a_Number;
 
 import java.io.BufferedReader;
 import java.io.IOException;

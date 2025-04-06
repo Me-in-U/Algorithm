@@ -1,4 +1,4 @@
-package P15663번_N과_M_9;
+package BAEKJOON.Silver.Silver_II.P15663번_N과_M_9;
 
 import java.io.BufferedReader;
 import java.io.IOException;

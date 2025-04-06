@@ -1,4 +1,4 @@
-package P26332번_Buying_in_Bulk;
+package BAEKJOON.Bronze.Bronze_IV.P26332번_Buying_in_Bulk;
 
 import java.io.BufferedReader;
 import java.io.IOException;

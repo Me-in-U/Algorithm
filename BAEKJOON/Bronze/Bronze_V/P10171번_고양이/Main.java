@@ -1,4 +1,4 @@
-package P10171번_고양이;
+package BAEKJOON.Bronze.Bronze_V.P10171번_고양이;
 
 class Main {
   public static void main(String[] args) {

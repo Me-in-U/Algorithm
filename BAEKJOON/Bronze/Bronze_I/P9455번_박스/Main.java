@@ -1,4 +1,4 @@
-package P9455번_박스;
+package BAEKJOON.Bronze.Bronze_I.P9455번_박스;
 
 import java.io.BufferedReader;
 import java.io.IOException;

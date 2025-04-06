@@ -1,4 +1,4 @@
-package P26531번_Simple_Sum;
+package BAEKJOON.Bronze.Bronze_IV.P26531번_Simple_Sum;
 
 import java.io.BufferedReader;
 import java.io.IOException;

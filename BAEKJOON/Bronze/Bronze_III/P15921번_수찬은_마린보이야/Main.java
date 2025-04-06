@@ -1,4 +1,4 @@
-package P15921번_수찬은_마린보이야;
+package BAEKJOON.Bronze.Bronze_III.P15921번_수찬은_마린보이야;
 
 interface Main {
     static void main(String[] a) throws Exception {

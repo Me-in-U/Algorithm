@@ -1,4 +1,4 @@
-package P16693번_Pizza_Deal;
+package BAEKJOON.Bronze.Bronze_IV.P16693번_Pizza_Deal;
 
 import java.io.BufferedReader;
 import java.io.IOException;

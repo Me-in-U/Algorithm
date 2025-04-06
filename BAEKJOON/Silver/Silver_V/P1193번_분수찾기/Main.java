@@ -1,4 +1,4 @@
-package P1193번_분수찾기;
+package BAEKJOON.Silver.Silver_V.P1193번_분수찾기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

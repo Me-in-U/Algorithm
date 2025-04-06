@@ -1,4 +1,4 @@
-package P11652번_카드;
+package BAEKJOON.Silver.Silver_IV.P11652번_카드;
 
 import java.io.BufferedReader;
 import java.io.IOException;

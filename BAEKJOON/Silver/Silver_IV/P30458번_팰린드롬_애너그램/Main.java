@@ -1,4 +1,4 @@
-package P30458번_팰린드롬_애너그램;
+package BAEKJOON.Silver.Silver_IV.P30458번_팰린드롬_애너그램;
 
 import java.io.BufferedReader;
 import java.io.IOException;

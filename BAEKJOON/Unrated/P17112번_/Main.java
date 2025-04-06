@@ -1,4 +1,4 @@
-package P17112번_;
+package BAEKJOON.Unrated.P17112번_;
 
 // 2nd-editorial 참고
 // https://github.com/ghudegy/2019/blob/master/2nd-editorial.md

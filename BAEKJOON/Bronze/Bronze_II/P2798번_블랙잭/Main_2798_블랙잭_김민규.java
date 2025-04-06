@@ -1,12 +1,11 @@
-package P2798번_블랙잭;
+package BAEKJOON.Bronze.Bronze_II.P2798번_블랙잭;
 
 /**
- * BAEKJOON ONLINE JUDGE
- * 2798번 블랙잭 BRONZE II
+ * BAEKJOON ONLINE JUDGE 2798번 블랙잭 BRONZE II
+ * 
  * @author KIM MINGYU jun3021303@gmail.com
- * @since 2025-02-21
- * JAVA8 : 메모리 11420 KB, 시간 68ms
- * JAVA11 : 메모리 14024 KB, 시간 104ms
+ * @since 2025-02-21 JAVA8 : 메모리 11420 KB, 시간 68ms JAVA11 : 메모리 14024 KB, 시간
+ *        104ms
  */
 
 import java.io.IOException;

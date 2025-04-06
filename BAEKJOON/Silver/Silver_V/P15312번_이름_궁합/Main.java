@@ -1,4 +1,4 @@
-package P15312번_이름_궁합;
+package BAEKJOON.Silver.Silver_V.P15312번_이름_궁합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

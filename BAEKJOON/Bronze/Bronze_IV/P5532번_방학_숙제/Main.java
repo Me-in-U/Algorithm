@@ -1,4 +1,4 @@
-package P5532번_방학_숙제;
+package BAEKJOON.Bronze.Bronze_IV.P5532번_방학_숙제;
 
 import java.io.BufferedReader;
 import java.io.IOException;

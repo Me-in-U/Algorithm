@@ -1,4 +1,4 @@
-package P31712번_핑크빈_레이드;
+package BAEKJOON.Bronze.Bronze_III.P31712번_핑크빈_레이드;
 
 import java.io.BufferedReader;
 import java.io.IOException;

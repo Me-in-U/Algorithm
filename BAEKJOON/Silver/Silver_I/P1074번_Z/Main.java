@@ -1,4 +1,4 @@
-package P1074번_Z;
+package BAEKJOON.Silver.Silver_I.P1074번_Z;
 
 import java.io.BufferedReader;
 import java.io.IOException;

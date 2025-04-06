@@ -1,4 +1,4 @@
-package P4796번_캠핑;
+package BAEKJOON.Bronze.Bronze_I.P4796번_캠핑;
 
 import java.io.BufferedReader;
 import java.io.IOException;

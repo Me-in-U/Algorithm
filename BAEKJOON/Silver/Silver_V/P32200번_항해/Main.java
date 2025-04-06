@@ -1,4 +1,4 @@
-package P32200번_항해;
+package BAEKJOON.Silver.Silver_V.P32200번_항해;
 
 import java.io.IOException;
 

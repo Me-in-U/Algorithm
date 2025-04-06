@@ -1,4 +1,4 @@
-package P13913번_숨바꼭질_4;
+package BAEKJOON.Gold.Gold_IV.P13913번_숨바꼭질_4;
 
 import java.io.IOException;
 import java.util.ArrayDeque;

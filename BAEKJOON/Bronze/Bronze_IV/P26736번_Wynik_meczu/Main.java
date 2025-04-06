@@ -1,4 +1,4 @@
-package P26736번_Wynik_meczu;
+package BAEKJOON.Bronze.Bronze_IV.P26736번_Wynik_meczu;
 
 import java.io.BufferedReader;
 import java.io.IOException;

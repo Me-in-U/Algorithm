@@ -1,4 +1,4 @@
-package P30009번_포지션_제로;
+package BAEKJOON.Bronze.Bronze_II.P30009번_포지션_제로;
 
 import java.io.BufferedReader;
 import java.io.IOException;

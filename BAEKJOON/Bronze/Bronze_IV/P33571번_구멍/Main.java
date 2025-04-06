@@ -1,4 +1,4 @@
-package P33571번_구멍;
+package BAEKJOON.Bronze.Bronze_IV.P33571번_구멍;
 
 import java.io.IOException;
 

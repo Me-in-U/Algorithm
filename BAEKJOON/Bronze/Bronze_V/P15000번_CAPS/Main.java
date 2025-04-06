@@ -1,4 +1,4 @@
-package P15000번_CAPS;
+package BAEKJOON.Bronze.Bronze_V.P15000번_CAPS;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

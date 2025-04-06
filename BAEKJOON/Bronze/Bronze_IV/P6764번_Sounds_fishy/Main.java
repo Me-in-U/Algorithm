@@ -1,4 +1,4 @@
-package P6764번_Sounds_fishy;
+package BAEKJOON.Bronze.Bronze_IV.P6764번_Sounds_fishy;
 
 import java.io.BufferedReader;
 import java.io.IOException;

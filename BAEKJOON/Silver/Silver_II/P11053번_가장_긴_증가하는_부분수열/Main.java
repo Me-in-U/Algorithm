@@ -1,4 +1,4 @@
-package P11053번_가장_긴_증가하는_부분수열;
+package BAEKJOON.Silver.Silver_II.P11053번_가장_긴_증가하는_부분수열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

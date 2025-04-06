@@ -1,4 +1,4 @@
-package P2331번_반복수열;
+package BAEKJOON.Silver.Silver_IV.P2331번_반복수열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

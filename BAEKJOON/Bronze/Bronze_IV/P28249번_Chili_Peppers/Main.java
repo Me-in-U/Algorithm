@@ -1,4 +1,4 @@
-package P28249번_Chili_Peppers;
+package BAEKJOON.Bronze.Bronze_IV.P28249번_Chili_Peppers;
 
 import java.io.BufferedReader;
 import java.io.IOException;

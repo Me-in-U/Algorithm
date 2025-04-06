@@ -1,4 +1,4 @@
-package P10203번_Count_Vowels;
+package BAEKJOON.Bronze.Bronze_II.P10203번_Count_Vowels;
 
 import java.io.BufferedReader;
 import java.io.IOException;

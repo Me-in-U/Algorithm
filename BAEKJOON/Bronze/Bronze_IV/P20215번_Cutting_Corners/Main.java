@@ -1,4 +1,4 @@
-package P20215번_Cutting_Corners;
+package BAEKJOON.Bronze.Bronze_IV.P20215번_Cutting_Corners;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P28135번_Since_1973;
+package BAEKJOON.Bronze.Bronze_III.P28135번_Since_1973;
 
 import java.io.BufferedReader;
 import java.io.IOException;

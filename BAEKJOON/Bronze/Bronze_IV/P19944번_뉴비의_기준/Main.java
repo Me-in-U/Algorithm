@@ -1,4 +1,4 @@
-package P19944번_뉴비의_기준;
+package BAEKJOON.Bronze.Bronze_IV.P19944번_뉴비의_기준;
 
 import java.io.BufferedReader;
 import java.io.IOException;

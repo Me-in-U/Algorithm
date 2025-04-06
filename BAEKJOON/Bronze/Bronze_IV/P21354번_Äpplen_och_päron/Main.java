@@ -1,4 +1,4 @@
-package P21354번_Äpplen_och_päron;
+package BAEKJOON.Bronze.Bronze_IV.P21354번_Äpplen_och_päron;
 
 import java.io.BufferedReader;
 import java.io.IOException;

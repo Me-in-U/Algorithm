@@ -1,4 +1,4 @@
-package P7569번_토마토;
+package BAEKJOON.Gold.Gold_V.P7569번_토마토;
 
 import java.io.BufferedReader;
 import java.io.IOException;

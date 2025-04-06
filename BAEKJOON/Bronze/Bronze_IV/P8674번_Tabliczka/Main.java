@@ -1,4 +1,4 @@
-package P8674번_Tabliczka;
+package BAEKJOON.Bronze.Bronze_IV.P8674번_Tabliczka;
 
 import java.io.BufferedReader;
 import java.io.IOException;

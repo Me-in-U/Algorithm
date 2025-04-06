@@ -1,4 +1,4 @@
-package P21612번_Boiling_Water;
+package BAEKJOON.Bronze.Bronze_IV.P21612번_Boiling_Water;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P31859번_SMUPC_NAME;
+package BAEKJOON.Bronze.Bronze_I.P31859번_SMUPC_NAME;
 
 import java.io.BufferedReader;
 import java.io.IOException;

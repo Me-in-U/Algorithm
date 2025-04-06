@@ -1,4 +1,4 @@
-package P25784번_Easy_to_Solve_Expressions;
+package BAEKJOON.Bronze.Bronze_IV.P25784번_Easy_to_Solve_Expressions;
 
 import java.io.BufferedReader;
 import java.io.IOException;

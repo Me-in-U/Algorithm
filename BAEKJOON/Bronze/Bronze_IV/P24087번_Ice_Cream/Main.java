@@ -1,4 +1,4 @@
-package P24087번_Ice_Cream;
+package BAEKJOON.Bronze.Bronze_IV.P24087번_Ice_Cream;
 
 import java.io.BufferedReader;
 import java.io.IOException;

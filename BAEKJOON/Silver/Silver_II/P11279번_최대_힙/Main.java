@@ -1,4 +1,4 @@
-package P11279번_최대_힙;
+package BAEKJOON.Silver.Silver_II.P11279번_최대_힙;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

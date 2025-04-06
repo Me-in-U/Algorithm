@@ -1,4 +1,4 @@
-package P32370번_Rook;
+package BAEKJOON.Bronze.Bronze_II.P32370번_Rook;
 
 import java.io.BufferedReader;
 import java.io.IOException;

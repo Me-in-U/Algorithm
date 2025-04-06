@@ -1,4 +1,4 @@
-package P1922번_네트워크_연결;
+package BAEKJOON.Gold.Gold_IV.P1922번_네트워크_연결;
 
 import java.io.BufferedReader;
 import java.io.IOException;

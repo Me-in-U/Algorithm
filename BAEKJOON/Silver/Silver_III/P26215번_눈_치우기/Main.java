@@ -1,4 +1,4 @@
-package P26215번_눈_치우기;
+package BAEKJOON.Silver.Silver_III.P26215번_눈_치우기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

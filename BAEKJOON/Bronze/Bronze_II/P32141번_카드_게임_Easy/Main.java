@@ -1,4 +1,4 @@
-package P32141번_카드_게임_Easy;
+package BAEKJOON.Bronze.Bronze_II.P32141번_카드_게임_Easy;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P9251번_LCS;
+package BAEKJOON.Gold.Gold_V.P9251번_LCS;
 
 import java.io.BufferedReader;
 import java.io.IOException;

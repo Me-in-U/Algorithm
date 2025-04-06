@@ -1,4 +1,4 @@
-package P11292번_키_큰_사람;
+package BAEKJOON.Silver.Silver_V.P11292번_키_큰_사람;
 
 import java.io.BufferedReader;
 import java.io.IOException;

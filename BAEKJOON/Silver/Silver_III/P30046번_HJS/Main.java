@@ -1,4 +1,4 @@
-package P30046번_HJS;
+package BAEKJOON.Silver.Silver_III.P30046번_HJS;
 
 import java.io.BufferedReader;
 import java.io.IOException;

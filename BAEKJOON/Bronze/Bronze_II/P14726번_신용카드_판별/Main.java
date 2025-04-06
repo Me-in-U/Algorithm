@@ -1,4 +1,4 @@
-package P14726번_신용카드_판별;
+package BAEKJOON.Bronze.Bronze_II.P14726번_신용카드_판별;
 
 import java.io.BufferedReader;
 import java.io.IOException;

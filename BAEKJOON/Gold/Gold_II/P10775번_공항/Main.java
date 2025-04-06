@@ -1,4 +1,4 @@
-package P10775번_공항;
+package BAEKJOON.Gold.Gold_II.P10775번_공항;
 
 import java.io.IOException;
 

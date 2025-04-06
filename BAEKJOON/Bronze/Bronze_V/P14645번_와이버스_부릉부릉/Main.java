@@ -1,4 +1,4 @@
-package P14645번_와이버스_부릉부릉;
+package BAEKJOON.Bronze.Bronze_V.P14645번_와이버스_부릉부릉;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

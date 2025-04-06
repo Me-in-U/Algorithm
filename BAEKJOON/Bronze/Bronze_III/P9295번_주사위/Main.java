@@ -1,4 +1,4 @@
-package P9295번_주사위;
+package BAEKJOON.Bronze.Bronze_III.P9295번_주사위;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P1929번_소수구하기;
+package BAEKJOON.Silver.Silver_III.P1929번_소수구하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

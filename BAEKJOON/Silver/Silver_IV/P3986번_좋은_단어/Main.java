@@ -1,4 +1,4 @@
-package P3986번_좋은_단어;
+package BAEKJOON.Silver.Silver_IV.P3986번_좋은_단어;
 
 import java.io.BufferedReader;
 import java.io.IOException;

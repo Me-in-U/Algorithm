@@ -1,4 +1,4 @@
-package P4592번_중복을_없애자;
+package BAEKJOON.Bronze.Bronze_II.P4592번_중복을_없애자;
 
 import java.io.BufferedReader;
 import java.io.IOException;

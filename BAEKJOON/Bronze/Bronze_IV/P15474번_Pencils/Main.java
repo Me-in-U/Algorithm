@@ -1,4 +1,4 @@
-package P15474번_Pencils;
+package BAEKJOON.Bronze.Bronze_IV.P15474번_Pencils;
 
 import java.io.BufferedReader;
 import java.io.IOException;

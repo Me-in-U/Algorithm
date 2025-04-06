@@ -1,4 +1,4 @@
-package P4470번_줄번호;
+package BAEKJOON.Bronze.Bronze_IV.P4470번_줄번호;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package P10952번_A더하기B_5;
+package BAEKJOON.Bronze.Bronze_V.P10952번_A더하기B_5;
 
 import java.util.Scanner;
     

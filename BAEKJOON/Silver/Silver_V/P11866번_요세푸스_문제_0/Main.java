@@ -1,4 +1,4 @@
-package P11866번_요세푸스_문제_0;
+package BAEKJOON.Silver.Silver_V.P11866번_요세푸스_문제_0;
 
 import java.io.IOException;
 

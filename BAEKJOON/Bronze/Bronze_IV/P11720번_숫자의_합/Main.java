@@ -1,4 +1,4 @@
-package P11720번_숫자의_합;
+package BAEKJOON.Bronze.Bronze_IV.P11720번_숫자의_합;
 
 import java.util.Scanner;
     

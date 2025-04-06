@@ -1,4 +1,4 @@
-package P1568번_새;
+package BAEKJOON.Bronze.Bronze_II.P1568번_새;
 
 import java.io.BufferedReader;
 import java.io.IOException;

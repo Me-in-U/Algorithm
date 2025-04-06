@@ -1,4 +1,4 @@
-package P14502번_연구소;
+package BAEKJOON.Gold.Gold_IV.P14502번_연구소;
 
 /**
  * <h1>BAEKJOON 14502번 연구소</h1>

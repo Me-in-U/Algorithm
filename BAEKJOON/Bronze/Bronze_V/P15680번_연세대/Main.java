@@ -1,4 +1,4 @@
-package P15680번_연세대;
+package BAEKJOON.Bronze.Bronze_V.P15680번_연세대;
 
 import java.io.BufferedReader;
 import java.io.IOException;
