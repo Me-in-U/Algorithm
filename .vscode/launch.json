@@ -8,6 +8,41 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "BAEKJOON.Platinum.Platinum_IV.P10999번_구간_합_구하기_2.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main2",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Gold.Gold_III.P1941번_소문난_칠공주.Main2",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Gold.Gold_III.P1941번_소문난_칠공주.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Gold.Gold_IV.P3055번_탈출.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Gold.Gold_I.P11505번_구간_곱_구하기.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "SWEA.P5644번_무선_충전.Main",
 			"projectName": "Algorithm_bbd0062a"
 		},

@@ -1,9 +1,18 @@
 package BAEKJOON.Gold.Gold_IV.P3055번_탈출;
 
+/**
+ * <h1>BAEKJOON 3055번 탈출</h1>
+ * <p>
+ * JAVA11 : 메모리 14,212KB, 시간 108ms
+ * </p>
+ * 
+ * @author KIM MINGYU jun3021303@gmail.com
+ * @since 2025-04-07
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.StringTokenizer;
 import java.util.Deque;
 import java.util.ArrayDeque;
 
@@ -19,85 +28,86 @@ public class Main {
     }
 
     private static boolean reached = false;
-    private static boolean unable = false;
     private static boolean[][] visited;
     private static char[][] map;
     private static Deque<Position> hedgehog;
     private static Deque<Position> water;
     private static int[] dx = { -1, 1, 0, 0 };
     private static int[] dy = { 0, 0, -1, 1 };
+    private static int R, C;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
-        int R = Integer.parseInt(st.nextToken());
-        int C = Integer.parseInt(st.nextToken());
+        String[] input = br.readLine().split(" ");
+        R = Integer.parseInt(input[0]);
+        C = Integer.parseInt(input[1]);
         map = new char[R][C];
         visited = new boolean[R][C];
         hedgehog = new ArrayDeque<>();
         water = new ArrayDeque<>();
         for (int i = 0; i < R; i++) {
-            String line = br.readLine();
+            String inputString = br.readLine();
             for (int j = 0; j < C; j++) {
-                char c = line.charAt(j);
-                map[i][j] = c;
-                if (c == 'S') {
+                map[i][j] = inputString.charAt(j);
+                // 고슴도치의 위치 방문처리
+                if (map[i][j] == 'S') {
                     hedgehog.add(new Position(i, j));
                     visited[i][j] = true;
-                    map[i][j] = '.';
-                } else if (c == '*') {
+                } // 물이 차있는 지역 방문처리
+                else if (map[i][j] == '*') {
                     water.add(new Position(i, j));
+                    visited[i][j] = true;
+                } // 돌 위치 방문처리
+                else if (map[i][j] == 'X') {
+                    visited[i][j] = true;
                 }
             }
         }
         int time = 0;
         while (!reached) {
-            BFS();
-            if (unable)
+            if (!BFS())
                 break;
             time++;
         }
         System.out.println(reached ? time : "KAKTUS");
     }
 
-    private static void BFS() {
-        Deque<Position> temp1 = new ArrayDeque<>();
+    private static boolean BFS() {
+        Deque<Position> temp = new ArrayDeque<>();
         while (!water.isEmpty()) {
             Position pos = water.poll();
             for (int i = 0; i < 4; i++) {
                 int x = pos.x + dx[i];
                 int y = pos.y + dy[i];
-                if (x >= 0 && x < map.length && y >= 0 && y < map[0].length) {
-                    if (map[x][y] == '.' && map[x][y] != 'X' && map[x][y] != 'D') {
-                        map[x][y] = '*';
-                        temp1.add(new Position(x, y));
+                if (0 <= x && x < R && 0 <= y && y < C) {
+                    // 방문한적이 아닌 곳 && 비버굴이 아니면
+                    if (!visited[x][y] && map[x][y] != 'D') {
+                        visited[x][y] = true;
+                        temp.add(new Position(x, y));
                     }
                 }
             }
         }
-        water = temp1;
-
-        Deque<Position> temp2 = new ArrayDeque<>();
+        water.addAll(temp);
+        temp.clear();
         while (!hedgehog.isEmpty()) {
             Position pos = hedgehog.poll();
             for (int i = 0; i < 4; i++) {
                 int x = pos.x + dx[i];
                 int y = pos.y + dy[i];
-                if (x >= 0 && x < map.length && y >= 0 && y < map[0].length) {
-                    if (map[x][y] == '.' && map[x][y] != '*' && map[x][y] != 'X' && !visited[x][y]) {
-                        visited[x][y] = true;
-                        temp2.add(new Position(x, y));
-                    } else if (map[x][y] == 'D') {
+                if (0 <= x && x < R && 0 <= y && y < C) {
+                    // 비버의 굴 도착
+                    if (map[x][y] == 'D') {
                         reached = true;
-                        return;
+                        return true;
+                    } // 이전 방문한적 없는 곳
+                    else if (!visited[x][y]) {
+                        visited[x][y] = true;
+                        temp.add(new Position(x, y));
                     }
                 }
             }
         }
-        if (temp2.isEmpty()) {
-            unable = true;
-            return;
-        }
-        hedgehog = temp2;
+        return hedgehog.addAll(temp);
     }
 }
