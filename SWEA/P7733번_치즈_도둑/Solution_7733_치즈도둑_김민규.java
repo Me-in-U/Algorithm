@@ -1,4 +1,4 @@
-package SWEA.P7733_치즈_도둑;
+package SWEA.P7733번_치즈_도둑;
 
 import java.io.IOException;
 import java.util.ArrayDeque;

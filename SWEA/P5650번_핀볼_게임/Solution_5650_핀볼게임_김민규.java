@@ -1,12 +1,26 @@
-package SWEA.P5650_핀볼_게임;
+package SWEA.P5650번_핀볼_게임;
+
+/**
+ * <h1>SW Expert Academy 5650번 핀볼 게임</h1>
+ * <p>
+ * JAVA 8 : 메모리 28,584 KB, 시간 571ms <br>
+ * </p>
+ * 
+ * @author KIM MINGYU jun3021303@gmail.com
+ * @since 2025-02-12
+ */
 
 import java.io.IOException;
 
-public class Solution {
+public class Solution_5650_핀볼게임_김민규 {
     // 좌표 클래스
     public static class Position {
         int x;
         int y;
+
+        // 상(0),하(1),좌(2),우(3)
+        static final int[] dx = { -1, 1, 0, 0 };
+        static final int[] dy = { 0, 0, -1, 1 };
 
         Position(int x, int y) {
             this.x = x;
@@ -36,8 +50,8 @@ public class Solution {
         Position wormhole2;
 
         /**
-         * wormhole1, wormhole2 중에 생성되지 않은
-         * Position에 @param x @param y 위치로 Position 객체 생성
+         * wormhole1, wormhole2 중에 생성되지 않은 Position에 @param x @param y 위치로 Position 객체
+         * 생성
          */
         public void setPos(int x, int y) {
             if (wormhole1 == null) {
@@ -62,23 +76,16 @@ public class Solution {
     }
 
     private static final Wormhole[] wormholes = new Wormhole[11];
-    // 상(0),하(1),좌(2),우(3)
-    private static final int[] dx = { -1, 1, 0, 0 };
-    private static final int[] dy = { 0, 0, -1, 1 };
+    // 최대 크기 지도
     private static final int[][] map = new int[102][102];
     // afterCollideBlock[블록 번호][현재 방향] -> 블럭과 충돌 후 변경될 방향
-    private static final int[][] afterCollideBlock = { null,
-            { 1, 3, 0, 2 },
-            { 3, 0, 1, 2 },
-            { 2, 0, 3, 1 },
-            { 1, 2, 3, 0 },
-            { 1, 0, 3, 2 }
-    };
+    private static final int[][] afterCollideBlock = { null, { 1, 3, 0, 2 }, { 3, 0, 1, 2 }, { 2, 0, 3, 1 },
+            { 1, 2, 3, 0 }, { 1, 0, 3, 2 } };
 
     public static void main(String[] args) throws IOException {
         StringBuilder sb = new StringBuilder();
         // 맵 일부 초기화
-        // 벽 대신 사각 블록(5번)으로 ┌ (좌, 상)
+        // 벽 대신 사각 블록(5번)으로 ┌ (좌, 상) 기본값
         for (int i = 0; i < 102; i++) {
             map[i][0] = 5;
             map[0][i] = 5;
@@ -92,6 +99,7 @@ public class Solution {
             // 변수 초기화 및 맵 입력
             int maxScore = 0;
             int N = readInt();
+            // 웜홀 번호는 6~10번
             for (int h = 6; h <= 10; h++) {
                 wormholes[h].clear();
             }
@@ -99,12 +107,13 @@ public class Solution {
                 for (int y = 1; y <= N; y++) {
                     int blockNum = readInt();
                     map[x][y] = blockNum;
+                    // 웜홀 생성
                     if (6 <= blockNum) {
                         wormholes[blockNum].setPos(x, y);
                     }
                 }
             }
-            // 벽 대신 사각 블록(5번)으로 ┘(하, 우)
+            // 벽 대신 사각 블록(5번)으로 ┘(하, 우): Test Case N 마다 바뀜
             for (int i = 0; i <= N + 1; i++) {
                 map[i][N + 1] = 5;
                 map[N + 1][i] = 5;
@@ -123,7 +132,7 @@ public class Solution {
                     }
                 }
             }
-            // 스트링빌더
+            // 결과 append
             sb.append('#').append(t).append(' ').append(maxScore).append('\n');
         }
         // 진짜 출력
@@ -132,7 +141,7 @@ public class Solution {
 
     /**
      * @param startX , @param startY 에서 시작해서 @param dir 방향으로 탐색 시작
-     * @return score 부딪힌 횟수
+     * @return int score: 부딪힌 횟수
      */
     public static int search(int startX, int startY, int dir) {
         int score = 0;

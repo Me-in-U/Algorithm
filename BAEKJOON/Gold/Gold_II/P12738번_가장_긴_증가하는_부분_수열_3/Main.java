@@ -1,9 +1,7 @@
-package BAEKJOON.Platinum.Platinum_V.P14003번_가장_긴_증가하는_부분_수열_5;
+package BAEKJOON.Gold.Gold_II.P12738번_가장_긴_증가하는_부분_수열_3;
 
 import java.io.IOException;
-import java.util.ArrayDeque;
 import java.util.Arrays;
-import java.util.Deque;
 
 public class Main {
     public static void main(String[] args) throws IOException {
@@ -12,39 +10,24 @@ public class Main {
         for (int i = 0; i < N; i++)
             seq[i] = readInt();
         int[] LIS = new int[N + 1];
-        int[] dp = new int[N];
-        LIS[0] = Integer.MIN_VALUE;
+        LIS[0] = -1_000_000_001;
         int len = 0;
         for (int i = 0; i < N; i++) {
             int key = seq[i];
             if (LIS[len] < key) {
                 LIS[++len] = key;
-                dp[i] = len;
             } else {
                 int index = Arrays.binarySearch(LIS, 0, len + 1, key);
                 if (index < 0) {
                     index = -(index + 1);
                 }
                 LIS[index] = key;
-                dp[i] = index;
                 if (index > len) {
                     len = index;
                 }
             }
         }
-        StringBuilder sb = new StringBuilder();
-        sb.append(len).append("\n");
-        Deque<Integer> dq = new ArrayDeque<>();
-        for (int i = N - 1; i >= 0; i--) {
-            if (dp[i] == len) {
-                dq.addFirst(seq[i]);
-                len--;
-            }
-        }
-        while (!dq.isEmpty()) {
-            sb.append(dq.removeFirst()).append(" ");
-        }
-        System.out.println(sb.toString());
+        System.out.print(len);
     }
 
     private static int readInt() throws IOException {

@@ -1,4 +1,4 @@
-package SWEA.P14510_나무_높이;
+package SWEA.P14510번_나무_높이;
 
 import java.io.IOException;
 

@@ -1,11 +1,10 @@
-package SWEA.P2001_파리퇴치;
+package SWEA.P2001번_파리퇴치;
 
 /**
- * SW Expert Academy
- * 2001번 파리 퇴치 D2
+ * SW Expert Academy 2001번 파리 퇴치 D2
+ * 
  * @author KIM MINGYU jun3021303@gmail.com
- * @since 2025-02-21
- * JAVA8 : 메모리 24,960 KB, 시간 83ms
+ * @since 2025-02-21 JAVA8 : 메모리 24,960 KB, 시간 83ms
  */
 
 import java.io.IOException;
