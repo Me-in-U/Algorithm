@@ -6,6 +6,83 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "MainList2",
+			"request": "launch",
+			"mainClass": "SWEA.P5656번_벽돌_깨기.MainList2",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "MainList",
+			"request": "launch",
+			"mainClass": "SWEA.P5656번_벽돌_깨기.MainList",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "MainArray",
+			"request": "launch",
+			"mainClass": "SWEA.P5656번_벽돌_깨기.MainArray",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "SWEA.P5656번_벽돌_깨기.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Unrated.P2556번_별_찍기_14.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Solution_4014_활주로건설_김민규",
+			"request": "launch",
+			"mainClass": "SWEA.P4014번_활주로_건설.Solution_4014_활주로건설_김민규",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "SWEA.P4014번_활주로_건설.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Gold.Gold_IV.P11657번_타임머신.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Bronze.Bronze_III.P33541번_2025는_무엇이_특별할까.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Bronze.Bronze_III.P30032번_알파벳_뒤집기.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Bronze.Bronze_III.P14579번_덧셈과_곱셈.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
 			"name": "Solution_5650_핀볼게임_김민규",
 			"request": "launch",
 			"mainClass": "SWEA.P5650번_핀볼_게임.Solution_5650_핀볼게임_김민규",
