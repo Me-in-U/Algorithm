@@ -6,6 +6,13 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Bronze.Bronze_II.P2495번_연속구간.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
 			"name": "MainList2",
 			"request": "launch",
 			"mainClass": "SWEA.P5656번_벽돌_깨기.MainList2",
