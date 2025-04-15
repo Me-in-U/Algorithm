@@ -8,6 +8,41 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "SWEA.P5653번_줄기세포배양.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Silver.Silver_III.P1929번_소수구하기.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Gold.Gold_I.P11401번_이항_계수_3.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "BitwiseBenchmark",
+			"request": "launch",
+			"mainClass": "BitwiseBenchmark",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Gold.Gold_IV.P1322번_X와_K.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "BAEKJOON.Bronze.Bronze_II.P2495번_연속구간.Main",
 			"projectName": "Algorithm_bbd0062a"
 		},
