@@ -28,7 +28,6 @@ public class Main {
                 l++;
             }
         }
-        System.out.println(
-                new StringBuilder().append(input[minL]).append(' ').append(input[minR]).toString());
+        System.out.println(new StringBuilder().append(input[minL]).append(' ').append(input[minR]).toString());
     }
 }

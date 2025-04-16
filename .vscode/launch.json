@@ -8,6 +8,20 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "BAEKJOON.Gold.Gold_III.P14658번_하늘에서_별똥별이_빗발친다.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Solution_5673_줄기세포배양_김민규",
+			"request": "launch",
+			"mainClass": "SWEA.P5653번_줄기세포배양.Solution_5673_줄기세포배양_김민규",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "SWEA.P5653번_줄기세포배양.Main",
 			"projectName": "Algorithm_6ffe8c34"
 		},
