@@ -8,6 +8,20 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "BAEKJOON.Platinum.Platinum_V.P2568번_전깃줄_2.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Gold.Gold_III.P2533번_사회망_서비스_SNS.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "BAEKJOON.Bronze.Bronze_I.P20112번_사토르_마방진.Main",
 			"projectName": "Algorithm_6ffe8c34"
 		},

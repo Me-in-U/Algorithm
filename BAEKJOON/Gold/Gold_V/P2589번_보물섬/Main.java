@@ -1,9 +1,7 @@
 package BAEKJOON.Gold.Gold_V.P2589번_보물섬;
 
 import java.io.IOException;
-import java.lang.reflect.Array;
 import java.util.ArrayDeque;
-import java.util.Arrays;
 import java.util.Deque;
 
 public class Main {
