@@ -2,89 +2,76 @@ package BAEKJOON.Gold.Gold_V.P2589번_보물섬;
 
 import java.io.IOException;
 import java.util.ArrayDeque;
+import java.util.ArrayList;
 import java.util.Deque;
+import java.util.List;
 
 public class Main {
-    private static int N, M;
+    private static int N, M, bfsCount = 1;
     private static boolean[][] isLand;
-    private static boolean[][] visited;
+    private static int[][] visited;
     private static int[] dx = { -1, 0, 1, 0 };
     private static int[] dy = { 0, -1, 0, 1 };
-
-    private static class Pos {
-        int x, y;
-
-        public Pos(int x, int y) {
-            this.x = x;
-            this.y = y;
-        }
-    }
-
-    private static class Data {
-        Pos pos;
-        int dist;
-
-        public Data(int x, int y, int dist) {
-            this.pos = new Pos(x, y);
-            this.dist = dist;
-        }
-    }
 
     public static void main(String[] args) throws IOException {
         N = readInt();
         M = readInt();
         isLand = new boolean[N][M];
-        visited = new boolean[N][M];
         for (int x = 0; x < N; x++) {
             for (int y = 0; y < M; y++) {
                 isLand[x][y] = System.in.read() == 'L';
             }
-            System.in.read();
+            // System.in.read();
             System.in.read();
         }
 
-        Data bestFarthestPos = null;
+        visited = new int[N][M];
+        List<int[]> starts = new ArrayList<>();
         for (int x = 0; x < N; x++) {
             for (int y = 0; y < M; y++) {
-                if (isLand[x][y] && !visited[x][y]) {
-                    Data farthestPos = bfs(x, y, new boolean[N][M]);
-                    Data farthestPosOfFarthestPos = bfs(farthestPos.pos.x, farthestPos.pos.y, new boolean[N][M]);
-                    if (bestFarthestPos == null || bestFarthestPos.dist < farthestPosOfFarthestPos.dist) {
-                        bestFarthestPos = farthestPosOfFarthestPos;
+                if (!isLand[x][y])
+                    continue;
+                for (int k = 0; k < 4; k++) {
+                    int nx = x + dx[k];
+                    int ny = y + dy[k];
+                    if (nx < 0 || nx >= N || ny < 0 || ny >= M || !isLand[nx][ny]) {
+                        starts.add(new int[] { x, y });
+                        break;
                     }
                 }
             }
         }
-        System.out.println(bestFarthestPos.dist);
+
+        int answer = 0;
+
+        for (int[] st : starts) {
+            answer = Math.max(answer, bfs(st[0], st[1]));
+            bfsCount++;
+        }
+        System.out.println(answer);
     }
 
-    private static Data bfs(int x, int y, boolean[][] localVisited) {
-        Deque<Data> dq = new ArrayDeque<>();
-        int maxDist = 0;
-        Data farthestPos = new Data(x, y, 0);
-        dq.add(farthestPos);
-        localVisited[x][y] = true;
-        visited[x][y] = true;
-        while (!dq.isEmpty()) {
-            Data data = dq.pollFirst();
-            int cx = data.pos.x;
-            int cy = data.pos.y;
-            int dist = data.dist;
-            if (dist > maxDist) {
-                maxDist = dist;
-                farthestPos = data;
-            }
-            for (int i = 0; i < 4; i++) {
-                int nx = cx + dx[i];
-                int ny = cy + dy[i];
-                if (nx < 0 || nx >= N || ny < 0 || ny >= M || localVisited[nx][ny] || !isLand[nx][ny])
+    private static int bfs(int cx, int cy) {
+        Deque<int[]> q = new ArrayDeque<>();
+        q.add(new int[] { cx, cy, 0 });
+        visited[cx][cy] = bfsCount;
+        int maxDistance = 0;
+        while (!q.isEmpty()) {
+            int[] cur = q.pollFirst();
+            int x = cur[0], y = cur[1], d = cur[2];
+            maxDistance = Math.max(maxDistance, d);
+            for (int k = 0; k < 4; k++) {
+                int nx = x + dx[k];
+                int ny = y + dy[k];
+                if (nx < 0 || nx >= N || ny < 0 || ny >= M)
                     continue;
-                localVisited[nx][ny] = true;
-                visited[nx][ny] = true;
-                dq.add(new Data(nx, ny, dist + 1));
+                if (visited[nx][ny] == bfsCount || !isLand[nx][ny])
+                    continue;
+                visited[nx][ny] = bfsCount;
+                q.add(new int[] { nx, ny, d + 1 });
             }
         }
-        return farthestPos;
+        return maxDistance;
     }
 
     private static int readInt() throws IOException {
