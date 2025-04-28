@@ -8,6 +8,20 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "BAEKJOON.Gold.Gold_V.P2866번_문자열_잘라내기.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Bronze.Bronze_III.P20944번_팰린드롬_척화비.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "BAEKJOON.Platinum.Platinum_V.P2568번_전깃줄_2.Main",
 			"projectName": "Algorithm_6ffe8c34"
 		},
