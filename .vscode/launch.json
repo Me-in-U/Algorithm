@@ -8,6 +8,27 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "BAEKJOON.Gold.Gold_III.P14725번_개미굴.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Gold.Gold_IV.P5052번_전화번호_목록.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Gold.Gold_III.P22860번_폴더_정리.Main",
+			"projectName": "Algorithm_6ffe8c34"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "BAEKJOON.Gold.Gold_V.P2866번_문자열_잘라내기.Main",
 			"projectName": "Algorithm_6ffe8c34"
 		},

@@ -1,52 +1,50 @@
 package BAEKJOON.Gold.Gold_III.P14725번_개미굴;
 
+/**
+ * <h1>BAEKJOON 14725번 개미굴</h1>
+ * <p>
+ * JAVA11 : 메모리 15972KB, 시간 128ms
+ * </p>
+ * 
+ * @author KIM MINGYU jun3021303@gmail.com
+ * @since 2025-04-29
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashMap;
+import java.util.Map;
+import java.util.TreeMap;
 
 public class Main {
-    protected static class Node {
-        HashMap<String, Node> nodes;
+    private static class Node {
+        TreeMap<String, Node> nodes = new TreeMap<>();
 
-        public Node() {
-            this.nodes = new HashMap<>();
-        }
-
-        public void insert(String[] input, int index) {
-            if (index < input.length) {
-                if (!this.nodes.containsKey(input[index])) {
-                    this.nodes.put(input[index], new Node());
-                }
-                this.nodes.get(input[index]).insert(input, index + 1);
+        public void insert(String[] word, int index) {
+            if (index < word.length) {
+                nodes.computeIfAbsent(word[index], k -> new Node()).insert(word, index + 1);
             }
         }
 
-        public void print(StringBuilder dash) {
-            ArrayList<String> words = new ArrayList<>(this.nodes.keySet());
-            Collections.sort(words);
-            for (String word : words) {
-                sb.append(dash).append(word).append("\n");
-                dash.append("--");
-                this.nodes.get(word).print(new StringBuilder(dash));
-                dash.delete(0, 2);
+        public void print(int depth) {
+            for (Map.Entry<String, Node> e : nodes.entrySet()) {
+                sb.append("--".repeat(depth)).append(e.getKey()).append("\n");
+                e.getValue().print(depth + 1);
             }
         }
     }
 
-    protected static StringBuilder sb = new StringBuilder();
+    private static StringBuilder sb = new StringBuilder();
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
         Node root = new Node();
         while (N-- > 0) {
-            String[] input = br.readLine().split(" ");
-            root.insert(input, 1);
+            String[] parts = br.readLine().split(" ");
+            root.insert(parts, 1);
         }
-        root.print(new StringBuilder());
-        System.out.println(sb.toString().trim());
+        root.print(0);
+        System.out.print(sb.toString());
     }
 }
