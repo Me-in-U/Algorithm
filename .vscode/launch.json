@@ -8,6 +8,13 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "BAEKJOON.Bronze.Bronze_II.P23738번_Ресторан.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "BAEKJOON.Gold.Gold_IV.P2179번_비슷한_단어.Main",
 			"projectName": "Algorithm_bbd0062a"
 		},
