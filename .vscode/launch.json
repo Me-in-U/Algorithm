@@ -8,6 +8,13 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "BAEKJOON.Bronze.Bronze_III.P5612번_터널의_입구와_출구.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "BAEKJOON.Bronze.Bronze_II.P23738번_Ресторан.Main",
 			"projectName": "Algorithm_bbd0062a"
 		},
