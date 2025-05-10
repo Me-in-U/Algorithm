@@ -8,6 +8,13 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "BAEKJOON.Bronze.Bronze_II.P5698번_Tautogram.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "BAEKJOON.Gold.Gold_III.P15919번_사자는_여행왕이야.Main",
 			"projectName": "Algorithm_6ffe8c34"
 		},
