@@ -8,6 +8,13 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "BAEKJOON.Bronze.Bronze_IV.P27222번_Штангист.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "AA.Main",
 			"projectName": "Algorithm_bbd0062a"
 		},
