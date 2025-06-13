@@ -1,18 +1,24 @@
 package BAEKJOON.Bronze.Bronze_IV.P28960번_Плащ_левитации;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
 
 public class Main {
   public static void main(String[] args) throws IOException {
-    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    StringTokenizer st = new StringTokenizer(br.readLine());
-    int h = Integer.parseInt(st.nextToken());
-    int l = Integer.parseInt(st.nextToken());
-    int a = Integer.parseInt(st.nextToken());
-    int b = Integer.parseInt(st.nextToken());
-    System.out.println((a <= h && b <= l) || (a <= l && b <= h) ? "YES" : "NO");
+    int h = readInt();
+    int l = readInt();
+    int a = readInt();
+    int b = readInt();
+    System.out.println((((a <= l) && (b <= 2 * h)) || ((b <= l) && (a <= 2 * h))) ? "YES" : "NO");
+  }
+
+  private static int readInt() throws IOException {
+    int c = System.in.read(), n = 0;
+    while (c <= ' ')
+      c = System.in.read();
+    while ('0' <= c && c <= '9') {
+      n = (n * 10) + (c & 15);
+      c = System.in.read();
+    }
+    return n;
   }
 }
