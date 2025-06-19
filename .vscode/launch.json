@@ -8,6 +8,20 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "BAEKJOON.Gold.Gold_III.P2812번_크게_만들기.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "BAEKJOON.Gold.Gold_IV.P21939번_문제_추천_시스템_Version_1.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "BAEKJOON.Gold.Gold_IV.P16562번_친구비.Main",
 			"projectName": "Algorithm_bbd0062a"
 		},
