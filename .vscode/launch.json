@@ -8,6 +8,27 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "dd.nm.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "dd.quiz.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "dd.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "BAEKJOON.Gold.Gold_III.P2812번_크게_만들기.Main",
 			"projectName": "Algorithm_bbd0062a"
 		},
