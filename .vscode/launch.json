@@ -8,6 +8,27 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "SWEA.P파핑파핑_지뢰찾기.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "SWEA.P중간값_구하기.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "SWEA.P고속도로_건설_2.Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "dd.nm.Main",
 			"projectName": "Algorithm_bbd0062a"
 		},
