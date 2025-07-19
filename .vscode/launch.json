@@ -8,6 +8,13 @@
 			"type": "java",
 			"name": "Main",
 			"request": "launch",
+			"mainClass": "Main",
+			"projectName": "Algorithm_bbd0062a"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
 			"mainClass": "BAEKJOON.Gold.Gold_IV.P1464번_뒤집기_3.Main",
 			"projectName": "Algorithm_bbd0062a"
 		},
